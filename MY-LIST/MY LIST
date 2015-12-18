@@ -661,3 +661,101 @@
 </regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/cth_zpst7aatqjy.png</thumbnail>
 </item>
+
+<item>
+<title>Sky Sports 1 HD</title>
+<link>http://portal.rapidiptv.com:8080/live/FQCSrUyO0e/Dm4dz0FcS1/7352.ts</link>
+<thumbnail>http://2.bp.blogspot.com/-CtEBaFZrOpo/T3467Jnh5PI/AAAAAAAAE3Q/VgnTQ0wAlu8/s1600/sky_sports1.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 1 HQ</title>
+<link>http://37.187.125.57:8000/live/skype@smail-boino/stream-2626.com/1025.ts</link>
+<thumbnail>http://2.bp.blogspot.com/-CtEBaFZrOpo/T3467Jnh5PI/AAAAAAAAE3Q/VgnTQ0wAlu8/s1600/sky_sports1.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 2 HD</title>
+<link>http://portal.rapidiptv.com:8080/live/FQCSrUyO0e/Dm4dz0FcS1/7354.ts</link>
+<thumbnail>http://www.sky.com/shop/export/sites/www.sky.com/shop/__EPG/EPGImages/SkySports2HD.png_329813623.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 2 HQ</title>
+<link>http://37.187.125.57:8000/live/skype@smail-boino/stream-2626.com/1024.ts</link>
+<thumbnail>http://www.sky.com/shop/export/sites/www.sky.com/shop/__EPG/EPGImages/SkySports2HD.png_329813623.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 3 HD</title>
+<link>http://portal.rapidiptv.com:8080/live/FQCSrUyO0e/Dm4dz0FcS1/7356.ts</link>
+<thumbnail>http://www.sky.com/shop/export/sites/www.sky.com/shop/__EPG/EPGImages/SkySports3HD.png_329813623.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 3 HQ</title>
+<link>http://37.187.125.57:8000/live/skype@smail-boino/stream-2626.com/1023.ts</link>
+<thumbnail>http://www.sky.com/shop/export/sites/www.sky.com/shop/__EPG/EPGImages/SkySports3HD.png_329813623.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 4 HD</title>
+<link>http://portal.rapidiptv.com:8080/live/FQCSrUyO0e/Dm4dz0FcS1/7358.ts</link>
+<thumbnail>http://st1.skybet.com/static/sportsbook/img/content/logos/channels/sky_sports4_hd.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 4 HQ</title>
+<link>http://37.187.125.57:8000/live/skype@smail-boino/stream-2626.com/1022.ts</link>
+<thumbnail>http://st1.skybet.com/static/sportsbook/img/content/logos/channels/sky_sports4_hd.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 5 HD</title>
+<link>http://portal.rapidiptv.com:8080/live/FQCSrUyO0e/Dm4dz0FcS1/7360.ts</link>
+<thumbnail>http://st1.skybet.com/static/sportsbook/img/tv/sky_sports_hd5.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 5 SD</title>
+<link>rtmp://89.248.174.38/live playpath=phuddhuss5 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=phuddhuss5&vw=620&vh=490</link>
+<thumbnail>http://st1.skybet.com/static/sportsbook/img/tv/sky_sports_hd5.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports F1 HD</title>
+<link>http://portal.rapidiptv.com:8080/live/FQCSrUyO0e/Dm4dz0FcS1/7364.ts</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Sky_Sports_F1_HD.svg/1280px-Sky_Sports_F1_HD.svg.png</thumbnail>
+</item>
+
+<item>
+<title>BT Sports 1 HQ</title>
+<link>http://portal.rapidiptv.com:8080/live/FQCSrUyO0e/Dm4dz0FcS1/7366.ts</link>
+<thumbnail>http://tipsmagicas.com/iptv/logos/BT-Sport%201.png</thumbnail>
+</item>
+
+<item>
+<title>BT Sports 2 HQ </title>
+<link>http://portal.rapidiptv.com:8080/live/FQCSrUyO0e/Dm4dz0FcS1/7368.ts</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/bt_sport_2.png</thumbnail>
+</item>
+
+<item>
+<title>BT Sports Europe</title>
+<link>http://portal.rapidiptv.com:8080/live/FQCSrUyO0e/Dm4dz0FcS1/7370.ts</link>
+<thumbnail>https://bt-sport-business-prod.s3.amazonaws.com/wp-content/themes/bt-sport-business/images/homepage/bt-sport-europe-logo.png</thumbnail>
+</item>
+
+<item>
+<title>Fox Sports 1 HD</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL522/PROFILE05.m3u8?-1332/1499-20150816T153535.ts</link>
+<thumbnail>http://vignette3.wikia.nocookie.net/logosfake/images/4/4a/Fox_Sports_1_HD.png/revision/latest?cb=20140415151108</thumbnail>
+</item>
+
+<item>
+<title>Fox Sports 2 HD[/COLOR][/B]</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL527/PROFILE05.m3u8?-1332/1499-20150816T153535.ts</link>
+<thumbnail>http://vignette2.wikia.nocookie.net/logosfake/images/1/17/Fox_Sports_2_HD.png/revision/latest?cb=20140415151132</thumbnail>
+</item>
+</items>
+</channel>
