@@ -531,19 +531,19 @@
 <items>
 
 <item>
-<title>AstroSuper Sport 1 HD</title>
+<title>Astro Supersport 1 HD</title>
 <link>http://portal.rapidiptv.com:8080/live/FQCSrUyO0e/Dm4dz0FcS1/8010.ts</link>
 <thumbnail>http://www.freeiptvlinks.com/wp-content/uploads/2015/05/Astro_SuperSport_logo.png</thumbnail>
 </item>
 
 <item>
-<title>AstroSuper Sport 2 HD</title>
+<title>Astro Supersport 2 HD</title>
 <link>http://portal.rapidiptv.com:8080/live/FQCSrUyO0e/Dm4dz0FcS1/8011.ts</link>
 <thumbnail>http://www.freeiptvlinks.com/wp-content/uploads/2015/05/Astro_SuperSport_logo.png</thumbnail>
 </item>
 
 <item>
-<title>AstroSuper Sport 3 HD</title>
+<title>Astro Supersport 3 HD</title>
 <link>http://portal.rapidiptv.com:8080/live/FQCSrUyO0e/Dm4dz0FcS1/8012.ts</link>
 <thumbnail>http://www.freeiptvlinks.com/wp-content/uploads/2015/05/Astro_SuperSport_logo.png</thumbnail>
 </item>
@@ -597,7 +597,7 @@
 </item>
 
 <item>
-<title>CTH STADIUM 1 (THAI)</title>
+<title>CTH STADIUM 1</title>
 <link>http:$doregex[url]</link>
 <regex>
 	<name>url</name>
@@ -615,19 +615,19 @@
 </item>
 
 <item>
-<title>CTH STADIUM 2 (THAI)</title>
+<title>CTH STADIUM 2</title>
 <link>http://wy6ysz1at.servep2p.com/send/sport2/chunks.m3u8?nimblesessionid=9848778</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/cth_zpst7aatqjy.png</thumbnail>
 </item>
 
 <item>
-<title>CTH STADIUM 3 (THAI)</title>
+<title>CTH STADIUM 3</title>
 <link>http://wy6ysz1at.servep2p.com/send/sport3/chunks.m3u8?nimblesessionid=9848537</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/cth_zpst7aatqjy.png</thumbnail>
 </item>
 
 <item>
-<title>CTH STADIUM 4 (THAI)</title>
+<title>CTH STADIUM 4</title>
 <link>http:$doregex[url]</link>
 <regex>
 	<name>url</name>
@@ -645,7 +645,7 @@
 </item>
 
 <item>
-<title>CTH STADIUM 5 (THAI)</title>
+<title>CTH STADIUM 5</title>
 <link>http:$doregex[url]</link>
 <regex>
 	<name>url</name>
