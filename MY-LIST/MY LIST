@@ -457,7 +457,7 @@
 </channel>
 
 <channel>
-<name>[COLOR=FFFFFF00]SPORT CHANNELS[/COLOR]</name>
+<name>[COLOR=FFFFFF00]SPORTS CHANNELS[/COLOR]</name>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/flag_world_zpsic7ttnuh.png</thumbnail>
 <fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsyx9pb7xu.png</fanart>
 <items>
@@ -474,14 +474,32 @@
 </item>
 
 <item>
+<title>BEIN SPORT 1</title>
+<link>http://180.250.29.22:80/jhos/beib1_5/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/beinsport_zpspzc4t6lb.png</thumbnail>
+</item>
+
+<item>
 <title>BEIN SPORT 2</title>
 <link>http://180.250.29.22:80/jhos/beib2_4/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/beinsport_zpspzc4t6lb.png</thumbnail>
 </item>
 
 <item>
+<title>BEIN SPORT 2 [2]</title>
+<link>http://180.250.29.22:80/jhos/beib2_5/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/beinsport_zpspzc4t6lb.png</thumbnail>
+</item>
+
+<item>
 <title>BEIN SPORT 3</title>
 <link>http://180.250.29.22:80/jhos/beib3_4/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/beinsport_zpspzc4t6lb.png</thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORT 3 [2]</title>
+<link>http://180.250.29.22:80/jhos/beib3_5/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/beinsport_zpspzc4t6lb.png</thumbnail>
 </item>
 
