@@ -448,10 +448,78 @@
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_tvedukasi_zpsffpsjove.png</thumbnail>
 </item>
 
+
 <item>
 <title>U CHANNEL</title>
 <link>http://edge.nim.mivo.tv/mp17pjqx1esapruf/uchannel_576p/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_uchannel_zpsvgykqd8s.png</thumbnail>
+</item>
+</items>
+</channel>
+
+<channel>
+<name>[COLOR=FFFFFF00]INDIA CHANNELS[/COLOR]</name>
+<thumbnail>http://img.freeflagicons.com/thumb/square_icon/india/india_640.png</thumbnail>
+<fanart>http://superboxkodi.x10host.com/Photo/fanart.png</fanart>
+
+<item>
+<title>Zee Cinema</title>
+<link>http://87.239.102.40:4022/udp/239.1.254.60:4000</link>
+<thumbnail>http://www.livetvant.com/wp-content/uploads/2012/04/Watch-Zee-Cinema-TV-Live-Online.jpeg</thumbnail>
+</item>
+
+<item>
+<title>Star Plus</title>
+<link>http://87.239.102.40:4022/udp/239.1.254.62:4000</link>
+<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/f/fc/StarPlus_2010.png/revision/latest?cb=20100619101409</thumbnail>
+</item>
+
+<item>
+<title>Star Gold</title>
+<link>http://87.239.102.40:4022/udp/239.1.254.63:4000</link>
+<thumbnail>http://tvimages.burrp.com/images/channels2/movies/stargold.png</thumbnail>
+</item>
+
+<item>
+<title>Zing</title>
+<link>http://87.239.102.40:4022/udp/239.1.254.64:4000</link>
+<thumbnail>http://excelcommunique.com/wp-content/uploads/easy_logo_slider/355778Zee_TV.png</thumbnail>
+</item>
+
+<item>
+<title>Zee TV</title>
+<link>http://87.239.102.40:4022/udp/239.1.254.65:4000</link>
+<thumbnail>http://excelcommunique.com/wp-content/uploads/easy_logo_slider/355778Zee_TV.png</thumbnail>
+</item>
+
+<item>
+<title>Zee Punjabi</title>
+<link>http://87.239.102.40:4022/udp/239.1.254.157:4000</link>
+<thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/6/69/Zee_Punjabi_2011.png/revision/latest?cb=20110926161850</thumbnail>
+</item>
+
+<item>
+<title>SONY SAB</title>
+<link>http://87.239.102.40:4022/udp/239.1.254.159:4000</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/SAB_TV.svg/871px-SAB_TV.svg.png</thumbnail>
+</item>
+
+<item>
+<title>SONY TV Asia</title>
+<link>http://http://87.239.102.40:4022/udp/239.1.254.160:4000</link>
+<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/8/8d/Sony_Entertainment_Television_Asia_2000.png/revision/latest?cb=20110927223801</thumbnail>
+</item>
+
+<item>
+<title>Bollywood Cinema</title>
+<link>http://stream01.yamgo.com/iPhone/HLS_TS/broadcast/bollywood_cinema_2-tablet.3gp.m3u8</link>
+<thumbnail>http://excelcommunique.com/wp-content/uploads/easy_logo_slider/355778Zee_TV.png</thumbnail>
+</item>
+
+<item>
+<title>Bollywood Movies</title>
+<link>http://astvstream1.tulix.tv/bollywood/mp4:bollywood/playlist.m3u8</link>
+<thumbnail>http://excelcommunique.com/wp-content/uploads/easy_logo_slider/355778Zee_TV.png</thumbnail>
 </item>
 </items>
 </channel>
