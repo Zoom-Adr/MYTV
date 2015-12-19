@@ -663,72 +663,6 @@
 </item>
 
 <item>
-<title>Sky Sports 1 HD</title>
-<link>http://portal.rapidiptv.com:8080/live/FQCSrUyO0e/Dm4dz0FcS1/7352.ts</link>
-<thumbnail>http://2.bp.blogspot.com/-CtEBaFZrOpo/T3467Jnh5PI/AAAAAAAAE3Q/VgnTQ0wAlu8/s1600/sky_sports1.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Sports 1 HQ</title>
-<link>http://37.187.125.57:8000/live/skype@smail-boino/stream-2626.com/1025.ts</link>
-<thumbnail>http://2.bp.blogspot.com/-CtEBaFZrOpo/T3467Jnh5PI/AAAAAAAAE3Q/VgnTQ0wAlu8/s1600/sky_sports1.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Sports 2 HD</title>
-<link>http://portal.rapidiptv.com:8080/live/FQCSrUyO0e/Dm4dz0FcS1/7354.ts</link>
-<thumbnail>http://www.sky.com/shop/export/sites/www.sky.com/shop/__EPG/EPGImages/SkySports2HD.png_329813623.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Sports 2 HQ</title>
-<link>http://37.187.125.57:8000/live/skype@smail-boino/stream-2626.com/1024.ts</link>
-<thumbnail>http://www.sky.com/shop/export/sites/www.sky.com/shop/__EPG/EPGImages/SkySports2HD.png_329813623.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Sports 3 HD</title>
-<link>http://portal.rapidiptv.com:8080/live/FQCSrUyO0e/Dm4dz0FcS1/7356.ts</link>
-<thumbnail>http://www.sky.com/shop/export/sites/www.sky.com/shop/__EPG/EPGImages/SkySports3HD.png_329813623.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Sports 3 HQ</title>
-<link>http://37.187.125.57:8000/live/skype@smail-boino/stream-2626.com/1023.ts</link>
-<thumbnail>http://www.sky.com/shop/export/sites/www.sky.com/shop/__EPG/EPGImages/SkySports3HD.png_329813623.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Sports 4 HD</title>
-<link>http://portal.rapidiptv.com:8080/live/FQCSrUyO0e/Dm4dz0FcS1/7358.ts</link>
-<thumbnail>http://st1.skybet.com/static/sportsbook/img/content/logos/channels/sky_sports4_hd.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Sports 4 HQ</title>
-<link>http://37.187.125.57:8000/live/skype@smail-boino/stream-2626.com/1022.ts</link>
-<thumbnail>http://st1.skybet.com/static/sportsbook/img/content/logos/channels/sky_sports4_hd.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Sports 5 HD</title>
-<link>http://portal.rapidiptv.com:8080/live/FQCSrUyO0e/Dm4dz0FcS1/7360.ts</link>
-<thumbnail>http://st1.skybet.com/static/sportsbook/img/tv/sky_sports_hd5.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Sports 5 SD</title>
-<link>rtmp://89.248.174.38/live playpath=phuddhuss5 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=phuddhuss5&vw=620&vh=490</link>
-<thumbnail>http://st1.skybet.com/static/sportsbook/img/tv/sky_sports_hd5.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Sports F1 HD</title>
-<link>http://portal.rapidiptv.com:8080/live/FQCSrUyO0e/Dm4dz0FcS1/7364.ts</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Sky_Sports_F1_HD.svg/1280px-Sky_Sports_F1_HD.svg.png</thumbnail>
-</item>
-
-<item>
 <title>BT Sports 1 HQ</title>
 <link>http://portal.rapidiptv.com:8080/live/FQCSrUyO0e/Dm4dz0FcS1/7366.ts</link>
 <thumbnail>http://tipsmagicas.com/iptv/logos/BT-Sport%201.png</thumbnail>
@@ -747,14 +681,113 @@
 </item>
 
 <item>
+<title>Sky Sports 1 HD</title>
+<link>http://portal.rapidiptv.com:8080/live/FQCSrUyO0e/Dm4dz0FcS1/7352.ts</link>
+<thumbnail>http://2.bp.blogspot.com/-CtEBaFZrOpo/T3467Jnh5PI/AAAAAAAAE3Q/VgnTQ0wAlu8/s1600/sky_sports1.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR lime]Sky sports 1[/COLOR]</title>
 <link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/skysp1.stream/playlist.m3u8?token=$doregex[tok]</link>
-<regex><name>tok</name><expres>token=(.*)</expres>
+<regex><name>tok</name>
+<expres>token=(.*)</expres>
 <page>http://iptvlatinototal.16mb.com/stalker.php?canal=skysp1.stream&amp;cm=2459&amp;pass=JWj95P8fa5F6w8sxOV4Eu4B</page></page>
 <referer>http://iptvlatinototal.16mb.com/</referer>
 <setcookie>programa=latinowebtv</setcookie>
 </regex>
 <thumbnail>http://2.bp.blogspot.com/-CtEBaFZrOpo/T3467Jnh5PI/AAAAAAAAE3Q/VgnTQ0wAlu8/s1600/sky_sports1.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 2 HD</title>
+<link>http://portal.rapidiptv.com:8080/live/FQCSrUyO0e/Dm4dz0FcS1/7354.ts</link>
+<thumbnail>http://www.sky.com/shop/export/sites/www.sky.com/shop/__EPG/EPGImages/SkySports2HD.png_329813623.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime]Sky sports 2[/COLOR]</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/skysp2.stream/playlist.m3u8?token=$doregex[tok]</link>
+<regex><name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://iptvlatinototal.16mb.com/stalker.php?canal=skysp2.stream&amp;cm=2461&amp;pass=JWj95P8fa5F6w8sxOV4Eu4B</page></page>
+<referer>http://iptvlatinototal.16mb.com/</referer>
+<setcookie>programa=latinowebtv</setcookie>
+</regex>
+<thumbnail>http://www.sky.com/shop/export/sites/www.sky.com/shop/__EPG/EPGImages/SkySports2HD.png_329813623.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 3 HD</title>
+<link>http://portal.rapidiptv.com:8080/live/FQCSrUyO0e/Dm4dz0FcS1/7356.ts</link>
+<thumbnail>http://www.sky.com/shop/export/sites/www.sky.com/shop/__EPG/EPGImages/SkySports3HD.png_329813623.png</thumbnail>
+</item>
+
+<item><title>[COLOR lime]Sky sports 3[/COLOR]</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/skysp3.stream/playlist.m3u8?token=$doregex[tok]</link>
+<regex><name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://iptvlatinototal.16mb.com/stalker.php?canal=skysp3.stream&amp;cm=2469&amp;pass=JWj95P8fa5F6w8sxOV4Eu4B</page></page>
+<referer>http://iptvlatinototal.16mb.com/</referer>
+<setcookie>programa=latinowebtv</setcookie>
+</regex>
+<thumbnail>http://www.sky.com/shop/export/sites/www.sky.com/shop/__EPG/EPGImages/SkySports3HD.png_329813623.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 4 HD</title>
+<link>http://portal.rapidiptv.com:8080/live/FQCSrUyO0e/Dm4dz0FcS1/7358.ts</link>
+<thumbnail>http://st1.skybet.com/static/sportsbook/img/content/logos/channels/sky_sports4_hd.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime]Sky sports 4[/COLOR]</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/skysp4.stream/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://iptvlatinototal.16mb.com/stalker.php?canal=skysp4.stream&amp;cm=2465&amp;pass=JWj95P8fa5F6w8sxOV4Eu4B</page></page>
+<referer>http://iptvlatinototal.16mb.com/</referer>
+<setcookie>programa=latinowebtv</setcookie>
+</regex>
+<thumbnail>http://st1.skybet.com/static/sportsbook/img/content/logos/channels/sky_sports4_hd.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 5 HD</title>
+<link>http://portal.rapidiptv.com:8080/live/FQCSrUyO0e/Dm4dz0FcS1/7360.ts</link>
+<thumbnail>http://st1.skybet.com/static/sportsbook/img/tv/sky_sports_hd5.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime]Sky sports 5[/COLOR]</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/skysp5.stream/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://iptvlatinototal.16mb.com/stalker.php?canal=skysp5.stream&amp;cm=2467&amp;pass=JWj95P8fa5F6w8sxOV4Eu4B</page></page>
+<referer>http://iptvlatinototal.16mb.com/</referer>
+<setcookie>programa=latinowebtv</setcookie>
+</regex>
+<thumbnail>http://st1.skybet.com/static/sportsbook/img/tv/sky_sports_hd5.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports F1 HD</title>
+<link>http://portal.rapidiptv.com:8080/live/FQCSrUyO0e/Dm4dz0FcS1/7364.ts</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Sky_Sports_F1_HD.svg/1280px-Sky_Sports_F1_HD.svg.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime]Sky sports F1[/COLOR]</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/skyspf1.stream/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://iptvlatinototal.16mb.com/stalker.php?canal=skyspf1.stream&amp;cm=2457&amp;pass=JWj95P8fa5F6w8sxOV4Eu4B</page></page>
+<referer>http://iptvlatinototal.16mb.com/</referer>
+<setcookie>programa=latinowebtv</setcookie>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Sky_Sports_F1_HD.svg/1280px-Sky_Sports_F1_HD.svg.png</thumbnail>
 </item>
 </items>
 </channel>
