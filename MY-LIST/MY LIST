@@ -794,14 +794,14 @@
 </channel>
 
 <channel>
-<name>[COLOR blue]TEST CHANNELS[/COLOR]</name>
+<name>[COLOR red]TEST CHANNELS[/COLOR]</name>
 <thumbnail>http://www.singteltv.com.sg/_channels/pic_ch102.jpg</thumbnail>
 <fanart>http://superboxkodi.x10host.com/Photo/fanart.png</fanart>
 
 <items>
 <item>
 <title>MIO 102</title>
-<link>http://superboxkodi.x10host.com/addons/miot.xml</link>
+<link>http://miotvapp.singtel.com/VideoServer/GetLiveLeafIndex.aspx/playlist.m3u8?token=C85737CB-E055-4F21-8898-E82A0DD4D1A0&l=5102&v=E&m=OTT&p=04</link>
 <thumbnail>http://www.singteltv.com.sg/_channels/pic_ch102.jpg</thumbnail>
 </item>
 </items>
