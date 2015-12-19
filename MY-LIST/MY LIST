@@ -793,13 +793,13 @@
 </items>
 </channel>
 
-<items>
+<channels>
 <channel>
-<name>[COLOR=FFFFFF00]TEST CHANNELS[/COLOR]</name>
+<name>[COLOR=FFFFFF00]TEST CHANNELS 1[/COLOR]</name>
 <thumbnail>http://www.singteltv.com.sg/_channels/pic_ch102.jpg</thumbnail>
 <fanart>http://superboxkodi.x10host.com/Photo/fanart.png</fanart>
-<externallink>http://superboxkodi.x10host.com/addons/miot.xml</externallink>
 
+<items>
 <item>
 <title>TESTING5</title>
 <link>http://fakestream.com</link>
