@@ -747,3 +747,73 @@
 </item>
 </items>
 </channel>
+
+
+
+<item><title>[COLOR lime]Sky sports 1[/COLOR]</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/skysp1.stream/playlist.m3u8?token=$doregex[tok]</link>
+<regex><name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://iptvlatinototal.16mb.com/stalker.php?canal=skysp1.stream&amp;cm=2459&amp;pass=JWj95P8fa5F6w8sxOV4Eu4B</page></page>
+<referer>http://iptvlatinototal.16mb.com/</referer>
+<setcookie>programa=latinowebtv</setcookie></regex><fanart></fanart></item>
+
+<item><title>[COLOR lime]Sky sports 2[/COLOR]</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/skysp2.stream/playlist.m3u8?token=$doregex[tok]</link>
+<regex><name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://iptvlatinototal.16mb.com/stalker.php?canal=skysp2.stream&amp;cm=2461&amp;pass=JWj95P8fa5F6w8sxOV4Eu4B</page></page>
+<referer>http://iptvlatinototal.16mb.com/</referer>
+<setcookie>programa=latinowebtv</setcookie>
+</regex><fanart></fanart>
+</item>
+ 
+<item><title>[COLOR lime]Sky sports 3[/COLOR]</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/skysp3.stream/playlist.m3u8?token=$doregex[tok]</link>
+<regex><name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://iptvlatinototal.16mb.com/stalker.php?canal=skysp3.stream&amp;cm=2469&amp;pass=JWj95P8fa5F6w8sxOV4Eu4B</page>
+</page><referer>http://iptvlatinototal.16mb.com/</referer>
+<setcookie>programa=latinowebtv</setcookie>
+</regex><fanart></fanart>
+</item> 
+
+<item><title>[COLOR lime]Sky sports 4[/COLOR]</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/skysp4.stream/playlist.m3u8?token=$doregex[tok]</link>
+<regex><name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://iptvlatinototal.16mb.com/stalker.php?canal=skysp4.stream&amp;cm=2465&amp;pass=JWj95P8fa5F6w8sxOV4Eu4B</page></page>
+<referer>http://iptvlatinototal.16mb.com/</referer>
+<setcookie>programa=latinowebtv</setcookie>
+</regex><fanart></fanart>
+</item> 
+
+<item><title>[COLOR lime]Sky sports 5[/COLOR]</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/skysp5.stream/playlist.m3u8?token=$doregex[tok]</link>
+<regex><name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://iptvlatinototal.16mb.com/stalker.php?canal=skysp5.stream&amp;cm=2467&amp;pass=JWj95P8fa5F6w8sxOV4Eu4B</page></page>
+<referer>http://iptvlatinototal.16mb.com/</referer>
+<setcookie>programa=latinowebtv</setcookie>
+</regex><fanart></fanart>
+</item>
+
+<item><title>[COLOR lime]Sky sports F1[/COLOR]</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/skyspf1.stream/playlist.m3u8?token=$doregex[tok]</link>
+<regex><name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://iptvlatinototal.16mb.com/stalker.php?canal=skyspf1.stream&amp;cm=2457&amp;pass=JWj95P8fa5F6w8sxOV4Eu4B</page></page>
+<referer>http://iptvlatinototal.16mb.com/</referer>
+<setcookie>programa=latinowebtv</setcookie>
+</regex><fanart></fanart>
+</item> 
+
+<item><title>[COLOR lime]Sky sports news[/COLOR]</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/SKYSPNews.stream/playlist.m3u8?token=$doregex[tok]</link>
+<regex><name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://iptvlatinototal.16mb.com/stalker.php?canal=SKYSPNews.stream&amp;cm=2101&amp;pass=JWj95P8fa5F6w8sxOV4Eu4B</page></page>
+<referer>http://iptvlatinototal.16mb.com/</referer>
+<setcookie>programa=latinowebtv</setcookie>
+</regex><fanart></fanart>
+</item>
