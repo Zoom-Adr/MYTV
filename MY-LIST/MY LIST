@@ -790,6 +790,16 @@
 </regex>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Sky_Sports_F1_HD.svg/1280px-Sky_Sports_F1_HD.svg.png</thumbnail>
 </item>
+
+<item>
+<title>[COLOR lime]TEST[/COLOR]</title>
+<link>http://miotvapp.singtel.com/VideoServer/GetLiveLeafIndex.aspx/playlist.m3u8?token$doregex[tok]</link>
+<regex><name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://miotvapp.singtel.com/VideoServer/GetLiveLeafIndex.aspx/playlist.m3u8?token=C85737CB-E055-4F21-8898-E82A0DD4D1A0&l=5102&v=E&m=OTT&p=04</page></page>
+</regex>
+<thumbnail>http://www.singteltv.com.sg/_channels/pic_ch102.jpg</thumbnail>
+</item>
 </items>
 </channel>
 
