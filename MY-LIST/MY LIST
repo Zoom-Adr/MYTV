@@ -790,9 +790,12 @@
 </regex>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Sky_Sports_F1_HD.svg/1280px-Sky_Sports_F1_HD.svg.png</thumbnail>
 </item>
+</items>
+</channel>
 
+<items>
 <item>
-<title>TESTING2</title>
+<title>TESTING5</title>
 <link>http://fakestream.com</link>
 <thumbnail>http://www.singteltv.com.sg/_channels/pic_ch102.jpg</thumbnail>
 <externallink>http://superboxkodi.x10host.com/addons/miot.xml</externallink>
@@ -803,7 +806,8 @@
 <thumbnail>http://www.singteltv.com.sg/_channels/pic_ch102.jpg</thumbnail>
 <fanart>http://superboxkodi.x10host.com/Photo/fanart.png</fanart>
 <externallink>http://superboxkodi.x10host.com/addons/miot.xml</externallink>
-
 </items>
 </channel>
+
+
 
