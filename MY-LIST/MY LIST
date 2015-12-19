@@ -794,16 +794,15 @@
 </channel>
 
 <channel>
-<name>[COLOR=FFFFFF00]TEST CHANNELS 1[/COLOR]</name>
+<name>[COLOR blue]TEST CHANNELS[/COLOR]</name>
 <thumbnail>http://www.singteltv.com.sg/_channels/pic_ch102.jpg</thumbnail>
 <fanart>http://superboxkodi.x10host.com/Photo/fanart.png</fanart>
 
 <items>
 <item>
-<title>TESTING5</title>
-<link>http://fakestream.com</link>
+<title>MIO 102</title>
+<link>http://superboxkodi.x10host.com/addons/miot.xml</link>
 <thumbnail>http://www.singteltv.com.sg/_channels/pic_ch102.jpg</thumbnail>
-<externallink>http://superboxkodi.x10host.com/addons/miot.xml</externallink>
 </item>
 </items>
 </channel>
