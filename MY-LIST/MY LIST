@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
-<menus>
-<menu>
-<name>[COLOR=FFFFFF00]test CHANNELS[/COLOR]</name>
+<title>
+<name>[COLOR=FFFFFF00]test2 CHANNELS[/COLOR]</name>
 <thumbnail>http://img.freeflagicons.com/thumb/square_icon/indonesia/indonesia_640.png</thumbnail>
 <fanart>http://superboxkodi.x10host.com/Photo/fanart.png</fanart>
+</title>
 
 <channels>
 <channel>
