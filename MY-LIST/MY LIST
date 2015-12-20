@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
-
 <channels>
 <channel>
-<name>[COLOR=FFFFFF00]TEST CHANNELS[/COLOR]</name>
-<thumbnail>http://img.freeflagicons.com/thumb/square_icon/indonesia/indonesia_640.png</thumbnail>
+<name>[COLOR=FFFFFF00]MALAYSIA CHANNELS[/COLOR]</name>
+<thumbnail>http://img.freeflagicons.com/thumb/square_icon/malaysia/malaysia_640.png</thumbnail>
 <fanart>http://superboxkodi.x10host.com/Photo/fanart.png</fanart>
-
-<items>
-<item>
-<title>TEST</title>
-<externallink>http://pastebin.com/raw/4vEPw021</externallink>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_antv_zps5qe3o8qy.png</thumbnail>
-</item>
 
 <channels>
 <channel>
