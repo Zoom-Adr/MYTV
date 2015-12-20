@@ -796,6 +796,12 @@
 </regex>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Sky_Sports_F1_HD.svg/1280px-Sky_Sports_F1_HD.svg.png</thumbnail>
 </item>
+
+<item>
+<title>MIO Sports HD</title>
+<link>https://miotvapp.singtel.com/VideoServer/GetLiveLeafIndex.aspx/5111_720p/playlist.m3u8?token=E&l=5111&v=H&m=&p=04</link>
+<thumbnail>http://www.singteltv.com.sg/_channels/pic_ch111.jpg</thumbnail>
+</item>
 </items>
 </channel>
 
