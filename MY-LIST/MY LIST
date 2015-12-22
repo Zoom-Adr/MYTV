@@ -657,6 +657,18 @@
 </item>
 
 <item>
+<title>NBCSN</title>
+<link>http://www.iptvlinks.tk/$doregex[get-url]|Cookie=$get_cookies$&amp;User-Agent=iPad&amp;X-Playback-Session-Id=$GUID$</link>
+<regex>
+<name>get-url</name>
+<expres>var src = '(.*?)'<expres>
+<page>http://www.iptvlinks.tk/sl/embed?id=nbcsn</page>
+<referer>http://www.zoptv.com/live/nbcsn</referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/nbc_zpsqpwydbv1.png</thumbnail>
+</item>
+
+<item>
 <title>Sky Sports 1 HD</title>
 <link>http://portal.rapidiptv.com:8080/live/FQCSrUyO0e/Dm4dz0FcS1/7352.ts</link>
 <thumbnail>http://2.bp.blogspot.com/-CtEBaFZrOpo/T3467Jnh5PI/AAAAAAAAE3Q/VgnTQ0wAlu8/s1600/sky_sports1.png</thumbnail>
