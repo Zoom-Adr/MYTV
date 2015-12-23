@@ -729,7 +729,7 @@
 </item>
 
 <item>
-<title>Sky Sports 5</title>
+<title>SKY SPORTS 5</title>
 <link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/skysp5.stream/playlist.m3u8?token=$doregex[tok]</link>
 <regex>
 <name>tok</name>
@@ -742,7 +742,7 @@
 </item>
 
 <item>
-<title>Sky Sports F1</title>
+<title>SKY SPORTS F1</title>
 <link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/skyspf1.stream/playlist.m3u8?token=$doregex[tok]</link>
 <regex>
 <name>tok</name>
