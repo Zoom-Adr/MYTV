@@ -585,6 +585,92 @@
 </item>
 
 <item>
+<title>CTH Stadium 1</title>
+<link>http://senderok.unfortunatelylink.com:8081/hdmi01/playlist.m3u8?wmsAuthSign;url=$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>file: "(.*?)",</expres>
+	<page>$doregex[linkpg]</page>
+	<referer>http://www.khaozap.com</referer>
+</regex>
+<regex>
+	<name>linkpg</name>
+	<expres>dragon_player.*\n.*\n.*\n.*src="(.*?)"</expres>
+	<page>http://www.khaozap.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87-cth1-hd/</page>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/cth_zpst7aatqjy.png</thumbnail>
+</item>
+
+<item>
+<title>CTH Stadium 2</title>
+<link>http://senderok.unfortunatelylink.com:8081/hdmi02/playlist.m3u8?wmsAuthSign;url=$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>file: "(.*?)",</expres>
+	<page>$doregex[linkpg]</page>
+	<referer>http://www.khaozap.com</referer>
+</regex>
+<regex>
+	<name>linkpg</name>
+	<expres>dragon_player.*\n.*\n.*\n.*src="(.*?)"</expres>
+	<page>http://www.khaozap.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87-cth2-hd/</page>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/cth_zpst7aatqjy.png</thumbnail>
+</item>
+
+
+<item>
+<title>CTH Stadium 3</title>
+<link>http://senderok.unfortunatelylink.com:8081/hdmi03/playlist.m3u8?wmsAuthSign;url=$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>file: "(.*?)",</expres>
+	<page>$doregex[linkpg]</page>
+	<referer>http://www.khaozap.com</referer>
+</regex>
+<regex>
+	<name>linkpg</name>
+	<expres>dragon_player.*\n.*\n.*\n.*src="(.*?)"</expres>
+	<page>http://www.khaozap.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87-cth3-hd/</page>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/cth_zpst7aatqjy.png</thumbnail>
+</item>
+
+<item>
+<title>CTH Stadium 4</title>
+<link>http://senderok.unfortunatelylink.com:8081/hdmi04/playlist.m3u8?wmsAuthSign;url=$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>file: "(.*?)",</expres>
+	<page>$doregex[linkpg]</page>
+	<referer>http://www.khaozap.com</referer>
+</regex>
+<regex>
+	<name>linkpg</name>
+	<expres>dragon_player.*\n.*\n.*\n.*src="(.*?)"</expres>
+	<page>http://www.khaozap.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87-cth4-hd/</page>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/cth_zpst7aatqjy.png</thumbnail>
+</item>
+
+<item>
+<title>CTH Stadium 5</title>
+<link>http://senderok.unfortunatelylink.com:8081/hdmi06/playlist.m3u8?wmsAuthSign;url=$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>file: "(.*?)",</expres>
+	<page>$doregex[linkpg]</page>
+	<referer>http://www.khaozap.com</referer>
+</regex>
+<regex>
+	<name>linkpg</name>
+	<expres>dragon_player.*\n.*\n.*\n.*src="(.*?)"</expres>
+	<page>http://www.khaozap.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87-cth5-hd/</page>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/cth_zpst7aatqjy.png</thumbnail>
+</item>
+
+<item>
 <title>CTH STADIUM 1</title>
 <link>http:$doregex[url]</link>
 <regex>
@@ -681,6 +767,47 @@
 </item>
 
 <item>
+<title>Silk Sport 1 [720p]</title>
+<link>http://185.36.100.101/silk_football/index.m3u8</link>
+<thumbnail>http://www.ramalin.com/wp-content/uploads/2015/09/SILK-SPORT.jpg</thumbnail>
+</item>
+
+<item>
+<title>Silk Sport 2 [720p]</title>
+<link>http://185.36.100.101/silk_sport/index.m3u8</link>
+<thumbnail>http://www.ramalin.com/wp-content/uploads/2015/09/SILK-SPORT.jpg</thumbnail>
+</item>
+
+<item>
+<title>Silk Sport 3 [720p]</title>
+<link>http://185.36.100.101/silk_sport2/index.m3u8</link>
+<thumbnail>http://www.ramalin.com/wp-content/uploads/2015/09/SILK-SPORT.jpg</thumbnail>
+</item>
+
+<item>
+<title>Silk Sport 1 [720p]</title>
+<link>http://188.93.94.133:80/silk_football/index.m3u8</link>
+<thumbnail>http://www.ramalin.com/wp-content/uploads/2015/09/SILK-SPORT.jpg</thumbnail>
+</item>
+
+<item>
+<title>Silk Sport 2 [720p]</title>
+<link>http://188.93.94.133:80/silk_sport/index.m3u8</link>
+<thumbnail>http://www.ramalin.com/wp-content/uploads/2015/09/SILK-SPORT.jpg</thumbnail>
+</item>
+
+<item>
+<title>Silk Sport 3 [720p]</title>
+<link>http://188.93.94.133:80/silk_sport2/index.m3u8</link>
+<thumbnail>http://www.ramalin.com/wp-content/uploads/2015/09/SILK-SPORT.jpg</thumbnail>
+</item>
+
+<item>
+<title>Silk Sport 4 [720p]</title>
+<link>http://188.93.94.133:80/silk_sport4/index.m3u8</link>
+<thumbnail>http://www.ramalin.com/wp-content/uploads/2015/09/SILK-SPORT.jpg</thumbnail>
+<item>
+
 <title>SKY SPORTS 1</title>
 <link>http://www.iptvlinks.tk/$doregex[file]|user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
 <regex>
