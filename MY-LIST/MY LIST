@@ -519,20 +519,41 @@
 <items>
 
 <item>
-<title>Astro Supersport 1 HD</title>
-<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/astro1.stream/playlist.m3u8?token=5b8a34b8428f8d23d6d02c15175bc619</link>
+<title>ASTRO SUPERSPORT [HD]</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/astro1.stream/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://adryanlist.host.sk/nescafe.php?canal=astro1.stream&amp;cm=2471&amp;nombre=US.m3u8</page>
+<referer>http://adrian.kodistream.info/adryan//</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
 <thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png</thumbnail>
 </item>
-
+					
 <item>
-<title>Astro Supersport 2 HD</title>
-<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/astro2.stream/playlist.m3u8?token=6358207d0e964dc42ed1a409668a95ea</link>
+<title>ASTRO SUPERSPORT 2 [HD]</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/astro2.stream/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://adryanlist.host.sk/nescafe.php?canal=astro2.stream&amp;cm=2473&amp;nombre=US.m3u8</page>
+<referer>http://adrian.kodistream.info/adryan//</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
 <thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/833_300.png</thumbnail>
 </item>
-
+					
 <item>
-<title>Astro Supersport 3 HD</title>
-<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/astro3.stream/playlist.m3u8?token=ca50093c4b367bbdd418f775c393a801</link>
+<title>ASTRO SUPERSPORT 3 [HD]</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/astro3.stream/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://adryanlist.host.sk/nescafe.php?canal=astro3.stream&amp;cm=2475&amp;nombre=US.m3u8</page>
+<referer>http://adrian.kodistream.info/adryan//</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
 <thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/834_300.png</thumbnail>
 </item>
 
