@@ -588,18 +588,6 @@
 </item>
 
 <item>
-<title>BT SPORT 1</title>
-<link></link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/btsport_zps6ivouikh.png</thumbnail>
-</item
-
-<item>
-<title>BT SPORT 2</title>
-<link></link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/btsport_zps6ivouikh.png</thumbnail>
-</item>
-
-<item>
 <title>CTH STADIUM 1 HD</title>
 <link>http://62.210.248.96:11000/live/syarrr@hotmail.com_sport/syarrr@hotmail.com_sport/2365.ts</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/cth_zpst7aatqjy.png</thumbnail>
@@ -702,36 +690,6 @@
 </item>
 
 <item>
-<title>BT Sports 1 HQ</title>
-<link>http://portal.rapidiptv.com:8080/live/FQCSrUyO0e/Dm4dz0FcS1/7366.ts</link>
-<thumbnail>http://tipsmagicas.com/iptv/logos/BT-Sport%201.png</thumbnail>
-</item>
-
-<item>
-<title>BT Sports 2 HQ </title>
-<link>http://portal.rapidiptv.com:8080/live/FQCSrUyO0e/Dm4dz0FcS1/7368.ts</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/bb/bt_sport_2.png</thumbnail>
-</item>
-
-<item>
-<title>BT Sports Europe</title>
-<link>http://portal.rapidiptv.com:8080/live/FQCSrUyO0e/Dm4dz0FcS1/7370.ts</link>
-<thumbnail>https://bt-sport-business-prod.s3.amazonaws.com/wp-content/themes/bt-sport-business/images/homepage/bt-sport-europe-logo.png</thumbnail>
-</item>
-
-<item>
-<title>NBCSN</title>
-<link>http://www.iptvlinks.tk/$doregex[get-url]|Cookie=$get_cookies$&amp;User-Agent=iPad&amp;X-Playback-Session-Id=$GUID$</link>
-<regex>
-<name>get-url</name>
-<expres>var src = '(.*?)'<expres>
-<page>http://www.iptvlinks.tk/sl/embed?id=nbcsn</page>
-<referer>http://www.zoptv.com/live/nbcsn</referer>
-</regex>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/nbc_zpsqpwydbv1.png</thumbnail>
-</item>
-
-<item>
 <title>Silk Sport 1 [720p]</title>
 <link>http://185.36.100.101/silk_football/index.m3u8</link>
 <thumbnail>http://www.ramalin.com/wp-content/uploads/2015/09/SILK-SPORT.jpg</thumbnail>
@@ -771,80 +729,8 @@
 <title>Silk Sport 4 [720p]</title>
 <link>http://188.93.94.133:80/silk_sport4/index.m3u8</link>
 <thumbnail>http://www.ramalin.com/wp-content/uploads/2015/09/SILK-SPORT.jpg</thumbnail>
-<item>
-
-<title>SKY SPORTS 1</title>
-<link>http://www.iptvlinks.tk/$doregex[file]|user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
-<regex>
-<name>file</name>
-<expres>src = '(.*?)'</expres>
-<page>http://www.iptvlinks.tk/ds/embed?id=sky-sports-1</page>
-<referer>http://www.zoptv.com/live/sky-sports-1</referer>
-</regex>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/skysports_zpsi1xgekaj.png</thumbnail>
 </item>
 
-<item>
-<title>SKY SPORTS 2</title>
-<link>http://www.iptvlinks.tk/$doregex[file]|user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
-<regex>
-<name>file</name>
-<expres>src = '(.*?)'</expres>
-<page>http://www.iptvlinks.tk/ds/embed?id=sky-sports-2</page>
-<referer>http://www.zoptv.com/live/sky-sports-2</referer>
-</regex>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/skysports_zpsi1xgekaj.png</thumbnail>
-</item>
-
-<item>
-<title>SKY SPORTS 3</title>
-<link>http://www.iptvlinks.tk/$doregex[file]|user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
-<regex>
-<name>file</name>
-<expres>src = '(.*?)'</expres>
-<page>http://www.iptvlinks.tk/ds/embed?id=sky-sports-3</page>
-<referer>http://www.zoptv.com/live/sky-sports-3</referer>
-</regex>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/skysports_zpsi1xgekaj.png</thumbnail>
-</item>
-
-<item>
-<title>SKY SPORTS 4</title>
-<link>http://www.iptvlinks.tk/$doregex[file]|user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
-<regex>
-<name>file</name>
-<expres>src = '(.*?)'</expres>
-<page>http://www.iptvlinks.tk/ds/embed?id=sky-sports-4</page>
-<referer>http://www.zoptv.com/live/sky-sports-4</referer>
-</regex>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/skysports_zpsi1xgekaj.png</thumbnail>
-</item>
-
-<item>
-<title>SKY SPORTS 5</title>
-<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/skysp5.stream/playlist.m3u8?token=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>token=(.*)</expres>
-<page>http://iptvlatinototal.16mb.com/stalker.php?canal=skysp5.stream&amp;cm=2467&amp;pass=JWj95P8fa5F6w8sxOV4Eu4B</page></page>
-<referer>http://iptvlatinototal.16mb.com/</referer>
-<setcookie>programa=latinowebtv</setcookie>
-</regex>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/skysports_zpsi1xgekaj.png</thumbnail>
-</item>
-
-<item>
-<title>SKY SPORTS F1</title>
-<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/skyspf1.stream/playlist.m3u8?token=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>token=(.*)</expres>
-<page>http://iptvlatinototal.16mb.com/stalker.php?canal=skyspf1.stream&amp;cm=2457&amp;pass=JWj95P8fa5F6w8sxOV4Eu4B</page></page>
-<referer>http://iptvlatinototal.16mb.com/</referer>
-<setcookie>programa=latinowebtv</setcookie>
-</regex>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/skysports_zpsi1xgekaj.png</thumbnail>
-</item>
 </items>
 </channel>
 
