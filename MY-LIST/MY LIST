@@ -597,18 +597,6 @@
 </item>
 
 <item>
-<title>CTH TEST</title>
-<link>http://kndstreamx.ilikehd.com/sdviponfajsid/hd-arena1_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=hd-arena1</page>
-<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
-</regex>
-<thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png</thumbnail>
-</item>
-
-<item>
 <title>CTH STADIUM 1 HD</title>
 <link>http://62.210.248.96:11000/live/syarrr@hotmail.com_sport/syarrr@hotmail.com_sport/2365.ts</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/cth_zpst7aatqjy.png</thumbnail>
