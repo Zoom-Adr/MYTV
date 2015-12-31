@@ -514,41 +514,50 @@
 
 <item>
 <title>ASTRO SUPERSPORT [HD]</title>
-<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/astro1.stream/playlist.m3u8?token=$doregex[tok]</link>
+<link>http://kndstreamx.ilikehd.com/edge1/my-asp1hd_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
 <name>tok</name>
-<expres>token=(.*)</expres>
-<page>http://adryanlist.host.sk/nescafe.php?canal=astro1.stream&amp;cm=2471&amp;nombre=US.m3u8</page>
-<referer>http://adrian.kodistream.info/adryan//</referer>
-<setcookie>programa=rosadintv</setcookie>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=my-asp1hd</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
 </regex>
 <thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png</thumbnail>
 </item>
 					
 <item>
 <title>ASTRO SUPERSPORT 2 [HD]</title>
-<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/astro2.stream/playlist.m3u8?token=$doregex[tok]</link>
+<link>http://kndstreamx.ilikehd.com/edge1/my-asp2hd_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
 <name>tok</name>
-<expres>token=(.*)</expres>
-<page>http://adryanlist.host.sk/nescafe.php?canal=astro2.stream&amp;cm=2473&amp;nombre=US.m3u8</page>
-<referer>http://adrian.kodistream.info/adryan//</referer>
-<setcookie>programa=rosadintv</setcookie>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=my-asp2hd</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
 </regex>
 <thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/833_300.png</thumbnail>
 </item>
 					
 <item>
 <title>ASTRO SUPERSPORT 3 [HD]</title>
-<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/astro3.stream/playlist.m3u8?token=$doregex[tok]</link>
+<link>http://kndstreamx.ilikehd.com/edge1/my-asp3hd_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
 <name>tok</name>
-<expres>token=(.*)</expres>
-<page>http://adryanlist.host.sk/nescafe.php?canal=astro3.stream&amp;cm=2475&amp;nombre=US.m3u8</page>
-<referer>http://adrian.kodistream.info/adryan//</referer>
-<setcookie>programa=rosadintv</setcookie>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=my-asp3hd</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
 </regex>
 <thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/834_300.png</thumbnail>
+</item>
+
+<item>
+<title>ASTRO SUPERSPORT 4</title>
+<link>http://kndstreamx.ilikehd.com/edge1/my-asp4_480/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=my-asp4</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
+</regex>
+<thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/817_300.png</thumbnail>
 </item>
 
 <item>
