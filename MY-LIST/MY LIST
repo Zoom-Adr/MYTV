@@ -699,24 +699,24 @@
 
 <item>
 <title>CTH STADIUM 2</title>
-<link>http://wy6ysz1at.servep2p.com/send/sport2/chunks.m3u8?nimblesessionid=11018465</link>
+<link>http://wy6ysz1at.servep2p.com/send/sport2/chunks.m3u8?nimblesessionid=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>nimblesessionid=(.*)</expres>
+<page>http://www.xn--l3car8bzaq6f.com/channel-detail.php?pid=5</page>
+<referer>http://www.xn--l3car8bzaq6f.com</referer>
+</regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/cth_zpst7aatqjy.png</thumbnail>
 </item>
 
 <item>
 <title>CTH STADIUM 3</title>
-<link>http:$doregex[url]</link>
+<link>http://wy6ysz1at.servep2p.com/send/sport3/chunks.m3u8?nimblesessionid=$doregex[tok]</link>
 <regex>
-	<name>url</name>
-	<expres>file: "(.*?)"</expres>
-	<page>$doregex[page]</page>
-        <referer>http://www.xn--l3car8bzaq6f.com/channel-detail.php?pid=6</referer>
-</regex>
-<regex>
-	<name>page</name>
-	<expres>;" src="(.*?)"</expres>
-	<page>http://www.xn--l3car8bzaq6f.com/channel-detail.php?pid=6</page>
-	<referer>http://www.xn--l3car8bzaq6f.com</referer>
+<name>tok</name>
+<expres>nimblesessionid=(.*)</expres>
+<page>http://www.xn--l3car8bzaq6f.com/channel-detail.php?pid=6</page>
+<referer>http://www.xn--l3car8bzaq6f.com</referer>
 </regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/cth_zpst7aatqjy.png</thumbnail>
 </item>
