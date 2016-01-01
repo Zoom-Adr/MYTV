@@ -567,7 +567,7 @@
 </item>
 
 <item>
-<title>BEIN SPORTS 1 [720P]</title>
+<title>BEIN SPORTS 1 [HD]</title>
 <link>http://180.250.29.22:80/jhos/beib1_5/playlist.m3u8</link>
 <thumbnail>http://superboxkodi.x10host.com/Photo/bein1.png</thumbnail>
 </item>
@@ -579,7 +579,7 @@
 </item>
 
 <item>
-<title>BEIN SPORTS 2 [720P]</title>
+<title>BEIN SPORTS 2 [HD]</title>
 <link>http://180.250.29.22:80/jhos/beib2_5/playlist.m3u8</link>
 <thumbnail>http://superboxkodi.x10host.com/Photo/bein2.png</thumbnail>
 </item>
@@ -591,45 +591,80 @@
 </item>
 
 <item>
-<title>BEIN SPORTS 3 [720P]</title>
+<title>BEIN SPORTS 3 [HD]</title>
 <link>http://180.250.29.22:80/jhos/beib3_5/playlist.m3u8</link>
 <thumbnail>http://superboxkodi.x10host.com/Photo/bein3.png</thumbnail>
 </item>
 
 <item>
-<title>CTH STADIUM 1 HD</title>
-<link>http://62.210.248.96:11000/live/syarrr@hotmail.com_sport/syarrr@hotmail.com_sport/2365.ts</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/cth_zpst7aatqjy.png</thumbnail>
+<title>CTH STADIUM 1 [HD]</title>
+<link>http://kndstream.ilikehd.com/edge1/hd-arena1_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=hd-arena1</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
+</regex>
+<thumbnail>http://www.cthbpl.com/img/stadium/stadium1.png</thumbnail>
 </item>
-
+ 
 <item>
-<title>CTH STADIUM 2 HD</title>
-<link>http://62.210.248.96:11000/live/syarrr@hotmail.com_sport/syarrr@hotmail.com_sport/2366.ts</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/cth_zpst7aatqjy.png</thumbnail>
+<title>CTH STADIUM 2 [HD]</title>
+<link>http://kndstream.ilikehd.com/edge1/hd-arena2_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=hd-arena2</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
+</regex>
+<thumbnail>http://www.cthbpl.com/img/stadium/stadium2.png</thumbnail>
 </item>
-
+ 
 <item>
-<title>CTH STADIUM 3 HD</title>
-<link>http://62.210.248.96:11000/live/syarrr@hotmail.com_sport/syarrr@hotmail.com_sport/2367.ts</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/cth_zpst7aatqjy.png</thumbnail>
+<title>CTH STADIUM 3 [HD]</title>
+<link>http://kndstream.ilikehd.com/edge1/hd-arena3_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=hd-arena3</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
+</regex>
+<thumbnail>http://www.cthbpl.com/img/stadium/stadium3.png</thumbnail>
 </item>
-
+ 
 <item>
-<title>CTH STADIUM 4 HD</title>
-<link>http://62.210.248.96:11000/live/syarrr@hotmail.com_sport/syarrr@hotmail.com_sport/2368.ts</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/cth_zpst7aatqjy.png</thumbnail>
+<title>CTH STADIUM 4 [HD]</title>
+<link>http://kndstream.ilikehd.com/edge1/hd-arena4_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=hd-arena4</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
+</regex>
+<thumbnail>http://www.cthbpl.com/img/stadium/stadium4.png</thumbnail>
 </item>
-
 <item>
-<title>CTH STADIUM 5 HD</title>
-<link>http://62.210.248.96:11000/live/syarrr@hotmail.com_sport/syarrr@hotmail.com_sport/2369.ts</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/cth_zpst7aatqjy.png</thumbnail>
+<title>CTH STADIUM 5 [HD]</title>
+<link>http://kndstream.ilikehd.com/edge1/hd-arena5_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=hd-arena5</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
+</regex>
+<thumbnail>http://www.cthbpl.com/img/stadium/stadium5.png</thumbnail>
 </item>
-
+ 
 <item>
-<title>CTH STADIUM X</title>
-<link>http://62.210.248.96:11000/live/syarrr@hotmail.com_sport/syarrr@hotmail.com_sport/3012.ts</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/cth_zpst7aatqjy.png</thumbnail>
+<title>CTH STADIUM 6 [HD]</title>
+<link>http://kndstream.ilikehd.com/edge1/hd-arena6_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=hd-arena6</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
+</regex>
+<thumbnail>http://www.cthbpl.com/img/stadium/stadium6.png</thumbnail>
 </item>
 
 <item>
