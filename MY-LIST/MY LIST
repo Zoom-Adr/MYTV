@@ -526,7 +526,7 @@
 					
 <item>
 <title>ASTRO SUPERSPORT 2 [HD]</title>
-<link>http://kndstreamx.ilikehd.com/edge1/my-asp2hd_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>http://kndstream.ilikehd.com/edge1/my-asp2hd_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -538,7 +538,7 @@
 					
 <item>
 <title>ASTRO SUPERSPORT 3 [HD]</title>
-<link>http://kndstreamx.ilikehd.com/edge1/my-asp3hd_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>http://kndstream.ilikehd.com/edge1/my-asp3hd_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -839,18 +839,6 @@
 	<referer>http://www.xn--l3car8bzaq6f.com</referer>
 </regex>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium5.png</thumbnail>
-</item>
-
-<item>
-<title>EUROSPORT CTH [HD]</title>
-<link>http://kndstream4.ilikehd.com/edge1/hd-eurosport_480/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=hd-eurosport</page>
-<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
-</regex>
-<thumbnail>http://www.topnotizie.it/wp-content/uploads/2015/12/eurosport.jpg</thumbnail>
 </item>
 
 <item>
