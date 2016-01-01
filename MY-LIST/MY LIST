@@ -758,6 +758,42 @@
 </item>
 
 <item>
+<title>FOX SPORTS 1 [HD]</title>
+<link>http://kndstream.ilikehd.com/edge2/hd-foxsports1_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=hd-foxsports1</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
+</regex>
+<thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
+</item>
+
+<item>
+<title>FOX SPORTS 2 [HD]</title>
+<link>http://kndstream4.ilikehd.com/edge1/sd-foxsports2eng_480/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=sd-foxsports2eng</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
+</regex>
+<thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
+</item>
+
+<item>
+<title>FOX SPORTS 3 [HD]</title>
+<link>http://kndstream4.ilikehd.com/edge1/sd-foxsports3eng_480/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=sd-foxsports3eng</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
+</regex>
+<thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
+</item>
+
+<item>
 <title>LFC TV</title>
 <link>http://kndstreamx.ilikehd.com/inter2/uk-lfctv_480/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
