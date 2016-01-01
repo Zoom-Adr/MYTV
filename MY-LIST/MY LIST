@@ -514,7 +514,7 @@
 
 <item>
 <title>ASTRO SUPERSPORT [HD]</title>
-<link>http://kndstreamx.ilikehd.com/edge1/my-asp1hd_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>http://kndstream.ilikehd.com/edge1/my-asp1hd_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
