@@ -597,6 +597,18 @@
 </item>
 
 <item>
+<title>CHELSEA TV</title>
+<link>http://kndstreamx.ilikehd.com/inter2/uk-chelseatv_480/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=uk-chelseatv</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/b/bc/ChelseaTVLogo.png</thumbnail>
+</item>
+
+<item>
 <title>CTH STADIUM 1 [HD]</title>
 <link>http://kndstream.ilikehd.com/edge1/hd-arena1_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
@@ -734,47 +746,40 @@
 </item>
 
 <item>
-<title>Silk Sport 1 [720p]</title>
-<link>http://185.36.100.101/silk_football/index.m3u8</link>
-<thumbnail>http://www.ramalin.com/wp-content/uploads/2015/09/SILK-SPORT.jpg</thumbnail>
+<title>LFC TV</title>
+<link>http://kndstreamx.ilikehd.com/inter2/uk-lfctv_480/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=uk-lfctv</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
+</regex>
+<thumbnail>http://www.prolificnorth.co.uk/wp-content/uploads/2013/03/lfctv.jpg</thumbnail>
 </item>
 
 <item>
-<title>Silk Sport 2 [720p]</title>
-<link>http://185.36.100.101/silk_sport/index.m3u8</link>
-<thumbnail>http://www.ramalin.com/wp-content/uploads/2015/09/SILK-SPORT.jpg</thumbnail>
+<title>MUTV</title>
+<link>http://kndstreamx.ilikehd.com/inter2/uk-mutv_480/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=uk-mutv</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=home</referer>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png</thumbnail>
 </item>
 
 <item>
-<title>Silk Sport 3 [720p]</title>
-<link>http://185.36.100.101/silk_sport2/index.m3u8</link>
-<thumbnail>http://www.ramalin.com/wp-content/uploads/2015/09/SILK-SPORT.jpg</thumbnail>
+<title>WWE NETWORK [HD]</title>
+<link>http://kndstreamx.ilikehd.com/inter2/my-wwe_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=my-wwe</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=home</referer>
+</regex>
+<thumbnail>http://i.imgur.com/Ug9xGzp.png</thumbnail>
 </item>
-
-<item>
-<title>Silk Sport 1 [720p]</title>
-<link>http://188.93.94.133:80/silk_football/index.m3u8</link>
-<thumbnail>http://www.ramalin.com/wp-content/uploads/2015/09/SILK-SPORT.jpg</thumbnail>
-</item>
-
-<item>
-<title>Silk Sport 2 [720p]</title>
-<link>http://188.93.94.133:80/silk_sport/index.m3u8</link>
-<thumbnail>http://www.ramalin.com/wp-content/uploads/2015/09/SILK-SPORT.jpg</thumbnail>
-</item>
-
-<item>
-<title>Silk Sport 3 [720p]</title>
-<link>http://188.93.94.133:80/silk_sport2/index.m3u8</link>
-<thumbnail>http://www.ramalin.com/wp-content/uploads/2015/09/SILK-SPORT.jpg</thumbnail>
-</item>
-
-<item>
-<title>Silk Sport 4 [720p]</title>
-<link>http://188.93.94.133:80/silk_sport4/index.m3u8</link>
-<thumbnail>http://www.ramalin.com/wp-content/uploads/2015/09/SILK-SPORT.jpg</thumbnail>
-</item>
-
 </items>
 </channel>
 
