@@ -680,7 +680,7 @@
 </item>
 
 <item>
-<title>CTH STADIUM 1</title>
+<title>CTH STADIUM 1 [SD]</title>
 <link>http:$doregex[url]</link>
 <regex>
 	<name>url</name>
@@ -694,11 +694,11 @@
 	<page>http://www.xn--l3car8bzaq6f.com/channel-detail.php?pid=4</page>
 	<referer>http://www.xn--l3car8bzaq6f.com</referer>
 </regex>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/cth_zpst7aatqjy.png</thumbnail>
+<thumbnail>http://www.cthbpl.com/img/stadium/stadium1.png</thumbnail>
 </item>
 
 <item>
-<title>CTH STADIUM 2</title>
+<title>CTH STADIUM 2 [SD]</title>
 <link>http://wy6ysz1at.servep2p.com/send/sport2/chunks.m3u8?nimblesessionid=$doregex[tok]</link>
 <regex>
 <name>tok</name>
@@ -706,11 +706,11 @@
 <page>http://www.xn--l3car8bzaq6f.com/channel-detail.php?pid=5</page>
 <referer>http://www.xn--l3car8bzaq6f.com</referer>
 </regex>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/cth_zpst7aatqjy.png</thumbnail>
+<thumbnail>http://www.cthbpl.com/img/stadium/stadium2.png</thumbnail>
 </item>
 
 <item>
-<title>CTH STADIUM 3</title>
+<title>CTH STADIUM 3 [SD]</title>
 <link>http://wy6ysz1at.servep2p.com/send/sport3/chunks.m3u8?nimblesessionid=$doregex[tok]</link>
 <regex>
 <name>tok</name>
@@ -718,11 +718,11 @@
 <page>http://www.xn--l3car8bzaq6f.com/channel-detail.php?pid=6</page>
 <referer>http://www.xn--l3car8bzaq6f.com</referer>
 </regex>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/cth_zpst7aatqjy.png</thumbnail>
+<thumbnail>http://www.cthbpl.com/img/stadium/stadium3.png</thumbnail>
 </item>
 
 <item>
-<title>CTH STADIUM 4</title>
+<title>CTH STADIUM 4 [SD]</title>
 <link>http:$doregex[url]</link>
 <regex>
 	<name>url</name>
@@ -736,11 +736,11 @@
 	<page>http://www.xn--l3car8bzaq6f.com/channel-detail.php?pid=7</page>
 	<referer>http://www.xn--l3car8bzaq6f.com</referer>
 </regex>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/cth_zpst7aatqjy.png</thumbnail>
+<thumbnail>http://www.cthbpl.com/img/stadium/stadium4.png</thumbnail>
 </item>
 
 <item>
-<title>CTH STADIUM 5</title>
+<title>CTH STADIUM 5 [SD]</title>
 <link>http:$doregex[url]</link>
 <regex>
 	<name>url</name>
@@ -754,7 +754,7 @@
 	<page>http://www.xn--l3car8bzaq6f.com/channel-detail.php?pid=8</page>
 	<referer>http://www.xn--l3car8bzaq6f.com</referer>
 </regex>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/cth_zpst7aatqjy.png</thumbnail>
+<thumbnail>http://www.cthbpl.com/img/stadium/stadium5.png</thumbnail>
 </item>
 
 <item>
