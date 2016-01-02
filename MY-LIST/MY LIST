@@ -510,8 +510,8 @@
 <name>[COLOR=FFFFFF00]SPORTS CHANNELS[/COLOR]</name>
 <thumbnail>http://previews.123rf.com/images/duug/duug1206/duug120600003/13966994-sport-logo-Stock-Vector-sports.jpg</thumbnail>
 <fanart>http://superboxkodi.x10host.com/Photo/fanart.png</fanart>
-<items>
 
+<items>
 <item>
 <title>ASTRO SUPERSPORT [HD]</title>
 <link>http://kndstream-x.ilikehd.com/vcnxhsdhehss/my-asp1hd_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
@@ -619,7 +619,7 @@
 
 <item>
 <title>BEIN SPORTS FRANCE 1 [HD]</title>
-<link>http://kndstream.ilikehd.com/edge3/fr-bein1hd_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>http://kndstream-x.ilikehd.com/bnvmbncvbnm/fr-bein1hd_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -631,7 +631,7 @@
 
 <item>
 <title>BEIN SPORTS FRANCE 2 [HD]</title>
-<link>http://kndstream.ilikehd.com/edge3/fr-bein2hd_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>http://kndstream-x.ilikehd.com/bnvmbncvbnm/fr-bein2hd_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -643,7 +643,7 @@
 
 <item>
 <title>BEIN SPORTS FRANCE 3 [HD]</title>
-<link>http://kndstream.ilikehd.com/edge3/fr-bein3hd_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>http://kndstream-x.ilikehd.com/bnvmbncvbnm/fr-bein3hd_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -667,7 +667,7 @@
 
 <item>
 <title>BT SPORTS 1 [HD]</title>
-<link>http://kndstream.ilikehd.com/edge4/uk-btsport1hd_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>http://kndstream-x.ilikehd.com/edge4/uk-btsport1hd_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -677,9 +677,10 @@
 <thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
 </item>
 
+
 <item>
 <title>BT SPORTS 2 [HD]</title>
-<link>http://kndstream.ilikehd.com/edge4/uk-btsport2hd_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>http://kndstream-x.ilikehd.com/edge4/uk-btsport2hd_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -691,7 +692,7 @@
 
 <item>
 <title>BT SPORTS EUROPE [HD]</title>
-<link>http://kndstream.ilikehd.com/edge4/uk-btsporteurohd_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>http://kndstream-x.ilikehd.com/edge4/uk-btsporteurohd_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -703,7 +704,7 @@
 
 <item>
 <title>BT SPORTS ESPN</title>
-<link>http://kndstream.ilikehd.com/edge3/uk-espn_480/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>http://kndstream-x.ilikehd.com/bnvmbncvbnm/uk-espn_480/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -715,7 +716,7 @@
 
 <item>
 <title>CHELSEA TV</title>
-<link>http://kndstream.ilikehd.com/edge3/uk-chelseatv_480/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>http://kndstream-x.ilikehd.com/bnvmbncvbnm/uk-chelseatv_480/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -727,11 +728,11 @@
 
 <item>
 <title>CTH STADIUM 1 [HD]</title>
-<link>http://kndstream-x.ilikehd.com/edge2/hd-arena1_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>http://kndstream-x.ilikehd.com/edge3/hd-arena1eng_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
-<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=hd-arena1</page>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=hd-arena1eng</page>
 <referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
 </regex>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium1.png</thumbnail>
@@ -739,11 +740,11 @@
 
 <item>
 <title>CTH STADIUM 2 [HD]</title>
-<link>http://kndstream-x.ilikehd.com/edge2/hd-arena2_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>http://kndstream-x.ilikehd.com/edge3/hd-arena2eng_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
-<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=hd-arena2</page>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=hd-arena2eng</page>
 <referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
 </regex>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium2.png</thumbnail>
@@ -751,11 +752,11 @@
 
 <item>
 <title>CTH STADIUM 3 [HD]</title>
-<link>http://kndstream-x.ilikehd.com/edge2/hd-arena3_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>http://kndstream-x.ilikehd.com/edge3/hd-arena3eng_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
-<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=hd-arena3</page>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=hd-arena3eng</page>
 <referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
 </regex>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium3.png</thumbnail>
@@ -763,22 +764,23 @@
 
 <item>
 <title>CTH STADIUM 4 [HD]</title>
-<link>http://kndstream-x.ilikehd.com/edge2/hd-arena4_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>http://kndstream-x.ilikehd.com/edge3/hd-arena4eng_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
-<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=hd-arena4</page>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=hd-arena4eng</page>
 <referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
 </regex>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium4.png</thumbnail>
 </item>
+
 <item>
 <title>CTH STADIUM 5 [HD]</title>
-<link>http://kndstream-x.ilikehd.com/edge2/hd-arena5_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>http://kndstream-x.ilikehd.com/edge3/hd-arena5eng_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
-<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=hd-arena5</page>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=hd-arena5eng</page>
 <referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
 </regex>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium5.png</thumbnail>
@@ -786,7 +788,7 @@
 
 <item>
 <title>CTH STADIUM 6 [HD]</title>
-<link>http://kndstream.ilikehd.com/edge2/hd-arena6_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>http://kndstream-x.ilikehd.com/edge2/hd-arena6_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -794,6 +796,18 @@
 <referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
 </regex>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium6.png</thumbnail>
+</item>
+
+<item>
+<title>CTH STADIUM X [HD]</title>
+<link>http://kndstream.ilikehd.com/edge3/hd-arenaxeng_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=hd-arenaxeng</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
+</regex>
+<thumbnail>http://www.cthbpl.com/img/stadium/stadiumX.png</thumbnail>
 </item>
 
 <item>
@@ -809,8 +823,8 @@
 </item>
 
 <item>
-<title>EUROSPORTS 1 FR [HD]</title>
-<link>http://kndstream.ilikehd.com/inter2/fr-eurosport_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<title>EUROSPORTS 1 FRANCE [HD]</title>
+<link>http://kndstream-x.ilikehd.com/inter2/fr-eurosport_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -821,8 +835,8 @@
 </item>
 
 <item>
-<title>EUROSPORTS 2 FR [HD]</title>
-<link>http://kndstream.ilikehd.com/inter2/fr-eurosport2_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<title>EUROSPORTS 2 FRANCE [HD]</title>
+<link>http://kndstream-x.ilikehd.com/inter2/fr-eurosport2_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -834,7 +848,7 @@
 
 <item>
 <title>EUROSPORTS 1 UK</title>
-<link>http://kndstream.ilikehd.com/edge4/uk-eurosport_480/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>http://kndstream-x.ilikehd.com/edge4/uk-eurosport_480/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -846,7 +860,7 @@
 
 <item>
 <title>EUROSPORTS 2 UK</title>
-<link>http://kndstream.ilikehd.com/edge4/uk-eurosport2_480/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>http://kndstream-x.ilikehd.com/edge4/uk-eurosport2_480/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -858,7 +872,7 @@
 
 <item>
 <title>FIGHT SPORTS CTH</title>
-<link>http://kndstream.ilikehd.com/edge2/hd-fightsports_480/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>http://kndstream-x.ilikehd.com/edge2/hd-fightsports_480/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -870,7 +884,7 @@
 
 <item>
 <title>FOX SPORTS 1 [HD]</title>
-<link>http://kndstream.ilikehd.com/edge2/hd-foxsports1_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>http://kndstream-x.ilikehd.com/edge2/hd-foxsports1_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -918,7 +932,7 @@
 
 <item>
 <title>MUTV</title>
-<link>http://kndstream.ilikehd.com/edge3/uk-mutv_480/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>http://kndstream-x.ilikehd.com/edge3/uk-mutv_480/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -930,7 +944,7 @@
 
 <item>
 <title>SKY SPORTS 1 [HD]</title>
-<link>http://kndstream.ilikehd.com/edge4/uk-skysports1_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>http://kndstream-x.ilikehd.com/edge4/uk-skysports1_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -942,7 +956,7 @@
 
 <item>
 <title>SKY SPORTS 2 [HD]</title>
-<link>http://kndstream.ilikehd.com/edge4/uk-skysports2_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>http://kndstream-x.ilikehd.com/edge4/uk-skysports2_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -954,7 +968,7 @@
 
 <item>
 <title>SKY SPORTS 3 [HD]</title>
-<link>http://kndstream.ilikehd.com/edge4/uk-skysports3_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>http://kndstream-x.ilikehd.com/edge4/uk-skysports3_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -966,7 +980,7 @@
 
 <item>
 <title>SKY SPORTS 4 [HD]</title>
-<link>http://kndstream.ilikehd.com/edge4/uk-skysports4_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>http://kndstream-x.ilikehd.com.com/edge4/uk-skysports4_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -978,7 +992,7 @@
 
 <item>
 <title>SKY SPORTS 5 [HD]</title>
-<link>http://kndstream.ilikehd.com/edge4/uk-skysports5_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>http://kndstream-x.ilikehd.com/edge4/uk-skysports5_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -990,7 +1004,7 @@
 
 <item>
 <title>TRUE SPORTS [HD]</title>
-<link>http://kndstream.ilikehd.com/edge2/hd-tsport1_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>http://kndstream-x.ilikehd.com/edge2/hd-tsport1_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -1002,7 +1016,7 @@
 
 <item>
 <title>TRUE SPORTS 2 [HD]</title>
-<link>http://kndstream.ilikehd.com/edge2/hd-tsport2_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>http://kndstream-x.ilikehd.com/edge2/hd-tsport2_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -1014,7 +1028,7 @@
 
 <item>
 <title>TRUE SPORTS 3 [HD]</title>
-<link>http://kndstream.ilikehd.com/edge2/hd-tsport3_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>http://kndstream-x.ilikehd.com/edge2/hd-tsport3_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -1026,7 +1040,7 @@
 
 <item>
 <title>TRUE SPORTS 4 [HD]</title>
-<link>http://kndstream.ilikehd.com/edge2/hd-tsport4_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>http://kndstream-x.ilikehd.com/edge2/hd-tsport4_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -1038,7 +1052,7 @@
 
 <item>
 <title>TRUE VISION BEIN SPORTS [HD]</title>
-<link>http://kndstream.ilikehd.com/edge2/hd-bein_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>http://kndstream-x.ilikehd.com/edge2/hd-bein_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -1059,5 +1073,6 @@
 </regex>
 <thumbnail>http://i.imgur.com/Ug9xGzp.png</thumbnail>
 </item>
+</items>
 </items>
 </channel>
