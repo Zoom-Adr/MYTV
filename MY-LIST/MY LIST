@@ -655,7 +655,7 @@
 
 <item>
 <title>BOXNATION</title>
-<link>http://kndstream.ilikehd.com/edge4/uk-boxnation_480/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>http://kndstream-x.ilikehd.com/edge4/uk-boxnation_480/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -1073,6 +1073,5 @@
 </regex>
 <thumbnail>http://i.imgur.com/Ug9xGzp.png</thumbnail>
 </item>
-</items>
 </items>
 </channel>
