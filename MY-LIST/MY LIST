@@ -532,7 +532,7 @@
 <items>
 <item>
 <title>ASTRO SUPERSPORT [HD]</title>
-<link>http://kndstream-x.ilikehd.com/vcnxhsdhehss/my-asp1hd_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>http://kndstream-x.ilikehd.com/edge3/my-asp1hd_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -557,7 +557,7 @@
 
 <item>
 <title>ASTRO SUPERSPORT 2 [HD]</title>
-<link>http://kndstream-x.ilikehd.com/vcnxhsdhehss/my-asp2hd_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>http://kndstream-x.ilikehd.com/edge3/my-asp2hd_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -582,7 +582,7 @@
 
 <item>
 <title>ASTRO SUPERSPORT 3 [HD]</title>
-<link>http://kndstream-x.ilikehd.com/vcnxhsdhehss/my-asp3hd_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>http://kndstream-x.ilikehd.com/edge3/my-asp3hd_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -607,7 +607,7 @@
 
 <item>
 <title>ASTRO SUPERSPORT 4</title>
-<link>http://kndstream-x.ilikehd.com/vcnxhsdhehss/my-asp4_480/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>http://kndstream-x.ilikehd.com/edge3/my-asp4_480/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -949,7 +949,7 @@
 
 <item>
 <title>FOX SPORTS 2 [HD]</title>
-<link>http://kndstream-x.ilikehd.com/vcnxhsdhehss/sd-foxsports2eng_480/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>http://kndstream-x.ilikehd.com/edge3/sd-foxsports2eng_480/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -961,7 +961,7 @@
 
 <item>
 <title>FOX SPORTS 3 [HD]</title>
-<link>http://kndstream-x.ilikehd.com/vcnxhsdhehss/sd-foxsports3eng_480/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>http://kndstream-x.ilikehd.com/edge3/sd-foxsports3eng_480/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -1150,6 +1150,5 @@
 </regex>
 <thumbnail>http://i.imgur.com/Ug9xGzp.png</thumbnail>
 </item>
-</items>
 </items>
 </channel>
