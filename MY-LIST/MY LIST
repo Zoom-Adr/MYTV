@@ -477,19 +477,37 @@
 <item>
 <title>ZEE BOLLYWOOD</title>
 <link>http://stream.zeefamily.tv/zeebollywood/index.m3u8</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/Zee-tv-logo_zps4qntfqef.png</thumbnail>
+<thumbnail>http://res.cloudinary.com/idiso/image/upload/h_200/v1422032328/gqnsgbygl9km68jjap09.png</thumbnail>
 </item>
 
 <item>
 <title>ZEE CINEMA</title>
 <link>http://stream.zeefamily.tv/zeecinema/index.m3u8</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/Zee-tv-logo_zps4qntfqef.png</thumbnail>
+<thumbnail>http://res.cloudinary.com/idiso/image/upload/h_200/v1422032328/gqnsgbygl9km68jjap09.png</thumbnail>
 </item>
 
 <item>
 <title>ZEE TV</title>
 <link>http://stream.zeefamily.tv/zeetvhdus/index.m3u8</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/Zee-tv-logo_zps4qntfqef.png</thumbnail>
+<thumbnail>http://res.cloudinary.com/idiso/image/upload/h_200/v1422032328/gqnsgbygl9km68jjap09.png</thumbnail>
+</item>
+
+<item>
+<title>ZEE CLASSIC</title>
+<link>http://stream.zeefamily.tv/zeeclassic/index.m3u8</link>
+<thumbnail>http://res.cloudinary.com/idiso/image/upload/h_200/v1422032328/gqnsgbygl9km68jjap09.png</thumbnail>
+</item>
+
+<item>
+<title>ZEE LAMHE</title>
+<link>http://stream.zeefamily.tv/zeelamhe/index.m3u8</link>
+<thumbnail>http://res.cloudinary.com/idiso/image/upload/h_200/v1422032328/gqnsgbygl9km68jjap09.png</thumbnail>
+</item>
+
+<item>
+<title>ZEE SMILE</title>
+<link>http://stream.zeefamily.tv/zeesmile/index.m3u8</link>
+<thumbnail>http://res.cloudinary.com/idiso/image/upload/h_200/v1422032328/gqnsgbygl9km68jjap09.png</thumbnail>
 </item>
 
 <item>
