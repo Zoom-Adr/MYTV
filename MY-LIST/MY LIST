@@ -1,7 +1,1184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <channels>
 <channel>
-<name>[COLOR=FFFFFF00]CHANNELS[/COLOR]</name>
-<link>https://copy.com/O0i3N23qrTGf9bNm</link>
-<thumbnail>https://copy.com/TqU1ASdP3V9Orwry</thumbnail>
-<fanart>http://superboxkodi.x10host.com/Photo/v2/fanart.png</fanart>
+<name>[COLOR=FFFFFF00]INDONESIA CHANNELS[/COLOR]</name>
+<thumbnail>http://img.freeflagicons.com/thumb/square_icon/indonesia/indonesia_640.png</thumbnail>
+<fanart>http://superboxkodi.x10host.com/Photo/fanart.png</fanart>
+
+<items>
+<item>
+<title>ANTV</title>
+<link>http://edge.nim.mivo.tv/mp17pjqx1esapruf/antv2_576p/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_antv_zps5qe3o8qy.png</thumbnail>
+</item>
+
+<item>
+<title>ANTARA TV</title>
+<link>http://edge.nim.mivo.tv/mp17pjqx1esapruf/antaratv_480p/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_antaratv_zpslfe8wvho.png</thumbnail>
+</item>
+
+<item>
+<title>BERITA SATU</title>
+<link>http://edge.nim.mivo.tv/mp17pjqx1esapruf/beritasatu_240p/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_beritasatutv_zpsdgoulgmq.png</thumbnail>
+</item>
+
+<item>
+<title>CTV NETWORK</title>
+<link>http://edge.nim.mivo.tv/mp17pjqx1esapruf/cahayatv_480p/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_ctv_zpsuthdtkdg.png</thumbnail>
+</item>
+
+<item>
+<title>DAAI TV</title>
+<link>http://edge.nim.mivo.tv/mp17pjqx1esapruf/daaitv2_576p/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_daaitv_zpsa8jkixzp.png</thumbnail>
+</item>
+
+<item>
+<title>DAMAI TV</title>
+<link>http://edge.nim.mivo.tv/mp17pjqx1esapruf/more1_240p/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_damaitv_zpszelmqznj.png</thumbnail>
+</item>
+
+<item>
+<title>DAQU TV</title>
+<link></link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_daqutv_zpsuhpgvv2w.png</thumbnail>
+</item>
+
+<item>
+<title>DMC TV</title>
+<link>http://edge.nim.mivo.tv/mp17pjqx1esapruf/dmctv_480p/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_dmctv_zpszpox8rrh.png</thumbnail>
+</item>
+
+<item>
+<title>ELSHINTA TV</title>
+<link>http://edge.nim.mivo.tv/mp17pjqx1esapruf/elshintatv_576p/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_elshintatv_zpswdybmaxs.png</thumbnail>
+</item>
+
+<item>
+<title>GLOBAL TV</title>
+<link>http://edge.nim.mivo.tv/mp17pjqx1esapruf/globaltv2_576p/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_global_tv_zpsqptddjo9.png</thumbnail>
+</item>
+
+<item>
+<title>HAARI TV</title>
+<link>http://edge.nim.mivo.tv/mp17pjqx1esapruf/more2_240p/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_haaritv_zpslftcnreb.png</thumbnail>
+</item>
+
+<item>
+<title>HOT HITS</title>
+<link>http://edge.nim.mivo.tv/mp17pjqx1esapruf/hothits_576p/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_hothits_zpsrob0njnq.png</thumbnail>
+</item>
+
+<item>
+<title>INI TV</title>
+<link>http://streaming.initv.net:1935/live/_definst_/Stream1/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_initv_zpslrigejxj.png</thumbnail>
+</item>
+
+<item>
+<title>INSPIRA TV</title>
+<link>http://video.inspira.tv:1935/inspiratv/live.sdp/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_inspiratv_zps4g1thpo0.png</thumbnail>
+</item>
+
+<item>
+<title>INDOSIAR</title>
+<link>http://edge.nim.mivo.tv/mp17pjqx1esapruf/indosiar2_576p/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_indosiar_zpsnlwwccnu.png</thumbnail>
+</item>
+
+<item>
+<title>JAK TV</title>
+<link>http://edge.nim.mivo.tv/mp17pjqx1esapruf/jaktv_576p/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_jaktv_zpsarehs1yc.png</thumbnail>
+</item>
+
+<item>
+<title>JEK TV</title>
+<link>rtmp://182.253.193.35:1935/live/myStream1</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_jektv_zpsdlmiao7f.png</thumbnail>
+</item>
+
+<item>
+<title>JTV</title>
+<link>http://edge.nim.mivo.tv/mp17pjqx1esapruf/jawatv_576p/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_jtv_zpspcztjwpe.png</thumbnail>
+</item>
+
+<item>
+<title>KOMPAS TV</title>
+<link>http://edge.nim.mivo.tv/mp17pjqx1esapruf/kompastv_480p/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_kompastv_zpspbla9f1l.png</thumbnail>
+</item>
+
+<item>
+<title>LBS IN-DRAMA</title>
+<link>http://edge.nim.mivo.tv/mp17pjqx1esapruf/lbsindrama_576p/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_lbsindrama_zpshlkuj2w6.png</thumbnail>
+</item>
+
+<item>
+<title>LBS K-DRAMA</title>
+<link>http://edge.nim.mivo.tv/mp17pjqx1esapruf/ldrama2_240p/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_lbskdrama_zpsee1focjf.png</thumbnail>
+</item>
+
+<item>
+<title>METRO TV</title>
+<link>http://edge.nim.mivo.tv/mp17pjqx1esapruf/metrotv2_576p/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_metro_tv_zpsfy2zhqxw.png</thumbnail>
+</item>
+
+<item>
+<title>MNCTV</title>
+<link>http://edge.nim.mivo.tv/mp17pjqx1esapruf/mnctv2_576p/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_mnc_tv_zpshi58jhma.png</thumbnail>
+</item>
+
+<item>
+<title>MIVO TV</title>
+<link>http://edge.nim.mivo.tv/mp17pjqx1esapruf/mivotv_480p/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_mivotv_zpso5h9xwxy.png</thumbnail>
+</item>
+
+<item>
+<title>NET.</title>
+<link>http://edge.nim.mivo.tv/mp17pjqx1esapruf/nettv_480p/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_nettv_zpskioucxna.png</thumbnail>
+</item>
+
+<item>
+<title>O CHANNEL</title>
+<link>http://edge.nim.mivo.tv/mp17pjqx1esapruf/ochannel_576p/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_ochannel_zpsh4arpcai.png</thumbnail>
+</item>
+
+<item>
+<title>RCTI</title>
+<link>http://edge.nim.mivo.tv/mp17pjqx1esapruf/rcti2_576p/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_rcti_zpspbf3nrr5.png</thumbnail>
+</item>
+
+<item>
+<title>RTV</title>
+<link>http://edge.nim.mivo.tv/mp17pjqx1esapruf/rajawalitv.stream_576p/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_rtv_zps7zwluxo5.png</thumbnail>
+</item>
+
+<item>
+<title>SCTV</title>
+<link>http://edge.nim.mivo.tv/mp17pjqx1esapruf/sctv2_576p/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_sctv_zpsibjuh3i7.png</thumbnail>
+</item>
+
+<item>
+<title>SCTV SERVER 2</title>
+<link>http://livestreaming.production.liputan6.static6.com/tv/sctvstream300.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_sctv_zpsibjuh3i7.png</thumbnail>
+</item>
+
+<item>
+<title>SCTV SERVER 3</title>
+<link>http://livestreaming-r.stonegaze.tv/carry/sctv_idc_med/index.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_sctv_zpsibjuh3i7.png</thumbnail>
+</item>
+
+<item>
+<title>SPACETOON</title>
+<link>http://edge.nim.mivo.tv/mp17pjqx1esapruf/spacetoon_576p/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_spacetoon_zpsnekltnpt.png</thumbnail>
+</item>
+
+<item>
+<title>SPACETOON 2</title>
+<link>http://edge.nim.mivo.tv/mp17pjqx1esapruf/spacetoon2_480p/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_spacetoon_zpsnekltnpt.png</thumbnail>
+</item>
+
+<item>
+<title>TVRI 1</title>
+<link>http://edge.nim.mivo.tv/mp17pjqx1esapruf/tvrinasional_480p/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_tvrinasional_zpsrpwt3w2f.png</thumbnail>
+</item>
+
+<item>
+<title>TVRI 2</title>
+<link>http://edge.nim.mivo.tv/mp17pjqx1esapruf/tvrijakarta_480p/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_tvrijakarta_zps9idoi7ph.png</thumbnail>
+</item>
+
+<item>
+<title>TVRI 3</title>
+<link>http://edge.nim.mivo.tv/mp17pjqx1esapruf/tvribudaya_480p/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_tvribudaya_zps2xarzbez.png</thumbnail>
+</item>
+
+<item>
+<title>TVRI 4</title>
+<link>http://edge.nim.mivo.tv/mp17pjqx1esapruf/tvriolahraga_480p/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_tvriolahraga_zpsrrux4aqc.png</thumbnail>
+</item>
+
+<item>
+<title>TRANS 7</title>
+<link>http://edge.nim.mivo.tv/mp17pjqx1esapruf/trans72_576p/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_trans_7_zpsn7frpupf.png</thumbnail>
+</item>
+
+<item>
+<title>TRANS TV</title>
+<link>http://edge.nim.mivo.tv/mp17pjqx1esapruf/transtv2_576p/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_trans_tv_zpsef7hiuqo.png</thumbnail>
+</item>
+
+<item>
+<title>THE INDONESIA CHANNEL</title>
+<link>http://edge.nim.mivo.tv/mp17pjqx1esapruf/theindonesiachannel_480p/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_tictv_zpsglqai3sx.png</thumbnail>
+</item>
+
+<item>
+<title>TV ONE</title>
+<link>http://edge.nim.mivo.tv/mp17pjqx1esapruf/tvone2_576p/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_tvone_zps2ntt5ox4.png</thumbnail>
+</item>
+
+<item>
+<title>TV EDUKASI</title>
+<link>http://118.98.221.131/live/smil:tvedukasi.smil/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_tvedukasi_zpsffpsjove.png</thumbnail>
+</item>
+
+
+<item>
+<title>U CHANNEL</title>
+<link>http://edge.nim.mivo.tv/mp17pjqx1esapruf/uchannel_576p/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_uchannel_zpsvgykqd8s.png</thumbnail>
+</item>
+</items>
+</channel>
+
+<channel>
+<name>[COLOR=FFFFFF00]MALAYSIA CHANNELS[/COLOR]</name>
+<thumbnail>http://img.freeflagicons.com/thumb/square_icon/malaysia/malaysia_640.png</thumbnail>
+<fanart>http://superboxkodi.x10host.com/Photo/fanart.png</fanart>
+
+<items>
+<item>
+<title>ASTRO RIA</title>
+<link>http://penang.layarku.tv/edge/149_327_live/chunklist_w1095343200.m3u8</link>
+<thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/104_300.png</thumbnail>
+</item>
+
+<item>
+<title>ASTRO RIA</title>
+<link>http://www.layarku.tv/media/riav6.m3u8</link>
+<thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/104_300.png</thumbnail>
+</item>
+
+<item>
+<title>ASTRO AWANI</title>
+<link>http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AWANI.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_awani_zpsssci0ox7.png</thumbnail>
+</item>
+
+<item>
+<title>TV1</title>
+<link>http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch001.smil/chunklist_w340855073_b564000_tkbXlUb2tlblByZWZpeHN0YXJ0dGltZT0wJm15VG9rZW5QcmVmaXhlbmR0aW1lPTE0NTE5MTczNTUmbXlUb2tlblByZWZpeGhhc2g9cjczSnJGSVIyU2Y1YWRqTEFuV2NCQzF4WHN2aEdrdVF1dXRhRk90OW1DOD0=.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv1_zps8mlj4nck.png</thumbnail>
+</item>
+
+<item>
+<title>TV2</title>
+<link>http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch002.smil/chunklist_w1266530250_b564000_tkbXlUb2tlblByZWZpeHN0YXJ0dGltZT0wJm15VG9rZW5QcmVmaXhlbmR0aW1lPTE0NTE5MTc0NTUmbXlUb2tlblByZWZpeGhhc2g9dUY0NWR6T2dueWhtSjFMMTI5WUU4blVNMUVPdzhMLXdnZVU0NFhhWjZrTT0=.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/My_tv2_zpshzwufzrv.png</thumbnail>
+</item>
+
+<item>
+<title>TV3</title>
+<link>http://tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master.m3u8|X-Forwarded-For=42.154.55.155</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv3_zpsccy0afit.png</thumbnail>
+</item>
+
+<item>
+<title>NTV7</title>
+<link>http://ntv7liveios-i.akamaihd.net/hls/live/205902/ios/ntv7live/master.m3u8|X-Forwarded-For=42.154.55.155</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_ntv7_zpsmslc5gwf.png</thumbnail>
+</item>
+
+<item>
+<title>8TV</title>
+<link>http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master.m3u8|X-Forwarded-For=42.154.55.155</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_8tv_zpsvhm1dgc8.png</thumbnail>
+</item>
+
+<item>
+<title>TV9</title>
+<link>http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master.m3u8|X-Forwarded-For=42.154.55.155</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv9_zpsvy6n5ypz.png</thumbnail>
+</item>
+
+<item>
+<title>AL-HIJRAH</title>
+<link>http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:tvah_hypptv.smil/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_alhijrah_zps7om1g57e.png</thumbnail>
+</item>
+
+<item>
+<title>BERNAMA TV</title>
+<link>http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_bernamatv_zpswz7nlgor.png</thumbnail>
+</item>
+
+<item>
+<title>TVI</title>
+<link>http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch003.smil/chunklist_w695056636_b564000_tkbXlUb2tlblByZWZpeHN0YXJ0dGltZT0wJm15VG9rZW5QcmVmaXhlbmR0aW1lPTE0NTE5MTc1MzcmbXlUb2tlblByZWZpeGhhc2g9RHJpNk9CY2xOcWw2VEtHVFBLVDZXaWJFRWZXcGRHR2NjTzByVmliQkEzMD0=.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/tvi_zpsmwdrm674.png</thumbnail>
+</item>
+
+<item>
+<title>MUZIK AKTIF</title>
+<link>http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch004.smil/chunklist_w1871062847_b564000_tkbXlUb2tlblByZWZpeHN0YXJ0dGltZT0wJm15VG9rZW5QcmVmaXhlbmR0aW1lPTE0NTE5MTc1NzkmbXlUb2tlblByZWZpeGhhc2g9UkdzUDZ5eTFULWZ0YlM2UEZfR3JLeGdObmhRNUxEZFB3aVhZUVVrUmFjbz0=.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/muzikaktif_zpswj4untkz.png</thumbnail>
+</item>
+
+<item>
+<title>1 NEWS</title>
+<link>http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch006.smil/chunklist_w1019793916_b564000_tkbXlUb2tlblByZWZpeHN0YXJ0dGltZT0wJm15VG9rZW5QcmVmaXhlbmR0aW1lPTE0NTE5MTc2NzEmbXlUb2tlblByZWZpeGhhc2g9RGRWTVgxSlhRUE4tWC01TDRQLUtPc3RFVWRVYXZoMGZLdGJ3dWFSY0tpRT0=.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/1news_zpsdlajzziq.png</thumbnail>
+</item>
+
+<item>
+<title>RTM PARLIMEN</title>
+<link>http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch007.smil/chunklist_w1102155888_b564000_tkbXlUb2tlblByZWZpeHN0YXJ0dGltZT0wJm15VG9rZW5QcmVmaXhlbmR0aW1lPTE0NTE5MTc2MzAmbXlUb2tlblByZWZpeGhhc2g9eEFFZ1g2bzlENWhlWGs5QnZxa1QtS0lYWXB5X1gyQ05iajNwWWktTnpJdz0=.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/rtmparlimen_zpsu1trkjx7.png</thumbnail>
+</item>
+
+<item>
+<title>AKSI SUKAN</title>
+<link>http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch008.smil/chunklist_w708219662_b564000_tkbXlUb2tlblByZWZpeHN0YXJ0dGltZT0wJm15VG9rZW5QcmVmaXhlbmR0aW1lPTE0NTE5MTc3MTkmbXlUb2tlblByZWZpeGhhc2g9ZWMtei1uSzk5WjhyUm9XUG5VNHZUck5NZDVURXFJWlhhdUdRWVB4NC1WMD0=.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/aksisukan_zpsynthgfvn.png</thumbnail>
+</item>
+
+<item>
+<title>MARA TV</title>
+<link>http://stream2.1malaysiaiptv.com/mylive/smil:maratv_all.smil/chunklist_w387938424_b1000000_sleng.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/maratv_zpsees3ljuu.png</thumbnail>
+</item>
+</items>
+</channel>
+
+<channel>
+<name>[COLOR=FFFFFF00]SINGAPORE CHANNELS[/COLOR]</name>
+<thumbnail>http://img.freeflagicons.com/thumb/square_icon/singapore/singapore_640.png</thumbnail>
+<fanart>http://superboxkodi.x10host.com/Photo/fanart.png</fanart>
+
+<items>
+<item>
+<title>CHANNEL 5</title>
+<link>$doregex[m3u8]</link>
+<regex>
+	<name>m3u8</name>
+	<expres>Channel 5.*\n.*url": "(.*?)",</expres>
+	<page>http://goo.gl/uQhZSa</page>
+        <referer>http://goo.gl/uQhZSa</referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/SG_channel5_zpslpt6pjmb.png</thumbnail>
+</item> 
+
+<item>
+<title>CHANNEL 8</title>
+<link>$doregex[m3u8]</link>
+<regex>
+	<name>m3u8</name>
+	<expres>Channel 8.*\n.*url": "(.*?)",</expres>
+	<page>http://goo.gl/uQhZSa</page>
+        <referer>http://goo.gl/uQhZSa</referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/SG_channel8_zpsv6hcf98c.png</thumbnail>
+</item> 
+
+<item>
+<title>CHANNEL U</title>
+<link>$doregex[m3u8]</link>
+<regex>
+	<name>m3u8</name>
+	<expres>Channel U.*\n.*url": "(.*?)",</expres>
+	<page>http://goo.gl/uQhZSa</page>
+        <referer>http://goo.gl/uQhZSa</referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/SG_channelu_zpshu6beqce.png</thumbnail>
+</item>
+
+<item>
+<title>NEWSASIA</title>
+<link>$doregex[m3u8]</link>
+<regex>
+	<name>m3u8</name>
+	<expres>NewsAsia.*\n.*url": "(.*?)",</expres>
+	<page>http://goo.gl/uQhZSa</page>
+        <referer>http://goo.gl/uQhZSa</referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/SG_newsasia_zpsfuehs6hf.png</thumbnail>
+</item>
+
+<item>
+<title>OKTO</title>
+<link>$doregex[m3u8]</link>
+<regex>
+	<name>m3u8</name>
+	<expres>Okto.*\n.*url": "(.*?)",</expres>
+	<page>http://goo.gl/uQhZSa</page>
+        <referer>http://goo.gl/uQhZSa</referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/SG_okto_zpsmpvovqan.png</thumbnail>
+</item>
+
+<item>
+<title>SURIA</title>
+<link>$doregex[m3u8]</link>
+<regex>
+	<name>m3u8</name>
+	<expres>Suria.*\n.*url": "(.*?)",</expres>
+	<page>http://goo.gl/uQhZSa</page>
+        <referer>http://goo.gl/uQhZSa</referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/SG_suria_zpsipi9s6ls.png</thumbnail>
+</item>
+
+<item>
+<title>VASANTHAM</title>
+<link>$doregex[m3u8]</link>
+<regex>
+	<name>m3u8</name>
+	<expres>Vasantham.*\n.*url": "(.*?)",</expres>
+	<page>http://goo.gl/uQhZSa</page>
+        <referer>http://goo.gl/uQhZSa</referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/SG_vasantham_zpslvh8vfyj.png</thumbnail>
+</item>
+</items>
+</channel>
+
+<channel>
+<name>[COLOR=FFFFFF00]INDIA CHANNELS[/COLOR]</name>
+<thumbnail>http://img.freeflagicons.com/thumb/square_icon/india/india_640.png</thumbnail>
+<fanart>http://superboxkodi.x10host.com/Photo/fanart.png</fanart>
+
+<item>
+<title>ZEE BOLLYWOOD</title>
+<link>http://stream.zeefamily.tv/zeebollywood/index.m3u8</link>
+<thumbnail>http://res.cloudinary.com/idiso/image/upload/h_200/v1422032328/gqnsgbygl9km68jjap09.png</thumbnail>
+</item>
+
+<item>
+<title>ZEE CINEMA</title>
+<link>http://stream.zeefamily.tv/zeecinema/index.m3u8</link>
+<thumbnail>http://res.cloudinary.com/idiso/image/upload/h_200/v1422032328/gqnsgbygl9km68jjap09.png</thumbnail>
+</item>
+
+<item>
+<title>ZEE TV</title>
+<link>http://stream.zeefamily.tv/zeetvhdus/index.m3u8</link>
+<thumbnail>http://res.cloudinary.com/idiso/image/upload/h_200/v1422032328/gqnsgbygl9km68jjap09.png</thumbnail>
+</item>
+
+<item>
+<title>ZEE CLASSIC</title>
+<link>http://stream.zeefamily.tv/zeeclassic/index.m3u8</link>
+<thumbnail>http://res.cloudinary.com/idiso/image/upload/h_200/v1422032328/gqnsgbygl9km68jjap09.png</thumbnail>
+</item>
+
+<item>
+<title>ZEE LAMHE</title>
+<link>http://stream.zeefamily.tv/zeelamhe/index.m3u8</link>
+<thumbnail>http://res.cloudinary.com/idiso/image/upload/h_200/v1422032328/gqnsgbygl9km68jjap09.png</thumbnail>
+</item>
+
+<item>
+<title>ZEE SMILE</title>
+<link>http://stream.zeefamily.tv/zeesmile/index.m3u8</link>
+<thumbnail>http://res.cloudinary.com/idiso/image/upload/h_200/v1422032328/gqnsgbygl9km68jjap09.png</thumbnail>
+</item>
+
+<item>
+<title>BOLLYWOOD CINEMA</title>
+<link>http://stream01.yamgo.com/iPhone/HLS_TS/broadcast/bollywood_cinema_2-tablet.3gp.m3u8</link>
+<thumbnail>http://res.cloudinary.com/idiso/image/upload/h_200/v1422032328/gqnsgbygl9km68jjap09.png</thumbnail>
+</item>
+
+<item>
+<title>BOLLYWOOD MOVIES</title>
+<link>http://astvstream1.tulix.tv/bollywood/mp4:bollywood/playlist.m3u8</link>
+<thumbnail>http://res.cloudinary.com/idiso/image/upload/h_200/v1422032328/gqnsgbygl9km68jjap09.png</thumbnail>
+</item>
+</items>
+</channel>
+
+<channel>
+<name>[COLOR=FFFFFF00]SPORTS CHANNELS[/COLOR]</name>
+<thumbnail>http://previews.123rf.com/images/duug/duug1206/duug120600003/13966994-sport-logo-Stock-Vector-sports.jpg</thumbnail>
+<fanart>http://superboxkodi.x10host.com/Photo/fanart.png</fanart>
+
+<items>
+<item>
+<title>ASTRO SUPERSPORT [HD]</title>
+<link>http://kndstream-x.ilikehd.com/edge3/my-asp1hd_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=my-asp1hd</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
+</regex>
+<thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png</thumbnail>
+</item>
+
+<item>
+<title>ASTRO SUPERSPORT [HD]</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/astro1.stream/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://adryanlist.host.sk/nescafe.php?canal=astro1.stream&amp;cm=2471&amp;nombre=US.m3u8</page>
+<referer>http://adrian.kodistream.info/adryan//</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+<thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png</thumbnail>
+</item>
+
+<item>
+<title>ASTRO SUPERSPORT 2 [HD]</title>
+<link>http://kndstream-x.ilikehd.com/edge3/my-asp2hd_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=my-asp2hd</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
+</regex>
+<thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/833_300.png</thumbnail>
+</item>
+					
+<item>
+<title>ASTRO SUPERSPORT 2 [HD]</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/astro2.stream/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://adryanlist.host.sk/nescafe.php?canal=astro2.stream&amp;cm=2473&amp;nombre=US.m3u8</page>
+<referer>http://adrian.kodistream.info/adryan//</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+<thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/833_300.png</thumbnail>
+</item>
+
+<item>
+<title>ASTRO SUPERSPORT 3 [HD]</title>
+<link>http://kndstream-x.ilikehd.com/edge3/my-asp3hd_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=my-asp3hd</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
+</regex>
+<thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/834_300.png</thumbnail>
+</item>
+
+<item>
+<title>ASTRO SUPERSPORT 3 [HD]</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/astro3.stream/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://adryanlist.host.sk/nescafe.php?canal=astro3.stream&amp;cm=2475&amp;nombre=US.m3u8</page>
+<referer>http://adrian.kodistream.info/adryan//</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+<thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/834_300.png</thumbnail>
+</item>
+
+<item>
+<title>ASTRO SUPERSPORT 4</title>
+<link>http://kndstream-x.ilikehd.com/edge3/my-asp4_480/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=my-asp4</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
+</regex>
+<thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/817_300.png</thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS ASIA 1 [HD]</title>
+<link>http://180.250.29.22:80/jhos/beib1_5/playlist.m3u8</link>
+<thumbnail>http://superboxkodi.x10host.com/Photo/bein1.png</thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS ASIA 2 [HD]</title>
+<link>http://180.250.29.22:80/jhos/beib2_5/playlist.m3u8</link>
+<thumbnail>http://superboxkodi.x10host.com/Photo/bein2.png</thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS ASIA 3 [HD]</title>
+<link>http://180.250.29.22:80/jhos/beib3_5/playlist.m3u8</link>
+<thumbnail>http://superboxkodi.x10host.com/Photo/bein3.png</thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS FRANCE 1 [HD]</title>
+<link>http://kndstream-x.ilikehd.com/edge3/fr-bein1hd_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=fr-bein1hd</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
+</regex>
+<thumbnail>http://4.bp.blogspot.com/-hnud-Aw1ygU/VModXTi309I/AAAAAAAAAvY/YCjic7CEwT8/s1600/oY2poXCi.png</thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS FRANCE 2 [HD]</title>
+<link>http://kndstream-x.ilikehd.com/edge3/fr-bein2hd_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=fr-bein2hd</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
+</regex>
+<thumbnail>http://4.bp.blogspot.com/-hnud-Aw1ygU/VModXTi309I/AAAAAAAAAvY/YCjic7CEwT8/s1600/oY2poXCi.png</thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS FRANCE 3 [HD]</title>
+<link>http://kndstream-x.ilikehd.com/edge3/fr-bein3hd_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=fr-bein3hd</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
+</regex>
+<thumbnail>http://4.bp.blogspot.com/-hnud-Aw1ygU/VModXTi309I/AAAAAAAAAvY/YCjic7CEwT8/s1600/oY2poXCi.png</thumbnail>
+</item>
+
+<item>
+<title>BOXNATION</title>
+<link>http://kndstream-x.ilikehd.com/edge4/uk-boxnation_480/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=uk-boxnation</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/c/c3/BoxNation_logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>BT SPORTS 1 [HD]</title>
+<link>http://kndstream-x.ilikehd.com/edge3/uk-btsport1hd_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=uk-btsport1hd</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=home</referer>
+</regex>
+<thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
+</item>
+
+<item>
+<title>BT SPORTS 2 [HD]</title>
+<link>http://kndstream-x.ilikehd.com/edge3/uk-btsport2hd_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=uk-btsport2hd</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=home</referer>
+</regex>
+<thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
+</item>
+
+<item>
+<title>BT SPORTS EUROPE [HD]</title>
+<link>http://kndstream-x.ilikehd.com/edge3/uk-btsporteurohd_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=uk-btsporteurohd</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=home</referer>
+</regex>
+<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/9/91/Bt-sport-europe-logo.png/revision/latest?cb=20150727151842</thumbnail>
+</item>
+
+<item>
+<title>BT SPORTS ESPN</title>
+<link>http://kndstream-x.ilikehd.com/edge3/uk-espn_480/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=uk-espn</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
+</regex>
+<thumbnail>http://www.stream2watch.co/images/thumbs/bt%20sport%20espn.jpg</thumbnail>
+</item>
+
+<item>
+<title>CHELSEA TV</title>
+<link>http://kndstream-x.ilikehd.com/edge3/uk-chelseatv_480/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=uk-chelseatv</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/b/bc/ChelseaTVLogo.png</thumbnail>
+</item>
+
+<item>
+<title>CLUB CHANNEL</title>
+<link>http://kndstream-x.ilikehd.com/edge2/sd-gclubchannel_480/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=sd-gclubchannel</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
+</regex>
+<thumbnail>http://www.cth.co.th/wp-content/uploads/2014/02/416-X-2635.jpg</thumbnail>
+</item>
+
+<item>
+<title>CTH STADIUM 1 [HD]</title>
+<link>http://kndstream-x.ilikehd.com/edge3/hd-arena1eng_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=hd-arena1eng</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
+</regex>
+<thumbnail>http://www.cthbpl.com/img/stadium/stadium1.png</thumbnail>
+</item>
+
+<item>
+<title>CTH STADIUM 2 [HD]</title>
+<link>http://kndstream-x.ilikehd.com/edge3/hd-arena2eng_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=hd-arena2eng</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
+</regex>
+<thumbnail>http://www.cthbpl.com/img/stadium/stadium2.png</thumbnail>
+</item>
+
+<item>
+<title>CTH STADIUM 3 [HD]</title>
+<link>http://kndstream-x.ilikehd.com/edge3/hd-arena3eng_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=hd-arena3eng</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
+</regex>
+<thumbnail>http://www.cthbpl.com/img/stadium/stadium3.png</thumbnail>
+</item>
+
+<item>
+<title>CTH STADIUM 4 [HD]</title>
+<link>http://kndstream-x.ilikehd.com/edge3/hd-arena4eng_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=hd-arena4eng</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
+</regex>
+<thumbnail>http://www.cthbpl.com/img/stadium/stadium4.png</thumbnail>
+</item>
+
+<item>
+<title>CTH STADIUM 5 [HD]</title>
+<link>http://kndstream-x.ilikehd.com/edge3/hd-arena5eng_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=hd-arena5eng</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
+</regex>
+<thumbnail>http://www.cthbpl.com/img/stadium/stadium5.png</thumbnail>
+</item>
+
+<item>
+<title>CTH STADIUM 6 [HD]</title>
+<link>http://kndstream-x.ilikehd.com/edge2/hd-arena6_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=hd-arena6</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
+</regex>
+<thumbnail>http://www.cthbpl.com/img/stadium/stadium6.png</thumbnail>
+</item>
+
+<item>
+<title>CTH STADIUM X [HD]</title>
+<link>http://kndstream-x.ilikehd.com/edge3/hd-arenaxeng_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=hd-arenaxeng</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
+</regex>
+<thumbnail>http://www.cthbpl.com/img/stadium/stadiumX.png</thumbnail>
+</item>
+
+<item>
+<title>EUROSPORT CTH</title>
+<link>http://kndstream-x.ilikehd.com/edge2/hd-eurosport_480/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=hd-eurosport</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
+</regex>
+<thumbnail>http://www.topnotizie.it/wp-content/uploads/2015/12/eurosport.jpg</thumbnail>
+</item>
+
+<item>
+<title>EUROSPORTS 1 FRANCE [HD]</title>
+<link>http://kndstream-x.ilikehd.com/edge4/fr-eurosport_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=fr-eurosport</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
+</regex>
+<thumbnail>http://www.topnotizie.it/wp-content/uploads/2015/12/eurosport.jpg</thumbnail>
+</item>
+
+<item>
+<title>EUROSPORTS 2 FRANCE [HD]</title>
+<link>http://kndstream-x.ilikehd.com/edge4/fr-eurosport2_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=fr-eurosport2</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
+</regex>
+<thumbnail>http://www.topnotizie.it/wp-content/uploads/2015/12/eurosport.jpg</thumbnail>
+</item>
+
+<item>
+<title>EUROSPORTS 1 UK</title>
+<link>http://kndstream-x.ilikehd.com/edge4/uk-eurosport_480/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=uk-eurosport</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
+</regex>
+<thumbnail>http://www.topnotizie.it/wp-content/uploads/2015/12/eurosport.jpg</thumbnail>
+</item>
+
+<item>
+<title>EUROSPORTS 2 UK</title>
+<link>http://kndstream-x.ilikehd.com/edge4/uk-eurosport2_480/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=uk-eurosport2</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
+</regex>
+<thumbnail>http://www.topnotizie.it/wp-content/uploads/2015/12/eurosport.jpg</thumbnail>
+</item>
+
+<item>
+<title>FIGHT SPORTS CTH</title>
+<link>http://kndstream-x.ilikehd.com/edge2/hd-fightsports_480/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=hd-fightsports</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
+</regex>
+<thumbnail>http://www.cth.co.th/wp-content/uploads/2013/06/415-x-2633.jpg</thumbnail>
+</item>
+
+<item>
+<title>FOOTBALL EURO [HD]</title>
+<link>http://kndstream-x.ilikehd.com/edge2/hd-gfooteuro_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=hd-gfooteuro</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
+</regex>
+<thumbnail>http://www.cth.co.th/wp-content/uploads/2014/02/416-X-263.jpg</thumbnail>
+</item>
+
+<item>
+<title>FOOTBALL PLUS [HD]</title>
+<link>http://kndstream-x.ilikehd.com/edge2/sd-gfootplus_480/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=sd-gfootplus</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
+</regex>
+<thumbnail>http://www.cth.co.th/wp-content/uploads/2014/02/416-X-2631.jpg</thumbnail>
+</item>
+
+<item>
+<title>FOX SPORTS 1 [HD]</title>
+<link>http://kndstream-x.ilikehd.com/edge2/hd-foxsports1_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=hd-foxsports1</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
+</regex>
+<thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
+</item>
+
+<item>
+<title>FOX SPORTS 2 [HD]</title>
+<link>http://kndstream-x.ilikehd.com/edge3/sd-foxsports2eng_480/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=sd-foxsports2eng</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
+</regex>
+<thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
+</item>
+
+<item>
+<title>FOX SPORTS 3 [HD]</title>
+<link>http://kndstream-x.ilikehd.com/edge3/sd-foxsports3eng_480/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=sd-foxsports3eng</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
+</regex>
+<thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
+</item>
+
+<item>
+<title>K+1 VIETNAM</title>
+<link>rtmp://199.189.110.20/as99/chSport1hd</link>
+<thumbnail>http://media.truyenhinh.gov.vn/Content/Uploads/images/Logo/kplus.jpg</thumbnail>
+</item>
+
+<item>
+<title>K+ PM VIETNAM</title>
+<link>rtmp://199.189.110.20/as99/chSport2hd</link>
+<thumbnail>http://media.truyenhinh.gov.vn/Content/Uploads/images/Logo/kplus.jpg</thumbnail>
+</item>
+
+<item>
+<title>LFC TV</title>
+<link>http://kndstream-x.ilikehd.com/edge3/uk-lfctv_480/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=uk-lfctv</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
+</regex>
+<thumbnail>http://www.prolificnorth.co.uk/wp-content/uploads/2013/03/lfctv.jpg</thumbnail>
+</item>
+
+<item>
+<title>NBCSN HD</title>
+<link>http://tinyurl.com/jsg6b4h</link>
+<thumbnail>https://nbcsportsgrouppressbox.files.wordpress.com/2012/06/nbcsport-network11.jpg</thumbnail>
+</item>
+
+<item>
+<title>MUTV</title>
+<link>http://kndstream-x.ilikehd.com/edge3/uk-mutv_480/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=uk-mutv</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=home</referer>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png</thumbnail>
+</item>
+
+<item>
+<title>SPORTS EXTREME</title>
+<link>http://kndstream-x.ilikehd.com/edge2/sd-gsportextreme_480/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://www.cth.co.th/wp-content/uploads/2014/09/416-X-2631.jpg</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
+</regex>
+<thumbnail>http://www.cth.co.th/wp-content/uploads/2014/02/416-X-2635.jpg</thumbnail>
+</item>
+
+<item>
+<title>SPORTS PLUS</title>
+<link>http://kndstream-x.ilikehd.com/edge2/sd-gsportplus_480/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=sd-gsportplus</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=home</referer>
+</regex>
+<thumbnail>http://www.cth.co.th/wp-content/uploads/2014/09/416-X-2632.jpg</thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS 1 [HD]</title>
+<link>http://kndstream-x.ilikehd.com/edge4/uk-skysports1_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=uk-skysports1</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=home</referer>
+</regex>
+<thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS 2 [HD]</title>
+<link>http://kndstream-x.ilikehd.com/edge4/uk-skysports2_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=uk-skysports2</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=home</referer>
+</regex>
+<thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS 3 [HD]</title>
+<link>http://kndstream-x.ilikehd.com/edge4/uk-skysports3_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=uk-skysports3</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=home</referer>
+</regex>
+<thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS 4 [HD]</title>
+<link>http://kndstream-x.ilikehd.com.com/edge4/uk-skysports4_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=uk-skysports4</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=home</referer>
+</regex>
+<thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS 5 [HD]</title>
+<link>http://kndstream-x.ilikehd.com/edge4/uk-skysports5_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=uk-skysports5</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=home</referer>
+</regex>
+<thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
+</item>
+
+<item>
+<title>TRUE SPORTS [HD]</title>
+<link>http://kndstream-x.ilikehd.com/edge2/hd-tsport1_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=hd-tsport1</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
+</regex>
+<thumbnail>http://nowwatchtvlive.me/wp-content/uploads/2012/12/True-Sport-Thailand.jpeg</thumbnail>
+</item>
+
+<item>
+<title>TRUE SPORTS 2 [HD]</title>
+<link>http://kndstream-x.ilikehd.com/edge2/hd-tsport2_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=hd-tsport2</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
+</regex>
+<thumbnail>http://nowwatchtvlive.me/wp-content/uploads/2012/12/True-Sport-Thailand.jpeg</thumbnail>
+</item>
+
+<item>
+<title>TRUE SPORTS 3 [HD]</title>
+<link>http://kndstream-x.ilikehd.com/edge2/hd-tsport3_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=hd-tsport3</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
+</regex>
+<thumbnail>http://nowwatchtvlive.me/wp-content/uploads/2012/12/True-Sport-Thailand.jpeg</thumbnail>
+</item>
+
+<item>
+<title>TRUE SPORTS 4 [HD]</title>
+<link>http://kndstream-x.ilikehd.com/edge2/hd-tsport4_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=hd-tsport4</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
+</regex>
+<thumbnail>http://nowwatchtvlive.me/wp-content/uploads/2012/12/True-Sport-Thailand.jpeg</thumbnail>
+</item>
+
+<item>
+<title>TRUE VISION BEIN SPORTS [HD]</title>
+<link>http://kndstream-x.ilikehd.com/edge2/hd-bein_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=hd-bein</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
+</regex>
+<thumbnail>http://www.cox.com/wcm/en/video/tv/bein-sport/bein-tv-sp-promo.jpg</thumbnail>
+</item>
+
+<item>
+<title>WWE NETWORK [HD]</title>
+<link>http://kndstream-x.ilikehd.com/edge3/my-wwe_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=my-wwe</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
+</regex>
+<thumbnail>http://i.imgur.com/Ug9xGzp.png</thumbnail>
+</item>
+
+<item>
+<title>USA NETWORK [HD]</title>
+<link>http://www.iptvlinks.tk/$doregex[file]|user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
+<regex>
+<name>file</name>
+<expres>src = '(.*?)'</expres>
+<page>http://www.iptvlinks.tk/ds/embed?id=usa</page>
+<referer>http://www.zoptv.com/live/usa</referer>
+</regex>
+<thumbnail>https://pmcvariety.files.wordpress.com/2013/10/usa-network-logo1.jpg</thumbnail>
+</item>
+</items>
 </channel>
