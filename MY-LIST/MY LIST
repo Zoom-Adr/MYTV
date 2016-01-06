@@ -297,7 +297,6 @@
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_awani_zpsssci0ox7.png</thumbnail>
 </item>
 
-<items>
 <item>
 <title>TV1</title>
 <link>$doregex[url]|user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0</link>
@@ -363,38 +362,87 @@
 </item>
 
 <item>
-<title>BERNAMA TV</title>
-<link>http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/playlist.m3u8</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_bernamatv_zpswz7nlgor.png</thumbnail>
-</item>
-
-<item>
 <title>TVI</title>
-<link>http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch003.smil/chunklist_w695056636_b564000_tkbXlUb2tlblByZWZpeHN0YXJ0dGltZT0wJm15VG9rZW5QcmVmaXhlbmR0aW1lPTE0NTE5MTc1MzcmbXlUb2tlblByZWZpeGhhc2g9RHJpNk9CY2xOcWw2VEtHVFBLVDZXaWJFRWZXcGRHR2NjTzByVmliQkEzMD0=.m3u8</link>
+<link>$doregex[url]|user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:urllib.unquote('$doregex[get-url]')</expres>
+	<page></page>
+</regex>
+<regex>
+	<name>get-url</name>
+	<expres>src:"(.*?)"<expres>
+	<page>http://myklik.rtm.gov.my/player/streamer.php?channel=rtm-ch003</page>
+	<referer>http://myklik.rtm.gov.my/tvi<referer>
+</regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/tvi_zpsmwdrm674.png</thumbnail>
 </item>
 
 <item>
 <title>MUZIK AKTIF</title>
-<link>http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch004.smil/chunklist_w1871062847_b564000_tkbXlUb2tlblByZWZpeHN0YXJ0dGltZT0wJm15VG9rZW5QcmVmaXhlbmR0aW1lPTE0NTE5MTc1NzkmbXlUb2tlblByZWZpeGhhc2g9UkdzUDZ5eTFULWZ0YlM2UEZfR3JLeGdObmhRNUxEZFB3aVhZUVVrUmFjbz0=.m3u8</link>
+<link>$doregex[url]|user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:urllib.unquote('$doregex[get-url]')</expres>
+	<page></page>
+</regex>
+<regex>
+	<name>get-url</name>
+	<expres>src:"(.*?)"<expres>
+	<page>http://myklik.rtm.gov.my/player/streamer.php?channel=rtm-ch004</page>
+	<referer>http://myklik.rtm.gov.my/galaksi_muzik<referer>
+</regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/muzikaktif_zpswj4untkz.png</thumbnail>
 </item>
 
 <item>
 <title>1 NEWS</title>
-<link>http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch006.smil/chunklist_w1019793916_b564000_tkbXlUb2tlblByZWZpeHN0YXJ0dGltZT0wJm15VG9rZW5QcmVmaXhlbmR0aW1lPTE0NTE5MTc2NzEmbXlUb2tlblByZWZpeGhhc2g9RGRWTVgxSlhRUE4tWC01TDRQLUtPc3RFVWRVYXZoMGZLdGJ3dWFSY0tpRT0=.m3u8</link>
+<link>$doregex[url]|user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:urllib.unquote('$doregex[get-url]')</expres>
+	<page></page>
+</regex>
+<regex>
+	<name>get-url</name>
+	<expres>src:"(.*?)"<expres>
+	<page>http://myklik.rtm.gov.my/player/streamer.php?channel=rtm-ch006</page>
+	<referer>http://myklik.rtm.gov.my/1news<referer>
+</regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/1news_zpsdlajzziq.png</thumbnail>
 </item>
 
 <item>
 <title>RTM PARLIMEN</title>
-<link>http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch007.smil/chunklist_w1102155888_b564000_tkbXlUb2tlblByZWZpeHN0YXJ0dGltZT0wJm15VG9rZW5QcmVmaXhlbmR0aW1lPTE0NTE5MTc2MzAmbXlUb2tlblByZWZpeGhhc2g9eEFFZ1g2bzlENWhlWGs5QnZxa1QtS0lYWXB5X1gyQ05iajNwWWktTnpJdz0=.m3u8</link>
+<link>$doregex[url]|user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:urllib.unquote('$doregex[get-url]')</expres>
+	<page></page>
+</regex>
+<regex>
+	<name>get-url</name>
+	<expres>src:"(.*?)"<expres>
+	<page>http://myklik.rtm.gov.my/player/streamer.php?channel=rtm-ch007</page>
+	<referer>http://myklik.rtm.gov.my/rtmparlimen<referer>
+</regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/rtmparlimen_zpsu1trkjx7.png</thumbnail>
 </item>
 
 <item>
 <title>AKSI SUKAN</title>
-<link>http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch008.smil/chunklist_w708219662_b564000_tkbXlUb2tlblByZWZpeHN0YXJ0dGltZT0wJm15VG9rZW5QcmVmaXhlbmR0aW1lPTE0NTE5MTc3MTkmbXlUb2tlblByZWZpeGhhc2g9ZWMtei1uSzk5WjhyUm9XUG5VNHZUck5NZDVURXFJWlhhdUdRWVB4NC1WMD0=.m3u8</link>
+<link>$doregex[url]|user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:urllib.unquote('$doregex[get-url]')</expres>
+	<page></page>
+</regex>
+<regex>
+	<name>get-url</name>
+	<expres>src:"(.*?)"<expres>
+	<page>http://myklik.rtm.gov.my/player/streamer.php?channel=rtm-ch008</page>
+	<referer>http://myklik.rtm.gov.my/aksisukan<referer>
+</regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/aksisukan_zpsynthgfvn.png</thumbnail>
 </item>
 
@@ -402,6 +450,12 @@
 <title>MARA TV</title>
 <link>http://stream2.1malaysiaiptv.com/mylive/smil:maratv_all.smil/chunklist_w387938424_b1000000_sleng.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/maratv_zpsees3ljuu.png</thumbnail>
+</item>
+
+<item>
+<title>BERNAMA TV</title>
+<link>http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_bernamatv_zpswz7nlgor.png</thumbnail>
 </item>
 </items>
 </channel>
