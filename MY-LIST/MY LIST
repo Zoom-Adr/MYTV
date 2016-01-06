@@ -186,9 +186,15 @@
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_sctv_zpsibjuh3i7.png</thumbnail>
 </item>
 
-<item>
-<title>SCTV SERVER 3</title>
-<link>http://livestreaming.production.liputan6.static6.com/tv/sctvstream300.m3u8</link>
+<item> 
+<title>SCTV SERVER 3</title> 
+<link>$doregex[get-m3u8]</link> 
+<regex> 
+<name>get-m3u8</name>
+<expres>data-clip-hls-url="(.*)"</expres> 
+<page>http://www.vidio.com/live/204-sctv-tv-stream/embed</page> 
+<referer>http://www.sctv.co.id/live</referer>
+</regex> 
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_sctv_zpsibjuh3i7.png</thumbnail>
 </item>
 
