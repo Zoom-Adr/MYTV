@@ -291,15 +291,38 @@
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_awani_zpsssci0ox7.png</thumbnail>
 </item>
 
+<items>
 <item>
 <title>TV1</title>
-<link>http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch001.smil/chunklist_w340855073_b564000_tkbXlUb2tlblByZWZpeHN0YXJ0dGltZT0wJm15VG9rZW5QcmVmaXhlbmR0aW1lPTE0NTE5MTczNTUmbXlUb2tlblByZWZpeGhhc2g9cjczSnJGSVIyU2Y1YWRqTEFuV2NCQzF4WHN2aEdrdVF1dXRhRk90OW1DOD0=.m3u8</link>
+<link>$doregex[url]|user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:urllib.unquote('$doregex[get-url]')</expres>
+	<page></page>
+</regex>
+<regex>
+	<name>get-url</name>
+	<expres>src:"(.*?)"<expres>
+	<page>http://myklik.rtm.gov.my/player/streamer.php?channel=rtm-ch001</page>
+	<referer>http://myklik.rtm.gov.my/tv1<referer>
+</regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv1_zps8mlj4nck.png</thumbnail>
 </item>
 
 <item>
 <title>TV2</title>
-<link>http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch002.smil/chunklist_w1266530250_b564000_tkbXlUb2tlblByZWZpeHN0YXJ0dGltZT0wJm15VG9rZW5QcmVmaXhlbmR0aW1lPTE0NTE5MTc0NTUmbXlUb2tlblByZWZpeGhhc2g9dUY0NWR6T2dueWhtSjFMMTI5WUU4blVNMUVPdzhMLXdnZVU0NFhhWjZrTT0=.m3u8</link>
+<link>$doregex[url]|user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:urllib.unquote('$doregex[get-url]')</expres>
+	<page></page>
+</regex>
+<regex>
+	<name>get-url</name>
+	<expres>src:"(.*?)"<expres>
+	<page>http://myklik.rtm.gov.my/player/streamer.php?channel=rtm-ch002</page>
+	<referer>http://myklik.rtm.gov.my/tv2<referer>
+</regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/My_tv2_zpshzwufzrv.png</thumbnail>
 </item>
 
