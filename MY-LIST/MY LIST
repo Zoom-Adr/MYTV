@@ -614,6 +614,13 @@
 
 <items>
 <item>
+<title>[COLOR red]BT SPORTS EUROPE-[/COLOR]</title>
+<link>rtmp://89.248.171.90/live playpath=bteurope swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf pageUrl=http://www.yocast.tv/embedcr.php?live=bteurope&vw=640&vh=360</link>
+<thumbnail>https://bt-sport-business-prod.s3.amazonaws.com/wp-content/themes/bt-sport-business/images/homepage/bt-sport-europe-logo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>ASTRO SUPERSPORT [HD]</title>
 <link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/astro1.stream/playlist.m3u8?token=$doregex[tok]</link>
 <regex>
