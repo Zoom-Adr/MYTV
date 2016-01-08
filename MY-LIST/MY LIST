@@ -1096,6 +1096,18 @@
 </item>
 
 <item>
+<title>STAR WORLD [HD]</title>
+<link>http://kndstream.ilikehd.com/edge1/hd-starworld_480/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=hd-starworld</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/6/62/STAR_World_2013.png</thumbnail>
+</item>
+
+<item>
 <title>WARNER TV [HD]</title>
 <link>http://kndstream.ilikehd.com/edge1/hd-warnertveng_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
