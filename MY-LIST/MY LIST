@@ -759,19 +759,7 @@
 </item>
 
 <item>
-<title>BT SPORTS EUROPE [HD]</title>
-<link>http$doregex[canal]</link>
-<regex>
-<name>canal</name>
-<expres>src="http(.*?)"</expres>
-<page>http://www.streamlive.to/view/72137/</page>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_0 like Mac OS X; en-us) AppleWebKit/528.18 (KHTML, like Gecko) Version/4.0 Mobile/7A341 Safari/528.16</agent>
-</regex>
-<thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
-</item>
-
-<item>
-<title>]BT SPORT ESPN</title>
+<title>BT SPORT ESPN</title>
 <link>$doregex[get-decode]$doregex[get-token]|Referer=http://p2pcast.tv&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1&amp;X-Requested-With=ShockwaveFlash/20.0.0.267</link>
 <regex>
 <name>get-decode</name>
