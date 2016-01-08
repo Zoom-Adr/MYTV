@@ -5,18 +5,6 @@
 <thumbnail>http://img.freeflagicons.com/thumb/square_icon/indonesia/indonesia_640.png</thumbnail>
 <fanart>http://superboxkodi.x10host.com/Photo/fanart.png</fanart>
 
-<items>
-<item>
-<title>test2222</title>
-<link>http$doregex[canal]</link>
-<regex>
-<name>canal</name>
-<expres>src="http(.*?)"</expres>
-<page>http://sportforyou99.blogspot.sg/p/arena1.html</page>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_0 like Mac OS X; en-us) AppleWebKit/528.18 (KHTML, like Gecko) Version/4.0 Mobile/7A341 Safari/528.16</agent>
-</regex>
-</item>
-
 <item>
 <title>ANTV</title>
 <link>http://edge.nim.mivo.tv/mp17pjqx1esapruf/antv2_576p/playlist.m3u8</link>
