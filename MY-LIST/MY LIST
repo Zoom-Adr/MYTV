@@ -824,6 +824,12 @@
 </item>
 
 <item>
+<title>CTH STADIUM 1 TEST [SD]</title>
+<link>http://goo.gl/iJrEKW</link>
+<thumbnail>http://www.cthbpl.com/img/stadium/stadium1.png</thumbnail>
+</item>
+
+<item>
 <title>CTH STADIUM 2 [HD]</title>
 <link>http://kndstream.ilikehd.com/edge2/hd-arena2_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
