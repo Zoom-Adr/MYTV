@@ -1220,6 +1220,18 @@
 </item>
 
 <item>
+<title>CINEMAX [HD]</title>
+<link>http://kndstream.ilikehd.com/edge1/hd-cinemax_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=hd-cinemax</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
+</regex>
+<thumbnail>http://cdn1-www.comingsoon.net/assets/uploads/2015/01/cinemax.jpg</thumbnail>
+</item>
+
+<item>
 <title>FOX MOVIES PREMIUM [HD]</title>
 <link>http://kndstream.ilikehd.com/edge1/hd-foxpremiumeng_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
