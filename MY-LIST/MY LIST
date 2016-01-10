@@ -138,8 +138,14 @@
 </item>
 
 <item>
-<title>MNCTV</title>
+<title>MNC TV</title>
 <link>http://edge.nim.mivo.tv/mp17pjqx1esapruf/mnctv2_576p/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_mnc_tv_zpshi58jhma.png</thumbnail>
+</item>
+
+<item>
+<title>MNC TV SERVER 2</title>
+<link>http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000022/index.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_mnc_tv_zpshi58jhma.png</thumbnail>
 </item>
 
@@ -164,6 +170,12 @@
 <item>
 <title>RCTI</title>
 <link>http://edge.nim.mivo.tv/mp17pjqx1esapruf/rcti2_576p/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_rcti_zpspbf3nrr5.png</thumbnail>
+</item>
+
+<item>
+<title>RCTI SERVER 2</title>
+<link>http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000042/index.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_rcti_zpspbf3nrr5.png</thumbnail>
 </item>
 
