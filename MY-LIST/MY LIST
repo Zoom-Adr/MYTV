@@ -1278,6 +1278,30 @@
 </item>
 
 <item>
+<title>FOX ACTION CANAL</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?supertvlat=%2F.ts</link>
+<thumbnail>http://tvshows.ofw-ako.com/wp-content/uploads/2015/11/fox-movies.png</thumbnail>
+</item>
+
+<item>
+<title>FOX MOVIES CANAL</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?supertvlat=%2F.ts</link>
+<thumbnail>http://tvshows.ofw-ako.com/wp-content/uploads/2015/11/fox-movies.png</thumbnail>
+</item>
+
+<item>
+<title>FOX CINEMA CANAL</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL421/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>http://tvshows.ofw-ako.com/wp-content/uploads/2015/11/fox-movies.png</thumbnail>
+</item>
+
+<item>
+<title>FOX CLASSIC CANAL</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL424/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>http://tvshows.ofw-ako.com/wp-content/uploads/2015/11/fox-movies.png</thumbnail>
+</item>
+
+<item>
 <title>FOX MOVIES PREMIUM [HD]</title>
 <link>http://kndstream.ilikehd.com/edge1/hd-foxpremiumeng_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
