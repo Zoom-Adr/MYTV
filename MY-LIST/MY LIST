@@ -800,45 +800,9 @@
 </item>
 
 <item>
-<title>CLUB CHANNEL</title>
-<link>http://kndstream.ilikehd.com/edge2/sd-gclubchannel_480/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=sd-gclubchannel</page>
-<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
-</regex>
-<thumbnail>http://www.cth.co.th/wp-content/uploads/2014/02/416-X-2635.jpg</thumbnail>
-</item>
-
-<item>
-<title>CTH STADIUM 1 [HD]</title>
-<link>http://kndstream.ilikehd.com/edge2/hd-arena1_720/playlist.m3u8?token=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=hd-arena1eng</page>
-<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
-</regex>
-<thumbnail>http://www.cthbpl.com/img/stadium/stadium1.png</thumbnail>
-</item>
-
-<item>
 <title>CTH STADIUM 1 [SD]</title>
 <link>http://122.155.203.25/live/sport1/playlist.m3u8</link>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium1.png</thumbnail>
-</item>
-
-<item>
-<title>CTH STADIUM 2 [HD]</title>
-<link>http://kndstream.ilikehd.com/edge2/hd-arena2_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=hd-arena2eng</page>
-<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
-</regex>
-<thumbnail>http://www.cthbpl.com/img/stadium/stadium2.png</thumbnail>
 </item>
 
 <item>
@@ -848,33 +812,9 @@
 </item>
 
 <item>
-<title>CTH STADIUM 3 [HD]</title>
-<link>http://kndstream.ilikehd.com/edge2/hd-arena3_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=hd-arena3eng</page>
-<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
-</regex>
-<thumbnail>http://www.cthbpl.com/img/stadium/stadium3.png</thumbnail>
-</item>
-
-<item>
 <title>CTH STADIUM 3 [SD]</title>
 <link>http://122.155.203.25/live/sport3/playlist.m3u8</link>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium3.png</thumbnail>
-</item>
-
-<item>
-<title>CTH STADIUM 4 [HD]</title>
-<link>http://kndstream.ilikehd.com/edge2/hd-arena4_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=hd-arena4eng</page>
-<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
-</regex>
-<thumbnail>http://www.cthbpl.com/img/stadium/stadium4.png</thumbnail>
 </item>
 
 <item>
@@ -884,129 +824,9 @@
 </item>
 
 <item>
-<title>CTH STADIUM 5 [HD]</title>
-<link>http://kndstream.ilikehd.com/edge2/hd-arena5_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=hd-arena5eng</page>
-<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
-</regex>
-<thumbnail>http://www.cthbpl.com/img/stadium/stadium5.png</thumbnail>
-</item>
-
-<item>
 <title>CTH STADIUM 5 [SD]</title>
 <link>http://122.155.203.25/live/sport5/playlist.m3u8</link>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium5.png</thumbnail>
-</item>
-
-<item>
-<title>CTH STADIUM 6 [HD]</title>
-<link>http://kndstream.ilikehd.com/edge2/hd-arena6_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=hd-arena6</page>
-<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
-</regex>
-<thumbnail>http://www.cthbpl.com/img/stadium/stadium6.png</thumbnail>
-</item>
-
-<item>
-<title>CTH STADIUM X [HD]</title>
-<link>http://kndstream.ilikehd.com/edge2/hd-arenax_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=hd-arenaxeng</page>
-<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
-</regex>
-<thumbnail>http://www.cthbpl.com/img/stadium/stadiumX.png</thumbnail>
-</item>
-
-<item>
-<title>EUROSPORT CTH</title>
-<link>http://kndstream.ilikehd.com/edge2/hd-eurosport_480/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=hd-eurosport</page>
-<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
-</regex>
-<thumbnail>http://www.topnotizie.it/wp-content/uploads/2015/12/eurosport.jpg</thumbnail>
-</item>
-
-<item>
-<title>FIGHT SPORTS CTH</title>
-<link>http://kndstream.ilikehd.com/edge2/hd-fightsports_480/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=hd-fightsports</page>
-<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
-</regex>
-<thumbnail>http://www.cth.co.th/wp-content/uploads/2013/06/415-x-2633.jpg</thumbnail>
-</item>
-
-<item>
-<title>FOOTBALL EURO [HD]</title>
-<link>http://kndstream.ilikehd.com/edge2/hd-gfooteuro_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=hd-gfooteuro</page>
-<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
-</regex>
-<thumbnail>http://www.cth.co.th/wp-content/uploads/2014/02/416-X-263.jpg</thumbnail>
-</item>
-
-<item>
-<title>FOOTBALL PLUS [HD]</title>
-<link>http://kndstream.ilikehd.com/edge2/sd-gfootplus_480/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=sd-gfootplus</page>
-<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
-</regex>
-<thumbnail>http://www.cth.co.th/wp-content/uploads/2014/02/416-X-2631.jpg</thumbnail>
-</item>
-
-<item>
-<title>FOX SPORTS 1 ASIA [HD]</title>
-<link>http://kndstream.ilikehd.com/edge2/hd-foxsports1_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=hd-foxsports1</page>
-<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
-</regex>
-<thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
-</item>
-
-<item>
-<title>FOX SPORTS 2 ASIA [HD]</title>
-<link>http://kndstream.ilikehd.com/edge3/sd-foxsports2eng_480/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=sd-foxsports2eng</page>
-<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
-</regex>
-<thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
-</item>
-
-<item>
-<title>FOX SPORTS 3 ASIA [HD]</title>
-<link>http://kndstream.ilikehd.com/edge3/sd-foxsports3eng_480/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=sd-foxsports3eng</page>
-<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
-</regex>
-<thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
 </item>
 
 <item>
@@ -1150,90 +970,6 @@
 </item>
 
 <item>
-<title>SPORTS EXTREME</title>
-<link>http://kndstream.ilikehd.com/edge2/sd-gsportextreme_480/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://www.cth.co.th/wp-content/uploads/2014/09/416-X-2631.jpg</page>
-<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
-</regex>
-<thumbnail>http://www.cth.co.th/wp-content/uploads/2014/02/416-X-2635.jpg</thumbnail>
-</item>
-
-<item>
-<title>SPORTS PLUS</title>
-<link>http://kndstream.ilikehd.com/edge2/sd-gsportplus_480/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=sd-gsportplus</page>
-<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=home</referer>
-</regex>
-<thumbnail>http://www.cth.co.th/wp-content/uploads/2014/09/416-X-2632.jpg</thumbnail>
-</item>
-
-<item>
-<title>TRUE SPORTS [HD]</title>
-<link>http://kndstream.ilikehd.com/edge2/hd-tsport1_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=hd-tsport1</page>
-<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
-</regex>
-<thumbnail>http://nowwatchtvlive.me/wp-content/uploads/2012/12/True-Sport-Thailand.jpeg</thumbnail>
-</item>
-
-<item>
-<title>TRUE SPORTS 2 [HD]</title>
-<link>http://kndstream.ilikehd.com/edge2/hd-tsport2_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=hd-tsport2</page>
-<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
-</regex>
-<thumbnail>http://nowwatchtvlive.me/wp-content/uploads/2012/12/True-Sport-Thailand.jpeg</thumbnail>
-</item>
-
-<item>
-<title>TRUE SPORTS 3 [HD]</title>
-<link>http://kndstream.ilikehd.com/edge2/hd-tsport3_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=hd-tsport3</page>
-<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
-</regex>
-<thumbnail>http://nowwatchtvlive.me/wp-content/uploads/2012/12/True-Sport-Thailand.jpeg</thumbnail>
-</item>
-
-<item>
-<title>TRUE SPORTS 4 [HD]</title>
-<link>http://kndstream.ilikehd.com/edge2/hd-tsport4_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=hd-tsport4</page>
-<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
-</regex>
-<thumbnail>http://nowwatchtvlive.me/wp-content/uploads/2012/12/True-Sport-Thailand.jpeg</thumbnail>
-</item>
-
-<item>
-<title>TRUE VISION BEIN SPORTS [HD]</title>
-<link>http://kndstream.ilikehd.com/edge2/hd-bein_720/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=hd-bein</page>
-<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv</referer>
-</regex>
-<thumbnail>http://www.cox.com/wcm/en/video/tv/bein-sport/bein-tv-sp-promo.jpg</thumbnail>
-</item>
-
-<item>
 <title>USA NETWORK [HD]</title>
 <link>http://www.iptvlinks.tk/$doregex[file]|user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
 <regex>
@@ -1248,7 +984,7 @@
 </channel>
 
 <channel>
-<name>[COLOR=FFFFFF00]WORLD OF ENTERTAINMENT - DOWN[/COLOR]</name>
+<name>[COLOR=FFFFFF00]WORLD OF ENTERTAINMENT - WORK IN PROGRESS[/COLOR]</name>
 <thumbnail>http://static1.squarespace.com/static/52d3279be4b0e8787707c127/t/53b9c56ce4b0b0a60334d578/1404683640897/thats_entertainment_gold.jpg?format=1500w</thumbnail>
 <fanart>http://superboxkodi.x10host.com/Photo/fanart.png</fanart>
 
