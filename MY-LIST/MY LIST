@@ -624,6 +624,96 @@
 <fanart>http://superboxkodi.x10host.com/Photo/fanart.png</fanart>
 
 <item>
+<item>
+<title>ASTRO SUPERSPORT 1</title>
+<link>$doregex[get-decode]$doregex[get-token]|Referer=http://p2pcast.tv&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1&amp;X-Requested-With=ShockwaveFlash/20.0.0.267</link>
+<regex>
+<name>get-decode</name>
+<expres>$pyFunction:base64.b64decode("$doregex[get-enctext]")</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-enctext</name>
+<expres>murl = "(.*?)"</expres>
+<page>http://p2pcast.tv/stream.php?id=$doregex[id]</page>
+<referer>http://p2pcast.tv/</referer>
+</regex>
+<regex>
+<name>get-token</name>
+<expres>"token":"(.*?)"</expres>
+<page>http://p2pcast.tv/getTok.php</page>
+<referer>http://p2pcast.tv/</referer>
+<x-req>XMLHttpRequest</x-req>
+</regex>
+<regex>
+<name>id</name>
+<expres>id='(.*?)'</expres>
+<page>http://antenasport.com/astro1.html</page>
+<referer>http://antenasport.com/</referer>
+</regex>
+<thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png</thumbnail>
+</item>
+
+<item>
+<title>ASTRO SUPERSPORT 2</title>
+<link>$doregex[get-decode]$doregex[get-token]|Referer=http://p2pcast.tv&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1&amp;X-Requested-With=ShockwaveFlash/20.0.0.267</link>
+<regex>
+<name>get-decode</name>
+<expres>$pyFunction:base64.b64decode("$doregex[get-enctext]")</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-enctext</name>
+<expres>murl = "(.*?)"</expres>
+<page>http://p2pcast.tv/stream.php?id=$doregex[id]</page>
+<referer>http://p2pcast.tv/</referer>
+</regex>
+<regex>
+<name>get-token</name>
+<expres>"token":"(.*?)"</expres>
+<page>http://p2pcast.tv/getTok.php</page>
+<referer>http://p2pcast.tv/</referer>
+<x-req>XMLHttpRequest</x-req>
+</regex>
+<regex>
+<name>id</name>
+<expres>id='(.*?)'</expres>
+<page>http://antenasport.com/astro2.html</page>
+<referer>http://antenasport.com/</referer>
+</regex>
+<thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png</thumbnail>
+</item>
+
+<item>
+<title>ASTRO SUPERSPORT 3</title>
+<link>$doregex[get-decode]$doregex[get-token]|Referer=http://p2pcast.tv&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1&amp;X-Requested-With=ShockwaveFlash/20.0.0.267</link>
+<regex>
+<name>get-decode</name>
+<expres>$pyFunction:base64.b64decode("$doregex[get-enctext]")</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-enctext</name>
+<expres>murl = "(.*?)"</expres>
+<page>http://p2pcast.tv/stream.php?id=$doregex[id]</page>
+<referer>http://p2pcast.tv/</referer>
+</regex>
+<regex>
+<name>get-token</name>
+<expres>"token":"(.*?)"</expres>
+<page>http://p2pcast.tv/getTok.php</page>
+<referer>http://p2pcast.tv/</referer>
+<x-req>XMLHttpRequest</x-req>
+</regex>
+<regex>
+<name>id</name>
+<expres>id='(.*?)'</expres>
+<page>http://antenasport.com/astro3.html</page>
+<referer>http://antenasport.com/</referer>
+</regex>
+<thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png</thumbnail>
+</item>
+
 <title>ASTRO SUPERSPORT [HD]</title>
 <link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/astro1.stream/playlist.m3u8?token=$doregex[tok]</link>
 <regex>
