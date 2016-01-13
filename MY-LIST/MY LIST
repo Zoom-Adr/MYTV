@@ -831,6 +831,13 @@
 
 <item>
 <title>BT SPORTS EUROPE</title>
+<sportsdevil>http://streamking.co/player?channel=bteurope&type=p2p</sportsdevil>
+<referer>http://streamking.co/player?channel=bteurope&type=p2p</referer>
+<thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
+</item>
+
+<item>
+<title>BT SPORTS EUROPE</title>
 <link>$doregex[get-decode]$doregex[get-token]|Referer=http://p2pcast.tv&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1&amp;X-Requested-With=ShockwaveFlash/20.0.0.267</link>
 <regex>
 <name>get-decode</name>
