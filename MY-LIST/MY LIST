@@ -624,7 +624,6 @@
 <fanart>https://copy.com/3DOPcizk8KpzXYi9</fanart>
 
 <item>
-<item>
 <title>ASTRO SUPERSPORT 1</title>
 <link>$doregex[get-decode]$doregex[get-token]|Referer=http://p2pcast.tv&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1&amp;X-Requested-With=ShockwaveFlash/20.0.0.267</link>
 <regex>
