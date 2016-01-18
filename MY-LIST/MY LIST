@@ -1067,68 +1067,58 @@
 </item>
 
 <item>
-<title>HBO</title>
-<link>http$doregex[canal]</link>
-<regex>
-<name>canal</name>
-<expres>src="http(.*?)"</expres>
-<page>http://www.streamlive.to/view/69021/HBO</page>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_0 like Mac OS X; en-us) AppleWebKit/528.18 (KHTML, like Gecko) Version/4.0 Mobile/7A341 Safari/528.16</agent>
-</regex>
-<thumbnail>http://hboasiapromos.s3.amazonaws.com/0_core/fb-hbo-480x320.jpg</thumbnail>
-</item>
-
-<item>
-<title>HBO COMEDY</title>
-<link>http$doregex[canal]</link>
-<regex>
-<name>canal</name>
-<expres>src="http(.*?)"</expres>
-<page>http://www.streamlive.to/view/38214/</page>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_0 like Mac OS X; en-us) AppleWebKit/528.18 (KHTML, like Gecko) Version/4.0 Mobile/7A341 Safari/528.16</agent>
-</regex>
-<thumbnail>http://hboasiapromos.s3.amazonaws.com/0_core/fb-hbo-480x320.jpg</thumbnail>
-</item>
-
-<item>
-<title>SKY ACTION</title>
-<link>http://bit.ly/1OhxgZr</link>
+<title>SKY ACTION & ADVENTURE</title>
+<link>http://star7arab-iptv.sytes.net:8000/live/WSS2/support@wsswebhost.com/65.m3u8|User-Agent: Mozilla/5.0 Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:43.0) Gecko/20100101 Firefox/43.0  
+</link>
 <thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
 </item>
 
 <item>
 <title>SKY COMEDY</title>
-<link>http://bit.ly/1RDWyXi</link>
+<link>http://star7arab-iptv.sytes.net:8000/live/WSS2/support@wsswebhost.com/66.m3u8|User-Agent: Mozilla/5.0 Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:43.0) Gecko/20100101 Firefox/43.0  
+</link>
 <thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
 </item>
 
 <item>
-<title>SKY DISNEY</title>
-<link>http://bit.ly/1SNKfGe</link>
+<title>SKY CRIME & THRILLER</title>
+<link>http://star7arab-iptv.sytes.net:8000/live/WSS2/support@wsswebhost.com/67.m3u8|User-Agent: Mozilla/5.0 Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:43.0) Gecko/20100101 Firefox/43.0  
+</link>
 <thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
 </item>
 
 <item>
-<title>SKY GREATS</title>
-<link>http://bit.ly/1NFLPtK</link>
+<title>SKY MODERN GREATS</title>
+<link>http://star7arab-iptv.sytes.net:8000/live/WSS2/support@wsswebhost.com/70.m3u8|User-Agent: Mozilla/5.0 Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:43.0) Gecko/20100101 Firefox/43.0  
+</link>
 <thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
 </item>
 
 <item>
 <title>SKY FAMILY</title>
-<link>http://bit.ly/1IEcEy4</link>
+<link>http://star7arab-iptv.sytes.net:8000/live/WSS2/support@wsswebhost.com/69.m3u8|User-Agent: Mozilla/5.0 Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:43.0) Gecko/20100101 Firefox/43.0  
+</link>
 <thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
 </item>
 
 <item>
-<title>SKY ATLANTIC</title>
-<link>http://bit.ly/21OjTtM</link>
+<title>SKY SCI-FI & HORROR</title>
+<link>http://star7arab-iptv.sytes.net:8000/live/WSS2/support@wsswebhost.com/72.m3u8|User-Agent: Mozilla/5.0 Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:43.0) Gecko/20100101 Firefox/43.0  
+</link>
 <thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
 </item>
 
 <item>
-<title>SKY SCI-FI</title>
-<link>http://bit.ly/1Nb3nfJ</link>
+<title>SKY PREMIERE</title>
+<link>http://star7arab-iptv.sytes.net:8000/live/WSS2/support@wsswebhost.com/71.m3u8|User-Agent: Mozilla/5.0 Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:43.0) Gecko/20100101 Firefox/43.0  
+</link>
+<thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
+</item>
+
+<item>
+<title>SKY SELECT</title>
+<link>http://star7arab-iptv.sytes.net:8000/live/WSS2/support@wsswebhost.com/73.m3u8|User-Agent: Mozilla/5.0 Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:43.0) Gecko/20100101 Firefox/43.0  
+</link>
 <thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
 </item>
 
