@@ -905,6 +905,18 @@
 </item>
 
 <item>
+<title>FOX SPORTS 1 USA [HD]</title>
+<link>http://www.iptvlinks.tk/$doregex[file]|user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
+<regex>
+<name>file</name>
+<expres>src = '(.*?)'</expres>
+<page>http://www.iptvlinks.tk/ds/embed?id=fox-sports-1</page>
+<referer>http://www.zoptv.com/live/fox-sports-1</referer>
+</regex>
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports_us_1.png</thumbnail>
+</item>
+
+<item>
 <title>FOX SPORTS 1 USA [SD]</title>
 <link>http://213.136.90.30:8000/live/christop/christop/9373.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports_us_1.png</thumbnail>
