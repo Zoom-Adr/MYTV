@@ -870,8 +870,36 @@
 </item>
 
 <item>
-<title>FOX SPORTS 1 NL [SD]</title>
+<title>FOX SPORTS 1 NL [HD]</title>
 <link>http://185.59.222.34:8000/live/WSS2/support@wsswebhost.com/5.m3u8|User-Agent: Mozilla/5.0 Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:43.0) Gecko/20100101 Firefox/43.0  
+</link>
+<thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
+</item>
+
+<item>
+<title>FOX SPORTS 2 NL [HD]</title>
+<link>http://185.59.222.34:8000/live/WSS2/support@wsswebhost.com/4.m3u8|User-Agent: Mozilla/5.0 Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:43.0) Gecko/20100101 Firefox/43.0  
+</link>
+<thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
+</item>
+
+<item>
+<title>FOX SPORTS 3 NL [HD]</title>
+<link>http://185.59.222.34:8000/live/WSS2/support@wsswebhost.com/3.m3u8|User-Agent: Mozilla/5.0 Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:43.0) Gecko/20100101 Firefox/43.0  
+</link>
+<thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
+</item>
+
+<item>
+<title>FOX SPORTS 4 NL [HD]</title>
+<link>http://185.59.222.34:8000/live/WSS2/support@wsswebhost.com/2.m3u8|User-Agent: Mozilla/5.0 Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:43.0) Gecko/20100101 Firefox/43.0  
+</link>
+<thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
+</item>
+
+<item>
+<title>FOX SPORTS 5 NL [HD]</title>
+<link>http://185.59.222.34:8000/live/WSS2/support@wsswebhost.com/1.m3u8|User-Agent: Mozilla/5.0 Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:43.0) Gecko/20100101 Firefox/43.0  
 </link>
 <thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
 </item>
@@ -1031,7 +1059,7 @@
 </item>
 
 <channel>
-<name>[COLOR=FFFFFF00]WORLD OF ENTERTAINMENT - WORK IN PROGRESS[/COLOR]</name>
+<name>[COLOR=FFFFFF00]WORLD OF ENTERTAINMENT[/COLOR]</name>
 <thumbnail>http://static1.squarespace.com/static/52d3279be4b0e8787707c127/t/53b9c56ce4b0b0a60334d578/1404683640897/thats_entertainment_gold.jpg?format=1500w</thumbnail>
 <fanart>https://copy.com/3DOPcizk8KpzXYi9</fanart>
 
