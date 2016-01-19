@@ -779,6 +779,12 @@
 </item>
 
 <item>
+<title>BT SPORTS 1 [HD]</title>
+<link>http://ovh143.bsdns.eu:8080/live/UK-BT-Sports-1/mpegts?token=bestTrial-e4308:jGA9W7BFha</link>
+<thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
+</item>
+
+<item>
 <title>BT SPORTS 2</title>
 <link>$doregex[getEncLink]</link>
 <regex>
