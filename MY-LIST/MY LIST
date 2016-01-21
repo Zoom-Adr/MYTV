@@ -997,36 +997,11 @@
 
 <item>
 <title>WWE NETWORK</title>
-<link>$doregex[getCleanRTMP] app=$doregex[getCleanapp] playpath=$doregex[get-playpath] token=$doregex[get-tok] swfUrl=http://www.streamlive.to/ads/streamlive.swf pageUrl=http://www.streamlive.to/view/73270/WWE_Network_%28HD%29-aaz</link>
+<link>$doregex[url]</link>
 <regex>
-<name>getCleanRTMP</name>
-<expres>$pyFunction:'$doregex[get-rtmp]'.replace('\/','/')</expres>
-<page></page>
-</regex>
-<regex>
-<name>getCleanapp</name>
-<expres>$pyFunction:'$doregex[get-app]'.replace('\/','/')</expres>
-<page></page>
-</regex>
-<regex>
-<name>get-playpath</name>
-<expres>file: "(.*).flv</expres>
-<page>http://www.streamlive.to/view/73270/WWE_Network_%28HD%29-aaz</page>
-</regex>
-<regex>
-<name>get-app</name>
-<expres>(edge.*)"</expres>
-<page>http://www.streamlive.to/view/73270/WWE_Network_%28HD%29-aaz</page>
-</regex>
-<regex>
-<name>get-rtmp</name>
-<expres>streamer: "(rtmp:.*)edge</expres>
-<page>http://www.streamlive.to/view/73270/WWE_Network_%28HD%29-aaz</page>
-</regex>
-<regex>
-<name>get-tok</name>
-<expres>{"token":"(.*?)"}</expres>
-<page>http://www.streamlive.to/server.php?id=</page>
+	<name>url</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/view/70407',False,False)</expres>
+	<page></page>
 </regex>
 <thumbnail>http://i.imgur.com/Ug9xGzp.png</thumbnail>
 </item>
