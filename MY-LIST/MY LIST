@@ -997,24 +997,36 @@
 
 <item>
 <title>WWE NETWORK</title>
-<link>http$doregex[canal]</link>
+<link>$doregex[getCleanRTMP] app=$doregex[getCleanapp] playpath=$doregex[get-playpath] token=$doregex[get-tok] swfUrl=http://www.streamlive.to/ads/streamlive.swf pageUrl=http://www.streamlive.to/view/73270/WWE_Network_%28HD%29-aaz</link>
 <regex>
-<name>canal</name>
-<expres>src="http(.*?)"</expres>
-<page>http://www.streamlive.to/view/72809/</page>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_0 like Mac OS X; en-us) AppleWebKit/528.18 (KHTML, like Gecko) Version/4.0 Mobile/7A341 Safari/528.16</agent>
+<name>getCleanRTMP</name>
+<expres>$pyFunction:'$doregex[get-rtmp]'.replace('\/','/')</expres>
+<page></page>
 </regex>
-<thumbnail>http://i.imgur.com/Ug9xGzp.png</thumbnail>
-</item>
-
-<item>
-<title>WWE NETWORK SERVER 2</title>
-<link>http$doregex[canal]</link>
 <regex>
-<name>canal</name>
-<expres>src="http(.*?)"</expres>
-<page>http://www.streamlive.to/view/70407/</page>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_0 like Mac OS X; en-us) AppleWebKit/528.18 (KHTML, like Gecko) Version/4.0 Mobile/7A341 Safari/528.16</agent>
+<name>getCleanapp</name>
+<expres>$pyFunction:'$doregex[get-app]'.replace('\/','/')</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-playpath</name>
+<expres>file: "(.*).flv</expres>
+<page>http://www.streamlive.to/view/73270/WWE_Network_%28HD%29-aaz</page>
+</regex>
+<regex>
+<name>get-app</name>
+<expres>(edge.*)"</expres>
+<page>http://www.streamlive.to/view/73270/WWE_Network_%28HD%29-aaz</page>
+</regex>
+<regex>
+<name>get-rtmp</name>
+<expres>streamer: "(rtmp:.*)edge</expres>
+<page>http://www.streamlive.to/view/73270/WWE_Network_%28HD%29-aaz</page>
+</regex>
+<regex>
+<name>get-tok</name>
+<expres>{"token":"(.*?)"}</expres>
+<page>http://www.streamlive.to/server.php?id=</page>
 </regex>
 <thumbnail>http://i.imgur.com/Ug9xGzp.png</thumbnail>
 </item>
