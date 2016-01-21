@@ -1052,59 +1052,93 @@
 </item>
 
 <item>
+<title>SKY 1</title>
+<link>http://ovh143.bsdns.eu:8080/live/UK-Sky-One/mpegts?token=testrapid:3CmWLfb3kW</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/9/91/Sky1_logo_2011.svg/1280px-Sky1_logo_2011.svg.png</thumbnail>
+</item>
+
+<item>
+<title>SKY 2</title>
+<link>http://ovh143.bsdns.eu:8080/live/UK-Sky-Two/mpegts?token=testrapid:3CmWLfb3kW</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Sky2_logo_2011.svg/1280px-Sky2_logo_2011.svg.png</thumbnail>
+</item>
+
+<item>
 <title>SKY ACTION & ADVENTURE</title>
-<link>http://star7arab-iptv.sytes.net:8000/live/WSS2/support@wsswebhost.com/65.m3u8|User-Agent: Mozilla/5.0 Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:43.0) Gecko/20100101 Firefox/43.0  
-</link>
+<link>http://ovh143.bsdns.eu:8080/live/UK-Sky-Movies-Action/mpegts?token=testrapid:3CmWLfb3kW</link>
 <thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
 </item>
 
 <item>
 <title>SKY COMEDY</title>
-<link>http://star7arab-iptv.sytes.net:8000/live/WSS2/support@wsswebhost.com/66.m3u8|User-Agent: Mozilla/5.0 Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:43.0) Gecko/20100101 Firefox/43.0  
-</link>
+<link>http://ovh143.bsdns.eu:8080/live/UK-Sky-Movies-Comedy/mpegts?token=testrapid:3CmWLfb3kW</link>
 <thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
 </item>
 
 <item>
 <title>SKY CRIME & THRILLER</title>
-<link>http://star7arab-iptv.sytes.net:8000/live/WSS2/support@wsswebhost.com/67.m3u8|User-Agent: Mozilla/5.0 Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:43.0) Gecko/20100101 Firefox/43.0  
-</link>
+<link>http://ovh143.bsdns.eu:8080/live/UK-Sky-Movies-Thriller/mpegts?token=testrapid:3CmWLfb3kW</link>
+<thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
+</item>
+
+<item>
+<title>SKY DRAMA</title>
+<link>http://ovh143.bsdns.eu:8080/live/UK-Sky-Movies-Drama/mpegts?token=testrapid:3CmWLfb3kW</link>
 <thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
 </item>
 
 <item>
 <title>SKY MODERN GREATS</title>
-<link>http://star7arab-iptv.sytes.net:8000/live/WSS2/support@wsswebhost.com/70.m3u8|User-Agent: Mozilla/5.0 Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:43.0) Gecko/20100101 Firefox/43.0  
-</link>
+<link>http://ovh143.bsdns.eu:8080/live/UK-Sky-Movies-Modern-Greats/mpegts?token=testrapid:3CmWLfb3kW</link>
 <thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
 </item>
 
 <item>
 <title>SKY FAMILY</title>
-<link>http://star7arab-iptv.sytes.net:8000/live/WSS2/support@wsswebhost.com/69.m3u8|User-Agent: Mozilla/5.0 Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:43.0) Gecko/20100101 Firefox/43.0  
-</link>
+<link>http://ovh143.bsdns.eu:8080/live/UK-Sky-Movies-Family/mpegts?token=testrapid:3CmWLfb3kW</link>
 <thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SCI-FI & HORROR</title>
-<link>http://star7arab-iptv.sytes.net:8000/live/WSS2/support@wsswebhost.com/72.m3u8|User-Agent: Mozilla/5.0 Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:43.0) Gecko/20100101 Firefox/43.0  
-</link>
+<link>http://ovh143.bsdns.eu:8080/live/UK-Sky-Movies-Scifi---Horror/mpegts?token=testrapid:3CmWLfb3kW</link>
 <thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
 </item>
 
 <item>
 <title>SKY PREMIERE</title>
-<link>http://star7arab-iptv.sytes.net:8000/live/WSS2/support@wsswebhost.com/71.m3u8|User-Agent: Mozilla/5.0 Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:43.0) Gecko/20100101 Firefox/43.0  
-</link>
+<link>http://ovh143.bsdns.eu:8080/live/UK-Sky-Movies-Premiere/mpegts?token=testrapid:3CmWLfb3kW</link>
 <thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SELECT</title>
-<link>http://star7arab-iptv.sytes.net:8000/live/WSS2/support@wsswebhost.com/73.m3u8|User-Agent: Mozilla/5.0 Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:43.0) Gecko/20100101 Firefox/43.0  
-</link>
+<link>http://ovh143.bsdns.eu:8080/live/UK-Sky-Movies-Select/mpegts?token=testrapid:3CmWLfb3kW</link>
 <thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
+</item>
+
+<item>
+<title>SKY SHOWCASE</title>
+<link>http://ovh143.bsdns.eu:8080/live/UK-Sky-Movies-Showcase/mpegts?token=testrapid:3CmWLfb3kW</link>
+<thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
+</item>
+
+<item>
+<title>SYFY</title>
+<link>http://ovh143.bsdns.eu:8080/live/UK-SyFy/mpegts?token=testrapid:3CmWLfb3kW</link>
+<thumbnail>http://cdn.bleedingcool.net/wp-content/uploads/2014/09/syfy-logo-484_0.jpg</thumbnail>
+</item>
+
+<item>
+<title>TRUE MOVIES 1</title>
+<link>http://ovh143.bsdns.eu:8080/live/UK-True-Movies-1/mpegts?token=testrapid:3CmWLfb3kW</link>
+<thumbnail>http://theident.gallery/true/2005/TRUE-2013-ID-MOVIES1-1-2.jpg</thumbnail>
+</item>
+
+<item>
+<title>TRUE MOVIES 2</title>
+<link>http://ovh143.bsdns.eu:8080/live/UK-True-Movies-2/mpegts?token=testrapid:3CmWLfb3kW</link>
+<thumbnail>http://theident.gallery/true/2005/TRUE-2013-ID-MOVIES1-1-2.jpg</thumbnail>
 </item>
 
 <item>
