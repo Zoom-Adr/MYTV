@@ -1186,5 +1186,16 @@
 <link>http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?supertvlat=%2F.ts</link>
 <thumbnail>http://www.cth.co.th/wp-content/uploads/2014/09/415-x-263_1.jpg</thumbnail>
 </item>
+
+<item>
+<title>Streamlive</title>
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/view/38804',False,False)</expres>
+	<page></page>
+</regex>
+<thumbnail></thumbnail>
+</item>
 </items>
 </channel>
