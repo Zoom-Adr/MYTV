@@ -630,6 +630,36 @@
 <fanart>https://copy.com/3DOPcizk8KpzXYi9</fanart>
 
 <item>
+<title>ARENASPORT 1</title>
+<link>http://46.40.5.99:8000/arena_1_720</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/6/65/Arena_sport_logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>ARENASPORT 2</title>
+<link>http://46.40.5.99:8000/arena_2_720</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/6/65/Arena_sport_logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>ARENASPORT 3</title>
+<link>http://46.40.5.99:8000/arena_3_720</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/6/65/Arena_sport_logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>ARENASPORT 4</title>
+<link>http://46.40.5.99:8000/arena_4_720</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/6/65/Arena_sport_logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>ARENASPORT 5</title>
+<link>https://hec.su/choR</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/6/65/Arena_sport_logo.jpg</thumbnail>
+</item>
+
+<item>
 <title>ASTRO SUPERSPORT 1</title>
 <link>$doregex[get-decode]$doregex[get-token]|Referer=http://p2pcast.tv&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1&amp;X-Requested-With=ShockwaveFlash/20.0.0.267</link>
 <regex>
@@ -763,62 +793,26 @@
 
 <item>
 <title>BT SPORTS 1</title>
-<link>$doregex[getEncLink]</link>
-<regex>
-<name>getDecLink</name>
-<expres>curl = "(.*?)"</expres>
-<page>http://miplayer.net/embedplayer.php?width=640&amp;height=480&amp;id=ibrodtv26&amp;autoplay=true&amp;strech=exactfit</page>
-<referer>http://www.ibrodtv.net/embed.php?chan=tv26&width=640&height=480</referer>
-</regex>
-<regex>
-<name>getEncLink</name>
-<expres>$pyFunction:base64.b64decode("$doregex[getDecLink]")</expres>
-<page></page>
-</regex>
-<thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
-</item>
-
-<item>
-<title>BT SPORTS 1 [HD]</title>
-<link>http://ovh143.bsdns.eu:8080/live/UK-BT-Sports-1/mpegts?token=bestTrial-e4308:jGA9W7BFha</link>
+<link>http://80.243.189.26:8081/sportshd/bt1/index.m3u8</link>
 <thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
 </item>
 
 <item>
 <title>BT SPORTS 2</title>
-<link>$doregex[getEncLink]</link>
-<regex>
-<name>getDecLink</name>
-<expres>curl = "(.*?)"</expres>
-<page>http://miplayer.net/embedplayer.php?width=640&amp;height=480&amp;id=ibrodtv27&amp;autoplay=true&amp;strech=exactfit</page>
-<referer>http://www.ibrodtv.net/embed.php?chan=tv27&width=640&height=480</referer>
-</regex>
-<regex>
-<name>getEncLink</name>
-<expres>$pyFunction:base64.b64decode("$doregex[getDecLink]")</expres>
-<page></page>
-</regex>
+<link>http://80.243.189.26:8081/sportshd/bt2/index.m3u8</link>
 <thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
 </item>
 
 <item>
 <title>BT SPORTS EUROPE</title>
-<link>http://star7arab-iptv.sytes.net:8000/live/WSS2/support@wsswebhost.com/127.m3u8|User-Agent: Mozilla/5.0 Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:43.0) Gecko/20100101 Firefox/43.0  
-</link>
+<link></link>
 <thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
 </item>
 
 <item>
 <title>BT SPORTS ESPN</title>
-<link>http://star7arab-iptv.sytes.net:8000/live/WSS2/support@wsswebhost.com/47.m3u8|User-Agent: Mozilla/5.0 Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:43.0) Gecko/20100101 Firefox/43.0  
-</link>
+<link>http://80.243.189.26:8081/sportshd/espnuk/index.m3u8</link>
 <thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
-</item>
-
-<item>
-<title>CTH STADIUM 1 [HD]</title>
-<link>http://grandiptv.myftp.org:8000/live/test45/test45/1445.m3u8</link>
-<thumbnail>http://www.cthbpl.com/img/stadium/stadium1.png</thumbnail>
 </item>
 
 <item>
@@ -828,21 +822,9 @@
 </item>
 
 <item>
-<title>CTH STADIUM 2 [HD]</title>
-<link>http://grandiptv.myftp.org:8000/live/test45/test45/1446.m3u8</link>
-<thumbnail>http://www.cthbpl.com/img/stadium/stadium2.png</thumbnail>
-</item>
-
-<item>
 <title>CTH STADIUM 2 [SD]</title>
 <link>http://122.155.203.25/live/sport2/playlist.m3u8</link>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium2.png</thumbnail>
-</item>
-
-<item>
-<title>CTH STADIUM 3 [HD]</title>
-<link>http://grandiptv.myftp.org:8000/live/test45/test45/1450.m3u8</link>
-<thumbnail>http://www.cthbpl.com/img/stadium/stadium3.png</thumbnail>
 </item>
 
 <item>
@@ -852,21 +834,9 @@
 </item>
 
 <item>
-<title>CTH STADIUM 4 [HD]</title>
-<link>http://grandiptv.myftp.org:8000/live/test45/test45/1447.m3u8</link>
-<thumbnail>http://www.cthbpl.com/img/stadium/stadium4.png</thumbnail>
-</item>
-
-<item>
 <title>CTH STADIUM 4 [SD]</title>
 <link>http://122.155.203.25/live/sport4/playlist.m3u8</link>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium4.png</thumbnail>
-</item>
-
-<item>
-<title>CTH STADIUM 5 [HD]</title>
-<link>http://grandiptv.myftp.org:8000/live/test45/test45/1448.m3u8</link>
-<thumbnail>http://www.cthbpl.com/img/stadium/stadium5.png</thumbnail>
 </item>
 
 <item>
@@ -876,9 +846,27 @@
 </item>
 
 <item>
-<title>CTH STADIUM 6 [HD]</title>
-<link>http://grandiptv.myftp.org:8000/live/test45/test45/1449.m3u8</link>
-<thumbnail>http://www.cthbpl.com/img/stadium/stadium6.png</thumbnail>
+<title>DIGISPORT 1</title>
+<link>http://82.76.249.81/digiedge/digisport1ehq/index.m3u8?is=1&src=digi-online.ro&t=00000000000000000000000000000000</link>
+<thumbnail>http://mediav1.rtv.net/image/201507/w620/digi_sport_cz_05641200.png</thumbnail>
+</item>
+
+<item>
+<title>DIGISPORT 2</title>
+<link>http://82.76.249.81/digiedge/digisport2ehq/index.m3u8?is=2&src=digi-online.ro&t=00000000000000000000000000000000</link>
+<thumbnail>http://mediav1.rtv.net/image/201507/w620/digi_sport_cz_05641200.png</thumbnail>
+</item>
+
+<item>
+<title>DIGISPORT 3</title>
+<link>http://82.76.249.81/digiedge/digisport3ehq/index.m3u8?is=3&src=digi-online.ro&t=00000000000000000000000000000000</link>
+<thumbnail>http://mediav1.rtv.net/image/201507/w620/digi_sport_cz_05641200.png</thumbnail>
+</item>
+
+<item>
+<title>DIGISPORT 4</title>
+<link>http://82.76.249.81/digiedge/digisport4ehq/index.m3u8?is=49&src=digi-online.ro&t=00000000000000000000000000000000</link>
+<thumbnail>http://mediav1.rtv.net/image/201507/w620/digi_sport_cz_05641200.png</thumbnail>
 </item>
 
 <item>
@@ -929,14 +917,14 @@
 </item>
 
 <item>
-<title>FOX SPORTS 1 USA [SD]</title>
-<link>http://213.136.90.30:8000/live/christop/christop/9373.m3u8</link>
+<title>FOX SPORTS 1 USA</title>
+<link>http://torula.us.to/fs1/index.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports_us_1.png</thumbnail>
 </item>
 
 <item>
-<title>FOX SPORTS 2 USA [SD]</title>
-<link>http://213.136.90.30:8000/live/christop/christop/9374.m3u8</link>
+<title>FOX SPORTS 2 USA</title>
+<link>http://torula.us.to/fs2/index.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports_us_2.png</thumbnail>
 </item>
 
@@ -953,6 +941,12 @@
 </item>
 
 <item>
+<title>MUTV</title>
+<link>http://167.114.41.215:8080/mutv/mutv/index.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png</thumbnail>
+</item>
+
+<item>
 <title>NBCSN HD</title>
 <link>http://tinyurl.com/jsg6b4h</link>
 <thumbnail>https://nbcsportsgrouppressbox.files.wordpress.com/2012/06/nbcsport-network11.jpg</thumbnail>
@@ -961,86 +955,31 @@
 
 <item>
 <title>SKY SPORTS 1</title>
-<link>$doregex[getEncLink]</link>
-<regex>
-<name>getDecLink</name>
-<expres>curl = "(.*?)"</expres>
-<page>http://miplayer.net/embedplayer.php?width=640&amp;height=480&amp;id=ibrodtv21&amp;autoplay=true&amp;strech=exactfit</page>
-<referer>http://www.ibrodtv.net/embed.php?chan=tv21&width=640&height=480</referer>
-</regex>
-<regex>
-<name>getEncLink</name>
-<expres>$pyFunction:base64.b64decode("$doregex[getDecLink]")</expres>
-<page></page>
-</regex>
+<link>http://80.243.189.26:8081/sportshd/sky1/index.m3u8</link>
 <thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 2</title>
-<link>$doregex[getEncLink]</link>
-<regex>
-<name>getDecLink</name>
-<expres>curl = "(.*?)"</expres>
-<page>http://miplayer.net/embedplayer.php?width=640&amp;height=480&amp;id=ibrodtv22&amp;autoplay=true&amp;strech=exactfit</page>
-<referer>http://www.ibrodtv.net/embed.php?chan=tv22&width=640&height=480</referer>
-</regex>
-<regex>
-<name>getEncLink</name>
-<expres>$pyFunction:base64.b64decode("$doregex[getDecLink]")</expres>
-<page></page>
-</regex>
+<link>http://80.243.189.26:8081/sportshd/sky2/index.m3u8</link>
 <thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 3</title>
-<link>$doregex[getEncLink]</link>
-<regex>
-<name>getDecLink</name>
-<expres>curl = "(.*?)"</expres>
-<page>http://miplayer.net/embedplayer.php?width=640&amp;height=480&amp;id=ibrodtv23&amp;autoplay=true&amp;strech=exactfit</page>
-<referer>http://www.ibrodtv.net/embed.php?chan=tv23&width=640&height=480</referer>
-</regex>
-<regex>
-<name>getEncLink</name>
-<expres>$pyFunction:base64.b64decode("$doregex[getDecLink]")</expres>
-<page></page>
-</regex>
+<link>http://80.243.189.26:8081/sportshd/sky3/index.m3u8</link>
 <thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 4</title>
-<link>$doregex[getEncLink]</link>
-<regex>
-<name>getDecLink</name>
-<expres>curl = "(.*?)"</expres>
-<page>http://miplayer.net/embedplayer.php?width=640&amp;height=480&amp;id=ibrodtv24&amp;autoplay=true&amp;strech=exactfit</page>
-<referer>http://www.ibrodtv.net/embed.php?chan=tv24&width=640&height=480</referer>
-</regex>
-<regex>
-<name>getEncLink</name>
-<expres>$pyFunction:base64.b64decode("$doregex[getDecLink]")</expres>
-<page></page>
-</regex>
+<link>http://80.243.189.26:8081/sportshd/sky4/index.m3u8</link>
 <thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 5</title>
-<link>$doregex[getEncLink]</link>
-<regex>
-<name>getDecLink</name>
-<expres>curl = "(.*?)"</expres>
-<page>http://miplayer.net/embedplayer.php?width=640&amp;height=480&amp;id=ibrodtv25&amp;autoplay=true&amp;strech=exactfit</page>
-<referer>http://www.ibrodtv.net/embed.php?chan=tv25&width=640&height=480</referer>
-</regex>
-<regex>
-<name>getEncLink</name>
-<expres>$pyFunction:base64.b64decode("$doregex[getDecLink]")</expres>
-<page></page>
-</regex>
+<link>http://80.243.189.26:8081/sportshd/sky5/index.m3u8</link>
 <thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
 </item>
 
@@ -1055,8 +994,6 @@
 </regex>
 <thumbnail>https://pmcvariety.files.wordpress.com/2013/10/usa-network-logo1.jpg</thumbnail>
 </item>
-</items>
-</channel>
 
 <item>
 <title>WWE NETWORK</title>
@@ -1081,6 +1018,8 @@
 </regex>
 <thumbnail>http://i.imgur.com/Ug9xGzp.png</thumbnail>
 </item>
+</items>
+</channel>
 
 <channel>
 <name>[COLOR=FFFFFF00]WORLD OF ENTERTAINMENT[/COLOR]</name>
@@ -1188,14 +1127,14 @@
 </item>
 
 <item>
-<title>Streamlive</title>
+<title>Disney Junior</title>
 <link>$doregex[url]</link>
 <regex>
 	<name>url</name>
 	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/view/38804',False,False)</expres>
 	<page></page>
 </regex>
-<thumbnail></thumbnail>
+<thumbnail>http://static.twcableuntangled.com/wp-content/uploads/2012/03/DJ_The_Channel_logo-1.jpg</thumbnail>
 </item>
 </items>
 </channel>
