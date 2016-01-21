@@ -805,12 +805,7 @@
 
 <item>
 <title>BT SPORTS EUROPE</title>
-<link>$doregex[url]</link>
-<regex>
-	<name>url</name>
-	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/view/72137/',False,False)</expres>
-	<page></page>
-</regex>
+<link>http://80.243.189.26:8081/miosptvbteu/index.m3u8</link>
 <thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
 </item>
 
