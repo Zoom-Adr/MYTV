@@ -865,19 +865,19 @@
 
 <item>
 <title>DIGISPORT 1</title>
-<link>http://82.76.249.81/digiedge/digisport1ehq/index.m3u8?is=1&src=digi-online.ro&t=00000000000000000000000000000000</link>
+<link>http://unm96.bsdns.eu:8080/live/SPORTS-Digi-Sport-1/mpegts?token=testrapid:3CmWLfb3kW</link>
 <thumbnail>http://mediav1.rtv.net/image/201507/w620/digi_sport_cz_05641200.png</thumbnail>
 </item>
 
 <item>
 <title>DIGISPORT 2</title>
-<link>http://82.76.249.81/digiedge/digisport2ehq/index.m3u8?is=2&src=digi-online.ro&t=00000000000000000000000000000000</link>
+<link>http://unm96.bsdns.eu:8080/live/SPORTS-Digi-Sport-2/mpegts?token=testrapid:3CmWLfb3kW</link>
 <thumbnail>http://mediav1.rtv.net/image/201507/w620/digi_sport_cz_05641200.png</thumbnail>
 </item>
 
 <item>
 <title>DIGISPORT 3</title>
-<link>http://82.76.249.81/digiedge/digisport3ehq/index.m3u8?is=3&src=digi-online.ro&t=00000000000000000000000000000000</link>
+<link>http://unm96.bsdns.eu:8080/live/SPORTS-Digi-Sport-3/mpegts?token=testrapid:3CmWLfb3kW</link>
 <thumbnail>http://mediav1.rtv.net/image/201507/w620/digi_sport_cz_05641200.png</thumbnail>
 </item>
 
