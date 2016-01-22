@@ -660,104 +660,26 @@
 </item>
 
 <item>
-<title>ASTRO SUPERSPORT 1 TEST</title>
+<title>ASTRO SUPERSPORT 1</title>
 <link>http://unm96.bsdns.eu:8080/live/SPORTS-Astro-Supersport-1-HD/mpegts?token=testrapid:3CmWLfb3kW</link>
 <thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png</thumbnail>
 </item>
 
 <item>
-<title>ASTRO SUPERSPORT 1</title>
-<link>$doregex[get-decode]$doregex[get-token]|Referer=http://p2pcast.tv&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1&amp;X-Requested-With=ShockwaveFlash/20.0.0.267</link>
-<regex>
-<name>get-decode</name>
-<expres>$pyFunction:base64.b64decode("$doregex[get-enctext]")</expres>
-<page></page>
-</regex>
-<regex>
-<name>get-enctext</name>
-<expres>murl = "(.*?)"</expres>
-<page>http://p2pcast.tv/stream.php?id=$doregex[id]</page>
-<referer>http://p2pcast.tv/</referer>
-</regex>
-<regex>
-<name>get-token</name>
-<expres>"token":"(.*?)"</expres>
-<page>http://p2pcast.tv/getTok.php</page>
-<referer>http://p2pcast.tv/</referer>
-<x-req>XMLHttpRequest</x-req>
-</regex>
-<regex>
-<name>id</name>
-<expres>id='(.*?)'</expres>
-<page>http://antenasport.com/astro1.html</page>
-<referer>http://antenasport.com/</referer>
-</regex>
-<thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png</thumbnail>
-</item>
-
-<item>
-<title>ASTRO SUPERSPORT 2 TEST</title>
+<title>ASTRO SUPERSPORT 2</title>
 <link>http://unm96.bsdns.eu:8080/live/SPORTS-Astro-Supersport-2-HD/mpegts?token=testrapid:3CmWLfb3kW</link>
 <thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png</thumbnail>
 </item>
 
 <item>
-<title>ASTRO SUPERSPORT 2</title>
-<link>$doregex[get-decode]$doregex[get-token]|Referer=http://p2pcast.tv&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1&amp;X-Requested-With=ShockwaveFlash/20.0.0.267</link>
-<regex>
-<name>get-decode</name>
-<expres>$pyFunction:base64.b64decode("$doregex[get-enctext]")</expres>
-<page></page>
-</regex>
-<regex>
-<name>get-enctext</name>
-<expres>murl = "(.*?)"</expres>
-<page>http://p2pcast.tv/stream.php?id=$doregex[id]</page>
-<referer>http://p2pcast.tv/</referer>
-</regex>
-<regex>
-<name>get-token</name>
-<expres>"token":"(.*?)"</expres>
-<page>http://p2pcast.tv/getTok.php</page>
-<referer>http://p2pcast.tv/</referer>
-<x-req>XMLHttpRequest</x-req>
-</regex>
-<regex>
-<name>id</name>
-<expres>id='(.*?)'</expres>
-<page>http://antenasport.com/astro2.html</page>
-<referer>http://antenasport.com/</referer>
-</regex>
+<title>ASTRO SUPERSPORT 3</title>
+<link>http://unm96.bsdns.eu:8080/live/SPORTS-Astro-Supersport-3-HD/mpegts?token=testrapid:3CmWLfb3kW</link>
 <thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png</thumbnail>
 </item>
 
 <item>
-<title>ASTRO SUPERSPORT 3</title>
-<link>$doregex[get-decode]$doregex[get-token]|Referer=http://p2pcast.tv&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1&amp;X-Requested-With=ShockwaveFlash/20.0.0.267</link>
-<regex>
-<name>get-decode</name>
-<expres>$pyFunction:base64.b64decode("$doregex[get-enctext]")</expres>
-<page></page>
-</regex>
-<regex>
-<name>get-enctext</name>
-<expres>murl = "(.*?)"</expres>
-<page>http://p2pcast.tv/stream.php?id=$doregex[id]</page>
-<referer>http://p2pcast.tv/</referer>
-</regex>
-<regex>
-<name>get-token</name>
-<expres>"token":"(.*?)"</expres>
-<page>http://p2pcast.tv/getTok.php</page>
-<referer>http://p2pcast.tv/</referer>
-<x-req>XMLHttpRequest</x-req>
-</regex>
-<regex>
-<name>id</name>
-<expres>id='(.*?)'</expres>
-<page>http://antenasport.com/astro3.html</page>
-<referer>http://antenasport.com/</referer>
-</regex>
+<title>ASTRO SUPERSPORT 4</title>
+<link>http://unm96.bsdns.eu:8080/live/SPORTS-Astro-Supersport-4-HD/mpegts?token=testrapid:3CmWLfb3kW</link>
 <thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png</thumbnail>
 </item>
 
@@ -888,42 +810,32 @@
 </item>
 
 <item>
-<title>FOX SPORTS 1 NL TEST</title>
+<title>FOX SPORTS 1 NL</title>
 <link>http://unm198.bsdns.eu:8080/live/NL-Fox-Sports-1/mpegts?token=testrapid:3CmWLfb3kW</link>
 <thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
 </item>
 
 <item>
-<title>FOX SPORTS 1 NL [HD]</title>
-<link>http://185.59.222.34:8000/live/WSS2/support@wsswebhost.com/5.m3u8</link>
+<title>FOX SPORTS 2 NL</title>
+<link>http://unm198.bsdns.eu:8080/live/NL-Fox-Sports-2/mpegts?token=testrapid:3CmWLfb3kW</link>
 <thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
 </item>
 
 <item>
-<title>FOX SPORTS 2 NL [HD]</title>
-<link>http://185.59.222.34:8000/live/WSS2/support@wsswebhost.com/4.m3u8|User-Agent: Mozilla/5.0 Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:43.0) Gecko/20100101 Firefox/43.0  
-</link>
+<title>FOX SPORTS 3 NL</title>
+<link>http://unm198.bsdns.eu:8080/live/NL-Fox-Sports-3/mpegts?token=testrapid:3CmWLfb3kW</link>
 <thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
 </item>
 
 <item>
-<title>FOX SPORTS 3 NL [HD]</title>
-<link>http://185.59.222.34:8000/live/WSS2/support@wsswebhost.com/3.m3u8|User-Agent: Mozilla/5.0 Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:43.0) Gecko/20100101 Firefox/43.0  
-</link>
+<title>FOX SPORTS 4 NL</title>
+<link>http://unm198.bsdns.eu:8080/live/NL-Fox-Sports-4/mpegts?token=testrapid:3CmWLfb3kW</link>
 <thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
 </item>
 
 <item>
-<title>FOX SPORTS 4 NL [HD]</title>
-<link>http://185.59.222.34:8000/live/WSS2/support@wsswebhost.com/2.m3u8|User-Agent: Mozilla/5.0 Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:43.0) Gecko/20100101 Firefox/43.0  
-</link>
-<thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
-</item>
-
-<item>
-<title>FOX SPORTS 5 NL [HD]</title>
-<link>http://185.59.222.34:8000/live/WSS2/support@wsswebhost.com/1.m3u8|User-Agent: Mozilla/5.0 Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:43.0) Gecko/20100101 Firefox/43.0  
-</link>
+<title>FOX SPORTS 5 NL</title>
+<link>http://unm198.bsdns.eu:8080/live/NL-Fox-Sports-5/mpegts?token=testrapid:3CmWLfb3kW</link>
 <thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
 </item>
 
@@ -971,7 +883,7 @@
 
 <item>
 <title>NBCSN HD</title>
-<link>http://tinyurl.com/jsg6b4h</link>
+<link>http://unm166.bsdns.eu:8080/live/USA-NBC-SN/mpegts?token=testrapid:3CmWLfb3kW</link>
 <thumbnail>https://nbcsportsgrouppressbox.files.wordpress.com/2012/06/nbcsport-network11.jpg</thumbnail>
 </item>
 
