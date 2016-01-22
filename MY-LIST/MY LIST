@@ -696,6 +696,12 @@
 </item>
 
 <item>
+<title>ASTRO SUPERSPORT 2 TEST</title>
+<link>http://unm96.bsdns.eu:8080/live/SPORTS-Astro-Supersport-2-HD/mpegts?token=testrapid:3CmWLfb3kW</link>
+<thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png</thumbnail>
+</item>
+
+<item>
 <title>ASTRO SUPERSPORT 2</title>
 <link>$doregex[get-decode]$doregex[get-token]|Referer=http://p2pcast.tv&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1&amp;X-Requested-With=ShockwaveFlash/20.0.0.267</link>
 <regex>
@@ -879,6 +885,12 @@
 <title>DIGISPORT 4</title>
 <link>http://82.76.249.81/digiedge/digisport4ehq/index.m3u8?is=49&src=digi-online.ro&t=00000000000000000000000000000000</link>
 <thumbnail>http://mediav1.rtv.net/image/201507/w620/digi_sport_cz_05641200.png</thumbnail>
+</item>
+
+<item>
+<title>FOX SPORTS 1 NL TEST</title>
+<link>http://unm198.bsdns.eu:8080/live/NL-Fox-Sports-1/mpegts?token=testrapid:3CmWLfb3kW</link>
+<thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
 </item>
 
 <item>
