@@ -822,6 +822,12 @@
 </item>
 
 <item>
+<title>CTH STADIUM 1 TEST</title>
+<link>http://unm96.bsdns.eu:8080/live/SPORTS-CTH-Stadium-1/mpegts?token=testrapid:3CmWLfb3kW</link>
+<thumbnail>http://www.cthbpl.com/img/stadium/stadium1.png</thumbnail>
+</item>
+
+<item>
 <title>CTH STADIUM 1 [SD]</title>
 <link>http://122.155.203.25/live/sport1/playlist.m3u8</link>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium1.png</thumbnail>
