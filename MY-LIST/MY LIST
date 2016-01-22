@@ -660,6 +660,12 @@
 </item>
 
 <item>
+<title>ASTRO SUPERSPORT 1 TEST</title>
+<link>http://unm96.bsdns.eu:8080/live/SPORTS-Astro-Supersport-1-HD/mpegts?token=testrapid:3CmWLfb3kW</link>
+<thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png</thumbnail>
+</item>
+
+<item>
 <title>ASTRO SUPERSPORT 1</title>
 <link>$doregex[get-decode]$doregex[get-token]|Referer=http://p2pcast.tv&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1&amp;X-Requested-With=ShockwaveFlash/20.0.0.267</link>
 <regex>
