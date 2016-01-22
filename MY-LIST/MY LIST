@@ -864,6 +864,18 @@
 </item>
 
 <item>
+<title>HUNTING & FISHING 1</title>
+<link>http://unm96.bsdns.eu:8080/live/SPORTS-Hunting-&-Fishing-Chasse-&-Pesce/mpegts?token=testrapid:3CmWLfb3kW</link>
+<thumbnail>http://thumb1.shutterstock.com/display_pic_with_logo/667576/266280914/stock-vector-hunting-and-fishing-vintage-emblem-vector-design-template-266280914.jpg</thumbnail>
+</item>
+
+<item>
+<title>HUNTING & FISHING 2</title>
+<link>http://ovh142.bsdns.eu:8080/live/SPORTS-Hunting-&-Fishing-Axota-&-Ribalka/mpegts?token=testrapid:3CmWLfb3kW</link>
+<thumbnail>http://thumb1.shutterstock.com/display_pic_with_logo/667576/266280914/stock-vector-hunting-and-fishing-vintage-emblem-vector-design-template-266280914.jpg</thumbnail>
+</item>
+
+<item>
 <title>K+1 VIETNAM</title>
 <link>rtmp://199.189.110.20/as99/chSport1hd</link>
 <thumbnail>http://media.truyenhinh.gov.vn/Content/Uploads/images/Logo/kplus.jpg</thumbnail>
@@ -939,12 +951,6 @@
 	<page></page>
 </regex>
 <thumbnail>http://i.imgur.com/Ug9xGzp.png</thumbnail>
-</item>
-
-<item>
-<title>HUNTING & FISHING CHASSE</title>
-<link>http://unm96.bsdns.eu:8080/live/SPORTS-Hunting-&-Fishing-Chasse-&-Pesce/mpegts?token=testrapid:3CmWLfb3kW</link>
-<thumbnail>http://thumb1.shutterstock.com/display_pic_with_logo/667576/266280914/stock-vector-hunting-and-fishing-vintage-emblem-vector-design-template-266280914.jpg</thumbnail>
 </item>
 </items>
 </channel>
