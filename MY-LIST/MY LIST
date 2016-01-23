@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <channels>
 <channel>
-<name>[COLOR=FFFFFF00]INDONESIA CHANNELS[/COLOR]</name>
+<name>INDONESIA CHANNELS</name>
 <thumbnail>http://img.freeflagicons.com/thumb/square_icon/indonesia/indonesia_640.png</thumbnail>
 <fanart>https://copy.com/3DOPcizk8KpzXYi9</fanart>
 
@@ -291,7 +291,7 @@
 </channel>
 
 <channel>
-<name>[COLOR=FFFFFF00]MALAYSIA CHANNELS[/COLOR]</name>
+<name>MALAYSIA CHANNELS</name>
 <thumbnail>http://img.freeflagicons.com/thumb/square_icon/malaysia/malaysia_640.png</thumbnail>
 <fanart>https://copy.com/3DOPcizk8KpzXYi9</fanart>
 
@@ -570,7 +570,7 @@
 </channel>
 
 <channel>
-<name>[COLOR=FFFFFF00]INDIA CHANNELS[/COLOR]</name>
+<name>INDIA CHANNELS</name>
 <thumbnail>http://img.freeflagicons.com/thumb/square_icon/india/india_640.png</thumbnail>
 <fanart>https://copy.com/3DOPcizk8KpzXYi9</fanart>
 
@@ -625,7 +625,7 @@
 </channel>
 
 <channel>
-<name>[COLOR=FFFFFF00]WORLD OF SPORTS[/COLOR]</name>
+<name>WORLD OF SPORTS</name>
 <thumbnail>http://previews.123rf.com/images/duug/duug1206/duug120600003/13966994-sport-logo-Stock-Vector-sports.jpg</thumbnail>
 <fanart>https://copy.com/3DOPcizk8KpzXYi9</fanart>
 
@@ -956,7 +956,7 @@
 </channel>
 
 <channel>
-<name>[COLOR=FFFFFF00]WORLD OF ENTERTAINMENT[/COLOR]</name>
+<name>WORLD OF ENTERTAINMENT</name>
 <thumbnail>http://static1.squarespace.com/static/52d3279be4b0e8787707c127/t/53b9c56ce4b0b0a60334d578/1404683640897/thats_entertainment_gold.jpg?format=1500w</thumbnail>
 <fanart>https://copy.com/3DOPcizk8KpzXYi9</fanart>
 
@@ -1095,7 +1095,7 @@
 </item>
 
 <item>
-<title>Disney Junior</title>
+<title>DISNEY JUNIOR</title>
 <link>$doregex[url]</link>
 <regex>
 	<name>url</name>
