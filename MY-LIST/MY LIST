@@ -12,8 +12,13 @@
 </item>
 
 <item>
-<title>WEST HAM VS MAN CITY</title>
+<title>WEST HAM VS MAN CITY HD</title>
 <link>http://nlds13.cdnak.lon.neulion.com/nlds/coliseum/westhamunited/as/live/westhamunited_hd_3000_android.m3u8?nltid=plp&amp;nltdt=6&amp;nltnt=1&amp;hdnea=expires%3D1453597732%7Eaccess%3D%2F*%7Emd5%3D4aaf87459868564cc35aacef264d1af6|User-Agent=Android</link>
+<thumbnail>https://i.imgur.com/01Ve7Zm.png</thumbnail>
+</item>
+
+<item>
+<title>WEST HAM VS MAN CITY SD</title>
 <link>http://nlds13.cdnak.lon.neulion.com/nlds/coliseum/westhamunited/as/live/westhamunited_hd_1600_android.m3u8?nltid=plp&amp;nltdt=6&amp;nltnt=1&amp;hdnea=expires%3D1453597732%7Eaccess%3D%2F*%7Emd5%3D4aaf87459868564cc35aacef264d1af6|User-Agent=Android</link>
 <thumbnail>https://i.imgur.com/01Ve7Zm.png</thumbnail>
 </item>
