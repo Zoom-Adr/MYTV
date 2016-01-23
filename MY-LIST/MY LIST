@@ -210,12 +210,6 @@
 </item>
 
 <item>
-<title>SCTV SERVER 4</title>
-<link>rtmp://180.250.29.21/jhos;sctv;2</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_sctv_zpsibjuh3i7.png</thumbnail>
-</item>
-
-<item>
 <title>SPACETOON</title>
 <link>http://edge.nim.mivo.tv/mp17pjqx1esapruf/spacetoon_576p/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_spacetoon_zpsnekltnpt.png</thumbnail>
@@ -744,8 +738,20 @@
 </item>
 
 <item>
+<title>BT SPORTS 1 HD</title>
+<link>http://ovh143.bsdns.eu:8080/live/UK-BT-Sport-1-HD/mpegts?token=testrapid:3CmWLfb3kW</link>
+<thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
+</item>
+
+<item>
 <title>BT SPORTS 2</title>
 <link>http://80.243.189.26:8081/sportshd/bt2/index.m3u8</link>
+<thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
+</item>
+
+<item>
+<title>BT SPORTS 2 HD</title>
+<link>http://ovh143.bsdns.eu:8080/live/UK-BT-Sport-2-HD/mpegts?token=testrapid:3CmWLfb3kW</link>
 <thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
 </item>
 
@@ -756,45 +762,57 @@
 </item>
 
 <item>
+<title>BT SPORTS EUROPE BACKUP</title>
+<link>http://ovh143.bsdns.eu:8080/live/UK-BT-Sport-Europe/mpegts?token=testrapid:3CmWLfb3kW</link>
+<thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
+</item>
+
+<item>
 <title>BT SPORTS ESPN</title>
 <link>http://80.243.189.26:8081/sportshd/espnuk/index.m3u8</link>
 <thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
 </item>
 
 <item>
-<title>CTH STADIUM 1 TEST</title>
+<title>BT SPORTS ESPN BACKUP</title>
+<link>http://ovh143.bsdns.eu:8080/live/UK-BT-Sport-ESPN/mpegts?token=testrapid:3CmWLfb3kW</link>
+<thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
+</item>
+
+<item>
+<title>CTH STADIUM 1</title>
 <link>http://unm96.bsdns.eu:8080/live/SPORTS-CTH-Stadium-1/mpegts?token=testrapid:3CmWLfb3kW</link>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium1.png</thumbnail>
 </item>
 
 <item>
-<title>CTH STADIUM 1 [SD]</title>
-<link>http://122.155.203.25/live/sport1/playlist.m3u8</link>
-<thumbnail>http://www.cthbpl.com/img/stadium/stadium1.png</thumbnail>
-</item>
-
-<item>
-<title>CTH STADIUM 2 [SD]</title>
-<link>http://122.155.203.25/live/sport2/playlist.m3u8</link>
+<title>CTH STADIUM 2</title>
+<link>http://unm96.bsdns.eu:8080/live/SPORTS-CTH-Stadium-2/mpegts?token=testrapid:3CmWLfb3kW</link>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium2.png</thumbnail>
 </item>
 
 <item>
-<title>CTH STADIUM 3 [SD]</title>
-<link>http://122.155.203.25/live/sport3/playlist.m3u8</link>
+<title>CTH STADIUM 3</title>
+<link>http://unm96.bsdns.eu:8080/live/SPORTS-CTH-Stadium-3/mpegts?token=testrapid:3CmWLfb3kW</link>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium3.png</thumbnail>
 </item>
 
 <item>
-<title>CTH STADIUM 4 [SD]</title>
-<link>http://122.155.203.25/live/sport4/playlist.m3u8</link>
+<title>CTH STADIUM 4</title>
+<link>http://unm96.bsdns.eu:8080/live/SPORTS-CTH-Stadium-4/mpegts?token=testrapid:3CmWLfb3kW</link>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium4.png</thumbnail>
 </item>
 
 <item>
-<title>CTH STADIUM 5 [SD]</title>
-<link>http://122.155.203.25/live/sport5/playlist.m3u8</link>
+<title>CTH STADIUM 5</title>
+<link>http://unm96.bsdns.eu:8080/live/SPORTS-CTH-Stadium-5/mpegts?token=testrapid:3CmWLfb3kW</link>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium5.png</thumbnail>
+</item>
+
+<item>
+<title>CTH STADIUM 6</title>
+<link>http://unm96.bsdns.eu:8080/live/SPORTS-CTH-Stadium-6/mpegts?token=testrapid:3CmWLfb3kW</link>
+<thumbnail>http://www.cthbpl.com/img/stadium/stadium6.png</thumbnail>
 </item>
 
 <item>
@@ -866,12 +884,25 @@
 <item>
 <title>FOX SPORTS 1 USA</title>
 <link>http://torula.us.to/fs1/index.m3u8</link>
+<link>http://unm166.bsdns.eu:8080/live/USA-Fox-Sports-1/mpegts?token=testrapid:3CmWLfb3kW</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports_us_1.png</thumbnail>
+</item>
+
+<item>
+<title>FOX SPORTS 1 USA BACKUP</title>
+<link>http://unm166.bsdns.eu:8080/live/USA-Fox-Sports-1/mpegts?token=testrapid:3CmWLfb3kW</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports_us_1.png</thumbnail>
 </item>
 
 <item>
 <title>FOX SPORTS 2 USA</title>
 <link>http://torula.us.to/fs2/index.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports_us_2.png</thumbnail>
+</item>
+
+<item>
+<title>FOX SPORTS 2 USA BACKUP</title>
+<link>http://unm166.bsdns.eu:8080/live/USA-FOX-Sports-2/mpegts?token=testrapid:3CmWLfb3kW</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports_us_2.png</thumbnail>
 </item>
 
@@ -901,7 +932,7 @@
 
 <item>
 <title>MUTV</title>
-<link>http://167.114.41.215:8080/mutv/mutv/index.m3u8</link>
+<link>http://ovh143.bsdns.eu:8080/live/UK-Manchester-United-FC/mpegts?token=testrapid:3CmWLfb3kW</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png</thumbnail>
 </item>
 
@@ -940,6 +971,36 @@
 <title>SKY SPORTS 5</title>
 <link>http://80.243.189.26:8081/sportshd/sky5/index.m3u8</link>
 <thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
+</item>
+
+<item>
+<title>TSN 1</title>
+<link>http://unm166.bsdns.eu:8080/live/USA-TSN-1/mpegts?token=testrapid:3CmWLfb3kW</link>
+<thumbnail>http://wpmedia.o.canada.com/2014/05/tsn_red_1__244682411.jpg?w=620</thumbnail>
+</item>
+
+<item>
+<title>TSN 2</title>
+<link>http://unm166.bsdns.eu:8080/live/USA-TSN-2/mpegts?token=testrapid:3CmWLfb3kW</link>
+<thumbnail>http://wpmedia.o.canada.com/2014/05/tsn_red_1__244682411.jpg?w=620</thumbnail>
+</item>
+
+<item>
+<title>TSN 3</title>
+<link>http://unm166.bsdns.eu:8080/live/USATSN-3/mpegts?token=testrapid:3CmWLfb3kW</link>
+<thumbnail>http://wpmedia.o.canada.com/2014/05/tsn_red_1__244682411.jpg?w=620</thumbnail>
+</item>
+
+<item>
+<title>TSN 4</title>
+<link>http://unm166.bsdns.eu:8080/live/USA-TSN-4/mpegts?token=testrapid:3CmWLfb3kW</link>
+<thumbnail>http://wpmedia.o.canada.com/2014/05/tsn_red_1__244682411.jpg?w=620</thumbnail>
+</item>
+
+<item>
+<title>TSN 5</title>
+<link>http://unm166.bsdns.eu:8080/live/USA-TSN-5/mpegts?token=testrapid:3CmWLfb3kW</link>
+<thumbnail>http://wpmedia.o.canada.com/2014/05/tsn_red_1__244682411.jpg?w=620</thumbnail>
 </item>
 
 <item>
