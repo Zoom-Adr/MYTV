@@ -1128,6 +1128,17 @@
 </item>
 
 <item>
+<title>HBO</title>
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/view/69021/',False,False)</expres>
+	<page></page>
+</regex>
+<thumbnail>http://hboasiapromos.s3.amazonaws.com/0_core/fb-hbo-480x320.jpg</thumbnail>
+</item>
+
+<item>
 <title>HBO 1</title>
 <link>http://unm198.bsdns.eu:8080/live/NL-HBO-1/mpegts?token=testrapid:3CmWLfb3kW</link>
 <thumbnail>http://hboasiapromos.s3.amazonaws.com/0_core/fb-hbo-480x320.jpg</thumbnail>
