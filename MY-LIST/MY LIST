@@ -1129,11 +1129,13 @@
 
 <item>
 <title>HBO</title>
-<link>$doregex[url]</link>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/HBOEastUS/playlist.m3u8?token=$doregex[tok]</link>
 <regex>
-	<name>url</name>
-	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/view/69021/',False,False)</expres>
-	<page></page>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://adryanlist.org/nescafe/nescafe.php?canal=HBOEastUS&amp;cm=4765</page>
+<referer>http://adrian.kodistream.info/adryan/</referer>
+<setcookie>programa=rosadintv</setcookie>
 </regex>
 <thumbnail>http://hboasiapromos.s3.amazonaws.com/0_core/fb-hbo-480x320.jpg</thumbnail>
 </item>
