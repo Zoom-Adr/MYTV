@@ -12,8 +12,13 @@
 </item>
 
 
-<title>WEST HAM VS MAN CITY HD</title>
-<link>http://nlds13.cdnak.lon.neulion.com/nlds/coliseum/westhamunited/as/live/westhamunited_hd_3000_android.m3u8?nltid=plp&amp;nltdt=6&amp;nltnt=1&amp;hdnea=expires%3D1453597732%7Eaccess%3D%2F*%7Emd5%3D4aaf87459868564cc35aacef264d1af6|User-Agent=Android</link>
+<title>EVERTON VS SWANSEA CITY HD</title>
+<link>http://nlds7.cdnak.lon.neulion.com/nlds/coliseum/everton/as/live/everton_hd_3000_android.m3u8?nltid=plp&amp;nltdt=6&amp;nltnt=1&amp;hdnea=expires%3D1453666149%7Eaccess%3D%2F*%7Emd5%3D3b08dfe4e098f5caa27d57629959f80d|User-Agent=Android</link>
+<thumbnail>https://i.imgur.com/01Ve7Zm.png</thumbnail>
+</item>
+
+<title>EVERTON VS SWANSEA CITY SD</title>
+<link>http://nlds7.cdnak.lon.neulion.com/nlds/coliseum/everton/as/live/everton_hd_1600_android.m3u8?nltid=plp&amp;nltdt=6&amp;nltnt=1&amp;hdnea=expires%3D1453666149%7Eaccess%3D%2F*%7Emd5%3D3b08dfe4e098f5caa27d57629959f80d|User-Agent=Android</link>
 <thumbnail>https://i.imgur.com/01Ve7Zm.png</thumbnail>
 </item>
 
@@ -1119,19 +1124,19 @@
 <item>
 <title>HBO 1</title>
 <link>http://unm198.bsdns.eu:8080/live/NL-HBO-1/mpegts?token=testrapid:3CmWLfb3kW</link>
-<thumbnail>http://hboasiapromos.s3.amazonaws.com/0_core/fb-signature-480x320.jpg</thumbnail>
+<thumbnail>http://hboasiapromos.s3.amazonaws.com/0_core/fb-hbo-480x320.jpg</thumbnail>
 </item>
 
 <item>
 <title>HBO 2</title>
 <link>http://unm198.bsdns.eu:8080/live/NL-HBO-2/mpegts?token=testrapid:3CmWLfb3kW</link>
-<thumbnail>http://hboasiapromos.s3.amazonaws.com/0_core/fb-signature-480x320.jpg</thumbnail>
+<thumbnail>http://hboasiapromos.s3.amazonaws.com/0_core/fb-hbo-480x320.jpg</thumbnail>
 </item>
 
 <item>
 <title>HBO 1</title>
 <link>http://unm198.bsdns.eu:8080/live/NL-HBO-3/mpegts?token=testrapid:3CmWLfb3kW</link>
-<thumbnail>http://hboasiapromos.s3.amazonaws.com/0_core/fb-signature-480x320.jpg</thumbnail>
+<thumbnail>http://hboasiapromos.s3.amazonaws.com/0_core/fb-hbo-480x320.jpg</thumbnail>
 </item>
 
 <item>
