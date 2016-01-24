@@ -751,24 +751,24 @@
 
 <item>
 <title>BT SPORTS 1</title>
-<link>http://80.243.189.26:8081/sportshd/bt1/index.m3u8</link>
+<link>http://ovh143.bsdns.eu:8080/live/UK-BT-Sports-1/mpegts?token=testrapid:3CmWLfb3kW</link>
 <thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
 </item>
 
 <item>
-<title>BT SPORTS 1 HD</title>
+<title>BT SPORTS 1 BACKUP</title>
 <link>http://ovh143.bsdns.eu:8080/live/UK-BT-Sport-1-HD/mpegts?token=testrapid:3CmWLfb3kW</link>
 <thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
 </item>
 
 <item>
 <title>BT SPORTS 2</title>
-<link>http://80.243.189.26:8081/sportshd/bt2/index.m3u8</link>
+<link>http://ovh143.bsdns.eu:8080/live/UK-BT-Sports-2/mpegts?token=testrapid:3CmWLfb3kW</link>
 <thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
 </item>
 
 <item>
-<title>BT SPORTS 2 HD</title>
+<title>BT SPORTS 2 BACKUP</title>
 <link>http://ovh143.bsdns.eu:8080/live/UK-BT-Sport-2-HD/mpegts?token=testrapid:3CmWLfb3kW</link>
 <thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
 </item>
@@ -967,8 +967,20 @@
 </item>
 
 <item>
+<title>SKY SPORTS 1 BACKUP</title>
+<link>http://ovh143.bsdns.eu:8080/live/UK-Sky-Sports-1/mpegts?token=testrapid:3CmWLfb3kW</link>
+<thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
+</item>
+
+<item>
 <title>SKY SPORTS 2</title>
 <link>http://80.243.189.26:8081/sportshd/sky2/index.m3u8</link>
+<thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS 2 BACKUP</title>
+<link>http://ovh143.bsdns.eu:8080/live/UK-Sky-Sports-2/mpegts?token=testrapid:3CmWLfb3kW</link>
 <thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
 </item>
 
@@ -979,14 +991,32 @@
 </item>
 
 <item>
+<title>SKY SPORTS 3 BACKUP</title>
+<link>http://ovh143.bsdns.eu:8080/live/UK-Sky-Sports-3/mpegts?token=testrapid:3CmWLfb3kW</link>
+<thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
+</item>
+
+<item>
 <title>SKY SPORTS 4</title>
 <link>http://80.243.189.26:8081/sportshd/sky4/index.m3u8</link>
 <thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
 </item>
 
 <item>
+<title>SKY SPORTS 4 BACKUP</title>
+<link>http://ovh143.bsdns.eu:8080/live/UK-Sky-Sports-4/mpegts?token=testrapid:3CmWLfb3kW</link>
+<thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
+</item>
+
+<item>
 <title>SKY SPORTS 5</title>
 <link>http://80.243.189.26:8081/sportshd/sky5/index.m3u8</link>
+<thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS 5 BACKUP</title>
+<link>http://ovh143.bsdns.eu:8080/live/UK-Sky-Sports-5/mpegts?token=testrapid:3CmWLfb3kW</link>
 <thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
 </item>
 
@@ -1084,6 +1114,24 @@
 <agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_0 like Mac OS X; en-us) AppleWebKit/528.18 (KHTML, like Gecko) Version/4.0 Mobile/7A341 Safari/528.16</agent>
 </regex>
 <thumbnail>http://www.cth.co.th/wp-content/uploads/2014/03/415x263_1.jpg</thumbnail>
+</item>
+
+<item>
+<title>HBO 1</title>
+<link>http://unm198.bsdns.eu:8080/live/NL-HBO-1/mpegts?token=testrapid:3CmWLfb3kW</link>
+<thumbnail>http://hboasiapromos.s3.amazonaws.com/0_core/fb-signature-480x320.jpg</thumbnail>
+</item>
+
+<item>
+<title>HBO 2</title>
+<link>http://unm198.bsdns.eu:8080/live/NL-HBO-2/mpegts?token=testrapid:3CmWLfb3kW</link>
+<thumbnail>http://hboasiapromos.s3.amazonaws.com/0_core/fb-signature-480x320.jpg</thumbnail>
+</item>
+
+<item>
+<title>HBO 1</title>
+<link>http://unm198.bsdns.eu:8080/live/NL-HBO-3/mpegts?token=testrapid:3CmWLfb3kW</link>
+<thumbnail>http://hboasiapromos.s3.amazonaws.com/0_core/fb-signature-480x320.jpg</thumbnail>
 </item>
 
 <item>
