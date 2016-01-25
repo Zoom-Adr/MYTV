@@ -11,14 +11,7 @@
 <thumbnail>https://i.imgur.com/01Ve7Zm.png</thumbnail>
 </item>
 
-<item>
 <title>ARSENAL VS CHELSEA HD - [B][COLOR red]LIVE[/COLOR][/B]</title>
-<link>http://nlds5.cdnak.lon.neulion.com/nlds/coliseum/arsenal/as/live/arsenal_hd_3000_android.m3u8?nltid=plp&amp;nltdt=8&amp;nltnt=1&amp;hdnea=expires%3D1453673618%7Eaccess%3D%2F*%7Emd5%3D5a97283f66e43890ba8f0406cada7351|User-Agent=Android</link>
-<thumbnail>https://i.imgur.com/01Ve7Zm.png</thumbnail>
-</item>
-
-<item>
-<title>ARSENAL VS CHELSEA SD - [B][COLOR red]LIVE[/COLOR][/B]</title>
 <link>http://nlds5.cdnak.lon.neulion.com/nlds/coliseum/arsenal/as/live/arsenal_hd_3000_android.m3u8?nltid=plp&amp;nltdt=8&amp;nltnt=1&amp;hdnea=expires%3D1453673618%7Eaccess%3D%2F*%7Emd5%3D5a97283f66e43890ba8f0406cada7351|User-Agent=Android</link>
 <thumbnail>https://i.imgur.com/01Ve7Zm.png</thumbnail>
 </item>
@@ -314,6 +307,12 @@
 
 <items>
 <item>
+<title>ASTRO ARENA</title>
+<link>http://penang.layarku.tv/edge/149_330_live/chunklist_w968005433.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_arena_zpsyciworbm.png</thumbnail>
+</item>
+
+<item>
 <title>ASTRO RIA</title>
 <link>http://penang.layarku.tv/edge/149_327_live/chunklist_w590415699.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_ria_zps6zrje2dc.png</thumbnail>
@@ -402,100 +401,33 @@
 </item>
 
 <item>
+<title>RTM PARLIMEN</title>
+<link>http://d2krdsj5dv2ce5.cloudfront.net/ngrp:rtm-ch007_1080_all/chunklist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/rtmparlimen_zpsu1trkjx7.png</thumbnail>
+</item>
+
+<item>
 <title>AL-HIJRAH</title>
 <link>http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:tvah_hypptv.smil/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_alhijrah_zps7om1g57e.png</thumbnail>
 </item>
 
 <item>
-<title>TVI</title>
-<link>$doregex[url]|user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0</link>
-<regex>
-	<name>url</name>
-	<expres>$pyFunction:urllib.unquote('$doregex[get-url]')</expres>
-	<page></page>
-</regex>
-<regex>
-	<name>get-url</name>
-	<expres>src:"(.*?)"<expres>
-	<page>http://myklik.rtm.gov.my/player/streamer.php?channel=rtm-ch003</page>
-	<referer>http://myklik.rtm.gov.my/tvi<referer>
-</regex>
+<title>TVi</title>
+<link>http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch003_1080_all/chunklist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/tvi_zpsmwdrm674.png</thumbnail>
-</item>
-
-<item>
-<title>MUZIK AKTIF</title>
-<link>$doregex[url]|user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0</link>
-<regex>
-	<name>url</name>
-	<expres>$pyFunction:urllib.unquote('$doregex[get-url]')</expres>
-	<page></page>
-</regex>
-<regex>
-	<name>get-url</name>
-	<expres>src:"(.*?)"<expres>
-	<page>http://myklik.rtm.gov.my/player/streamer.php?channel=rtm-ch004</page>
-	<referer>http://myklik.rtm.gov.my/galaksi_muzik<referer>
-</regex>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/muzikaktif_zpswj4untkz.png</thumbnail>
-</item>
-
-<item>
-<title>1 NEWS</title>
-<link>$doregex[url]|user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0</link>
-<regex>
-	<name>url</name>
-	<expres>$pyFunction:urllib.unquote('$doregex[get-url]')</expres>
-	<page></page>
-</regex>
-<regex>
-	<name>get-url</name>
-	<expres>src:"(.*?)"<expres>
-	<page>http://myklik.rtm.gov.my/player/streamer.php?channel=rtm-ch006</page>
-	<referer>http://myklik.rtm.gov.my/1news<referer>
-</regex>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/1news_zpsdlajzziq.png</thumbnail>
-</item>
-
-<item>
-<title>RTM PARLIMEN</title>
-<link>$doregex[url]|user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0</link>
-<regex>
-	<name>url</name>
-	<expres>$pyFunction:urllib.unquote('$doregex[get-url]')</expres>
-	<page></page>
-</regex>
-<regex>
-	<name>get-url</name>
-	<expres>src:"(.*?)"<expres>
-	<page>http://myklik.rtm.gov.my/player/streamer.php?channel=rtm-ch007</page>
-	<referer>http://myklik.rtm.gov.my/rtmparlimen<referer>
-</regex>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/rtmparlimen_zpsu1trkjx7.png</thumbnail>
-</item>
-
-<item>
-<title>AKSI SUKAN</title>
-<link>$doregex[url]|user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0</link>
-<regex>
-	<name>url</name>
-	<expres>$pyFunction:urllib.unquote('$doregex[get-url]')</expres>
-	<page></page>
-</regex>
-<regex>
-	<name>get-url</name>
-	<expres>src:"(.*?)"<expres>
-	<page>http://myklik.rtm.gov.my/player/streamer.php?channel=rtm-ch008</page>
-	<referer>http://myklik.rtm.gov.my/aksisukan<referer>
-</regex>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/aksisukan_zpsynthgfvn.png</thumbnail>
 </item>
 
 <item>
 <title>MARA TV</title>
 <link>http://stream2.1malaysiaiptv.com/mylive/smil:maratv_all.smil/chunklist_w387938424_b1000000_sleng.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/maratv_zpsees3ljuu.png</thumbnail>
+</item>
+
+<item>
+<title>AKSI SUKAN</title>
+<link>http://d2krdsj5dv2ce5.cloudfront.net/ngrp:rtm-ch008_all/chunklist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/aksisukan_zpsynthgfvn.png</thumbnail>
 </item>
 
 <item>
@@ -1130,6 +1062,28 @@
 <page>http://adryanlist.org/nescafe/nescafe.php?canal=HBOEastUS&amp;cm=4765</page>
 <referer>http://adrian.kodistream.info/adryan/</referer>
 <setcookie>programa=rosadintv</setcookie>
+</regex>
+<thumbnail>http://hboasiapromos.s3.amazonaws.com/0_core/fb-hbo-480x320.jpg</thumbnail>
+</item>
+
+<item>
+<title>HBO MOVIES</title>
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/view/68358',False,False)</expres>
+	<page></page>
+</regex>
+<thumbnail>http://hboasiapromos.s3.amazonaws.com/0_core/fb-hbo-480x320.jpg</thumbnail>
+</item>
+
+<item>
+<title>HBO COMEDY</title>
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/view/38214',False,False)</expres>
+	<page></page>
 </regex>
 <thumbnail>http://hboasiapromos.s3.amazonaws.com/0_core/fb-hbo-480x320.jpg</thumbnail>
 </item>
