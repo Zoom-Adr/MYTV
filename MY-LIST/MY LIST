@@ -349,7 +349,7 @@
 
 <item>
 <title>TV1 - Backup*2</title>
-<link>http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch001.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1453905805&myTokenPrefixhash=9wM_dHpz08ZhxLnvvw0OW9LkhH2NJWR6tgUvuB_bzec=</link>
+<link>http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch001.smil/playlist.m3u8?myTokenPrefixstarttime=0&amp;myTokenPrefixendtime=1453905805&amp;myTokenPrefixhash=9wM_dHpz08ZhxLnvvw0OW9LkhH2NJWR6tgUvuB_bzec=</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv1_zps8mlj4nck.png</thumbnail>
 </item>
 
@@ -378,7 +378,7 @@
 
 <item>
 <title>TV2 - Backup*2</title>
-<link>http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch002.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1453905974&myTokenPrefixhash=Oy0qzQlxSkTySwTeOPr_DTigHgLMn5NxJlsCqIdljJo=</link>
+<link>http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch002.smil/playlist.m3u8?myTokenPrefixstarttime=0&amp;myTokenPrefixendtime=1453905974&amp;myTokenPrefixhash=Oy0qzQlxSkTySwTeOPr_DTigHgLMn5NxJlsCqIdljJo=</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/My_tv2_zpshzwufzrv.png</thumbnail>
 </item>
 
