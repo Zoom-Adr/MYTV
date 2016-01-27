@@ -12,8 +12,8 @@
 </item>
 
 <item>
-<title>DigiSport 3 (Shows Various Football)</title>
-<link>http://82.76.249.81/digiedge/digisport3ehq/index.m3u8?is=3&src=digi-online.ro&t=00000000000000000000000000000000</link>
+<title>DigiSport 3 test (Shows Various Football)</title>
+<link>http://82.76.249.81/digiedge/digisport3ehq/index.m3u8?is=3&src=digi-online.ro&t=00000000000000000000000000000000|User-Agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.0.3) Gecko/2008092417 Firefox/3.0.3</link>
 <thumbnail>http://tv.moviesntvlive.com/wp-content/uploads/2015/11/Digi-Sport-3.png</thumbnail>
 </item>
 
