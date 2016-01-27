@@ -1151,6 +1151,17 @@
 </item>
 
 <item>
+<title>FOX MOVIES BACKUP</title>
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/view/38449/',False,False)</expres>
+	<page></page>
+</regex>
+<thumbnail>http://www.cth.co.th/wp-content/uploads/2014/03/415x263_1.jpg</thumbnail>
+</item>
+
+<item>
 <title>HBO</title>
 <link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/HBOEastUS/playlist.m3u8?token=$doregex[tok]</link>
 <regex>
