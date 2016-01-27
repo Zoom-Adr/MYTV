@@ -1103,6 +1103,18 @@
 <fanart>https://copy.com/npVb1814zzyGOU3c</fanart>
 
 <item>
+<title>CW</title>
+<link>http://www.iptvlinks.tk/$doregex[file]|user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
+<regex>
+<name>file</name>
+<expres>src = '(.*?)'</expres>
+<page>http://www.iptvlinks.tk/ds/embed?id=cw</page>
+<referer>http://www.zoptv.com/live/cw</referer>
+</regex>
+<thumbnail>http://logos-vector.com/images/logo/xxl/8/9/7/89723/The_CW_a65ba_450x450.png</thumbnail>
+</item>
+
+<item>
 <title>FOX ACTION CANAL</title>
 <link>http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?supertvlat=%2F.ts</link>
 <thumbnail>http://tvshows.ofw-ako.com/wp-content/uploads/2015/11/fox-movies.png</thumbnail>
