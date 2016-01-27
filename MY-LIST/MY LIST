@@ -1094,6 +1094,16 @@
 </regex>
 <thumbnail>http://i.imgur.com/Ug9xGzp.png</thumbnail>
 </item>
+
+<item>
+<title>WWE NETWORK BACKUP</title>
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/view/73273/',False,False)</expres>
+	<page></page>
+</regex>
+<thumbnail>http://i.imgur.com/Ug9xGzp.png</thumbnail>
 </items>
 </channel>
 
