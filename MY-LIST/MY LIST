@@ -1282,12 +1282,6 @@
 </item>
 
 <item>
-<title>WARNER TV TEST</title>
-<link>http://live.oneplay.tv/reproducir/93.m3u8</link>
-<thumbnail>http://www.cth.co.th/wp-content/uploads/2014/09/415-x-263_1.jpg</thumbnail>
-</item>
-
-<item>
 <title>DISNEY JUNIOR</title>
 <link>$doregex[url]</link>
 <regex>
