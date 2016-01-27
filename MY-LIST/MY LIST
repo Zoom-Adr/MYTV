@@ -567,6 +567,12 @@
 
 <item>
 <title>ZEE BOLLYWOOD</title>
+<link>http://80.243.189.26:8181/pakindiatv/stargold/index.m3u8</link>
+<thumbnail>http://www.media247.co.uk/bizasia/wp-content/uploads/2012/12/stargold001.jpg</thumbnail>
+</item>
+
+<item>
+<title>ZEE BOLLYWOOD</title>
 <link>http://stream.zeefamily.tv/zeebollywood/index.m3u8</link>
 <thumbnail>http://res.cloudinary.com/idiso/image/upload/h_200/v1422032328/gqnsgbygl9km68jjap09.png</thumbnail>
 </item>
