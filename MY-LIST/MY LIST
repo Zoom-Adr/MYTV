@@ -699,6 +699,66 @@
 </item>
 
 <item>
+<title>BEIN SPORTS 1</title>
+<link>http://unm96.bsdns.eu:8080/live/BEIN-SPORTS-1/mpegts?token=testrapid:3CmWLfb3kW</link>
+<thumbnail>http://id.beinsports.com/workspace/images/sharethumb200x200.jpg</thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS 2</title>
+<link>http://unm96.bsdns.eu:8080/live/BEIN-SPORTS-2/mpegts?token=testrapid:3CmWLfb3kW</link>
+<thumbnail>http://id.beinsports.com/workspace/images/sharethumb200x200.jpg</thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS 3</title>
+<link>http://unm96.bsdns.eu:8080/live/BEIN-SPORTS-3/mpegts?token=testrapid:3CmWLfb3kW</link>
+<thumbnail>http://id.beinsports.com/workspace/images/sharethumb200x200.jpg</thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS 4</title>
+<link>http://unm96.bsdns.eu:8080/live/BEIN-SPORTS-4/mpegts?token=testrapid:3CmWLfb3kW</link>
+<thumbnail>http://id.beinsports.com/workspace/images/sharethumb200x200.jpg</thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS 5</title>
+<link>http://unm96.bsdns.eu:8080/live/BEIN-SPORTS-5/mpegts?token=testrapid:3CmWLfb3kW</link>
+<thumbnail>http://id.beinsports.com/workspace/images/sharethumb200x200.jpg</thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS 6</title>
+<link>http://unm96.bsdns.eu:8080/live/BEIN-SPORTS-6/mpegts?token=testrapid:3CmWLfb3kW</link>
+<thumbnail>http://id.beinsports.com/workspace/images/sharethumb200x200.jpg</thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS 7</title>
+<link>http://unm96.bsdns.eu:8080/live/Bein-Sports-7/mpegts?token=testrapid:3CmWLfb3kW</link>
+<thumbnail>http://id.beinsports.com/workspace/images/sharethumb200x200.jpg</thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS 8</title>
+<link>http://unm96.bsdns.eu:8080/live/BEIN-SPORTS-8/mpegts?token=testrapid:3CmWLfb3kW</link>
+<thumbnail>http://id.beinsports.com/workspace/images/sharethumb200x200.jpg</thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS 9</title>
+<link>http://unm96.bsdns.eu:8080/live/BEIN-SPORTS-9/mpegts?token=testrapid:3CmWLfb3kW</link>
+<thumbnail>http://id.beinsports.com/workspace/images/sharethumb200x200.jpg</thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS 10</title>
+<link>http://unm96.bsdns.eu:8080/live/BEIN-SPORTS-10/mpegts?token=testrapid:3CmWLfb3kW</link>
+<thumbnail>http://id.beinsports.com/workspace/images/sharethumb200x200.jpg</thumbnail>
+</item>
+
+<item>
 <title>BRITISH EUROSPORT 1</title>
 <link>http://www.iptvlinks.tk/$doregex[file]|user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
 <regex>
@@ -926,6 +986,29 @@
 <thumbnail>https://nbcsportsgrouppressbox.files.wordpress.com/2012/06/nbcsport-network11.jpg</thumbnail>
 </item>
 
+<item>
+<title>OSN SPORTS 1</title>
+<link>http://unm96.bsdns.eu:8080/live/SPORTS-OSN-Sport-1/mpegts?token=testrapid:3CmWLfb3kW</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/2/27/OSN_Sports_2013.jpg</thumbnail>
+</item>
+
+<item>
+<title>OSN SPORTS 2</title>
+<link>http://unm96.bsdns.eu:8080/live/SPORTS-OSN-Sport-2/mpegts?token=testrapid:3CmWLfb3kW</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/2/27/OSN_Sports_2013.jpg</thumbnail>
+</item>
+
+<item>
+<title>OSN SPORTS 3</title>
+<link>http://unm96.bsdns.eu:8080/live/SPORTS-OSN-Sport-3/mpegts?token=testrapid:3CmWLfb3kW</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/2/27/OSN_Sports_2013.jpg</thumbnail>
+</item>
+
+<item>
+<title>OSN SPORTS 4</title>
+<link>http://unm96.bsdns.eu:8080/live/SPORTS-OSN-Sport-4/mpegts?token=testrapid:3CmWLfb3kW</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/2/27/OSN_Sports_2013.jpg</thumbnail>
+</item>
 
 <item>
 <title>SKY SPORTS 1</title>
