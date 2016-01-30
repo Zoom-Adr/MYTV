@@ -779,8 +779,20 @@
 </item>
 
 <item>
+<title>CTH STADIUM 1 BACKUP</title>
+<link>http://www.t12v.com:8000/live/test1/test1/1087.m3u8</link>
+<thumbnail>http://www.cthbpl.com/img/stadium/stadium1.png</thumbnail>
+</item>
+
+<item>
 <title>CTH STADIUM 2</title>
 <link>http://unm96.bsdns.eu:8080/live/SPORTS-CTH-Stadium-2/mpegts?token=testrapid:3CmWLfb3kW</link>
+<thumbnail>http://www.cthbpl.com/img/stadium/stadium2.png</thumbnail>
+</item>
+
+<item>
+<title>CTH STADIUM 2 BACKUP</title>
+<link>http://www.t12v.com:8000/live/test1/test1/1086.m3u8</link>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium2.png</thumbnail>
 </item>
 
@@ -791,8 +803,20 @@
 </item>
 
 <item>
+<title>CTH STADIUM 3 BACKUP</title>
+<link>http://www.t12v.com:8000/live/test1/test1/1069.m3u8</link>
+<thumbnail>http://www.cthbpl.com/img/stadium/stadium3.png</thumbnail>
+</item>
+
+<item>
 <title>CTH STADIUM 4</title>
 <link>http://unm96.bsdns.eu:8080/live/SPORTS-CTH-Stadium-4/mpegts?token=testrapid:3CmWLfb3kW</link>
+<thumbnail>http://www.cthbpl.com/img/stadium/stadium4.png</thumbnail>
+</item>
+
+<item>
+<title>CTH STADIUM 4 BACKUP</title>
+<link>http://www.t12v.com:8000/live/test1/test1/1070.m3u8</link>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium4.png</thumbnail>
 </item>
 
@@ -803,8 +827,20 @@
 </item>
 
 <item>
+<title>CTH STADIUM 5 BACKUP</title>
+<link>http://www.t12v.com:8000/live/test1/test1/1085.m3u8</link>
+<thumbnail>http://www.cthbpl.com/img/stadium/stadium5.png</thumbnail>
+</item>
+
+<item>
 <title>CTH STADIUM 6</title>
 <link>http://unm96.bsdns.eu:8080/live/SPORTS-CTH-Stadium-6/mpegts?token=testrapid:3CmWLfb3kW</link>
+<thumbnail>http://www.cthbpl.com/img/stadium/stadium6.png</thumbnail>
+</item>
+
+<item>
+<title>CTH STADIUM 6 BACKUP</title>
+<link>http://www.t12v.com:8000/live/test1/test1/1100.m3u8</link>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium6.png</thumbnail>
 </item>
 
