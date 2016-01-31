@@ -641,66 +641,6 @@
 </item>
 
 <item>
-<title>BEIN SPORTS 1</title>
-<link>http://unm96.bsdns.eu:8080/live/BEIN-SPORTS-1/mpegts?token=testrapid:3CmWLfb3kW</link>
-<thumbnail>http://id.beinsports.com/workspace/images/sharethumb200x200.jpg</thumbnail>
-</item>
-
-<item>
-<title>BEIN SPORTS 2</title>
-<link>http://unm96.bsdns.eu:8080/live/BEIN-SPORTS-2/mpegts?token=testrapid:3CmWLfb3kW</link>
-<thumbnail>http://id.beinsports.com/workspace/images/sharethumb200x200.jpg</thumbnail>
-</item>
-
-<item>
-<title>BEIN SPORTS 3</title>
-<link>http://unm96.bsdns.eu:8080/live/BEIN-SPORTS-3/mpegts?token=testrapid:3CmWLfb3kW</link>
-<thumbnail>http://id.beinsports.com/workspace/images/sharethumb200x200.jpg</thumbnail>
-</item>
-
-<item>
-<title>BEIN SPORTS 4</title>
-<link>http://unm96.bsdns.eu:8080/live/BEIN-SPORTS-4/mpegts?token=testrapid:3CmWLfb3kW</link>
-<thumbnail>http://id.beinsports.com/workspace/images/sharethumb200x200.jpg</thumbnail>
-</item>
-
-<item>
-<title>BEIN SPORTS 5</title>
-<link>http://unm96.bsdns.eu:8080/live/BEIN-SPORTS-5/mpegts?token=testrapid:3CmWLfb3kW</link>
-<thumbnail>http://id.beinsports.com/workspace/images/sharethumb200x200.jpg</thumbnail>
-</item>
-
-<item>
-<title>BEIN SPORTS 6</title>
-<link>http://unm96.bsdns.eu:8080/live/BEIN-SPORTS-6/mpegts?token=testrapid:3CmWLfb3kW</link>
-<thumbnail>http://id.beinsports.com/workspace/images/sharethumb200x200.jpg</thumbnail>
-</item>
-
-<item>
-<title>BEIN SPORTS 7</title>
-<link>http://unm96.bsdns.eu:8080/live/Bein-Sports-7/mpegts?token=testrapid:3CmWLfb3kW</link>
-<thumbnail>http://id.beinsports.com/workspace/images/sharethumb200x200.jpg</thumbnail>
-</item>
-
-<item>
-<title>BEIN SPORTS 8</title>
-<link>http://unm96.bsdns.eu:8080/live/BEIN-SPORTS-8/mpegts?token=testrapid:3CmWLfb3kW</link>
-<thumbnail>http://id.beinsports.com/workspace/images/sharethumb200x200.jpg</thumbnail>
-</item>
-
-<item>
-<title>BEIN SPORTS 9</title>
-<link>http://unm96.bsdns.eu:8080/live/BEIN-SPORTS-9/mpegts?token=testrapid:3CmWLfb3kW</link>
-<thumbnail>http://id.beinsports.com/workspace/images/sharethumb200x200.jpg</thumbnail>
-</item>
-
-<item>
-<title>BEIN SPORTS 10</title>
-<link>http://unm96.bsdns.eu:8080/live/BEIN-SPORTS-10/mpegts?token=testrapid:3CmWLfb3kW</link>
-<thumbnail>http://id.beinsports.com/workspace/images/sharethumb200x200.jpg</thumbnail>
-</item>
-
-<item>
 <title>BRITISH EUROSPORT 1</title>
 <link>http://www.iptvlinks.tk/$doregex[file]|user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
 <regex>
@@ -762,7 +702,7 @@
 
 <item>
 <title>BT SPORTS ESPN</title>
-<link>http://80.243.189.26:8081/sportshd/espnuk/index.m3u8</link>
+<link>http://www.t12v.com:8000/live/test1/test1/1059.m3u8</link>
 <thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
 </item>
 
@@ -905,8 +845,8 @@
 </item>
 
 <item>
-<title>FOX SPORTS 1 USA [NEED VPN]</title>
-<link>http://107.22.51.235/server/play/fs1bctg/1328000/prog.m3u8?</link>
+<title>FOX SPORTS 1 USA</title>
+<link>http://80.243.189.26:8182/pakindiatv/FoxSport1/index.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports_us_1.png</thumbnail>
 </item>
 
@@ -917,8 +857,8 @@
 </item>
 
 <item>
-<title>FOX SPORTS 2 USA [NEED VPN]</title>
-<link>http://107.22.51.235/server/play/fs2bctg/1328000/prog.m3u8?</link>
+<title>FOX SPORTS 2 USA</title>
+<link>http://80.243.189.26:8182/pakindiatv/FoxSport2/index.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports_us_2.png</thumbnail>
 </item>
 
