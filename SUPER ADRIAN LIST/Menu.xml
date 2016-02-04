@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
-<channels>
-<channel>
+<item>
 <name>Indonesia</name>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/flag_world_zpsic7ttnuh.png</thumbnail>
 <fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/syarrr/AdrianSyafiq/master/SUPER%20ADRIAN%20LIST/Indonesia.xml</externallink>
-</channel>
-</channels>
+</item>
