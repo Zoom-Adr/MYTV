@@ -8,6 +8,7 @@
 <externallink>https://raw.githubusercontent.com/syarrr/AdrianSyafiq/master/SUPER%20ADRIAN%20LIST/Indonesia.xml</externallink>
 </item>
 
+<channels>
 <channel>
 <title>TEST1</title>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/flag_world_zpsic7ttnuh.png</thumbnail>
@@ -15,3 +16,4 @@
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/indiecrew/ProjectMRNetwork/master/plugin.video.mrnetwork.tv/MainMenu.xml</externallink>
 </channel>
+</channels>
