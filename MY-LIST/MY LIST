@@ -17,9 +17,62 @@
 <thumbnail>https://i.imgur.com/01Ve7Zm.png</thumbnail>
 </item>
 
-<title>TEST2</title>
-<link>http://bit.ly/1o6dzyk</link>
-<thumbnail>https://i.imgur.com/01Ve7Zm.png</thumbnail>
+<item>
+<title>KNDILIKE TEST*</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres><![CDATA[#$pyFunction
+import jscrypto, base64,re
+def GetLSProData(page_data,Cookie_Jar,m,ct="$doregex[getCT]", passphrase="$doregex[getPassPhrase]", salt="$doregex[getSalt]"):
+    ct=re.findall('"ct":"(.*?)"',page_data)[0]
+    salt=re.findall('"s":"(.*?)"',page_data)[0]
+    passphrase=re.findall('"s":".*?"}.*?"(.*?)"',page_data)[0]
+    salt=salt.decode("hex")    
+    url= jscrypto.decode(ct,passphrase,salt)
+    return url.replace("\\/","/").replace('"','')
+]]></expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=hd-arena1eng</page>
+<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</agent>
+<cookieJar>$doregex[LoginAndCookie]</cookieJar>
+</regex>
+
+<regex>
+<name>getCT</name>
+<expres>.ct":"(.*)"."iv</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=hd-arena1eng</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv&c=uk-skysportsnews</referer>
+<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</agent>
+<cookieJar>$doregex[LoginAndCookie]</cookieJar>
+</regex>
+
+<regex>
+<name>getPassPhrase</name>
+<expres>.s.*.', "(.*?)"</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=hd-arena1eng</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/?a=tv&c=uk-skysportsnews</referer>
+<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</agent>
+<cookieJar>$doregex[LoginAndCookie]</cookieJar>
+</regex>
+
+<regex>
+<name>getSalt</name>
+<expres>"s":"(.*?)"</expres>
+<page>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=hd-arena1eng</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/tv/player.php?c=hd-arena1eng</referer>
+<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</agent>
+<cookieJar>$doregex[LoginAndCookie]</cookieJar>
+</regex>
+
+<regex>
+<name>LoginAndCookie</name>
+<expres></expres>
+<page>http://knd1.ilikehd.com/kaneda/web/login/index.php?check=1</page>
+<referer>http://knd1.ilikehd.com/kaneda/web/login/</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent>
+<rawpost>email=mcunni1817%40googlemail.com&amp;password=celtic1888</rawpost>
+<cookieJar></cookieJar>
+</regex>
 </item>
 
 <title>ARSENAL VS CHELSEA HD - [B][COLOR red]LIVE[/COLOR][/B]</title>
