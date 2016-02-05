@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
+<channels_info>
+<title>MR Network TV</title>
+<genre>Live TV</genre>
+<description>Live TV Channel from MalayRevolution Network TV</description>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Mobile%20Uploads/icon_zps58mh6jct.png</thumbnail>
+<fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsyx9pb7xu.png</fanart>
+<date>18.01.2016</date>
+<credits>Indiecrew, MalayRevolution Nerwork</credits>
+</channels_info>
+
 <channels>
 <channel>
 <name>[COLOR=FFFFFF00]INDONESIA CHANNELS[/COLOR]</name>
