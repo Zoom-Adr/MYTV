@@ -1,25 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
-<item>
-<title>INDONESIA</title>
+<channels>
+<channel>
+<name>[COLOR=FFFFFF00]INDONESIA CHANNELS[/COLOR]</name>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/flag_world_zpsic7ttnuh.png</thumbnail>
 <fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/syarrr/AdrianSyafiq/master/SUPER%20ADRIAN%20LIST/Indonesia.xml</externallink>
-</item>
+</channel>
 
-<item>
-<title>INDONESIA</title>
-<thumbnail>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</thumbnail>
-<fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/indiecrew/ProjectMRNetwork/master/plugin.video.mrnetwork.tv/MainMenu2.xml</externallink>
-</item>
-
-<item>
-<title>test</title>
-<thumbnail>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</thumbnail>
-<fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
+<channel>
+<name>[COLOR=FFFFFF00]BRUNEI CHANNELS[/COLOR]</name>
+<thumbnail>http://img.freeflagicons.com/thumb/square_icon/brunei/brunei_640.png</thumbnail>
+<fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsyx9pb7xu.png</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/indiecrew/masterlist/master/BRU.xml</externallink>
-</item>
+</channel>
+</channels>
