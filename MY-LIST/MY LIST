@@ -732,7 +732,13 @@ channel>
 
 <item>
 <title>CTH STADIUM 1 BACKUP</title>
-<link>http://www.t12v.com:8000/live/test1/test1/1087.m3u8</link>
+<link>http://livesg.khaozap.com:1935/live/cth1.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://khaozap.com/wp/sport/cth1.php</page>
+<referer>http://khaozap.com</referer>
+</regex>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium1.png</thumbnail>
 </item>
 
@@ -744,19 +750,31 @@ channel>
 
 <item>
 <title>CTH STADIUM 2 BACKUP</title>
-<link>http://www.t12v.com:8000/live/test1/test1/1086.m3u8</link>
+<link>http://livesg.khaozap.com:1935/live/cth2.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://khaozap.com/wp/sport/cth2.php</page>
+<referer>http://khaozap.com</referer>
+</regex>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium2.png</thumbnail>
 </item>
 
 <item>
 <title>CTH STADIUM 3</title>
 <link>http://unm96.bsdns.eu:8080/live/SPORTS-CTH-Stadium-3/mpegts?token=testrapid:3CmWLfb3kW</link>
-<thumbnail>http://www.cthbpl.com/img/stadium/stadium3.png</thumbnail>
+<thumbnail>http://www.cthbpl.com/img/stadium/stadium2.png</thumbnail>
 </item>
 
 <item>
 <title>CTH STADIUM 3 BACKUP</title>
-<link>http://www.t12v.com:8000/live/test1/test1/1069.m3u8</link>
+<link>http://livesg.khaozap.com:1935/live/cth3.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://khaozap.com/wp/sport/cth3.php</page>
+<referer>http://khaozap.com</referer>
+</regex>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium3.png</thumbnail>
 </item>
 
@@ -768,7 +786,13 @@ channel>
 
 <item>
 <title>CTH STADIUM 4 BACKUP</title>
-<link>http://www.t12v.com:8000/live/test1/test1/1070.m3u8</link>
+<link>http://livesg.khaozap.com:1935/live/cth4.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://khaozap.com/wp/sport/cth4.php</page>
+<referer>http://khaozap.com</referer>
+</regex>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium4.png</thumbnail>
 </item>
 
@@ -780,7 +804,13 @@ channel>
 
 <item>
 <title>CTH STADIUM 5 BACKUP</title>
-<link>http://www.t12v.com:8000/live/test1/test1/1085.m3u8</link>
+<link>http://livesg.khaozap.com:1935/live/cth5.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://khaozap.com/wp/sport/cth5.php</page>
+<referer>http://khaozap.com</referer>
+</regex>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium5.png</thumbnail>
 </item>
 
