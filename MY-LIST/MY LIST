@@ -731,7 +731,7 @@ channel>
 </item>
 
 <item>
-<title>CTH STADIUM 1 BACKUP</title>
+<title>CTH 1</title>
 <link>http://livesg.khaozap.com:1935/live/cth1.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
 <name>tok</name>
