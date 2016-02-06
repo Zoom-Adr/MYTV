@@ -1,29 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
-<channels_info>
-<title>MR Network TV</title>
-<genre>Live TV</genre>
-<description>Live TV Channel from MalayRevolution Network TV</description>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Mobile%20Uploads/icon_zps58mh6jct.png</thumbnail>
-<fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsyx9pb7xu.png</fanart>
-<date>18.01.2016</date>
-<credits>Indiecrew, MalayRevolution Nerwork</credits>
-</channels_info>
-
-<channels>
-<channel>
-<name>[COLOR=FFFFFF00]INDONESIA CHANNELS[/COLOR]</name>
+<item>
+<title>INDONESIA CHANNELS</title>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/flag_world_zpsic7ttnuh.png</thumbnail>
 <fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/syarrr/AdrianSyafiq/master/SUPER%20ADRIAN%20LIST/Indonesia.xml</externallink>
-</channel>
+</item>
 
-<channel>
-<name>[COLOR=FFFFFF00]BRUNEI CHANNELS[/COLOR]</name>
-<thumbnail>http://img.freeflagicons.com/thumb/square_icon/brunei/brunei_640.png</thumbnail>
-<fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsyx9pb7xu.png</fanart>
+<item>
+<title>TEST CHANNELS</title>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/flag_world_zpsic7ttnuh.png</thumbnail>
+<fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/indiecrew/ProjectMRNetwork/master/plugin.video.mrnetwork.tv/MainMenu2.xml</externallink>
-</channel>
-</channels>
+<externallink>https://www.dropbox.com/s/tgq9gwqk7i9nfjw/Main_Menu.xml?dl=1</externallink>
+</item>
