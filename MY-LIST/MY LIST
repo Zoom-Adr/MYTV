@@ -917,18 +917,6 @@ channel>
 </item>
 
 <item>
-<title>SKYNET SPORTS HD </title>
-<link>rtmp://199.189.110.20/as99/chSport1hd</link>
-<thumbnail>http://www.skynetdth.com/images/templates/dd_wildlion_37/images/logo-2.png</thumbnail>
-</item>
-
-<item>
-<title>SKYNET SPORTS 1</title>
-<link>rtmp://199.189.110.20/as99/chSport2hd</link>
-<thumbnail>http://www.skynetdth.com/images/templates/dd_wildlion_37/images/logo-2.png</thumbnail>
-</item>
-
-<item>
 <title>MUTV</title>
 <link>http://ovh143.bsdns.eu:8080/live/UK-Manchester-United-FC/mpegts?token=testrapid:3CmWLfb3kW</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png</thumbnail>
@@ -969,6 +957,30 @@ channel>
 <title>OSN SPORTS 4</title>
 <link>http://unm96.bsdns.eu:8080/live/SPORTS-OSN-Sport-4/mpegts?token=testrapid:3CmWLfb3kW</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/2/27/OSN_Sports_2013.jpg</thumbnail>
+</item>
+
+<item>
+<title>SKYNET SPORTS HD </title>
+<link>rtmp://199.189.110.20/as99/chSport1hd</link>
+<thumbnail>http://www.skynetdth.com/images/templates/dd_wildlion_37/images/logo-2.png</thumbnail>
+</item>
+
+<item>
+<title>SKYNET SPORTS HD BACKUP </title>
+<link>http://216.185.103.158:1935/live2/chSport1hd/playlist.m3u8</link>
+<thumbnail>http://www.skynetdth.com/images/templates/dd_wildlion_37/images/logo-2.png</thumbnail>
+</item>
+
+<item>
+<title>SKYNET SPORTS 1</title>
+<link>rtmp://199.189.110.20/as99/chSport2hd</link>
+<thumbnail>http://www.skynetdth.com/images/templates/dd_wildlion_37/images/logo-2.png</thumbnail>
+</item>
+
+<item>
+<title>SKYNET SPORTS 1 BACKUP</title>
+<link>http://216.185.103.158:1935/live2/chSport2hd/playlist.m3u8</link>
+<thumbnail>http://www.skynetdth.com/images/templates/dd_wildlion_37/images/logo-2.png</thumbnail>
 </item>
 
 <item>
