@@ -1074,6 +1074,12 @@ channel>
 <fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 
 <item>
+<title>AXN</title>
+<link>http://stream.anluong.info/d6035575f16a12dd14fec6d53aa9af1422/mytv-axn.m3u8</link>
+<thumbnail>http://tvimages.burrp.com/images/channels2/entertainment/axn.png</thumbnail>
+</item>
+
+<item>
 <title>CW</title>
 <link>http://www.iptvlinks.tk/$doregex[file]|user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
 <regex>
@@ -1086,44 +1092,8 @@ channel>
 </item>
 
 <item>
-<title>FOX ACTION CANAL</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?supertvlat=%2F.ts</link>
-<thumbnail>http://tvshows.ofw-ako.com/wp-content/uploads/2015/11/fox-movies.png</thumbnail>
-</item>
-
-<item>
-<title>FOX MOVIES CANAL</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?supertvlat=%2F.ts</link>
-<thumbnail>http://tvshows.ofw-ako.com/wp-content/uploads/2015/11/fox-movies.png</thumbnail>
-</item>
-
-<item>
-<title>FOX CINEMA CANAL</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL421/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>http://tvshows.ofw-ako.com/wp-content/uploads/2015/11/fox-movies.png</thumbnail>
-</item>
-
-<item>
-<title>FOX CLASSIC CANAL</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL424/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>http://tvshows.ofw-ako.com/wp-content/uploads/2015/11/fox-movies.png</thumbnail>
-</item>
-
-<item>
-<title>HBO 1</title>
-<link>http://unm198.bsdns.eu:8080/live/NL-HBO-1/mpegts?token=testrapid:3CmWLfb3kW</link>
-<thumbnail>http://hboasiapromos.s3.amazonaws.com/0_core/fb-hbo-480x320.jpg</thumbnail>
-</item>
-
-<item>
-<title>HBO 2</title>
-<link>http://unm198.bsdns.eu:8080/live/NL-HBO-2/mpegts?token=testrapid:3CmWLfb3kW</link>
-<thumbnail>http://hboasiapromos.s3.amazonaws.com/0_core/fb-hbo-480x320.jpg</thumbnail>
-</item>
-
-<item>
-<title>HBO 3</title>
-<link>http://unm198.bsdns.eu:8080/live/NL-HBO-3/mpegts?token=testrapid:3CmWLfb3kW</link>
+<title>HBO</title>
+<link>http://stream.anluong.info/d6035575f16a12dd14fec6d53aa9af1422/mytv-hbo.m3u8</link>
 <thumbnail>http://hboasiapromos.s3.amazonaws.com/0_core/fb-hbo-480x320.jpg</thumbnail>
 </item>
 
@@ -1203,6 +1173,12 @@ channel>
 <title>SKY SHOWCASE</title>
 <link>http://ovh143.bsdns.eu:8080/live/UK-Sky-Movies-Showcase/mpegts?token=testrapid:3CmWLfb3kW</link>
 <thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
+</item>
+
+<item>
+<title>STAR MOVIES</title>
+<link>http://stream.anluong.info/d6035575f16a12dd14fec6d53aa9af1422/mytv-starmovieshd.m3u8</link>
+<thumbnail>http://tvimages.burrp.com/images/channels2/movies/Star-Movies-HD.png</thumbnail>
 </item>
 
 <item>
