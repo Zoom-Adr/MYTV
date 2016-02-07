@@ -935,8 +935,15 @@ channel>
 </item>
 
 <item>
-<title>NBCSN HD</title>
-<link>http://unm166.bsdns.eu:8080/live/USA-NBC-SN/mpegts?token=testrapid:3CmWLfb3kW</link>
+<title>NBCSN</title>
+<link>$doregex[getM3U8]|User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&amp;Referer=http://shadow.go.ro/shadownet/channels/usa/player/nbc-sports.php</link>
+<regex>
+<name>getM3U8</name>
+<expres>src : '(.*?)'</expres>
+<page>http://shadow.go.ro/shadownet/channels/usa/player/nbc-sports.php</page>
+<referer>http://www.sdw-net.co/channels/NBC-Sports-Netw..html</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
+</regex>
 <thumbnail>https://nbcsportsgrouppressbox.files.wordpress.com/2012/06/nbcsport-network11.jpg</thumbnail>
 </item>
 
