@@ -1072,6 +1072,18 @@ channel>
 </item>
 
 <item>
+<title>FOX</title>
+<link>http://www.iptvlinks.tk/$doregex[file]|user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
+<regex>
+<name>file</name>
+<expres>src = '(.*?)'</expres>
+<page>http://www.iptvlinks.tk/ds/embed?id=fox</page>
+<referer>http://www.zoptv.com/live/fox</referer>
+</regex>
+<thumbnail>http://3.bp.blogspot.com/-zY5BiL74tB0/VRax8KAvAUI/AAAAAAAACic/9GiK0K2ij3s/s1600/Fox%2BTv%2BCanl%C4%B1%2B%C4%B0zle,%2B%C3%96mr%C3%BCm%2BSessiz%2BB%C4%B0r%2B%C3%87%C4%B1%C4%9Fl%C4%B1k%2B%C4%B0zle.png</thumbnail>
+</item>
+
+<item>
 <title>HBO</title>
 <link>http://stream.anluong.info/d6035575f16a12dd14fec6d53aa9af1422/mytv-hbo.m3u8</link>
 <thumbnail>http://hboasiapromos.s3.amazonaws.com/0_core/fb-hbo-480x320.jpg</thumbnail>
