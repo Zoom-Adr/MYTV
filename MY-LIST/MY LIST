@@ -629,24 +629,6 @@ channel>
 </item>
 
 <item>
-<title>BEIN SPORTS ASIA 1 [HD]</title>
-<link>http://180.250.29.22:80/jhos/beib1_5/playlist.m3u8</link>
-<thumbnail>http://id.beinsports.com/workspace/images/sharethumb200x200.jpg</thumbnail>
-</item>
-
-<item>
-<title>BEIN SPORTS ASIA 2 [HD]</title>
-<link>http://180.250.29.22:80/jhos/beib2_5/playlist.m3u8</link>
-<thumbnail>http://id.beinsports.com/workspace/images/sharethumb200x200.jpg</thumbnail>
-</item>
-
-<item>
-<title>BEIN SPORTS ASIA 3 [HD]</title>
-<link>http://180.250.29.22:80/jhos/beib3_5/playlist.m3u8</link>
-<thumbnail>http://id.beinsports.com/workspace/images/sharethumb200x200.jpg</thumbnail>
-</item>
-
-<item>
 <title>BRITISH EUROSPORT 1</title>
 <link>http://www.iptvlinks.tk/$doregex[file]|user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
 <regex>
@@ -720,12 +702,6 @@ channel>
 
 <item>
 <title>CTH STADIUM 1</title>
-<link>http://unm96.bsdns.eu:8080/live/SPORTS-CTH-Stadium-1/mpegts?token=testrapid:3CmWLfb3kW</link>
-<thumbnail>http://www.cthbpl.com/img/stadium/stadium1.png</thumbnail>
-</item>
-
-<item>
-<title>CTH STADIUM 1 BACKUP</title>
 <link>http://livesg.khaozap.com:1935/live/cth1.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
 <name>tok</name>
@@ -738,12 +714,6 @@ channel>
 
 <item>
 <title>CTH STADIUM 2</title>
-<link>http://unm96.bsdns.eu:8080/live/SPORTS-CTH-Stadium-2/mpegts?token=testrapid:3CmWLfb3kW</link>
-<thumbnail>http://www.cthbpl.com/img/stadium/stadium2.png</thumbnail>
-</item>
-
-<item>
-<title>CTH STADIUM 2 BACKUP</title>
 <link>http://livesg.khaozap.com:1935/live/cth2.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
 <name>tok</name>
@@ -756,12 +726,6 @@ channel>
 
 <item>
 <title>CTH STADIUM 3</title>
-<link>http://unm96.bsdns.eu:8080/live/SPORTS-CTH-Stadium-3/mpegts?token=testrapid:3CmWLfb3kW</link>
-<thumbnail>http://www.cthbpl.com/img/stadium/stadium2.png</thumbnail>
-</item>
-
-<item>
-<title>CTH STADIUM 3 BACKUP</title>
 <link>http://livesg.khaozap.com:1935/live/cth3.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
 <name>tok</name>
@@ -774,12 +738,6 @@ channel>
 
 <item>
 <title>CTH STADIUM 4</title>
-<link>http://unm96.bsdns.eu:8080/live/SPORTS-CTH-Stadium-4/mpegts?token=testrapid:3CmWLfb3kW</link>
-<thumbnail>http://www.cthbpl.com/img/stadium/stadium4.png</thumbnail>
-</item>
-
-<item>
-<title>CTH STADIUM 4 BACKUP</title>
 <link>http://livesg.khaozap.com:1935/live/cth4.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
 <name>tok</name>
@@ -792,12 +750,6 @@ channel>
 
 <item>
 <title>CTH STADIUM 5</title>
-<link>http://unm96.bsdns.eu:8080/live/SPORTS-CTH-Stadium-5/mpegts?token=testrapid:3CmWLfb3kW</link>
-<thumbnail>http://www.cthbpl.com/img/stadium/stadium5.png</thumbnail>
-</item>
-
-<item>
-<title>CTH STADIUM 5 BACKUP</title>
 <link>http://livesg.khaozap.com:1935/live/cth5.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
 <name>tok</name>
@@ -810,13 +762,13 @@ channel>
 
 <item>
 <title>CTH STADIUM 6</title>
-<link>http://unm96.bsdns.eu:8080/live/SPORTS-CTH-Stadium-6/mpegts?token=testrapid:3CmWLfb3kW</link>
-<thumbnail>http://www.cthbpl.com/img/stadium/stadium6.png</thumbnail>
-</item>
-
-<item>
-<title>CTH STADIUM 6 BACKUP</title>
-<link>http://www.t12v.com:8000/live/test1/test1/1100.m3u8</link>
+<link>http://livesg.khaozap.com:1935/live/cth6.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://khaozap.com/wp/sport/cth6.php</page>
+<referer>http://khaozap.com</referer>
+</regex>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium6.png</thumbnail>
 </item>
 
@@ -1044,6 +996,18 @@ channel>
 </item>
 
 <item>
+<title>TRUE VISIONS BEIN SPORTS</title>
+<link>http://livesg.khaozap.com:1935/live/bein1.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://khaozap.com/wp/sport/beinsport.php</page>
+<referer>http://khaozap.com</referer>
+</regex>
+<thumbnail>http://www.cox.com/wcm/en/video/tv/bein-sport/bein-tv-sp-promo.jpg</thumbnail>
+</item>
+
+<item>
 <title>TSN 1</title>
 <link>http://unm166.bsdns.eu:8080/live/USA-TSN-1/mpegts?token=testrapid:3CmWLfb3kW</link>
 <thumbnail>http://wpmedia.o.canada.com/2014/05/tsn_red_1__244682411.jpg?w=620</thumbnail>
@@ -1083,6 +1047,27 @@ channel>
 <referer>http://www.zoptv.com/live/usa</referer>
 </regex>
 <thumbnail>https://pmcvariety.files.wordpress.com/2013/10/usa-network-logo1.jpg</thumbnail>
+</item>
+
+<item>
+<title>ZONASPORTS - LIVE SPORTS</title>
+<sportsdevil>http://streamup.global.ssl.fastly.net/app/zonax1azs-channel/chunklist.m3u8</sportsdevil>
+<referer>http://zonasports.to</referer>
+<thumbnail>http://cdn.cybergolf.com/images/979/Zona-Sports.jpg</thumbnail>
+</item>
+
+<item>
+<title>ZONASPORTS - LIVE SPORTS</title>
+<sportsdevil>http://zonasports.to/channel.php?id=6</sportsdevil>
+<referer>http://zonasports.to/</referer>
+<thumbnail>http://cdn.cybergolf.com/images/979/Zona-Sports.jpg</thumbnail>
+</item>
+
+<item>
+<title>ZONASPORTS - LIVE SPORTS</title>
+<link>https://origin01-atl.streamup.com/app/zonax1azs-channel/chunklist.m3u8</link>
+<referer>http://zonasports.to/</referer>
+<thumbnail>http://cdn.cybergolf.com/images/979/Zona-Sports.jpg</thumbnail>
 </item>
 </items>
 </channel>
