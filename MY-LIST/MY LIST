@@ -857,31 +857,13 @@ channel>
 </item>
 
 <item>
-<title>FOX SPORTS 1 USA BACKUP</title>
-<link>http://unm166.bsdns.eu:8080/live/USA-Fox-Sports-1/mpegts?token=testrapid:3CmWLfb3kW</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports_us_1.png</thumbnail>
-</item>
-
-<item>
 <title>FOX SPORTS 2 USA</title>
 <link>http://80.243.189.26:8182/pakindiatv/FoxSport2/index.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports_us_2.png</thumbnail>
 </item>
 
 <item>
-<title>FOX SPORTS 2 USA BACKUP</title>
-<link>http://unm166.bsdns.eu:8080/live/USA-FOX-Sports-2/mpegts?token=testrapid:3CmWLfb3kW</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports_us_2.png</thumbnail>
-</item>
-
-<item>
-<title>HUNTING & FISHING 1</title>
-<link>http://unm96.bsdns.eu:8080/live/SPORTS-Hunting-&-Fishing-Chasse-&-Pesce/mpegts?token=testrapid:3CmWLfb3kW</link>
-<thumbnail>http://thumb1.shutterstock.com/display_pic_with_logo/667576/266280914/stock-vector-hunting-and-fishing-vintage-emblem-vector-design-template-266280914.jpg</thumbnail>
-</item>
-
-<item>
-<title>HUNTING & FISHING 2</title>
+<title>HUNTING & FISHING</title>
 <link>http://ovh142.bsdns.eu:8080/live/SPORTS-Hunting-&-Fishing-Axota-&-Ribalka/mpegts?token=testrapid:3CmWLfb3kW</link>
 <thumbnail>http://thumb1.shutterstock.com/display_pic_with_logo/667576/266280914/stock-vector-hunting-and-fishing-vintage-emblem-vector-design-template-266280914.jpg</thumbnail>
 </item>
@@ -903,30 +885,6 @@ channel>
 <agent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
 </regex>
 <thumbnail>https://nbcsportsgrouppressbox.files.wordpress.com/2012/06/nbcsport-network11.jpg</thumbnail>
-</item>
-
-<item>
-<title>OSN SPORTS 1</title>
-<link>http://unm96.bsdns.eu:8080/live/SPORTS-OSN-Sport-1/mpegts?token=testrapid:3CmWLfb3kW</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/2/27/OSN_Sports_2013.jpg</thumbnail>
-</item>
-
-<item>
-<title>OSN SPORTS 2</title>
-<link>http://unm96.bsdns.eu:8080/live/SPORTS-OSN-Sport-2/mpegts?token=testrapid:3CmWLfb3kW</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/2/27/OSN_Sports_2013.jpg</thumbnail>
-</item>
-
-<item>
-<title>OSN SPORTS 3</title>
-<link>http://unm96.bsdns.eu:8080/live/SPORTS-OSN-Sport-3/mpegts?token=testrapid:3CmWLfb3kW</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/2/27/OSN_Sports_2013.jpg</thumbnail>
-</item>
-
-<item>
-<title>OSN SPORTS 4</title>
-<link>http://unm96.bsdns.eu:8080/live/SPORTS-OSN-Sport-4/mpegts?token=testrapid:3CmWLfb3kW</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/2/27/OSN_Sports_2013.jpg</thumbnail>
 </item>
 
 <item>
