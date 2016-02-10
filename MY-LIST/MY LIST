@@ -28,18 +28,6 @@ channel>
 <fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 
 <item>
-<title>RAHASIA CINTA DRAMA EPISODE 13-14</title>
-<link>$doregex[get-m3u8]</link> 
-<regex> 
-<name>get-m3u8</name>
-<expres>data-clip-hls-url="(.*)"</expres> 
-<page>http://www.vidio.com/embed/264789-rahasia-cinta-episode-13-14</page> 
-<referer>http://www.sctv.co.id/shows/</referer>
-</regex> 
-<thumbnail>https://www.dropbox.com/s/f2jttfogn4glc97/RAHASIA_CINTA.png?dl=1</thumbnail>
-</item>
-
-<item>
 <title>ANTV</title>
 <link>http://edge.nim.mivo.tv/mp17pjqx1esapruf/antv2_576p/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_antv_zps5qe3o8qy.png</thumbnail>
