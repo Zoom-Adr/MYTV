@@ -1,5 +1,101 @@
 <item>
-<title>RAHASIA CINTA DRAMA EPISODE 13-14</title>
+<title>EPISODE 1-2</title>
+<link>$doregex[get-m3u8]</link> 
+<regex> 
+<name>get-m3u8</name>
+<expres>data-clip-hls-url="(.*)"</expres> 
+<page>http://www.vidio.com/embed/259371-rahasia-cinta-episode-01-02</page> 
+<referer>http://www.sctv.co.id/shows/</referer>
+</regex> 
+<thumbnail>https://www.dropbox.com/s/f2jttfogn4glc97/RAHASIA_CINTA.png?dl=1</thumbnail>
+</item>
+
+<item>
+<title>EPISODE 3</title>
+<link>$doregex[get-m3u8]</link> 
+<regex> 
+<name>get-m3u8</name>
+<expres>data-clip-hls-url="(.*)"</expres> 
+<page>http://www.vidio.com/embed/260245-rahasia-cinta-episode-02</page> 
+<referer>http://www.sctv.co.id/shows/</referer>
+</regex> 
+<thumbnail>https://www.dropbox.com/s/f2jttfogn4glc97/RAHASIA_CINTA.png?dl=1</thumbnail>
+</item>
+
+<item>
+<title>EPISODE 4</title>
+<link>$doregex[get-m3u8]</link> 
+<regex> 
+<name>get-m3u8</name>
+<expres>data-clip-hls-url="(.*)"</expres> 
+<page>http://www.vidio.com/embed/261156-rahasia-cinta-episode-04</page> 
+<referer>http://www.sctv.co.id/shows/</referer>
+</regex> 
+<thumbnail>https://www.dropbox.com/s/f2jttfogn4glc97/RAHASIA_CINTA.png?dl=1</thumbnail>
+</item>
+
+<item>
+<title>EPISODE 5</title>
+<link>$doregex[get-m3u8]</link> 
+<regex> 
+<name>get-m3u8</name>
+<expres>data-clip-hls-url="(.*)"</expres> 
+<page>http://www.vidio.com/embed/261913-rahasia-cinta-episode-05</page> 
+<referer>http://www.sctv.co.id/shows/</referer>
+</regex> 
+<thumbnail>https://www.dropbox.com/s/f2jttfogn4glc97/RAHASIA_CINTA.png?dl=1</thumbnail>
+</item>
+
+<item>
+<title>EPISODE 6-7</title>
+<link>$doregex[get-m3u8]</link> 
+<regex> 
+<name>get-m3u8</name>
+<expres>data-clip-hls-url="(.*)"</expres> 
+<page>http://www.vidio.com/embed/262964-rahasia-cinta-episode-06</page> 
+<referer>http://www.sctv.co.id/shows/</referer>
+</regex> 
+<thumbnail>https://www.dropbox.com/s/f2jttfogn4glc97/RAHASIA_CINTA.png?dl=1</thumbnail>
+</item>
+
+<item>
+<title>EPISODE 8-9</title>
+<link>$doregex[get-m3u8]</link> 
+<regex> 
+<name>get-m3u8</name>
+<expres>data-clip-hls-url="(.*)"</expres> 
+<page>http://www.vidio.com/embed/263340-rahasia-cinta-episode-07</page> 
+<referer>http://www.sctv.co.id/shows/</referer>
+</regex> 
+<thumbnail>https://www.dropbox.com/s/f2jttfogn4glc97/RAHASIA_CINTA.png?dl=1</thumbnail>
+</item>
+
+<item>
+<title>EPISODE 10</title>
+<link>$doregex[get-m3u8]</link> 
+<regex> 
+<name>get-m3u8</name>
+<expres>data-clip-hls-url="(.*)"</expres> 
+<page>http://www.vidio.com/embed/263633-rahasia-cinta-episode-10</page> 
+<referer>http://www.sctv.co.id/shows/</referer>
+</regex> 
+<thumbnail>https://www.dropbox.com/s/f2jttfogn4glc97/RAHASIA_CINTA.png?dl=1</thumbnail>
+</item>
+
+<item>
+<title>EPISODE 11-12</title>
+<link>$doregex[get-m3u8]</link> 
+<regex> 
+<name>get-m3u8</name>
+<expres>data-clip-hls-url="(.*)"</expres> 
+<page>http://www.vidio.com/embed/264007-rahasia-cinta-episode-11-12</page> 
+<referer>http://www.sctv.co.id/shows/</referer>
+</regex> 
+<thumbnail>https://www.dropbox.com/s/f2jttfogn4glc97/RAHASIA_CINTA.png?dl=1</thumbnail>
+</item>
+
+<item>
+<title>EPISODE 13-14</title>
 <link>$doregex[get-m3u8]</link> 
 <regex> 
 <name>get-m3u8</name>
@@ -9,3 +105,6 @@
 </regex> 
 <thumbnail>https://www.dropbox.com/s/f2jttfogn4glc97/RAHASIA_CINTA.png?dl=1</thumbnail>
 </item>
+
+
+
