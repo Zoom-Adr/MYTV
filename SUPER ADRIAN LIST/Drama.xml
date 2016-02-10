@@ -1,0 +1,19 @@
+<item>
+<title>INDONESIA - RAHASIA CINTA</title>
+<thumbnail>https://www.dropbox.com/s/f2jttfogn4glc97/RAHASIA_CINTA.png?dl=1</thumbnail>
+<fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
+<link>http://ignoreme</link>
+<externallink>.</externallink>
+</item>
+
+<item>
+<title>RAHASIA CINTA DRAMA EPISODE 13-14</title>
+<link>$doregex[get-m3u8]</link> 
+<regex> 
+<name>get-m3u8</name>
+<expres>data-clip-hls-url="(.*)"</expres> 
+<page>http://www.vidio.com/embed/264789-rahasia-cinta-episode-13-14</page> 
+<referer>http://www.sctv.co.id/shows/</referer>
+</regex> 
+<thumbnail>https://www.dropbox.com/s/f2jttfogn4glc97/RAHASIA_CINTA.png?dl=1</thumbnail>
+</item>
