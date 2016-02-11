@@ -178,6 +178,14 @@ channel>
 </item>
 
 <item>
+<title>MNC TV SERVER 3</title>
+<link>http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000022/index.m3u8|https://content.jwplatform.com/players/axrfeNJs-VJGIgpPE.html&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1&amp;X-Requested-With=ShockwaveFlash/20.0.0.267
+</link>
+<referer>https://content.jwplatform.com/players/axrfeNJs-VJGIgpPE.html</referer>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_mnc_tv_zpshi58jhma.png</thumbnail>
+</item>
+
+<item>
 <title>MIVO TV</title>
 <link>http://edge.nim.mivo.tv/mp17pjqx1esapruf/mivotv_480p/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_mivotv_zpso5h9xwxy.png</thumbnail>
