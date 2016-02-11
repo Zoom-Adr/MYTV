@@ -614,11 +614,6 @@ channel>
 <fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 
 <item>
-<title>TEST</title>
-<link>http://hyper.de1-eu.com:8000/live/1936/1936/1953.m3u8</link>
-</item>
-
-<item>
 <title>ARENASPORT 1</title>
 <link>http://46.40.5.99:8000/arena_1_720</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/6/65/Arena_sport_logo.jpg</thumbnail>
