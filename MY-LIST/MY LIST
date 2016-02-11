@@ -614,18 +614,6 @@ channel>
 <fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 
 <item>
-<title>TEST22 1</title>
-<link>http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/1031.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/6/65/Arena_sport_logo.jpg</thumbnail>
-</item>
-
-<item>
-<title>TEST 1</title>
-<link>http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/1031.ts</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/6/65/Arena_sport_logo.jpg</thumbnail>
-</item>
-
-<item>
 <title>ARENASPORT 1</title>
 <link>http://46.40.5.99:8000/arena_1_720</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/6/65/Arena_sport_logo.jpg</thumbnail>
