@@ -418,6 +418,12 @@ channel>
 </item>
 
 <item>
+<title>TV3 - Backup</title>
+<link>http://uk.layarku.tv/edge/149_323_live/chunklist_w1470759082.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv3_zpsccy0afit.png</thumbnail>
+</item>
+
+<item>
 <title>TV9</title>
 <link>http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master.m3u8|X-Forwarded-For=42.154.55.155</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv9_zpsvy6n5ypz.png</thumbnail>
