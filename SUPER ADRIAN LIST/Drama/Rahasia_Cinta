@@ -106,5 +106,36 @@
 <thumbnail>https://www.dropbox.com/s/f2jttfogn4glc97/RAHASIA_CINTA.png?dl=1</thumbnail>
 </item>
 
+<item>
+<title>EPISODE 15-16</title>
+<link>$doregex[get-m3u8]</link> 
+<regex> 
+<name>get-m3u8</name>
+<expres>data-clip-hls-url="(.*)"</expres> 
+<page>http://www.vidio.com/embed/265636-rahasia-cinta-episode-15-16</page> 
+<referer>http://www.sctv.co.id/shows/</referer>
+</regex> 
+<thumbnail>https://www.dropbox.com/s/f2jttfogn4glc97/RAHASIA_CINTA.png?dl=1</thumbnail>
+</item>
+
+
+<item>
+<title>EPISODE 17-18</title>
+<link>$doregex[get-m3u8]</link> 
+<regex> 
+<name>get-m3u8</name>
+<expres>data-clip-hls-url="(.*)"</expres> 
+<page>http://www.vidio.com/embed/266557-rahasia-cinta-episode-17-18</page> 
+<referer>http://www.sctv.co.id/shows/</referer>
+</regex> 
+<thumbnail>https://www.dropbox.com/s/f2jttfogn4glc97/RAHASIA_CINTA.png?dl=1</thumbnail>
+</item>
+
+<item>
+<title>EPISODE 19-20</title>
+<link>https://www.vidio.com/clips/295073/playlist.m3u8</link> 
+<link>https://www.vidio.com/clips/295040/playlist.m3u8</link> 
+<thumbnail>https://www.dropbox.com/s/f2jttfogn4glc97/RAHASIA_CINTA.png?dl=1</thumbnail>
+</item>
 
 
