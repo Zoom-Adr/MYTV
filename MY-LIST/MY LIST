@@ -831,24 +831,6 @@
 </item>
 
 <item>
-<title>DIGISPORT 1</title>
-<link>http://unm96.bsdns.eu:8080/live/SPORTS-Digi-Sport-1/mpegts?token=testrapid:3CmWLfb3kW</link>
-<thumbnail>http://mediav1.rtv.net/image/201507/w620/digi_sport_cz_05641200.png</thumbnail>
-</item>
-
-<item>
-<title>DIGISPORT 2</title>
-<link>http://unm96.bsdns.eu:8080/live/SPORTS-Digi-Sport-2/mpegts?token=testrapid:3CmWLfb3kW</link>
-<thumbnail>http://mediav1.rtv.net/image/201507/w620/digi_sport_cz_05641200.png</thumbnail>
-</item>
-
-<item>
-<title>DIGISPORT 3</title>
-<link>http://unm96.bsdns.eu:8080/live/SPORTS-Digi-Sport-3/mpegts?token=testrapid:3CmWLfb3kW</link>
-<thumbnail>http://mediav1.rtv.net/image/201507/w620/digi_sport_cz_05641200.png</thumbnail>
-</item>
-
-<item>
 <title>FOX SPORTS 1 NL</title>
 <link>http://unm198.bsdns.eu:8080/live/NL-Fox-Sports-1/mpegts?token=testrapid:3CmWLfb3kW</link>
 <thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
@@ -1021,36 +1003,6 @@
 <referer>http://khaozap.com</referer>
 </regex>
 <thumbnail>http://www.cox.com/wcm/en/video/tv/bein-sport/bein-tv-sp-promo.jpg</thumbnail>
-</item>
-
-<item>
-<title>TSN 1</title>
-<link>http://unm166.bsdns.eu:8080/live/USA-TSN-1/mpegts?token=testrapid:3CmWLfb3kW</link>
-<thumbnail>http://wpmedia.o.canada.com/2014/05/tsn_red_1__244682411.jpg?w=620</thumbnail>
-</item>
-
-<item>
-<title>TSN 2</title>
-<link>http://unm166.bsdns.eu:8080/live/USA-TSN-2/mpegts?token=testrapid:3CmWLfb3kW</link>
-<thumbnail>http://wpmedia.o.canada.com/2014/05/tsn_red_1__244682411.jpg?w=620</thumbnail>
-</item>
-
-<item>
-<title>TSN 3</title>
-<link>http://unm166.bsdns.eu:8080/live/USATSN-3/mpegts?token=testrapid:3CmWLfb3kW</link>
-<thumbnail>http://wpmedia.o.canada.com/2014/05/tsn_red_1__244682411.jpg?w=620</thumbnail>
-</item>
-
-<item>
-<title>TSN 4</title>
-<link>http://unm166.bsdns.eu:8080/live/USA-TSN-4/mpegts?token=testrapid:3CmWLfb3kW</link>
-<thumbnail>http://wpmedia.o.canada.com/2014/05/tsn_red_1__244682411.jpg?w=620</thumbnail>
-</item>
-
-<item>
-<title>TSN 5</title>
-<link>http://unm166.bsdns.eu:8080/live/USA-TSN-5/mpegts?token=testrapid:3CmWLfb3kW</link>
-<thumbnail>http://wpmedia.o.canada.com/2014/05/tsn_red_1__244682411.jpg?w=620</thumbnail>
 </item>
 
 <item>
