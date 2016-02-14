@@ -718,7 +718,7 @@
 
 <item>
 <title>BT SPORTS 1 BACKUP</title>
-<link>http://ovh143.bsdns.eu:8080/live/UK-BT-Sport-1-HD/mpegts?token=testrapid:3CmWLfb3kW</link>
+<link>http://hyper.de1-eu.com:8000/live/1936/1936/1041.m3u8</link>
 <thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
 </item>
 
@@ -730,30 +730,24 @@
 
 <item>
 <title>BT SPORTS 2 BACKUP</title>
-<link>http://ovh143.bsdns.eu:8080/live/UK-BT-Sport-2-HD/mpegts?token=testrapid:3CmWLfb3kW</link>
+<link>http://hyper.de1-eu.com:8000/live/1936/1936/1040.m3u8</link>
 <thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
 </item>
 
 <item>
 <title>BT SPORTS EUROPE</title>
-<link>http://vurl.com/yPgq7</link>
-<thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
-</item>
-
-<item>
-<title>BT SPORTS EUROPE BACKUP</title>
 <link>http://ovh143.bsdns.eu:8080/live/UK-BT-Sport-Europe/mpegts?token=testrapid:3CmWLfb3kW</link>
 <thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
 </item>
 
 <item>
-<title>BT SPORTS ESPN</title>
-<link>http://www.t12v.com:8000/live/test1/test1/1059.m3u8</link>
+<title>BT SPORTS EUROPE BACKUP</title>
+<link>http://hyper.de1-eu.com:8000/live/1936/1936/1567.m3u8</link>
 <thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
 </item>
 
 <item>
-<title>BT SPORTS ESPN BACKUP</title>
+<title>BT SPORTS ESPN</title>
 <link>http://ovh143.bsdns.eu:8080/live/UK-BT-Sport-ESPN/mpegts?token=testrapid:3CmWLfb3kW</link>
 <thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
 </item>
@@ -832,31 +826,31 @@
 
 <item>
 <title>FOX SPORTS 1 NL</title>
-<link>http://unm198.bsdns.eu:8080/live/NL-Fox-Sports-1/mpegts?token=testrapid:3CmWLfb3kW</link>
+<link>http://hyper.de1-eu.com:8000/live/1936/1936/1815.m3u8</link>
 <thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
 </item>
 
 <item>
 <title>FOX SPORTS 2 NL</title>
-<link>http://unm198.bsdns.eu:8080/live/NL-Fox-Sports-2/mpegts?token=testrapid:3CmWLfb3kW</link>
+<link>http://hyper.de1-eu.com:8000/live/1936/1936/1814.m3u8</link>
 <thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
 </item>
 
 <item>
 <title>FOX SPORTS 3 NL</title>
-<link>http://unm198.bsdns.eu:8080/live/NL-Fox-Sports-3/mpegts?token=testrapid:3CmWLfb3kW</link>
+<link>http://hyper.de1-eu.com:8000/live/1936/1936/1813.m3u8</link>
 <thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
 </item>
 
 <item>
 <title>FOX SPORTS 4 NL</title>
-<link>http://unm198.bsdns.eu:8080/live/NL-Fox-Sports-4/mpegts?token=testrapid:3CmWLfb3kW</link>
+<link>http://hyper.de1-eu.com:8000/live/1936/1936/1812.m3u8</link>
 <thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
 </item>
 
 <item>
 <title>FOX SPORTS 5 NL</title>
-<link>http://unm198.bsdns.eu:8080/live/NL-Fox-Sports-5/mpegts?token=testrapid:3CmWLfb3kW</link>
+<link>http://hyper.de1-eu.com:8000/live/1936/1936/1811.m3u8</link>
 <thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
 </item>
 
@@ -885,14 +879,8 @@
 </item>
 
 <item>
-<title>HUNTING & FISHING</title>
-<link>http://ovh142.bsdns.eu:8080/live/SPORTS-Hunting-&-Fishing-Axota-&-Ribalka/mpegts?token=testrapid:3CmWLfb3kW</link>
-<thumbnail>http://thumb1.shutterstock.com/display_pic_with_logo/667576/266280914/stock-vector-hunting-and-fishing-vintage-emblem-vector-design-template-266280914.jpg</thumbnail>
-</item>
-
-<item>
 <title>MUTV</title>
-<link>http://ovh143.bsdns.eu:8080/live/UK-Manchester-United-FC/mpegts?token=testrapid:3CmWLfb3kW</link>
+<link>http://goo.gl/6ySHt5</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png</thumbnail>
 </item>
 
@@ -941,7 +929,7 @@
 
 <item>
 <title>SKY SPORTS 1 BACKUP</title>
-<link>http://ovh143.bsdns.eu:8080/live/UK-Sky-Sports-1/mpegts?token=testrapid:3CmWLfb3kW</link>
+<link>http://tv.supertv4u.eu:8000/live/C0KTK6nRg9/EyGXXiETaG/15.m3u8</link>
 <thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
 </item>
 
@@ -953,7 +941,7 @@
 
 <item>
 <title>SKY SPORTS 2 BACKUP</title>
-<link>http://ovh143.bsdns.eu:8080/live/UK-Sky-Sports-2/mpegts?token=testrapid:3CmWLfb3kW</link>
+<link>http://tv.supertv4u.eu:8000/live/C0KTK6nRg9/EyGXXiETaG/16.m3u8</link>
 <thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
 </item>
 
@@ -965,7 +953,7 @@
 
 <item>
 <title>SKY SPORTS 3 BACKUP</title>
-<link>http://ovh143.bsdns.eu:8080/live/UK-Sky-Sports-3/mpegts?token=testrapid:3CmWLfb3kW</link>
+<link>http://tv.supertv4u.eu:8000/live/C0KTK6nRg9/EyGXXiETaG/17.m3u8</link>
 <thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
 </item>
 
@@ -977,7 +965,7 @@
 
 <item>
 <title>SKY SPORTS 4 BACKUP</title>
-<link>http://ovh143.bsdns.eu:8080/live/UK-Sky-Sports-4/mpegts?token=testrapid:3CmWLfb3kW</link>
+<link>http://tv.supertv4u.eu:8000/live/C0KTK6nRg9/EyGXXiETaG/18.m3u8</link>
 <thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
 </item>
 
@@ -989,7 +977,7 @@
 
 <item>
 <title>SKY SPORTS 5 BACKUP</title>
-<link>http://ovh143.bsdns.eu:8080/live/UK-Sky-Sports-5/mpegts?token=testrapid:3CmWLfb3kW</link>
+<link>http://tv.supertv4u.eu:8000/live/C0KTK6nRg9/EyGXXiETaG/19.m3u8</link>
 <thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
 </item>
 
@@ -1131,61 +1119,55 @@
 
 <item>
 <title>SKY ACTION & ADVENTURE</title>
-<link>http://ovh143.bsdns.eu:8080/live/UK-Sky-Movies-Action/mpegts?token=testrapid:3CmWLfb3kW</link>
+<link>http://goo.gl/j2hjHD</link>
 <thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
 </item>
 
 <item>
 <title>SKY COMEDY</title>
-<link>http://ovh143.bsdns.eu:8080/live/UK-Sky-Movies-Comedy/mpegts?token=testrapid:3CmWLfb3kW</link>
+<link>http://goo.gl/L4A2aC</link>
 <thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
 </item>
 
 <item>
 <title>SKY CRIME & THRILLER</title>
-<link>http://ovh143.bsdns.eu:8080/live/UK-Sky-Movies-Thriller/mpegts?token=testrapid:3CmWLfb3kW</link>
+<link>http://goo.gl/yA2VCu</link>
 <thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
 </item>
 
 <item>
 <title>SKY DRAMA</title>
-<link>http://ovh143.bsdns.eu:8080/live/UK-Sky-Movies-Drama/mpegts?token=testrapid:3CmWLfb3kW</link>
+<link>http://goo.gl/2LdJDj</link>
 <thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
 </item>
 
 <item>
 <title>SKY MODERN GREATS</title>
-<link>http://ovh143.bsdns.eu:8080/live/UK-Sky-Movies-Modern-Greats/mpegts?token=testrapid:3CmWLfb3kW</link>
+<link>http://goo.gl/m6oeNU</link>
 <thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
 </item>
 
 <item>
 <title>SKY FAMILY</title>
-<link>http://ovh143.bsdns.eu:8080/live/UK-Sky-Movies-Family/mpegts?token=testrapid:3CmWLfb3kW</link>
+<link>http://goo.gl/dg4Tbh</link>
 <thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SCI-FI & HORROR</title>
-<link>http://ovh143.bsdns.eu:8080/live/UK-Sky-Movies-Scifi---Horror/mpegts?token=testrapid:3CmWLfb3kW</link>
+<link>http://goo.gl/ATazGA</link>
 <thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
 </item>
 
 <item>
 <title>SKY PREMIERE</title>
-<link>http://ovh143.bsdns.eu:8080/live/UK-Sky-Movies-Premiere/mpegts?token=testrapid:3CmWLfb3kW</link>
+<link>http://goo.gl/Yr54Yv</link>
 <thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SELECT</title>
-<link>http://ovh143.bsdns.eu:8080/live/UK-Sky-Movies-Select/mpegts?token=testrapid:3CmWLfb3kW</link>
-<thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
-</item>
-
-<item>
-<title>SKY SHOWCASE</title>
-<link>http://ovh143.bsdns.eu:8080/live/UK-Sky-Movies-Showcase/mpegts?token=testrapid:3CmWLfb3kW</link>
+<link>http://newone15.ddns.net:8000/live/potatoes/potatoes/168.ts</link>
 <thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
 </item>
 
