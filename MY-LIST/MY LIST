@@ -934,6 +934,13 @@
 </item>
 
 <item>
+<title>SKY SPORTS 1 BACKUP</title>
+<sportsdevil>http://www.ibrod.tv/skysports1.html</sportsdevil>
+<referer>http://www.ibrod.tv/</referer>
+<thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
+</item>
+
+<item>
 <title>SKY SPORTS 2</title>
 <link>http://ovh143.bsdns.eu:8080/live/UK-Sky-Sports-2-HD/mpegts?token=testrapid:3CmWLfb3kW</link>
 <thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
