@@ -700,7 +700,7 @@
 
 <item>
 <title>BT SPORTS 1</title>
-<link>http://ovh143.bsdns.eu:8080/live/UK-BT-Sports-1/mpegts?token=testrapid:3CmWLfb3kW</link>
+<link>http://bit.do/BT-SPORT-1-HD</link>
 <thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
 </item>
 
@@ -711,14 +711,8 @@
 </item>
 
 <item>
-<title>BT SPORTS 1 BACKUP</title>
-<link>http://bit.do/BT-SPORT-1-HD</link>
-<thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
-</item>
-
-<item>
 <title>BT SPORTS 2</title>
-<link>http://ovh143.bsdns.eu:8080/live/UK-BT-Sports-2/mpegts?token=testrapid:3CmWLfb3kW</link>
+<link>http://bit.do/BT-SPORT-2-HD</link>
 <thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
 </item>
 
@@ -729,14 +723,8 @@
 </item>
 
 <item>
-<title>BT SPORTS 2 BACKUP</title>
-<link>http://bit.do/BT-SPORT-2-HD</link>
-<thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
-</item>
-
-<item>
 <title>BT SPORTS EUROPE</title>
-<link>http://ovh143.bsdns.eu:8080/live/UK-BT-Sport-Europe/mpegts?token=testrapid:3CmWLfb3kW</link>
+<link>http://bit.do/BT-SPORT-EUROPE-HD</link>
 <thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
 </item>
 
@@ -747,19 +735,7 @@
 </item>
 
 <item>
-<title>BT SPORTS EUROPE BACKUP</title>
-<link>http://bit.do/BT-SPORT-EUROPE-HD</link>
-<thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
-</item>
-
-<item>
 <title>BT SPORTS ESPN</title>
-<link>http://ovh143.bsdns.eu:8080/live/UK-BT-Sport-ESPN/mpegts?token=testrapid:3CmWLfb3kW</link>
-<thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
-</item>
-
-<item>
-<title>BT SPORTS ESPN BACKUP</title>
 <link>http://bit.do/ESPN-BT-HD</link>
 <thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
 </item>
@@ -923,7 +899,7 @@
 
 <item>
 <title>SKY SPORTS 1</title>
-<link>http://ovh143.bsdns.eu:8080/live/UK-Sky-Sports-1-HD/mpegts?token=testrapid:3CmWLfb3kW</link>
+<link>http://bit.do/Sky1</link>
 <thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
 </item>
 
@@ -934,14 +910,8 @@
 </item>
 
 <item>
-<title>SKY SPORTS 1 BACKUP</title>
-<link>http://bit.do/Sky1</link>
-<thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
-</item>
-
-<item>
 <title>SKY SPORTS 2</title>
-<link>http://ovh143.bsdns.eu:8080/live/UK-Sky-Sports-2-HD/mpegts?token=testrapid:3CmWLfb3kW</link>
+<link>http://bit.do/Sky2</link>
 <thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
 </item>
 
@@ -952,32 +922,14 @@
 </item>
 
 <item>
-<title>SKY SPORTS 2 BACKUP</title>
-<link>http://bit.do/Sky2</link>
-<thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
-</item>
-
-<item>
 <title>SKY SPORTS 3</title>
-<link>http://ovh143.bsdns.eu:8080/live/UK-Sky-Sports-3-HD/mpegts?token=testrapid:3CmWLfb3kW</link>
+<link>http://bit.do/Sky3</link>
 <thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 3 BACKUP</title>
 <link>http://tv.supertv4u.eu:8000/live/C0KTK6nRg9/EyGXXiETaG/17.m3u8</link>
-<thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
-</item>
-
-<item>
-<title>SKY SPORTS 3 BACKUP</title>
-<link>http://bit.do/Sky3</link>
-<thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
-</item>
-
-<item>
-<title>SKY SPORTS 4</title>
-<link>http://ovh143.bsdns.eu:8080/live/UK-Sky-Sports-4-HD/mpegts?token=testrapid:3CmWLfb3kW</link>
 <thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
 </item>
 
@@ -994,26 +946,14 @@
 </item>
 
 <item>
-<title>SKY SPORTS 4 BACKUP</title>
-<link>http://bit.do/Sky4</link>
-<thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
-</item>
-
-<item>
 <title>SKY SPORTS 5</title>
-<link>http://ovh143.bsdns.eu:8080/live/UK-Sky-Sports-5-HD/mpegts?token=testrapid:3CmWLfb3kW</link>
+<link>http://bit.do/Sky5</link>
 <thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 5 BACKUP</title>
 <link>http://tv.supertv4u.eu:8000/live/C0KTK6nRg9/EyGXXiETaG/19.m3u8</link>
-<thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
-</item>
-
-<item>
-<title>SKY SPORTS 5 BACKUP</title>
-<link>http://bit.do/Sky5</link>
 <thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
 </item>
 
