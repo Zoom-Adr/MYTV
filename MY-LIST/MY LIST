@@ -741,6 +741,12 @@
 </item>
 
 <item>
+<title>BT SPORTS ESPN BACKUP</title>
+<link>http://bit.do/ESPN-BT-HD</link>
+<thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
+</item>
+
+<item>
 <title>CTH STADIUM 1</title>
 <link>http://livesg.khaozap.com:1935/live/cth1.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
