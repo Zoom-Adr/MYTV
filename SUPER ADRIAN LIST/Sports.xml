@@ -2,12 +2,6 @@
 
 <item>
 <title>BEIN SPORTS 11</title>
-<link>http://rarme.com/?SKY1</link>
-<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg/revision/latest?cb=20140103213705</thumbnail>
-</item>
-
-<item>
-<title>BEIN SPORTS 11</title>
 <link>http://bit.ly/20CVTX9</link>
 <thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg/revision/latest?cb=20140103213705</thumbnail>
 </item>
@@ -22,6 +16,42 @@
 <title>BT SPORTS 2 HD</title>
 <link>http://bit.ly/1RLACdm</link>
 <thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
+</item>
+
+<item>
+<title>CTH STADIUM 1</title>
+<link>http://bit.ly/1PEfEdX</link>
+<thumbnail>http://www.cthbpl.com/img/stadium/stadium1.png</thumbnail>
+</item>
+
+<item>
+<title>CTH STADIUM 2</title>
+<link>http://bit.ly/1Q0xGIH</link>
+<thumbnail>http://www.cthbpl.com/img/stadium/stadium2.png</thumbnail>
+</item>
+
+<item>
+<title>CTH STADIUM 3</title>
+<link>http://bit.ly/1RLDneE</link>
+<thumbnail>http://www.cthbpl.com/img/stadium/stadium3.png</thumbnail>
+</item>
+
+<item>
+<title>CTH STADIUM 4</title>
+<link>http://bit.ly/1LsKxy1</link>
+<thumbnail>http://www.cthbpl.com/img/stadium/stadium4.png</thumbnail>
+</item>
+
+<item>
+<title>CTH STADIUM 5</title>
+<link>http://bit.ly/1oIlXED</link>
+<thumbnail>http://www.cthbpl.com/img/stadium/stadium5.png</thumbnail>
+</item>
+
+<item>
+<title>CTH STADIUM 6</title>
+<link>http://bit.ly/1R7gAbb</link>
+<thumbnail>http://www.cthbpl.com/img/stadium/stadium6.png</thumbnail>
 </item>
 
 <item>
@@ -92,4 +122,35 @@
 <link>plugin://plugin.video.f4mTester/?url=http://nlds182.cdnak.neulion.com/nlds/sportsnetnow/sn_world/as/live/sn_world_hd_3000.f4m?token=AgAKb25NZXRhRGF0YQgAAAAKAAhkdXJhdGlvbgBBa3dAAAAAAAAMY2FuU2Vla1RvRW5kAD/wAAAAAAAAAAx2aWRlb2NvZGVjaWQAQBwAAAAAAAAABXdpZHRoAECUAAAAAAAAAAZoZWlnaHQAQIaAAAAAAAAACWZyYW1lcmF0ZQBAPfhR4AAAAAAMYXVkaW9jb2RlY2lkAEAkAAAAAAAAAA1hdWRpb2NoYW5uZWxzAEAAAAAAAAAAAA9hdWRpb3NhbXBsZXJhdGUAQOWIgAAAAAAADWF1ZGlvZGF0YXJhdGUAQFAAAAAAAAAAAAk=</link>
 <cookieJar>http://37.48.104.130/sportsnet/Cookies.txt</cookieJar>
 <thumbnail>http://www.underconsideration.com/brandnew/archives/sportsnet_logo_detail.gif</thumbnail>
+</item>
+
+
+<item>
+<title>TSN 1</title>
+<link>http://tv.supertv4u.eu:8000/live/C0KTK6nRg9/EyGXXiETaG/556.m3u8</link>
+<thumbnail>http://wpmedia.o.canada.com/2014/05/tsn_red_1__244682411.jpg?w=620</thumbnail>
+</item>
+
+<item>
+<title>TSN 2</title>
+<link>http://tv.supertv4u.eu:8000/live/C0KTK6nRg9/EyGXXiETaG/557.m3u8</link>
+<thumbnail>http://wpmedia.o.canada.com/2014/05/tsn_red_1__244682411.jpg?w=620</thumbnail>
+</item>
+
+<item>
+<title>TSN 3</title>
+<link>http://tv.supertv4u.eu:8000/live/C0KTK6nRg9/EyGXXiETaG/558.m3u8</link>
+<thumbnail>http://wpmedia.o.canada.com/2014/05/tsn_red_1__244682411.jpg?w=620</thumbnail>
+</item>
+
+<item>
+<title>TSN 4</title>
+<link>http://tv.supertv4u.eu:8000/live/C0KTK6nRg9/EyGXXiETaG/559.m3u8</link>
+<thumbnail>http://wpmedia.o.canada.com/2014/05/tsn_red_1__244682411.jpg?w=620</thumbnail>
+</item>
+
+<item>
+<title>TSN 5</title>
+<link>http://tv.supertv4u.eu:8000/live/C0KTK6nRg9/EyGXXiETaG/560.m3u8</link>
+<thumbnail>http://wpmedia.o.canada.com/2014/05/tsn_red_1__244682411.jpg?w=620</thumbnail>
 </item>
