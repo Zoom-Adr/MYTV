@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
+<title>BEIN SPORTS 11</title>
+<link>http://bit.ly/20CVTX9</link>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg/revision/latest?cb=20140103213705</thumbnail>
+</item>
+
+<item>
+<title>BT SPORTS 1 HD</title>
+<link>http://bit.ly/1RLAuL7</link>
+<thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
+</item>
+
+<item>
+<title>BT SPORTS 2 HD</title>
+<link>http://bit.ly/1RLACdm</link>
+<thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS 1 HD</title>
+<link>http://bit.ly/1WqGecq</link>
+<thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
+</item>
+
+<item>
 <title>SUPERSPORT 1</title>
 <link>plugin://plugin.video.f4mTester/?url=http://nowweb-lh.akamaihd.net/z/SSH_1@309694/manifest.f4m?hdcore=3.8.0&amp;g=XSSCUAPRFEOQ&amp;plugin=aasp-3.8.0.52.27&amp;swf=http://core.dstv.com/video/flash/PlayerDStvSS.swf?v=1.19</link>
 <cookieJar></cookieJar>
