@@ -1,27 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[COLOR white][B]SUPERSPORT TEST 1[/B][/COLOR]</title>
+<title>SUPERSPORT 1</title>
 <link>plugin://plugin.video.f4mTester/?url=http://nowweb-lh.akamaihd.net/z/SSH_1@309694/manifest.f4m?hdcore=3.8.0&amp;g=XSSCUAPRFEOQ&amp;plugin=aasp-3.8.0.52.27&amp;swf=http://core.dstv.com/video/flash/PlayerDStvSS.swf?v=1.19</link>
 <cookieJar></cookieJar>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/6/66/Supersport2012.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white][B]SUPERSPORT TEST 2[/B][/COLOR]</title>
+<title>SUPERSPORT 2</title>
 <link>plugin://plugin.video.f4mTester/?url=http://nowweb-lh.akamaihd.net/z/SS2_1@309723/manifest.f4m?hdcore=3.8.0&amp;g=GUTXHTZTVQJN&amp;plugin=aasp-3.8.0.52.27&amp;swf=http://core.dstv.com/video/flash/PlayerDStvSS.swf?v=1.19</link>
 <cookieJar></cookieJar>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/6/66/Supersport2012.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white][B]SUPERSPORT TEST 3[/B][/COLOR]</title>
+<title>SUPERSPORT 3</title>
 <link>plugin://plugin.video.f4mTester/?url=http://nowweb-lh.akamaihd.net/z/SS3_1@309725/manifest.f4m?hdcore=3.8.0&amp;g=MRKKNUTMNKTJ&amp;plugin=aasp-3.8.0.52.27&amp;swf=http://core.dstv.com/video/flash/PlayerDStvSS.swf?v=1.19</link>
 <cookieJar></cookieJar>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/6/66/Supersport2012.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white][B]SUPERSPORT TEST 4[/B][/COLOR]</title>
+<title>SUPERSPORT 4</title>
 <link>plugin://plugin.video.f4mTester/?url=http://nowweb-lh.akamaihd.net/z/SS4_1@309727/manifest.f4m?hdcore=3.8.0&amp;g=GKVCJXNEUTKP&amp;plugin=aasp-3.8.0.52.27&amp;swf=http://core.dstv.com/video/flash/PlayerDStvSS.swf?v=1.19</link>
 <cookieJar></cookieJar>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/6/66/Supersport2012.jpg</thumbnail>
@@ -29,36 +30,36 @@
 
 
 <item>
-<title>[COLOR white][B]SUPERSPORT TEST 5[/B][/COLOR]</title>
+<title>SUPERSPORT 5</title>
 <link>plugin://plugin.video.f4mTester/?url=http://nowweb-lh.akamaihd.net/z/HD5_1@309704/manifest.f4m?hdcore=3.8.0&amp;g=NXIBBKGLGIIT&amp;plugin=aasp-3.8.0.52.27&amp;swf=http://core.dstv.com/video/flash/PlayerDStvSS.swf?v=1.19</link>
 <cookieJar></cookieJar>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/6/66/Supersport2012.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white][B]SUPERSPORT TEST 6[/B][/COLOR]</title>
+<title>SUPERSPORT 6</title>
 <link>plugin://plugin.video.f4mTester/?url=http://nowweb-lh.akamaihd.net/z/SS6_1@309729/manifest.f4m?hdcore=3.8.0&amp;g=WRJFXZDLBNGI&amp;plugin=aasp-3.8.0.52.27&amp;swf=http://core.dstv.com/video/flash/PlayerDStvSS.swf?v=1.19</link>
 <cookieJar></cookieJar>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/6/66/Supersport2012.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white][B]SUPERSPORT TEST 7[/B][/COLOR]</title>
+<title>SUPERSPORT 7</title>
 <link>plugin://plugin.video.f4mTester/?url=http://nowweb-lh.akamaihd.net/z/SS7_1@309695/manifest.f4m?hdcore=3.8.0&amp;g=YTBYSKJLWHYE&amp;plugin=aasp-3.8.0.52.27&amp;swf=http://core.dstv.com/video/flash/PlayerDStvSS.swf?v=1.19</link>
 <cookieJar></cookieJar>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/6/66/Supersport2012.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white][B]SUPERSPORT TEST BLITZ[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://nowweb-lh.akamaihd.net/z/SO1_1@309731/manifest.f4m?hdcore=3.8.0&amp;g=YNPPQFCLJFTI&amp;plugin=aasp-3.8.0.52.27&amp;swf=http://core.dstv.com/video/flash/PlayerDStvSS.swf?v=1.19</link>
-<cookieJar></cookieJar>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/6/66/Supersport2012.jpg</thumbnail>
+<title>SPORTSNET NOW - 360</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_3000.f4m?token=AgAKb25NZXRhRGF0YQgAAAAKAAhkdXJhdGlvbgBBa3dAAAAAAAAMY2FuU2Vla1RvRW5kAD/wAAAAAAAAAAx2aWRlb2NvZGVjaWQAQBwAAAAAAAAABXdpZHRoAECUAAAAAAAAAAZoZWlnaHQAQIaAAAAAAAAACWZyYW1lcmF0ZQBAPfhR4AAAAAAMYXVkaW9jb2RlY2lkAEAkAAAAAAAAAA1hdWRpb2NoYW5uZWxzAEAAAAAAAAAAAA9hdWRpb3NhbXBsZXJhdGUAQOWIgAAAAAAADWF1ZGlvZGF0YXJhdGUAQFAAAAAAAAAAAAk=</link>
+<cookieJar>http://37.48.104.130/sportsnet/Cookies.txt</cookieJar>
+<thumbnail>http://www.underconsideration.com/brandnew/archives/sportsnet_logo_detail.gif</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white][B]SUPERSPORT TEST 2 BLITZ[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://nowweb-lh.akamaihd.net/z/SSB_1@309731/manifest.f4m?hdcore=3.8.0&amp;g=YTBYSKJLWHYE&amp;plugin=aasp-3.8.0.52.27&amp;swf=http://core.dstv.com/video/flash/PlayerDStvSS.swf?v=1.19</link>
-<cookieJar></cookieJar>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/6/66/Supersport2012.jpg</thumbnail>
+<title>SPORTSNET NOW - WORLD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nlds182.cdnak.neulion.com/nlds/sportsnetnow/sn_world/as/live/sn_world_hd_3000.f4m?token=AgAKb25NZXRhRGF0YQgAAAAKAAhkdXJhdGlvbgBBa3dAAAAAAAAMY2FuU2Vla1RvRW5kAD/wAAAAAAAAAAx2aWRlb2NvZGVjaWQAQBwAAAAAAAAABXdpZHRoAECUAAAAAAAAAAZoZWlnaHQAQIaAAAAAAAAACWZyYW1lcmF0ZQBAPfhR4AAAAAAMYXVkaW9jb2RlY2lkAEAkAAAAAAAAAA1hdWRpb2NoYW5uZWxzAEAAAAAAAAAAAA9hdWRpb3NhbXBsZXJhdGUAQOWIgAAAAAAADWF1ZGlvZGF0YXJhdGUAQFAAAAAAAAAAAAk=</link>
+<cookieJar>http://37.48.104.130/sportsnet/Cookies.txt</cookieJar>
+<thumbnail>http://www.underconsideration.com/brandnew/archives/sportsnet_logo_detail.gif</thumbnail>
 </item>
