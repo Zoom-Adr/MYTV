@@ -963,73 +963,37 @@
 
 <item>
 <title>CTH STADIUM 1</title>
-<link>http://livesg.khaozap.com:1935/live/cth1.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://khaozap.com/wp/sport/cth1.php</page>
-<referer>http://khaozap.com</referer>
-</regex>
+<link>http://bb1.sendevric.com:8000/live/marksat152/KzPDhwalOc/160.m3u8</link>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium1.png</thumbnail>
 </item>
 
 <item>
 <title>CTH STADIUM 2</title>
-<link>http://livesg.khaozap.com:1935/live/cth2.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://khaozap.com/wp/sport/cth2.php</page>
-<referer>http://khaozap.com</referer>
-</regex>
+<link>http://bb1.sendevric.com:8000/live/marksat152/KzPDhwalOc/161.m3u8</link>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium2.png</thumbnail>
 </item>
 
 <item>
 <title>CTH STADIUM 3</title>
-<link>http://livesg.khaozap.com:1935/live/cth3.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://khaozap.com/wp/sport/cth3.php</page>
-<referer>http://khaozap.com</referer>
-</regex>
+<link>http://bb1.sendevric.com:8000/live/marksat152/KzPDhwalOc/162.m3u8</link>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium3.png</thumbnail>
 </item>
 
 <item>
 <title>CTH STADIUM 4</title>
-<link>http://livesg.khaozap.com:1935/live/cth4.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://khaozap.com/wp/sport/cth4.php</page>
-<referer>http://khaozap.com</referer>
-</regex>
+<link>http://bb1.sendevric.com:8000/live/marksat152/KzPDhwalOc/163.m3u8</link>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium4.png</thumbnail>
 </item>
 
 <item>
 <title>CTH STADIUM 5</title>
-<link>http://livesg.khaozap.com:1935/live/cth5.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://khaozap.com/wp/sport/cth5.php</page>
-<referer>http://khaozap.com</referer>
-</regex>
+<link>http://bb1.sendevric.com:8000/live/marksat152/KzPDhwalOc/164.m3u8</link>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium5.png</thumbnail>
 </item>
 
 <item>
 <title>CTH STADIUM 6</title>
-<link>http://livesg.khaozap.com:1935/live/cth6.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://khaozap.com/wp/sport/cth6.php</page>
-<referer>http://khaozap.com</referer>
-</regex>
+<link>http://bb1.sendevric.com:8000/live/marksat152/KzPDhwalOc/165.m3u8</link>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium6.png</thumbnail>
 </item>
 
@@ -1120,7 +1084,7 @@
 
 <item>
 <title>SKY SPORTS 1</title>
-<link>http://bit.ly/1TnFPbg</link>
+<link>http://bb1.sendevric.com:8000/live/marksat152/KzPDhwalOc/735.m3u8</link>
 <thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
 </item>
 
@@ -1132,7 +1096,7 @@
 
 <item>
 <title>SKY SPORTS 2</title>
-<link>http://bit.ly/20YQjUz</link>
+<link>http://bb1.sendevric.com:8000/live/marksat152/KzPDhwalOc/736.m3u8</link>
 <thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
 </item>
 
@@ -1144,7 +1108,7 @@
 
 <item>
 <title>SKY SPORTS 3</title>
-<link>http://bit.ly/1RMABG3</link>
+<link>http://bb1.sendevric.com:8000/live/marksat152/KzPDhwalOc/737.m3u8</link>
 <thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
 </item>
 
@@ -1156,7 +1120,7 @@
 
 <item>
 <title>SKY SPORTS 4</title>
-<link>http://bit.ly/1TnFOnD</link>
+<link>http://bb1.sendevric.com:8000/live/marksat152/KzPDhwalOc/738.m3u8</link>
 <thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
 </item>
 
@@ -1168,7 +1132,7 @@
 
 <item>
 <title>SKY SPORTS 5</title>
-<link>http://bit.ly/1Q13ihp</link>
+<link>http://bb1.sendevric.com:8000/live/marksat152/KzPDhwalOc/739.m3u8</link>
 <thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
 </item>
 
