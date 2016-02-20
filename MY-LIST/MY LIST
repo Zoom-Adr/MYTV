@@ -1108,8 +1108,13 @@
 
 <item>
 <title>NBCSN BACKUP</title>
-<sportsdevil>http://hdfree.tv/live/nbcsn.php</sportsdevil>
-<referer>http://hdfree.tv/</referer>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>file: "([^"]*)</expres>
+<page>http://biggestplayer.me/streamcrjeje2.php?id=232290&amp;width=620&amp;height=490</page>
+<referer>http://theactionlive.com/livegamecr2.php?id=nbc2&amp;width=620&amp;height=490&amp;stretching=</referer>
+</regex>
 <thumbnail>https://nbcsportsgrouppressbox.files.wordpress.com/2012/06/nbcsport-network11.jpg</thumbnail>
 </item>
 
