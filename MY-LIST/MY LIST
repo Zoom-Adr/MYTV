@@ -1107,6 +1107,13 @@
 </item>
 
 <item>
+<title>NBCSN BACKUP</title>
+<sportsdevil>http://hdfree.tv/live/nbcsn.php</sportsdevil>
+<referer>http://hdfree.tv/</referer>
+<thumbnail>https://nbcsportsgrouppressbox.files.wordpress.com/2012/06/nbcsport-network11.jpg</thumbnail>
+</item>
+
+<item>
 <title>SKYNET SPORTS HD </title>
 <link>rtmp://199.189.110.20/as99/chSport1hd</link>
 <thumbnail>http://www.skynetdth.com/images/templates/dd_wildlion_37/images/logo-2.png</thumbnail>
