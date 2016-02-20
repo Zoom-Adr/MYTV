@@ -962,8 +962,32 @@
 </item>
 
 <item>
+<title>CTH STADIUM 1 BACKUP</title>
+<link>http://livesg.khaozap.com:1935/live/cth1.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://khaozap.com/wp/sport/cth1.php</page>
+<referer>http://khaozap.com</referer>
+</regex>
+<thumbnail>http://www.cthbpl.com/img/stadium/stadium1.png</thumbnail>
+</item>
+
+<item>
 <title>CTH STADIUM 2</title>
 <link>http://bb1.sendevric.com:8000/live/marksat152/KzPDhwalOc/161.m3u8</link>
+<thumbnail>http://www.cthbpl.com/img/stadium/stadium2.png</thumbnail>
+</item>
+
+<item>
+<title>CTH STADIUM 2 BACKUP</title>
+<link>http://livesg.khaozap.com:1935/live/cth2.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://khaozap.com/wp/sport/cth2.php</page>
+<referer>http://khaozap.com</referer>
+</regex>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium2.png</thumbnail>
 </item>
 
@@ -974,14 +998,50 @@
 </item>
 
 <item>
+<title>CTH STADIUM 3 BACKUP</title>
+<link>http://livesg.khaozap.com:1935/live/cth3.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://khaozap.com/wp/sport/cth3.php</page>
+<referer>http://khaozap.com</referer>
+</regex>
+<thumbnail>http://www.cthbpl.com/img/stadium/stadium3.png</thumbnail>
+</item>
+
+<item>
 <title>CTH STADIUM 4</title>
 <link>http://bb1.sendevric.com:8000/live/marksat152/KzPDhwalOc/163.m3u8</link>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium4.png</thumbnail>
 </item>
 
 <item>
+<title>CTH STADIUM 4 BACKUP</title>
+<link>http://livesg.khaozap.com:1935/live/cth4.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://khaozap.com/wp/sport/cth4.php</page>
+<referer>http://khaozap.com</referer>
+</regex>
+<thumbnail>http://www.cthbpl.com/img/stadium/stadium4.png</thumbnail>
+</item>
+
+<item>
 <title>CTH STADIUM 5</title>
 <link>http://bb1.sendevric.com:8000/live/marksat152/KzPDhwalOc/164.m3u8</link>
+<thumbnail>http://www.cthbpl.com/img/stadium/stadium5.png</thumbnail>
+</item>
+
+<item>
+<title>CTH STADIUM 5 BACKUP</title>
+<link>http://livesg.khaozap.com:1935/live/cth5.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://khaozap.com/wp/sport/cth5.php</page>
+<referer>http://khaozap.com</referer>
+</regex>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium5.png</thumbnail>
 </item>
 
@@ -1176,6 +1236,42 @@
 <referer>http://khaozap.com</referer>
 </regex>
 <thumbnail>http://www.cox.com/wcm/en/video/tv/bein-sport/bein-tv-sp-promo.jpg</thumbnail>
+</item>
+
+<item>
+<title>TRUE VISIONS FOX SPORTS 1</title>
+<link>http://livesg.khaozap.com:1935/live/foxsport.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://khaozap.com/wp/sport/foxsport.php</page>
+<referer>http://khaozap.com</referer>
+</regex>
+<thumbnail>http://www.cth.co.th/wp-content/uploads/2013/05/415-x-263_1.jpg</thumbnail>
+</item>
+
+<item>
+<title>TRUE VISIONS FOX SPORTS 2</title>
+<link>http://livesg.khaozap.com:1935/live/foxsport2.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://khaozap.com/wp/sport/foxsport2.php</page>
+<referer>http://khaozap.com</referer>
+</regex>
+<thumbnail>http://www.cth.co.th/wp-content/uploads/2013/05/415-x-263_1.jpg</thumbnail>
+</item>
+
+<item>
+<title>TRUE VISIONS FOX SPORTS 3</title>
+<link>http://livesg.khaozap.com:1935/live/foxsport3.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://khaozap.com/wp/sport/foxsport3.php</page>
+<referer>http://khaozap.com</referer>
+</regex>
+<thumbnail>http://www.cth.co.th/wp-content/uploads/2013/05/415-x-263_1.jpg</thumbnail>
 </item>
 
 <item>
