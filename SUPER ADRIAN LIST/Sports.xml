@@ -37,6 +37,12 @@
 </item>
 
 <item>
+<title>BT SPORTS 1 TEST</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/20SuyAq&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
+</item>
+
+<item>
 <title>BT SPORTS 1 HD</title>
 <link>http://bit.ly/1RTyNv3</link>
 <thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
