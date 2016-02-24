@@ -1149,6 +1149,12 @@
 </item>
 
 <item>
+<title>SKY SPORTS BOX OFFICE PPV BACKUP</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvbox.noip.us:9998/live/dido/dido/846.m3u8&amp;streamtype=HLS</link>
+<thumbnail>https://my.sky.com/orderboxoffice/images/sky-sports-box-office-logo.png</thumbnail>
+</item>
+
+<item>
 <title>SKY SPORTS 1</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/190337745188/19033774518873/548.m3u8&amp;streamtype=HLS</link>
 <thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
