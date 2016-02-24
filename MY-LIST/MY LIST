@@ -837,31 +837,31 @@
 
 <item>
 <title>ARENASPORT 1</title>
-<link>http://46.40.5.99:8000/arena_1_720</link>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.supertv4u.eu:8000/live/C0KTK6nRg9/EyGXXiETaG/547.m3u8&amp;streamtype=HLS</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/6/65/Arena_sport_logo.jpg</thumbnail>
 </item>
 
 <item>
 <title>ARENASPORT 2</title>
-<link>http://46.40.5.99:8000/arena_2_720</link>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.supertv4u.eu:8000/live/C0KTK6nRg9/EyGXXiETaG/548.m3u8&amp;streamtype=HLS</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/6/65/Arena_sport_logo.jpg</thumbnail>
 </item>
 
 <item>
 <title>ARENASPORT 3</title>
-<link>http://46.40.5.99:8000/arena_3_720</link>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.supertv4u.eu:8000/live/C0KTK6nRg9/EyGXXiETaG/549.m3u88&amp;streamtype=HLS</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/6/65/Arena_sport_logo.jpg</thumbnail>
 </item>
 
 <item>
 <title>ARENASPORT 4</title>
-<link>http://46.40.5.99:8000/arena_4_720</link>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.supertv4u.eu:8000/live/C0KTK6nRg9/EyGXXiETaG/550.m3u8&amp;streamtype=HLS</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/6/65/Arena_sport_logo.jpg</thumbnail>
 </item>
 
 <item>
 <title>ARENASPORT 5</title>
-<link>https://hec.su/choR</link>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.supertv4u.eu:8000/live/C0KTK6nRg9/EyGXXiETaG/2345.m3u8&amp;streamtype=HLS</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/6/65/Arena_sport_logo.jpg</thumbnail>
 </item>
 
