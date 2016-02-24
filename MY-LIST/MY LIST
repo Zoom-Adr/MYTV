@@ -1364,73 +1364,73 @@
 
 <item>
 <title>NBC</title>
-<link>http://unm166.bsdns.eu:8080/live/USA-NBC/mpegts?token=testrapid:3CmWLfb3kW</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/souad/souad/1485.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://letstalkabout.tv/wp-content/uploads/2011/07/NBC-logo.gif</thumbnail>
 </item>
 
 <item>
 <title>SKY 1</title>
-<link>http://ovh143.bsdns.eu:8080/live/UK-Sky-One/mpegts?token=testrapid:3CmWLfb3kW</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/souad/souad/1095.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/9/91/Sky1_logo_2011.svg/1280px-Sky1_logo_2011.svg.png</thumbnail>
 </item>
 
 <item>
 <title>SKY 2</title>
-<link>http://ovh143.bsdns.eu:8080/live/UK-Sky-Two/mpegts?token=testrapid:3CmWLfb3kW</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/souad/souad/1095.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Sky2_logo_2011.svg/1280px-Sky2_logo_2011.svg.png</thumbnail>
 </item>
 
 <item>
 <title>SKY ACTION & ADVENTURE</title>
-<link>http://bb1.sendevric.com:8000/live/nicky/nicky/50.ts</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/souad/souad/1035.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
 </item>
 
 <item>
 <title>SKY COMEDY</title>
-<link>http://bb1.sendevric.com:8000/live/nicky/nicky/1338.ts</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/souad/souad/1038.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
 </item>
 
 <item>
 <title>SKY CRIME & THRILLER</title>
-<link>http://bb1.sendevric.com:8000/live/nicky/nicky/58.ts</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/souad/souad/1061.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
 </item>
 
 <item>
 <title>SKY DRAMA</title>
-<link>http://bb1.sendevric.com:8000/live/nicky/nicky/52.ts</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/souad/souad/1055.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
 </item>
 
 <item>
 <title>SKY MODERN GREATS</title>
-<link>http://bb1.sendevric.com:8000/live/nicky/nicky/54.ts</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/souad/souad/1045.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
 </item>
 
 <item>
 <title>SKY FAMILY</title>
-<link>http://bb1.sendevric.com:8000/live/nicky/nicky/53.ts</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/souad/souad/1064.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SCI-FI & HORROR</title>
-<link>http://bb1.sendevric.com:8000/live/nicky/nicky/56.ts</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/souad/souad/1105.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
 </item>
 
 <item>
 <title>SKY PREMIERE</title>
-<link>http://bb1.sendevric.com:8000/live/nicky/nicky/55.ts</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/souad/souad/1054.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SELECT</title>
-<link>http://bb1.sendevric.com:8000/live/nicky/nicky/1340.ts</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/souad/souad/1114.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
 </item>
 
@@ -1444,18 +1444,6 @@
 <title>SYFY</title>
 <link>http://ovh143.bsdns.eu:8080/live/UK-SyFy/mpegts?token=testrapid:3CmWLfb3kW</link>
 <thumbnail>http://cdn.bleedingcool.net/wp-content/uploads/2014/09/syfy-logo-484_0.jpg</thumbnail>
-</item>
-
-<item>
-<title>TRUE MOVIES 1</title>
-<link>http://ovh143.bsdns.eu:8080/live/UK-True-Movies-1/mpegts?token=testrapid:3CmWLfb3kW</link>
-<thumbnail>http://theident.gallery/true/2005/TRUE-2013-ID-MOVIES1-1-2.jpg</thumbnail>
-</item>
-
-<item>
-<title>TRUE MOVIES 2</title>
-<link>http://ovh143.bsdns.eu:8080/live/UK-True-Movies-2/mpegts?token=testrapid:3CmWLfb3kW</link>
-<thumbnail>http://theident.gallery/true/2005/TRUE-2013-ID-MOVIES1-1-2.jpg</thumbnail>
 </item>
 
 <item>
