@@ -872,73 +872,73 @@
 
 <item>
 <title>ASTRO SUPERSPORT 1</title>
-<link>http://ipsatpro.com:8000/live/190337745188/19033774518873/845.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/190337745188/19033774518873/845.m3u8&amp;streamtype=HLS</link>
 <thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png</thumbnail>
 </item>
 
 <item>
 <title>ASTRO SUPERSPORT 2</title>
-<link>http://ipsatpro.com:8000/live/190337745188/19033774518873/844.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/190337745188/19033774518873/844.m3u8&amp;streamtype=HLS</link>
 <thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png</thumbnail>
 </item>
 
 <item>
 <title>ASTRO SUPERSPORT 3</title>
-<link>http://ipsatpro.com:8000/live/190337745188/19033774518873/843.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/190337745188/19033774518873/843.m3u8&amp;streamtype=HLS</link>
 <thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png</thumbnail>
 </item>
 
 <item>
 <title>ASTRO SUPERSPORT 4</title>
-<link>http://ipsatpro.com:8000/live/190337745188/19033774518873/842.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/190337745188/19033774518873/842.m3u8&amp;streamtype=HLS</link>
 <thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png</thumbnail>
 </item>
 
 <item>
 <title>BRITISH EUROSPORT 1</title>
-<link>http://ipsatpro.com:8000/live/190337745188/19033774518873/541.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/190337745188/19033774518873/541.m3u8&amp;streamtype=HLS</link>
 <thumbnail>http://www.wuv.de/var/wuv/storage/images/media/bilder/eurosport_2015_580/7186502-1-ger-DE/eurosport_2015_580_evo_580.jpg</thumbnail>
 </item>
 
 <item>
 <title>BRITISH EUROSPORT 2</title>
-<link>http://ipsatpro.com:8000/live/190337745188/19033774518873/540.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/190337745188/19033774518873/540.m3u8&amp;streamtype=HLS</link>
 <thumbnail>http://www.wuv.de/var/wuv/storage/images/media/bilder/eurosport_2015_580/7186502-1-ger-DE/eurosport_2015_580_evo_580.jpg</thumbnail>
 </item>
 
 <item>
 <title>BT SPORTS 1</title>
-<link>http://ipsatpro.com:8000/live/190337745188/19033774518873/527.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/190337745188/19033774518873/527.m3u8&amp;streamtype=HLS</link>
 <thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
 </item>
 
 <item>
 <title>BT SPORTS 1 BACKUP</title>
-<link>http://www.t12v.com:8000/live/souad/souad/1118.ts</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/souad/souad/1118.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
 </item>
 
 <item>
 <title>BT SPORTS 2</title>
-<link>http://ipsatpro.com:8000/live/190337745188/19033774518873/528.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/190337745188/19033774518873/528.m3u8&amp;streamtype=HLS</link>
 <thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
 </item>
 
 <item>
 <title>BT SPORTS 2 BACKUP</title>
-<link>http://www.t12v.com:8000/live/souad/souad/1117.ts</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/souad/souad/1117.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
 </item>
 
 <item>
 <title>BT SPORTS EUROPE</title>
-<link>http://ipsatpro.com:8000/live/190337745188/19033774518873/453.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/190337745188/19033774518873/453.m3u8&amp;streamtype=HLS</link>
 <thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
 </item>
 
 <item>
 <title>BT SPORTS EUROPE BACKUP</title>
-<link>http://ipsatpro.com:8000/live/190337745188/19033774518873/453.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/190337745188/19033774518873/453.m3u8&amp;streamtype=HLS</link>
 <thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
 </item>
 
@@ -950,13 +950,13 @@
 
 <item>
 <title>BT SPORTS EXTRA</title>
-<link>http://ipsatpro.com:8000/live/190337745188/19033774518873/479.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/190337745188/19033774518873/479.m3u8&amp;streamtype=HLS</link>
 <thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
 </item>
 
 <item>
 <title>CTH STADIUM 1</title>
-<link>http://ipsatpro.com:8000/live/190337745188/19033774518873/841.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/190337745188/19033774518873/841.m3u8&amp;streamtype=HLS</link>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium1.png</thumbnail>
 </item>
 
@@ -974,7 +974,7 @@
 
 <item>
 <title>CTH STADIUM 2</title>
-<link>http://ipsatpro.com:8000/live/190337745188/19033774518873/840.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/190337745188/19033774518873/840.m3u8&amp;streamtype=HLS</link>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium2.png</thumbnail>
 </item>
 
@@ -992,7 +992,7 @@
 
 <item>
 <title>CTH STADIUM 3</title>
-<link>http://ipsatpro.com:8000/live/190337745188/19033774518873/870.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/190337745188/19033774518873/870.m3u8&amp;streamtype=HLS</link>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium3.png</thumbnail>
 </item>
 
@@ -1010,7 +1010,7 @@
 
 <item>
 <title>CTH STADIUM 4</title>
-<link>http://ipsatpro.com:8000/live/190337745188/19033774518873/868.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/190337745188/19033774518873/868.m3u8&amp;streamtype=HLS</link>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium4.png</thumbnail>
 </item>
 
@@ -1028,7 +1028,7 @@
 
 <item>
 <title>CTH STADIUM 5</title>
-<link>http://ipsatpro.com:8000/live/190337745188/19033774518873/869.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/190337745188/19033774518873/869.m3u8&amp;streamtype=HLS</link>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium5.png</thumbnail>
 </item>
 
@@ -1046,55 +1046,55 @@
 
 <item>
 <title>CTH STADIUM 6</title>
-<link>http://ipsatpro.com:8000/live/190337745188/19033774518873/867.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/190337745188/19033774518873/867.m3u8&amp;streamtype=HLS</link>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium6.png</thumbnail>
 </item>
 
 <item>
 <title>FOX SPORTS 1 NL</title>
-<link>http://ipsatpro.com:8000/live/190337745188/19033774518873/710.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/190337745188/19033774518873/710.m3u8&amp;streamtype=HLS</link>
 <thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
 </item>
 
 <item>
 <title>FOX SPORTS 2 NL</title>
-<link>http://ipsatpro.com:8000/live/190337745188/19033774518873/711.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/190337745188/19033774518873/711.m3u8&amp;streamtype=HLS</link>
 <thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
 </item>
 
 <item>
 <title>FOX SPORTS 3 NL</title>
-<link>http://ipsatpro.com:8000/live/190337745188/19033774518873/712.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/190337745188/19033774518873/712.m3u8&amp;streamtype=HLS</link>
 <thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
 </item>
 
 <item>
 <title>FOX SPORTS 4 NL</title>
-<link>http://ipsatpro.com:8000/live/190337745188/19033774518873/713.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/190337745188/19033774518873/713.m3u8&amp;streamtype=HLS</link>
 <thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
 </item>
 
 <item>
 <title>FOX SPORTS 5 NL</title>
-<link>http://ipsatpro.com:8000/live/190337745188/19033774518873/714.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/190337745188/19033774518873/714.m3u8&amp;streamtype=HLS</link>
 <thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
 </item>
 
 <item>
 <title>FOX SPORTS 1 USA</title>
-<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1161.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/ShopVIP/bursa16/1161.m3u8&amp;streamtype=HLS</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports_us_1.png</thumbnail>
 </item>
 
 <item>
 <title>FOX SPORTS 2 USA</title>
-<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1160.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/ShopVIP/bursa16/1160.m3u8&amp;streamtype=HLS</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports_us_2.png</thumbnail>
 </item>
 
 <item>
 <title>MUTV</title>
-<link>http://ipsatpro.com:8000/live/190337745188/19033774518873/535.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/190337745188/19033774518873/535.m3u8&amp;streamtype=HLS</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png</thumbnail>
 </item>
 
@@ -1149,91 +1149,91 @@
 
 <item>
 <title>SKY SPORTS 1</title>
-<link>http://ipsatpro.com:8000/live/190337745188/19033774518873/548.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/190337745188/19033774518873/548.m3u8&amp;streamtype=HLS</link>
 <thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 1 BACKUP</title>
-<link>http://tv.supertv4u.eu:8000/live/C0KTK6nRg9/EyGXXiETaG/15.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.supertv4u.eu:8000/live/C0KTK6nRg9/EyGXXiETaG/15.m3u8&amp;streamtype=HLS</link>
 <thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 2</title>
-<link>http://ipsatpro.com:8000/live/190337745188/19033774518873/547.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/190337745188/19033774518873/547.m3u8&amp;streamtype=HLS</link>
 <thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 2 BACKUP</title>
-<link>http://tv.supertv4u.eu:8000/live/C0KTK6nRg9/EyGXXiETaG/16.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.supertv4u.eu:8000/live/C0KTK6nRg9/EyGXXiETaG/16.m3u8&amp;streamtype=HLS</link>
 <thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 3</title>
-<link>http://ipsatpro.com:8000/live/190337745188/19033774518873/546.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/190337745188/19033774518873/546.m3u8&amp;streamtype=HLS</link>
 <thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 3 BACKUP</title>
-<link>http://tv.supertv4u.eu:8000/live/C0KTK6nRg9/EyGXXiETaG/17.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.supertv4u.eu:8000/live/C0KTK6nRg9/EyGXXiETaG/17.m3u8&amp;streamtype=HLS</link>
 <thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 4</title>
-<link>http://ipsatpro.com:8000/live/190337745188/19033774518873/545.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/190337745188/19033774518873/545.m3u8&amp;streamtype=HLS</link>
 <thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 4 BACKUP</title>
-<link>http://tv.supertv4u.eu:8000/live/C0KTK6nRg9/EyGXXiETaG/18.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.supertv4u.eu:8000/live/C0KTK6nRg9/EyGXXiETaG/18.m3u8&amp;streamtype=HLS</link>
 <thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 5</title>
-<link>http://ipsatpro.com:8000/live/190337745188/19033774518873/544.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/190337745188/19033774518873/544.m3u8&amp;streamtype=HLS</link>
 <thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 5 BACKUP</title>
-<link>http://tv.supertv4u.eu:8000/live/C0KTK6nRg9/EyGXXiETaG/19.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.supertv4u.eu:8000/live/C0KTK6nRg9/EyGXXiETaG/19.m3u8&amp;streamtype=HLS</link>
 <thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
 </item>
 
 <item>
 <title>TSN 1</title>
-<link>http://tv.supertv4u.eu:8000/live/C0KTK6nRg9/EyGXXiETaG/556.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.supertv4u.eu:8000/live/C0KTK6nRg9/EyGXXiETaG/556.m3u8&amp;streamtype=HLS</link>
 <thumbnail>http://wpmedia.o.canada.com/2014/05/tsn_red_1__244682411.jpg?w=620</thumbnail>
 </item>
 
 <item>
 <title>TSN 2</title>
-<link>http://tv.supertv4u.eu:8000/live/C0KTK6nRg9/EyGXXiETaG/557.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.supertv4u.eu:8000/live/C0KTK6nRg9/EyGXXiETaG/557.m3u8&amp;streamtype=HLS</link>
 <thumbnail>http://wpmedia.o.canada.com/2014/05/tsn_red_1__244682411.jpg?w=620</thumbnail>
 </item>
 
 <item>
 <title>TSN 3</title>
-<link>http://tv.supertv4u.eu:8000/live/C0KTK6nRg9/EyGXXiETaG/558.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.supertv4u.eu:8000/live/C0KTK6nRg9/EyGXXiETaG/558.m3u8&amp;streamtype=HLS</link>
 <thumbnail>http://wpmedia.o.canada.com/2014/05/tsn_red_1__244682411.jpg?w=620</thumbnail>
 </item>
 
 <item>
 <title>TSN 4</title>
-<link>http://tv.supertv4u.eu:8000/live/C0KTK6nRg9/EyGXXiETaG/559.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.supertv4u.eu:8000/live/C0KTK6nRg9/EyGXXiETaG/559.m3u8&amp;streamtype=HLS</link>
 <thumbnail>http://wpmedia.o.canada.com/2014/05/tsn_red_1__244682411.jpg?w=620</thumbnail>
 </item>
 
 <item>
 <title>TSN 5</title>
-<link>http://tv.supertv4u.eu:8000/live/C0KTK6nRg9/EyGXXiETaG/560.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.supertv4u.eu:8000/live/C0KTK6nRg9/EyGXXiETaG/560.m3u8&amp;streamtype=HLS</link>
 <thumbnail>http://wpmedia.o.canada.com/2014/05/tsn_red_1__244682411.jpg?w=620</thumbnail>
 </item>
 
@@ -1287,7 +1287,7 @@
 
 <item>
 <title>USA NETWORK [HD]</title>
-<link>http://newone15.ddns.net:8000/live/potatoes/potatoes/1836.ts</link>
+<link>plugin://plugin.video.f4mTester/?url=http://newone15.ddns.net:8000/live/potatoes/potatoes/1836.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://pmcvariety.files.wordpress.com/2013/10/usa-network-logo1.jpg</thumbnail>
 </item>
 
