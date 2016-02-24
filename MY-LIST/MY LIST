@@ -12,11 +12,6 @@
 </item>
 
 <item>
-<title>TS in f4m</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/souad/souad/1044.ts&amp;streamtype=TSDOWNLOADER</link>
-</item>
-
-<item>
 <title>NBC EXTRA TIME 1</title>
 <link>plugin://plugin.video.f4mTester/?url=http://newone15.ddns.net:8000/live/potatoes/potatoes/4942.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/08/nbc-sports-live-extra.png</thumbnail>
@@ -938,13 +933,13 @@
 
 <item>
 <title>BT SPORTS EUROPE BACKUP</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/190337745188/19033774518873/453.m3u8&amp;streamtype=HLS</link>
+<link>plugin://plugin.video.f4mTester/?url=http://selling01.ddns.net:8000/live/gastr/HDf0y7ePuT/8894.m3u8&amp;streamtype=HLS</link>
 <thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
 </item>
 
 <item>
 <title>BT SPORTS ESPN</title>
-<link>http://bit.ly/1TnG4De</link>
+<link>plugin://plugin.video.f4mTester/?url=http://selling01.ddns.net:8000/live/gastr/HDf0y7ePuT/4824.m3u8&amp;streamtype=HLS</link>
 <thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
 </item>
 
@@ -1145,6 +1140,12 @@
 <title>SKYNET SPORTS 1 BACKUP</title>
 <link>http://216.185.103.158:1935/live2/chSport2hd/playlist.m3u8</link>
 <thumbnail>http://www.skynetdth.com/images/templates/dd_wildlion_37/images/logo-2.png</thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS BOX OFFICE PPV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvbox.noip.us:9998/live/dido/dido/846.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://my.sky.com/orderboxoffice/images/sky-sports-box-office-logo.png</thumbnail>
 </item>
 
 <item>
