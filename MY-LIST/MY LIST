@@ -12,8 +12,8 @@
 </item>
 
 <item>
-<title>TEST SKY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvbox.noip.us:9998/live/mile/skype/200.m3u8&amp;streamtype=HLS</link>
+<title>TEST SKY TS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvbox.noip.us:9998/live/mile/skype/200.ts&amp;streamtype=TSDOWNLOADER</link>
 </item>
 
 <item>
