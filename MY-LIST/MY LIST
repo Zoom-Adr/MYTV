@@ -903,7 +903,7 @@
 
 <item>
 <title>BT SPORTS 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/190337745188/19033774518873/527.m3u8&amp;streamtype=HLS</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/valdez/valdez/1511.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
 </item>
 
@@ -915,7 +915,7 @@
 
 <item>
 <title>BT SPORTS 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/190337745188/19033774518873/528.m3u8&amp;streamtype=HLS</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/valdez/valdez/44.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
 </item>
 
@@ -933,13 +933,13 @@
 
 <item>
 <title>BT SPORTS EUROPE BACKUP</title>
-<link>plugin://plugin.video.f4mTester/?url=http://selling01.ddns.net:8000/live/gastr/HDf0y7ePuT/8894.m3u8&amp;streamtype=HLS</link>
+<link>plugin://plugin.video.f4mTester/?url=http://selling01.ddns.net:8000/live/gastr/HDf0y7ePuT/8894.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
 </item>
 
 <item>
 <title>BT SPORTS ESPN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://selling01.ddns.net:8000/live/gastr/HDf0y7ePuT/4824.m3u8&amp;streamtype=HLS</link>
+<link>plugin://plugin.video.f4mTester/?url=http://selling01.ddns.net:8000/live/gastr/HDf0y7ePuT/4824.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
 </item>
 
