@@ -12,12 +12,6 @@
 </item>
 
 <item>
-<title>PLP</title>
-<link>http://nlds5.cdnak.lon.neulion.com/nlds/coliseum/leicestercity/as/live/leicestercity_hd_3000_ipad.m3u8?nltid=plp&amp;nltdt=6&amp;nltnt=1&amp;h=6c7133e1678ea7102f1a4a39777f15ad.1456591296</link>
-<thumbnail>https://i.imgur.com/01Ve7Zm.png</thumbnail>
-</item>
-
-<item>
 <title>NBC EXTRA TIME 1</title>
 <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat152/KzPDhwalOc/1331.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/08/nbc-sports-live-extra.png</thumbnail>
