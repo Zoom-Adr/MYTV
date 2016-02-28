@@ -1202,6 +1202,18 @@
 </item>
 
 <item>
+<title>OTE SPORTS 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/190337745188/19033774518873/838.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.gazzetta.gr/sites/default/files/sitefiles_2014-09/ote_logo_sport_cmyk.jpg</thumbnail>
+</item>
+
+<item>
+<title>OTE SPORTS 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/190337745188/19033774518873/837.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.gazzetta.gr/sites/default/files/sitefiles_2014-09/ote_logo_sport_cmyk.jpg</thumbnail>
+</item>
+
+<item>
 <title>SKYNET SPORTS HD </title>
 <link>rtmp://199.189.110.20/as99/chSport1hd</link>
 <thumbnail>http://www.skynetdth.com/images/templates/dd_wildlion_37/images/logo-2.png</thumbnail>
