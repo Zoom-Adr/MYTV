@@ -177,14 +177,26 @@
 </item>
 
 <item>
-<title>SPORTSNET NOW - 360</title>
+<title>SPORTSNET 360</title>
 <link>plugin://plugin.video.f4mTester/?url=http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_3000.f4m?token=AgAKb25NZXRhRGF0YQgAAAAKAAhkdXJhdGlvbgBBa3dAAAAAAAAMY2FuU2Vla1RvRW5kAD/wAAAAAAAAAAx2aWRlb2NvZGVjaWQAQBwAAAAAAAAABXdpZHRoAECUAAAAAAAAAAZoZWlnaHQAQIaAAAAAAAAACWZyYW1lcmF0ZQBAPfhR4AAAAAAMYXVkaW9jb2RlY2lkAEAkAAAAAAAAAA1hdWRpb2NoYW5uZWxzAEAAAAAAAAAAAA9hdWRpb3NhbXBsZXJhdGUAQOWIgAAAAAAADWF1ZGlvZGF0YXJhdGUAQFAAAAAAAAAAAAk=</link>
 <cookieJar>http://37.48.104.130/sportsnet/Cookies.txt</cookieJar>
 <thumbnail>http://www.underconsideration.com/brandnew/archives/sportsnet_logo_detail.gif</thumbnail>
 </item>
 
 <item>
-<title>SPORTSNET NOW - WORLD</title>
+<title>SPORTSNET ONE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nlds181.cdnak.neulion.com/nlds/sportsnetnow/sn_one/as/live/sn_one_hd_3000.f4m?token=AgAKb25NZXRhRGF0YQgAAAAKAAhkdXJhdGlvbgBBa3dAAAAAAAAMY2FuU2Vla1RvRW5kAD/wAAAAAAAAAAx2aWRlb2NvZGVjaWQAQBwAAAAAAAAABXdpZHRoAECUAAAAAAAAAAZoZWlnaHQAQIaAAAAAAAAACWZyYW1lcmF0ZQBAPfhR4AAAAAAMYXVkaW9jb2RlY2lkAEAkAAAAAAAAAA1hdWRpb2NoYW5uZWxzAEAAAAAAAAAAAA9hdWRpb3NhbXBsZXJhdGUAQOWIgAAAAAAADWF1ZGlvZGF0YXJhdGUAQFAAAAAAAAAAAAk=</link></link>
+<thumbnail>http://www.underconsideration.com/brandnew/archives/sportsnet_logo_detail.gif</thumbnail>
+</item>
+
+<item>
+<title>SPORTSNET ONTARIO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nlds185.cdnak.neulion.com/nlds/sportsnetnow/sn_Ontario/as/live/sn_Ontario_hd_3000.f4m?token=AgAKb25NZXRhRGF0YQgAAAAKAAhkdXJhdGlvbgBBa3dAAAAAAAAMY2FuU2Vla1RvRW5kAD/wAAAAAAAAAAx2aWRlb2NvZGVjaWQAQBwAAAAAAAAABXdpZHRoAECUAAAAAAAAAAZoZWlnaHQAQIaAAAAAAAAACWZyYW1lcmF0ZQBAPfhR4AAAAAAMYXVkaW9jb2RlY2lkAEAkAAAAAAAAAA1hdWRpb2NoYW5uZWxzAEAAAAAAAAAAAA9hdWRpb3NhbXBsZXJhdGUAQOWIgAAAAAAADWF1ZGlvZGF0YXJhdGUAQFAAAAAAAAAAAAk=</link>
+<thumbnail>http://www.underconsideration.com/brandnew/archives/sportsnet_logo_detail.gif</thumbnail>
+</item>
+
+<item>
+<title>SPORTSNET WORLD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://nlds182.cdnak.neulion.com/nlds/sportsnetnow/sn_world/as/live/sn_world_hd_3000.f4m?token=AgAKb25NZXRhRGF0YQgAAAAKAAhkdXJhdGlvbgBBa3dAAAAAAAAMY2FuU2Vla1RvRW5kAD/wAAAAAAAAAAx2aWRlb2NvZGVjaWQAQBwAAAAAAAAABXdpZHRoAECUAAAAAAAAAAZoZWlnaHQAQIaAAAAAAAAACWZyYW1lcmF0ZQBAPfhR4AAAAAAMYXVkaW9jb2RlY2lkAEAkAAAAAAAAAA1hdWRpb2NoYW5uZWxzAEAAAAAAAAAAAA9hdWRpb3NhbXBsZXJhdGUAQOWIgAAAAAAADWF1ZGlvZGF0YXJhdGUAQFAAAAAAAAAAAAk=</link>
 <cookieJar>http://37.48.104.130/sportsnet/Cookies.txt</cookieJar>
 <thumbnail>http://www.underconsideration.com/brandnew/archives/sportsnet_logo_detail.gif</thumbnail>
