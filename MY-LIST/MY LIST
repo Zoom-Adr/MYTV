@@ -1172,13 +1172,7 @@
 </item>
 
 <item>
-<title>NBCSN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.supertv4u.eu:8000/live/C0KTK6nRg9/EyGXXiETaG/2176.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://nbcsportsgrouppressbox.files.wordpress.com/2012/06/nbcsport-network11.jpg</thumbnail>
-</item>
-
-<item>
-<title>NBCSN</title>
+<title>TEST SKY TS</title>
 <link>plugin://plugin.video.f4mTester/?url=http://tv.supertv4u.eu:8000/live/C0KTK6nRg9/EyGXXiETaG/2176.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://nbcsportsgrouppressbox.files.wordpress.com/2012/06/nbcsport-network11.jpg</thumbnail>
 </item>
