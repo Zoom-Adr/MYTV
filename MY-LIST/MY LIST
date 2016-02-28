@@ -12,6 +12,12 @@
 </item>
 
 <item>
+<title>MAN UTD VS ARSENAL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nlds3.cdnak.lon.neulion.com/nlds/coliseum/manchesterunited/as/live/manchesterunited_hd_3000.f4m?nltid=plp&nltdt=6&nltnt=1&h=22a31056ed69b009a801f137967d6a01.1456667731</link>
+<thumbnail>http://e1.cdnl3.neulion.com/coliseum/player/plp/scripts/landing/images/PLP-logo.png</thumbnail>
+</item>
+
+<item>
 <title>NBC EXTRA TIME 1</title>
 <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat152/KzPDhwalOc/1331.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/08/nbc-sports-live-extra.png</thumbnail>
