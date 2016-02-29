@@ -12,6 +12,42 @@
 </item>
 
 <item>
+<title>TEST | speed9kick9.com/Skynet1-163 | rtmp</title>
+<link>$doregex[rtmp] app=$doregex[app] playpath=$doregex[file] swfUrl=http://p.jwpcdn.com/6/9/jwplayer.flash.swf flashVer=WIN\2020,0,0,306 swfVfy=1 live=1 timeout=13 pageUrl=$doregex[page]</link>
+<regex>
+<name>rtmp</name>
+<expres>file: "(rtmp.*\/)skynetsport1.stream",</expres>
+<page>$doregex[page]</page>
+<referer>http://www.speed9kick9.com/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<regex>
+<name>app</name>
+<expres>file: ".*\/(.*?\/)skynetsport1.stream",</expres>
+<page>$doregex[page]</page>
+<referer>http://www.speed9kick9.com/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<regex>
+<name>file</name>
+<expres>file: ".*\/(.*?)",</expres>
+<page>$doregex[page]</page>
+<referer>http://www.speed9kick9.com/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<regex>
+<name>page</name>
+<expres>iframe src='(.*?)'.*?width='100%</expres>
+<page>http://www.speed9kick9.com/Skynet1-158.html</page>
+<referer>http://www.speed9kick9.com/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
 <title>TEST | speed9kick9.com/Skynet6-163 | rtmp</title>
 <link>$doregex[rtmp] app=$doregex[app] playpath=$doregex[file] swfUrl=http://p.jwpcdn.com/6/9/jwplayer.flash.swf flashVer=WIN\2020,0,0,306 swfVfy=1 live=1 timeout=13 pageUrl=$doregex[page]</link>
 <regex>
@@ -46,15 +82,9 @@
 <fanart></fanart>
 </item>
 
-<item>
+
 <title>MAN UTD VS ARSENAL</title>
 <link>plugin://plugin.video.f4mTester/?url=http://nlds3.cdnak.lon.neulion.com/nlds/coliseum/manchesterunited/as/live/manchesterunited_hd_3000.f4m?nltid=plp&nltdt=6&nltnt=1&h=22a31056ed69b009a801f137967d6a01.1456667731</link>
-<thumbnail>https://www.flashrouters.com/blog/wp-content/uploads/2014/08/barclays-league.jpg</thumbnail>
-</item>
-
-<item>
-<title>TOTTENHAM VS SWANSEA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://nlds5.cdnak.lon.neulion.com/nlds/coliseum/tottenhamhotspur/as/live/tottenhamhotspur_hd_3000.f4m?nltid=plp&nltdt=6&nltnt=1&h=809d1b51196dcd2f40675a2abd5902b8.1456669681</link>
 <thumbnail>https://www.flashrouters.com/blog/wp-content/uploads/2014/08/barclays-league.jpg</thumbnail>
 </item>
 
