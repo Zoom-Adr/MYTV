@@ -12,6 +12,41 @@
 </item>
 
 <item>
+<title>TEST | speed9kick9.com/Skynet1-163 | rtmp</title>
+<link>$doregex[rtmp] app=$doregex[app] playpath=$doregex[file] swfUrl=http://p.jwpcdn.com/6/9/jwplayer.flash.swf flashVer=WIN\2020,0,0,306 swfVfy=1 live=1 timeout=13 pageUrl=$doregex[page]</link>
+<regex>
+<name>rtmp</name>
+<expres>file: "(rtmp.*\/)skynetsport.stream",</expres>
+<page>$doregex[page]</page>
+<referer>http://www.speed9kick9.com/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<regex>
+<name>app</name>
+<expres>file: ".*\/(.*?\/)skynetsport.stream",</expres>
+<page>$doregex[page]</page>
+<referer>http://www.speed9kick9.com/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<regex>
+<name>file</name>
+<expres>file: ".*\/(.*?)",</expres>
+<page>$doregex[page]</page>
+<referer>http://www.speed9kick9.com/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<regex>
+<name>page</name>
+<expres>iframe src='(.*?)'.*?width='100%</expres>
+<page>http://www.speed9kick9.com/Skynet1-158.html</page>
+<referer>http://www.speed9kick9.com/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>TEST | speed9kick9.com/Skynet5-163 | rtmp</title>
 <link>$doregex[rtmp] app=$doregex[app] playpath=$doregex[file] swfUrl=http://p.jwpcdn.com/6/9/jwplayer.flash.swf flashVer=WIN\2020,0,0,306 swfVfy=1 live=1 timeout=13 pageUrl=$doregex[page]</link>
 <regex>
