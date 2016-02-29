@@ -1342,7 +1342,7 @@
 
 <item>
 <title>SKY SPORTS 1 UK BACKUP</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/valdez/valdez/735.tss&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/valdez/valdez/735.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
 </item>
 
