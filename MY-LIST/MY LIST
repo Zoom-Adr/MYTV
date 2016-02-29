@@ -11,6 +11,13 @@
 <thumbnail>https://i.imgur.com/01Ve7Zm.png</thumbnail>
 </item>
 
+<item>
+<title>SKY SPORTS 1 UK</title>
+<sublink>plugin://plugin.video.f4mTester/?url=http://selling01.ddns.net:8000/live/gastr/HDf0y7ePuT/10578.ts&amp;streamtype=TSDOWNLOADER</sublink>
+<sublink>http://cp.dmbshare.net:8000/live/c4a/c4a/2767.m3u8</sublink>
+<thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
+</item>
+
 <title>MAN UTD VS ARSENAL</title>
 <link>plugin://plugin.video.f4mTester/?url=http://nlds3.cdnak.lon.neulion.com/nlds/coliseum/manchesterunited/as/live/manchesterunited_hd_3000.f4m?nltid=plp&nltdt=6&nltnt=1&h=22a31056ed69b009a801f137967d6a01.1456667731</link>
 <thumbnail>https://www.flashrouters.com/blog/wp-content/uploads/2014/08/barclays-league.jpg</thumbnail>
