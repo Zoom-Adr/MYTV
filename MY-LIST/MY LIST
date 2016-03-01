@@ -11,6 +11,12 @@
 <thumbnail>https://i.imgur.com/01Ve7Zm.png</thumbnail>
 </item>
 
+<item>
+<title>NBC EXTRA TIME 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://playnicetv.tk:2052/live/martinhope/hdbfhwir/5738.ts&amp;streamtype=TSDOWNLOADER</link>
+</item>
+
+
 <title>MAN UTD VS ARSENAL</title>
 <link>plugin://plugin.video.f4mTester/?url=http://nlds3.cdnak.lon.neulion.com/nlds/coliseum/manchesterunited/as/live/manchesterunited_hd_3000.f4m?nltid=plp&nltdt=6&nltnt=1&h=22a31056ed69b009a801f137967d6a01.1456667731</link>
 <thumbnail>https://www.flashrouters.com/blog/wp-content/uploads/2014/08/barclays-league.jpg</thumbnail>
