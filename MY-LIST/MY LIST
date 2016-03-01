@@ -1130,7 +1130,7 @@
 
 <item>
 <title>ELEVEN HD PL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/ShopVIP/bursa16/1307.tss&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/190337745188/19033774518873/1307.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://elevensportsnetwork.sg/wp-content/uploads/2015/06/ELEVEN-SPORTS-NETWORK_logo-RGB-01-e1455880585580.png</thumbnail>
 </item>
 
@@ -1172,7 +1172,7 @@
 
 <item>
 <title>FOX SPORTS 1 USA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/ShopVIP/bursa16/1161.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/190337745188/19033774518873/1161.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports_us_1.png</thumbnail>
 </item>
 
