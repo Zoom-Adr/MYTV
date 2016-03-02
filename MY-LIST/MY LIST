@@ -1148,18 +1148,6 @@
 </item>
 
 <item>
-<title>ELEVEN SPORTS HD PL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/ShopVIP/bursa16/1306.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://elevensportsnetwork.sg/wp-content/uploads/2015/06/ELEVEN-SPORTS-NETWORK_logo-RGB-01-e1455880585580.png</thumbnail>
-</item>
-
-<item>
-<title>ELEVEN HD PL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/190337745188/19033774518873/1307.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://elevensportsnetwork.sg/wp-content/uploads/2015/06/ELEVEN-SPORTS-NETWORK_logo-RGB-01-e1455880585580.png</thumbnail>
-</item>
-
-<item>
 <title>FOX SPORTS IT</title>
 <link>plugin://plugin.video.f4mTester/?url=http://selling01.ddns.net:8000/live/gastr/HDf0y7ePuT/1225.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
@@ -1235,24 +1223,6 @@
 <referer>http://theactionlive.com/livegamecr2.php?id=nbc2&amp;width=620&amp;height=490&amp;stretching=</referer>
 </regex>
 <thumbnail>https://nbcsportsgrouppressbox.files.wordpress.com/2012/06/nbcsport-network11.jpg</thumbnail>
-</item>
-
-<item>
-<title>OTE SPORTS 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/190337745188/19033774518873/831.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://www.gazzetta.gr/sites/default/files/sitefiles_2014-09/ote_logo_sport_cmyk.jpg</thumbnail>
-</item>
-
-<item>
-<title>OTE SPORTS 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/190337745188/19033774518873/838.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://www.gazzetta.gr/sites/default/files/sitefiles_2014-09/ote_logo_sport_cmyk.jpg</thumbnail>
-</item>
-
-<item>
-<title>OTE SPORTS 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/190337745188/19033774518873/837.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://www.gazzetta.gr/sites/default/files/sitefiles_2014-09/ote_logo_sport_cmyk.jpg</thumbnail>
 </item>
 
 <item>
