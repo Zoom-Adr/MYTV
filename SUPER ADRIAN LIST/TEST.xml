@@ -5,7 +5,7 @@
 <link>$doregex[rtmp] app=$doregex[app] playpath=$doregex[file] swfUrl=http://p.jwpcdn.com/6/9/jwplayer.flash.swf flashVer=WIN\2020,0,0,306 swfVfy=1 live=1 timeout=13 pageUrl=$doregex[page]</link>
 <regex>
 <name>rtmp</name>
-<expres>file: "(rtmp.*\/).*?",</expres>
+<expres>file: "(m3u8.*\/).*?",</expres>
 <page>$doregex[page]</page>
 <referer>http://www.speed9kick9.com/</referer>
 <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
@@ -28,76 +28,6 @@
 <name>page</name>
 <expres>iframe src='(.*?)'.*?width='100%</expres>
 <page>http://www.speed9kick9.com/astrosupersport1-206.html</page>
-<referer>http://www.speed9kick9.com/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>ASTRO SUPERSPORT 2</title>
-<link>$doregex[rtmp] app=$doregex[app] playpath=$doregex[file] swfUrl=http://p.jwpcdn.com/6/9/jwplayer.flash.swf flashVer=WIN\2020,0,0,306 swfVfy=1 live=1 timeout=13 pageUrl=$doregex[page]</link>
-<regex>
-<name>rtmp</name>
-<expres>file: "(rtmp.*\/).*?",</expres>
-<page>$doregex[page]</page>
-<referer>http://www.speed9kick9.com/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<regex>
-<name>app</name>
-<expres>file: ".*\/(.*?\/).*?",</expres>
-<page>$doregex[page]</page>
-<referer>http://www.speed9kick9.com/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<regex>
-<name>file</name>
-<expres>file: ".*\/(.*?)",</expres>
-<page>$doregex[page]</page>
-<referer>http://www.speed9kick9.com/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<regex>
-<name>page</name>
-<expres>iframe src='(.*?)'.*?width='100%</expres>
-<page>http://www.speed9kick9.com/astrosupersport2-205.html</page>
-<referer>http://www.speed9kick9.com/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>ASTRO SUPERSPORT 3</title>
-<link>$doregex[rtmp] app=$doregex[app] playpath=$doregex[file] swfUrl=http://p.jwpcdn.com/6/9/jwplayer.flash.swf flashVer=WIN\2020,0,0,306 swfVfy=1 live=1 timeout=13 pageUrl=$doregex[page]</link>
-<regex>
-<name>rtmp</name>
-<expres>file: "(rtmp.*\/).*?",</expres>
-<page>$doregex[page]</page>
-<referer>http://www.speed9kick9.com/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<regex>
-<name>app</name>
-<expres>file: ".*\/(.*?\/).*?",</expres>
-<page>$doregex[page]</page>
-<referer>http://www.speed9kick9.com/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<regex>
-<name>file</name>
-<expres>file: ".*\/(.*?)",</expres>
-<page>$doregex[page]</page>
-<referer>http://www.speed9kick9.com/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<regex>
-<name>page</name>
-<expres>iframe src='(.*?)'.*?width='100%</expres>
-<page>http://www.speed9kick9.com/astrosupersport3-204.html</page>
 <referer>http://www.speed9kick9.com/</referer>
 <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
 </regex>
