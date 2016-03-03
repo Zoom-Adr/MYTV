@@ -1543,14 +1543,14 @@
 </item>
 
 <item>
-<title>SKY 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/souad/souad/1095.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>SKY ONE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/valdez/valdez/201.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/9/91/Sky1_logo_2011.svg/1280px-Sky1_logo_2011.svg.png</thumbnail>
 </item>
 
 <item>
-<title>SKY 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/souad/souad/1095.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>SKY TWO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/valdez/valdez/202.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Sky2_logo_2011.svg/1280px-Sky2_logo_2011.svg.png</thumbnail>
 </item>
 
@@ -1616,7 +1616,7 @@
 
 <item>
 <title>SYFY</title>
-<link>http://ovh143.bsdns.eu:8080/live/UK-SyFy/mpegts?token=testrapid:3CmWLfb3kW</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvbox.noip.us:9998/live/atik/atik/676.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://cdn.bleedingcool.net/wp-content/uploads/2014/09/syfy-logo-484_0.jpg</thumbnail>
 </item>
 
