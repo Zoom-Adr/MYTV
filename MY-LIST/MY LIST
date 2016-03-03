@@ -1556,55 +1556,61 @@
 
 <item>
 <title>SKY ACTION & ADVENTURE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/souad/souad/1035.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/valdez/valdez/50.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
 </item>
 
 <item>
 <title>SKY COMEDY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/souad/souad/1038.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/valdez/valdez/1338.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
 </item>
 
 <item>
 <title>SKY CRIME & THRILLER</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/souad/souad/1061.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/valdez/valdez/58.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
 </item>
 
 <item>
 <title>SKY DRAMA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/souad/souad/1055.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/valdez/valdez/52.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
 </item>
 
 <item>
 <title>SKY MODERN GREATS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/souad/souad/1045.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/valdez/valdez/54.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
 </item>
 
 <item>
 <title>SKY FAMILY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/souad/souad/1064.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/valdez/valdez/53.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SCI-FI & HORROR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/souad/souad/1105.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/valdez/valdez/56.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
 </item>
 
 <item>
 <title>SKY PREMIERE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/souad/souad/1054.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/valdez/valdez/55.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
+</item>
+
+<item>
+<title>SKY SHOWCASE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/valdez/valdez/179.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SELECT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/souad/souad/1114.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/valdez/valdez/1340.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
 </item>
 
