@@ -12,11 +12,11 @@
 </item>
 
 <item>
-<title>www.streamlive.to/view/68358/</title> 
+<title>www.streamlive.to/view/72400/</title> 
 <link>https://forums.tvaddons.ag/$doregex[rtmp-code]</link>
 <regex>
 	<name>rtmp-code</name>
-	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=52510',False,False,'http://vipracing.info/')</expres>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72400',False,False,'http://vipracing.info/')</expres>
 	<page></page>
 </regex>
 <thumbnail></thumbnail>
