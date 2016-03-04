@@ -6,11 +6,6 @@
 <fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 
 <item>
-<title>TV3 TEST 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv3flashsecure-lh.akamaihd.net/z/tv3liveflash_tv3@392287/manifest.f4m?hdcore=2.10.3&amp;g=FBEBQCIPPJCK&amp;swf=http://dpndczlul8yjf.cloudfront.net/resources/as3_vp_player_2.4.16.2.0.swf</link>
-</item>
-
-<item>
 <title>TEST1</title>
 <link>plugin://plugin.video.f4mTester/?url=http://bstream.nextfuturedays.net:8000/live/benelli/03022016/5127.ts&amp;streamtype=TSDOWNLOADER</link>
 </item>
@@ -996,6 +991,18 @@
 </item>
 
 <item>
+<title>BEIN SPORTS 11 AR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/souad/souad/163.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg/revision/latest?cb=20140103213705</thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS 12 AR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/souad/souad/173.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg/revision/latest?cb=20140103213705</thumbnail>
+</item>
+
+<item>
 <title>BEIN SPORTS ES</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvbox.noip.us:9998/live/atik/atik/847.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg/revision/latest?cb=20140103213705</thumbnail>
@@ -1004,6 +1011,12 @@
 <item>
 <title>BEIN SPORTS ES BACKUP</title>
 <link>plugin://plugin.video.f4mTester/?url=http://mainstream.dyndns.tv:8000/live/Stone15hurst/Stone15hurst/1095.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg/revision/latest?cb=20140103213705</thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS USA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.196.77.20:8000/live/123456/123456/4895.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg/revision/latest?cb=20140103213705</thumbnail>
 </item>
 
@@ -1616,7 +1629,7 @@
 
 <item>
 <title>NBC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/souad/souad/1485.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://5.196.77.20:8000/live/123456/123456/2.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://letstalkabout.tv/wp-content/uploads/2011/07/NBC-logo.gif</thumbnail>
 </item>
 
