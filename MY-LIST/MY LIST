@@ -11,8 +11,8 @@
 </item>
 
 <item>
-<title>TEST</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.196.77.20:8000/live/4321/4321/46.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>TEST2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.196.77.20:8000/live/123456/123456/1703.ts&amp;streamtype=TSDOWNLOADER</link>
 </item>
 
 <item>
