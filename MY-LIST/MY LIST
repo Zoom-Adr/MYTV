@@ -11,7 +11,6 @@
 <thumbnail>https://i.imgur.com/01Ve7Zm.png</thumbnail>
 </item>
 
-<item>
 <title>www.streamlive.to/view/72400/</title> 
 <link>https://forums.tvaddons.ag/$doregex[rtmp-code]</link>
 <regex>
