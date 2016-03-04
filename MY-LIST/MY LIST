@@ -5,10 +5,14 @@
 <thumbnail>https://i.imgur.com/01Ve7Zm.png</thumbnail>
 <fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 
+<item>
+<title>TEST</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.196.77.20:8000/live/4321/4321/46.ts&amp;streamtype=TSDOWNLOADER</link>
+</item>
 
 <item>
 <title>TEST</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.196.77.20:8000/live/4321/4321/53.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://5.196.77.20:8000/live/4321/4321/47.ts&amp;streamtype=TSDOWNLOADER</link>
 </item>
 
 <item>
@@ -1276,8 +1280,20 @@
 </item>
 
 <item>
+<title>SPORTSNET 360 BACKUP</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.196.77.20:8000/live/4321/4321/54.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.underconsideration.com/brandnew/archives/sportsnet_logo_detail.gif</thumbnail>
+</item>
+
+<item>
 <title>SPORTSNET ONE</title>
 <link>plugin://plugin.video.f4mTester/?url=http://nlds181.cdnak.neulion.com/nlds/sportsnetnow/sn_one/as/live/sn_one_hd_3000.f4m?token=AgAKb25NZXRhRGF0YQgAAAAKAAhkdXJhdGlvbgBBa3dAAAAAAAAMY2FuU2Vla1RvRW5kAD/wAAAAAAAAAAx2aWRlb2NvZGVjaWQAQBwAAAAAAAAABXdpZHRoAECUAAAAAAAAAAZoZWlnaHQAQIaAAAAAAAAACWZyYW1lcmF0ZQBAPfhR4AAAAAAMYXVkaW9jb2RlY2lkAEAkAAAAAAAAAA1hdWRpb2NoYW5uZWxzAEAAAAAAAAAAAA9hdWRpb3NhbXBsZXJhdGUAQOWIgAAAAAAADWF1ZGlvZGF0YXJhdGUAQFAAAAAAAAAAAAk=</link></link>
+<thumbnail>http://www.underconsideration.com/brandnew/archives/sportsnet_logo_detail.gif</thumbnail>
+</item>
+
+<item>
+<title>SPORTSNET ONE BACKUP</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.196.77.20:8000/live/4321/4321/51.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.underconsideration.com/brandnew/archives/sportsnet_logo_detail.gif</thumbnail>
 </item>
 
@@ -1288,11 +1304,24 @@
 </item>
 
 <item>
+<title>SPORTSNET ONTARIO BACKUP</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.196.77.20:8000/live/4321/4321/52.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.underconsideration.com/brandnew/archives/sportsnet_logo_detail.gif</thumbnail>
+</item>
+
+<item>
 <title>SPORTSNET WORLD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://nlds182.cdnak.neulion.com/nlds/sportsnetnow/sn_world/as/live/sn_world_hd_3000.f4m?token=AgAKb25NZXRhRGF0YQgAAAAKAAhkdXJhdGlvbgBBa3dAAAAAAAAMY2FuU2Vla1RvRW5kAD/wAAAAAAAAAAx2aWRlb2NvZGVjaWQAQBwAAAAAAAAABXdpZHRoAECUAAAAAAAAAAZoZWlnaHQAQIaAAAAAAAAACWZyYW1lcmF0ZQBAPfhR4AAAAAAMYXVkaW9jb2RlY2lkAEAkAAAAAAAAAA1hdWRpb2NoYW5uZWxzAEAAAAAAAAAAAA9hdWRpb3NhbXBsZXJhdGUAQOWIgAAAAAAADWF1ZGlvZGF0YXJhdGUAQFAAAAAAAAAAAAk=</link>
 <cookieJar>http://37.48.104.130/sportsnet/Cookies.txt</cookieJar>
 <thumbnail>http://www.underconsideration.com/brandnew/archives/sportsnet_logo_detail.gif</thumbnail>
 </item>
+
+<item>
+<title>SPORTSNET WORLD BACKUP</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.196.77.20:8000/live/4321/4321/53.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.underconsideration.com/brandnew/archives/sportsnet_logo_detail.gif</thumbnail>
+</item>
+
 
 <item>
 <title>SKYNET SPORTS HD </title>
