@@ -5,6 +5,12 @@
 <thumbnail>https://i.imgur.com/01Ve7Zm.png</thumbnail>
 <fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 
+
+<item>
+<title>TV3 TEST</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv3flashsecure-lh.akamaihd.net/z/tv3flash_sp@392287/manifest.f4m?hdcore=2.10.3&amp;g=FBEBQCIPPJCK&amp;swf=http://dpndczlul8yjf.cloudfront.net/resources/as3_vp_player_2.4.16.2.0.swf</link>
+</item>
+
 <item>
 <title>TEST1</title>
 <link>plugin://plugin.video.f4mTester/?url=http://bstream.nextfuturedays.net:8000/live/benelli/03022016/5127.ts&amp;streamtype=TSDOWNLOADER</link>
