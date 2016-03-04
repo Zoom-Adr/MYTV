@@ -6,6 +6,10 @@
 <fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 
 
+<item>
+<title>TEST</title>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream-codes.no-ip.org:61250/live/aria/aria/12257.ts&amp;streamtype=TSDOWNLOADER</link>
+</item>
 
 <item>
 <title>TEST</title>
