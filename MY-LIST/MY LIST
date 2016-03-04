@@ -4,11 +4,22 @@
 <name>[B]---===[COLOR red]LIVE[/COLOR][COLOR yellow] GAMES[/COLOR]===---[/B]</name>
 <thumbnail>https://i.imgur.com/01Ve7Zm.png</thumbnail>
 <fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
-su
+
 <item>
 <title>[B]---===[COLOR red]GAMES AVAILABLE ONLY ON MATCHDAY[/COLOR]===---[/B]</title>
 <link>.</link>
 <thumbnail>https://i.imgur.com/01Ve7Zm.png</thumbnail>
+</item>
+
+<item>
+<title>www.streamlive.to/view/68358/</title> 
+<link>https://forums.tvaddons.ag/$doregex[rtmp-code]</link>
+<regex>
+	<name>rtmp-code</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=52510',False,False,'http://vipracing.info/')</expres>
+	<page></page>
+</regex>
+<thumbnail></thumbnail>
 </item>
 
 <title>MAN UTD VS ARSENAL</title>
