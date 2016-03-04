@@ -8,12 +8,17 @@
 
 <item>
 <title>TEST</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xtream-codes.no-ip.org:61250/live/aria/aria/12257.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://5.196.77.20:8000/live/4321/4321/1717.ts&amp;streamtype=TSDOWNLOADER</link>
 </item>
 
 <item>
 <title>TEST</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.196.77.20:8000/live/4321/4321/82.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream-codes.no-ip.org:61250/live/aria/aria/12065.ts&amp;streamtype=TSDOWNLOADER</link>
+</item>
+
+<item>
+<title>TEST</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.196.77.20:8000/live/4321/4321/46.ts&amp;streamtype=TSDOWNLOADER</link>
 </item>
 
 <item>
