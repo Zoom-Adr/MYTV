@@ -11,6 +11,12 @@
 <thumbnail>https://i.imgur.com/01Ve7Zm.png</thumbnail>
 </item>
 
+<item>
+<title>tv3 test</title>
+<link>http://tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master.m3u8|X-Forwarded-For=42.154.55.156</link>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/08/nbc-sports-live-extra.png</thumbnail>
+</item>
+
 <title>www.streamlive.to/view/72400/</title> 
 <link>https://forums.tvaddons.ag/$doregex[rtmp-code]</link>
 <regex>
