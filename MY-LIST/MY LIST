@@ -1765,6 +1765,13 @@
 <link>plugin://plugin.video.f4mTester/?url=http://5.196.77.20:8000/live/4321/4321/3503.ts&amp;streamtype=TSDOWNLOADER</link>
 </item>
 
+
+
+<item>
+<title>TEST SSA 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://58.146.131.26/ss/SSA_mss/SSA_mss.isml/manifest.f4m?I=db806199-2e9a-4212-9baf-0e842ec72046&amp;K=13&amp;E=20160308060548&amp;A=119.81.8.58&amp;H=EBE519E849727AE6C8E7EB4D1B1B95FC</link>
+</item>
+
 <channel>
 <name>[COLOR red]PAYPAL DONATIONS:[/COLOR] [COLOR yellow]thesuperboxbuild@outlook.com[/COLOR]</name>
 <thumbnail>http://kastellorizo.com/wp-content/uploads/2015/02/paypal2015.png</thumbnail>
@@ -1777,3 +1784,4 @@
 </item>
 </items>
 </channel>
+
