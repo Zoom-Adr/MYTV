@@ -913,31 +913,25 @@
 
 <item>
 <title>ARENASPORT 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/c4a/c4a/1802.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat152/KzPDhwalOc/1.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/6/65/Arena_sport_logo.jpg</thumbnail>
 </item>
 
 <item>
 <title>ARENASPORT 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/c4a/c4a/1803.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat152/KzPDhwalOc/2.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/6/65/Arena_sport_logo.jpg</thumbnail>
 </item>
 
 <item>
 <title>ARENASPORT 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/c4a/c4a/1804.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat152/KzPDhwalOc/3.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/6/65/Arena_sport_logo.jpg</thumbnail>
 </item>
 
 <item>
 <title>ARENASPORT 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/c4a/c4a/1805.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/6/65/Arena_sport_logo.jpg</thumbnail>
-</item>
-
-<item>
-<title>ARENASPORT 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/c4a/c4a/1806.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat152/KzPDhwalOc/4.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/6/65/Arena_sport_logo.jpg</thumbnail>
 </item>
 
@@ -986,6 +980,24 @@
 <item>
 <title>BEIN SPORTS ES BACKUP</title>
 <link>plugin://plugin.video.f4mTester/?url=http://mainstream.dyndns.tv:8000/live/Stone15hurst/Stone15hurst/1095.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg/revision/latest?cb=20140103213705</thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS 1 FR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/moumen/moumen/190.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg/revision/latest?cb=20140103213705</thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS 2 FR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/moumen/moumen/191.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg/revision/latest?cb=20140103213705</thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS 3 FR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/moumen/moumen/192.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg/revision/latest?cb=20140103213705</thumbnail>
 </item>
 
@@ -1716,27 +1728,27 @@
 <fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 
 <item>
-<title>TEST1</title>
+<title>SKY SPORTS 1 TEST</title>
 <link>plugin://plugin.video.f4mTester/?url=http://bstream.nextfuturedays.net:8000/live/benelli/03022016/5127.ts&amp;streamtype=TSDOWNLOADER</link>
 </item>
 
 <item>
-<title>TEST2</title>
+<title>FOX SPORTS 2 USA TEST</title>
 <link>plugin://plugin.video.f4mTester/?url=http://5.196.77.20:8000/live/4321/4321/1703.ts&amp;streamtype=TSDOWNLOADER</link>
 </item>
 
 <item>
-<title>TEST</title>
+<title>FOX SPORTS 1 USA TEST</title>
 <link>plugin://plugin.video.f4mTester/?url=http://5.196.77.20:8000/live/4321/4321/47.ts&amp;streamtype=TSDOWNLOADER</link>
 </item>
 
 <item>
-<title>TEST</title>
+<title>SKY SPORTS 1 HD TEST</title>
 <link>plugin://plugin.video.f4mTester/?url=http://5.196.77.20:8000/live/4321/4321/82.ts&amp;streamtype=TSDOWNLOADER</link>
 </item>
 
 <item>
-<title>TEST</title>
+<title>ASTRO SUPERSPORT 1 TEST</title>
 <link>plugin://plugin.video.f4mTester/?url=http://5.196.77.20:8000/live/4321/4321/3503.ts&amp;streamtype=TSDOWNLOADER</link>
 </item>
 
