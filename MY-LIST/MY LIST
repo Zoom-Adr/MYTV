@@ -1562,6 +1562,12 @@
 </item>
 
 <item>
+<title>WWE NETWORK BACKUP</title>
+<link>plugin://plugin.video.f4mTester/?url=http://selling-team.net:8000/live/gastr/HDf0y7ePuT/991.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://i.imgur.com/Ug9xGzp.png</thumbnail>
+</item>
+
+<item>
 <title>ZONASPORTS - LIVE SPORTS</title>
 <sportsdevil>http://streamup.global.ssl.fastly.net/app/zonax1azs-channel/chunklist.m3u8</sportsdevil>
 <referer>http://zonasports.to</referer>
