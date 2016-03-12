@@ -10,21 +10,16 @@
 <title>[B]---===[COLOR red]GAMES AVAILABLE ONLY ON MATCHDAY[/COLOR]===---[/B]</title>
 <link>.</link>
 <thumbnail>https://i.imgur.com/01Ve7Zm.png</thumbnail>
-</item>
-
-<title>www.streamlive.to/view/72400/</title> 
-<link>https://forums.tvaddons.ag/$doregex[rtmp-code]</link>
-<regex>
-	<name>rtmp-code</name>
-	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72400',False,False,'http://vipracing.info/')</expres>
-	<page></page>
-</regex>
-<thumbnail></thumbnail>
-</item>
 
 <title>WEST BROM VS MAN UTD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://nlds2.cdnak.lon.neulion.com/nlds/coliseum/westbromwichalbion/as/live/westbromwichalbion_hd_3000.f4m?nltid=plp&amp;nltdt=6&amp;nltnt=1&amp;h=191a85ca2689c527ac2562ba99cc84fe.1457277520</link>
 <thumbnail>https://www.flashrouters.com/blog/wp-content/uploads/2014/08/barclays-league.jpg</thumbnail>
+</item>
+
+<item>
+<title>PREMIER LEAGUE PASS</title>
+<link>http://goo.gl/YbOlp9</link>
+<thumbnail>https://i.imgur.com/01Ve7Zm.png</thumbnail>
 </item>
 
 <item>
