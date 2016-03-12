@@ -1558,8 +1558,8 @@
 </item>
 
 <item>
-<title>ZONASPORTS - LIVE SPORTS</title>
-<sportsdevil>http://streamup.global.ssl.fastly.net/app/zonax1azs-channel/chunklist.m3u8</sportsdevil>
+<title>ZUNOX - LIVE SPORTS</title>
+<link>http://stream.ssh101.com:1935/live/zunox1a/chunklist.m3u8</link>
 <referer>http://zonasports.to</referer>
 <thumbnail>http://cdn.cybergolf.com/images/979/Zona-Sports.jpg</thumbnail>
 </item>
