@@ -674,25 +674,25 @@
 
 <item>
 <title>TV1</title>
-<link>http://rtm-live.glueapi.io/smil:rtm-ch001.smil/chunklist_w1569385084_b1040000_sleng.m3u8</link>
+<link>http://rtm-live.glueapi.io/smil:rtm-ch001.smil/chunklist_b1064000_sleng.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv1_zps8mlj4nck.png</thumbnail>
 </item>
 
 <item>
 <title>TV1 - Backup</title>
-<link>http://rtm-live.glueapi.io/smil:rtm-ch001.smil/chunklist_w1535307968_b2040000_sleng.m3u8</link>
+<link>http://rtm-live.glueapi.io/smil:rtm-ch001.smil/chunklist_b974000_sleng.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv1_zps8mlj4nck.png</thumbnail>
 </item>
 
 <item>
 <title>TV2</title>
-<link>http://rtm-live.glueapi.io/smil:rtm-ch002.smil/chunklist_w1638037763_b1040000_sleng.m3u8</link>
+<link>http://rtm-live.glueapi.io/smil:rtm-ch002.smil/chunklist_b1040000_sleng.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/My_tv2_zpshzwufzrv.png</thumbnail>
 </item>
 
 <item>
 <title>TV2 - Backup</title>
-<link>http://rtm-live.glueapi.io/smil:rtm-ch002.smil/chunklist_w1638037763_b2040000_sleng.m3u8</link>
+<link>http://rtm-live.glueapi.io/smil:rtm-ch002.smil/chunklist_b950000_sleng.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/My_tv2_zpshzwufzrv.png</thumbnail>
 </item>
 
