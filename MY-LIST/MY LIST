@@ -711,6 +711,23 @@
 </item>
 
 <item>
+<title>NTV7</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HDS&amp;maxbitrate=1264000&amp;url=$doregex[encodedurl]</link>
+<regex>
+    <name>encodedurl</name>
+    <expres>$pyFunction:urllib.quote_plus('http://ntv7flashsecure-lh.akamaihd.net/z/ntv7flash_sp@392290/manifest.f4m?hdnea=$doregex[get-token]&amp;hdcore=3.8.0&amp;plugin=jwplayer-3.8.0.0')</expres>
+    <page></page>
+</regex>
+<regex>
+      <name>get-token</name>
+      <expres>(.*)<expres>
+      <page>http://player.ooyala.com/sas/akamai_edge_auth_token?embed_code=c0aGNmeDqMkuwBzt5byiz-T1dCeMA7sB&amp;video_pcode=owMjgyOkSbJagb4ozVY_03UrHYLt</page>
+      <referer></referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_ntv7_zpsmslc5gwf.png</thumbnail>
+</item>
+
+<item>
 <title>TV9</title>
 <link>http://uk.layarku.tv/edge/149_325_live/chunklist_w139420426.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv9_zpsvy6n5ypz.png</thumbnail>
@@ -718,7 +735,7 @@
 
 <item>
 <title>RTM PARLIMEN</title>
-<link>http://rtm-live.glueapi.io/smil:rtm-ch007.smil/chunklist_w1230995573_b1040000_sleng.m3u8</link>
+<link>http://rtm-live.glueapi.io/smil:rtm-ch007.smil/chunklist_b1040000_sleng.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/rtmparlimen_zpsu1trkjx7.png</thumbnail>
 </item>
 
