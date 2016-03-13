@@ -1166,6 +1166,18 @@
 </item>
 
 <item>
+<title>ELEVEN SPORTS HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/190337745188/19033774518873/1306.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://elevensportsnetwork.sg/wp-content/uploads/2015/06/ELEVEN-SPORTS-NETWORK_logo-RGB-01-e1455880585580.png</thumbnail>
+</item>
+
+<item>
+<title>ELEVEN HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/190337745188/19033774518873/1307.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://elevensportsnetwork.sg/wp-content/uploads/2015/06/ELEVEN-SPORTS-NETWORK_logo-RGB-01-e1455880585580.png</thumbnail>
+</item>
+
+<item>
 <title>FOX SPORTS IT</title>
 <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat152/KzPDhwalOc/152.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
