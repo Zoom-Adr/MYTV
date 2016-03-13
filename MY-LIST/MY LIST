@@ -1219,6 +1219,12 @@
 </item>
 
 <item>
+<title>FOX SPORTS PLUS IT</title>
+<link>plugin://plugin.video.f4mTester/?url=http://selling-team.net:8000/live/gastr/HDf0y7ePuT/2113.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
+</item>
+
+<item>
 <title>FOX SPORTS 1 NL</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/moumen/moumen/1573.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
