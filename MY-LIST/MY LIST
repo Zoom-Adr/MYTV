@@ -1280,7 +1280,7 @@
 
 <item>
 <title>NBCSN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.196.77.20:8000/live/4321/4321/46.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://selling-team.net:8000/live/gastr/HDf0y7ePuT/7591.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://nbcsportsgrouppressbox.files.wordpress.com/2012/06/nbcsport-network11.jpg</thumbnail>
 </item>
 
@@ -1474,7 +1474,7 @@
 
 <item>
 <title>SKY SPORTS 1 UK BACKUP</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.196.77.20:8000/live/123456/123456/82.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat152/KzPDhwalOc/735.tss&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
 </item>
 
@@ -1641,12 +1641,6 @@
 </item>
 
 <item>
-<title>WWE NETWORK BACKUP</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.196.77.20:8000/live/4321/4321/4894.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://i.imgur.com/Ug9xGzp.png</thumbnail>
-</item>
-
-<item>
 <title>ZUNOX - LIVE SPORTS</title>
 <link>http://stream.ssh101.com:1935/live/zunox1a/chunklist.m3u8</link>
 <referer>http://zonasports.to</referer>
@@ -1712,7 +1706,7 @@
 
 <item>
 <title>NBC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.196.77.20:8000/live/4321/4321/2.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://209.126.116.144:8800/live/X64ENOoBBF/LxsyCh8Ylq/14.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://letstalkabout.tv/wp-content/uploads/2011/07/NBC-logo.gif</thumbnail>
 </item>
 
