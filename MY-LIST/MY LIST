@@ -1833,13 +1833,30 @@
 
 <item>
 <title>USA TEST</title>
-<link>plugin://plugin.video.f4mTester/?url=http://209.126.116.144:8800/live/X64ENOoBBF/LxsyCh8Ylq/8.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://playnicetv.tk:2052/live/martinhope/hdbfhwir/5738.ts&amp;streamtype=TSDOWNLOADER</link>
+</item>
+
+<item>
+<title>NBC TEST</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/argentina/argentina/1178.ts&amp;streamtype=TSDOWNLOADER</link>
+</item>
+
+<item>
+<title>NBC TEST</title>
+<link>plugin://plugin.video.f4mTester/?url=http://hyper.de1-eu.com:8000/live/partovi/partovi/2148.ts&amp;streamtype=TSDOWNLOADER</link>
+</item>
+
+<item>
+<title>NBCSN TEST</title>
+<link>http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
 </item>
 
 <item>
 <title>TEST SSA 1</title>
 <link>plugin://plugin.video.f4mTester/?url=http://58.146.131.26/ss/SSA_mss/SSA_mss.isml/manifest.f4m?I=db806199-2e9a-4212-9baf-0e842ec72046&amp;K=13&amp;E=20160308060548&amp;A=119.81.8.58&amp;H=EBE519E849727AE6C8E7EB4D1B1B95FC</link>
 </item>
+
+
 
 <channel>
 <name>[COLOR red]PAYPAL DONATIONS:[/COLOR] [COLOR yellow]thesuperboxbuild@outlook.com[/COLOR]</name>
