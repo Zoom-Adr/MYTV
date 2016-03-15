@@ -1856,7 +1856,15 @@
 <link>plugin://plugin.video.f4mTester/?url=http://58.146.131.26/ss/SSA_mss/SSA_mss.isml/manifest.f4m?I=db806199-2e9a-4212-9baf-0e842ec72046&amp;K=13&amp;E=20160308060548&amp;A=119.81.8.58&amp;H=EBE519E849727AE6C8E7EB4D1B1B95FC</link>
 </item>
 
+<item>
+<title>TEST ZEE CINE</title>
+<link>http://zeefamily2-i.akamaihd.net/hls/live/231616/zeecinemausa/chunklist.m3u8</link>
+</item>
 
+<item>
+<title>TEST ZEE TV</title>
+<link>http://zeefamily2-i.akamaihd.net/hls/live/231616/zeetvhdindia/chunklist.m3u8</link>
+</item>
 
 <channel>
 <name>[COLOR red]PAYPAL DONATIONS:[/COLOR] [COLOR yellow]thesuperboxbuild@outlook.com[/COLOR]</name>
