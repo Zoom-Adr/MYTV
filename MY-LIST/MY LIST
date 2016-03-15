@@ -1866,6 +1866,13 @@
 <link>http://zeefamily2-i.akamaihd.net/hls/live/231616/zeetvhdindia/chunklist.m3u8</link>
 </item>
 
+<item>
+<title>TEST WWE</title>
+<link>http://167.114.41.215:8080/WwEw_jaV/WwEw_jaV/index.m3u8</link>
+</item>
+
+
+
 <channel>
 <name>[COLOR red]PAYPAL DONATIONS:[/COLOR] [COLOR yellow]thesuperboxbuild@outlook.com[/COLOR]</name>
 <thumbnail>http://kastellorizo.com/wp-content/uploads/2015/02/paypal2015.png</thumbnail>
