@@ -1871,6 +1871,16 @@
 <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.231:58080/live/zagallo/satlover.com/658.ts&amp;streamtype=TSDOWNLOADER</link>
 </item>
 
+<item>
+<title>TEST1</title>
+<link>hlsvariant://http://rtvsource.webcindario.com/STALKER.php?ID=190&F=.m3u8</link>
+</item>
+
+<item>
+<title>TEST2</title>
+<link>hlsvariant://http://rtvsource.webcindario.com/STALKER.php?ID=2459&F=.m3u8</link>
+</item>
+
 
 <channel>
 <name>[COLOR red]PAYPAL DONATIONS:[/COLOR] [COLOR yellow]thesuperboxbuild@outlook.com[/COLOR]</name>
