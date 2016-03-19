@@ -1287,6 +1287,12 @@
 
 <item>
 <title>MUTV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://selling-team.net:8000/live/gastr/HDf0y7ePuT/14205.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://pbs.twimg.com/profile_images/692019514947534848/QKheiBW_.png</thumbnail>
+</item>
+
+<item>
+<title>MUTV</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/50500/50500/535.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png</thumbnail>
 </item>
@@ -1441,6 +1447,18 @@
 <title>SKYNET SPORTS 1 BACKUP</title>
 <link>http://216.185.103.158:1935/live2/chSport2hd/playlist.m3u8</link>
 <thumbnail>http://www.skynetdth.com/images/templates/dd_wildlion_37/images/logo-2.png</thumbnail>
+</item>
+
+<item>
+<title>SKY SPORT MOTOGP IT</title>
+<link>plugin://plugin.video.f4mTester/?url=http://selling-team.net:8000/live/gastr/HDf0y7ePuT/918.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://4.bp.blogspot.com/-cg5vg03mUwU/VSViLrJUxaI/AAAAAAAAXkM/-ARCl9gyLIs/s1600/logo.png</thumbnail>
+</item>
+
+<item>
+<title>SKY SPORT MOTOGP IT</title>
+<link>plugin://plugin.video.f4mTester/?url=http://selling-team.net:8000/live/gastr/HDf0y7ePuT/4181.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://4.bp.blogspot.com/-cg5vg03mUwU/VSViLrJUxaI/AAAAAAAAXkM/-ARCl9gyLIs/s1600/logo.png</thumbnail>
 </item>
 
 <item>
