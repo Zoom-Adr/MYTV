@@ -1329,7 +1329,7 @@
 
 <item>
 <title>NBCSN BACKUP</title>
-<f4m>http://smashtv.ddns.net:9090/load/c77f1f87365f/467.mpegts</f4m>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/c77f1f87365f/467.mpegts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://nbcsportsgrouppressbox.files.wordpress.com/2012/06/nbcsport-network11.jpg</thumbnail>
 </item>
 
@@ -1678,6 +1678,12 @@
 </item>
 
 <item>
+<title>USA NETWORK BACKUP</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/c77f1f87365f/428.mpegts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://pmcvariety.files.wordpress.com/2013/10/usa-network-logo1.jpg</thumbnail>
+</item>
+
+<item>
 <title>WWE NETWORK</title>
 <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat152/KzPDhwalOc/1329.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://i.imgur.com/Ug9xGzp.png</thumbnail>
@@ -1854,12 +1860,17 @@
 
 <item>
 <title>BT SPORT 1 HD TEST</title>
-<f4m>http://smashtv.ddns.net:9090/load/38ad309c19cc/429.mpegts</f4m>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/38ad309c19cc/429.mpegts&amp;streamtype=TSDOWNLOADER</link>
+</item>
+
+<item>
+<title>BT SPORT 2 HD TEST</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/38ad309c19cc/432.mpegts&amp;streamtype=TSDOWNLOADER</link>
 </item>
 
 <item>
 <title>SKY SPORTS 1 HD TEST</title>
-<f4m>http://smashtv.ddns.net:9090/load/62e95536202c/24.mpegts</f4m>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/62e95536202c/24.mpegts&amp;streamtype=TSDOWNLOADER</link>
 </item>
 
 <item>
