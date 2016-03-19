@@ -11,15 +11,15 @@
 <thumbnail>https://i.imgur.com/01Ve7Zm.png</thumbnail>
 </item>
 
-
-<title>NORWICH CITY VS MAN CITY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://nlds7.cdnak.lon.neulion.com/nlds/coliseum/norwichcity/as/live/norwichcity_hd_4500.f4m?nltid=plp&nltdt=6&nltnt=1&h=35e5cee065027abe93ef695748730f81.1457786639</link>
+<item>
+<title>EVERTON VS ARSENAL</title>
+<f4m>http://nlds4.cdnak.lon.neulion.com/nlds/coliseum/everton/as/live/everton_hd_4500.f4m?nltid=plp&nltdt=6&nltnt=1&h=548d3258317ca4755409d368d9b25cb5.1458389255|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</f4m>
 <thumbnail>https://www.flashrouters.com/blog/wp-content/uploads/2014/08/barclays-league.jpg</thumbnail>
 </item>
 
 <item>
 <title>NBC EXTRA TIME 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat152/KzPDhwalOc/1331.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/2968.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/08/nbc-sports-live-extra.png</thumbnail>
 </item>
 
