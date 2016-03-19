@@ -1323,7 +1323,7 @@
 
 <item>
 <title>NBCSN BACKUP</title>
-<link>http://smashtv.ddns.net:9090/load/c77f1f87365f/467.mpegts</link>
+<f4m>http://smashtv.ddns.net:9090/load/c77f1f87365f/467.mpegts</f4m>
 <thumbnail>https://nbcsportsgrouppressbox.files.wordpress.com/2012/06/nbcsport-network11.jpg</thumbnail>
 </item>
 
@@ -1848,12 +1848,12 @@
 
 <item>
 <title>BT SPORT 1 HD TEST</title>
-<link>http://smashtv.ddns.net:9090/load/38ad309c19cc/429.mpegts</link>
+<f4m>http://smashtv.ddns.net:9090/load/38ad309c19cc/429.mpegts</f4m>
 </item>
 
 <item>
 <title>SKY SPORTS 1 HD TEST</title>
-<link>http://smashtv.ddns.net:9090/load/62e95536202c/24.mpegts</link>
+<f4m>http://smashtv.ddns.net:9090/load/62e95536202c/24.mpegts</f4m>
 </item>
 
 <item>
