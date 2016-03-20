@@ -1880,6 +1880,11 @@
 </item>
 
 <item>
+<title>SKY SPORTS F1 HD TEST</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/c77f1f87365f/64.mpegts&amp;streamtype=TSDOWNLOADER</link>
+</item>
+
+<item>
 <title>SKY SPORTS 1 HD TEST</title>
 <link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/2222/2222/642.ts&amp;streamtype=TSDOWNLOADER</link>
 </item>
