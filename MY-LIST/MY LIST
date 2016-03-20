@@ -1737,13 +1737,13 @@
 
 <item>
 <title>HBO</title>
-<link>http://stream.anluong.info/d6035575f16a12dd14fec6d53aa9af1422/mytv-hbo.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/c77f1f87365f/193.mpegts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://hboasiapromos.s3.amazonaws.com/0_core/fb-hbo-480x320.jpg</thumbnail>
 </item>
 
 <item>
 <title>NBC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dupdates.tk:8000/live/askjdhflajkshdfo87ayh8h/ajshdfaoishd9hu98yhp9uaisjd/14.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/c77f1f87365f/140.mpegts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://letstalkabout.tv/wp-content/uploads/2011/07/NBC-logo.gif</thumbnail>
 </item>
 
