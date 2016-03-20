@@ -1292,6 +1292,12 @@
 </item>
 
 <item>
+<title>MOVISTAR F1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://selling-team.net:8000/live/gastr/HDf0y7ePuT/14206.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://pbs.twimg.com/profile_images/692019245853626369/83lEs7Vo.png</thumbnail>
+</item>
+
+<item>
 <title>MUTV</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/50500/50500/535.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png</thumbnail>
@@ -1446,7 +1452,13 @@
 <item>
 <title>SKY SPORT MOTOGP IT</title>
 <link>plugin://plugin.video.f4mTester/?url=http://selling-team.net:8000/live/gastr/HDf0y7ePuT/918.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://4.bp.blogspot.com/-cg5vg03mUwU/VSViLrJUxaI/AAAAAAAAXkM/-ARCl9gyLIs/s1600/logo.png</thumbnail>
+<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/2/2b/Sky_Sport_Italy_2010.png/revision/latest?cb=20150524204137</thumbnail>
+</item>
+
+<item>
+<title>SKY SPORT F1 IT</title>
+<link>plugin://plugin.video.f4mTester/?url=http://selling-team.net:8000/live/gastr/HDf0y7ePuT/917.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/2/2b/Sky_Sport_Italy_2010.png/revision/latest?cb=20150524204137</thumbnail>
 </item>
 
 <item>
