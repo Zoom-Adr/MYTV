@@ -1895,13 +1895,38 @@
 </item>
 
 <item>
-<title>USA TEST</title>
-<link>plugin://plugin.video.f4mTester/?url=http://playnicetv.tk:2052/live/martinhope/hdbfhwir/5738.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>NBCSN TEST</title>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/2222/2222/964.ts&amp;streamtype=TSDOWNLOADER</link>
 </item>
 
 <item>
-<title>NBCSN TEST</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/2222/2222/964.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>BPL 1 TEST</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/c77f1f87365f/66.mpegts&amp;streamtype=TSDOWNLOADER</link>
+</item>
+
+<item>
+<title>BPL 2 TEST</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/c77f1f87365f/67.mpegts&amp;streamtype=TSDOWNLOADER</link>
+</item>
+
+<item>
+<title>BPL 3 TEST</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/c77f1f87365f/68.mpegts&amp;streamtype=TSDOWNLOADER</link>
+</item>
+
+<item>
+<title>BPL 4 TEST</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/c77f1f87365f/69.mpegts&amp;streamtype=TSDOWNLOADER</link>
+</item>
+
+<item>
+<title>BPL 5 TEST</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/c77f1f87365f/70.mpegts&amp;streamtype=TSDOWNLOADER</link>
+</item>
+
+<item>
+<title>BPL 6 TEST</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/c77f1f87365f/269.mpegts&amp;streamtype=TSDOWNLOADER</link>
 </item>
 
 <channel>
