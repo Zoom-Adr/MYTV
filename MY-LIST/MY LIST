@@ -1886,6 +1886,11 @@
 
 <item>
 <title>TSN 1 TEST</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/38ad309c19cc/342.mpegts&amp;streamtype=TSDOWNLOADER</link>
+</item>
+
+<item>
+<title>TSN 1 TEST</title>
 <link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/4afe5b80d79c/342.mpegts&amp;streamtype=TSDOWNLOADER</link>
 </item>
 
