@@ -1892,12 +1892,12 @@
 
 <item>
 <title>TSN 1 TEST</title>
-<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/38ad309c19cc/342.mpegts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/4afe5b80d79c/342.mpegts&amp;streamtype=TSDOWNLOADER</link>
 </item>
 
 <item>
-<title>TSN 1 TEST</title>
-<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/4afe5b80d79c/342.mpegts&amp;streamtype=TSDOWNLOADER</link>
+<title>SKY SPORTS PPV TEST</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/4afe5b80d79c/446.mpegts&amp;streamtype=TSDOWNLOADER</link>
 </item>
 
 <item>
@@ -1910,10 +1910,6 @@
 <link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/2222/2222/818.ts&amp;streamtype=TSDOWNLOADER</link>
 </item>
 
-<item>
-<title>NBCSN TEST</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/2222/2222/964.ts&amp;streamtype=TSDOWNLOADER</link>
-</item>
 
 <item>
 <title>BPL 1 TEST</title>
@@ -1933,6 +1929,11 @@
 <item>
 <title>BPL 4 TEST</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/iptv/iptv/1837.ts&amp;streamtype=TSDOWNLOADER</link>
+</item>
+
+<item>
+<title>XTREME CODE BT 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream-codes.no-ip.org:61250/live/dobras/dobras/12257.ts&amp;streamtype=TSDOWNLOADER</link>
 </item>
 
 <channel>
