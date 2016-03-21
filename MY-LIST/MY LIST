@@ -11,51 +11,9 @@
 <thumbnail>https://i.imgur.com/01Ve7Zm.png</thumbnail>
 </item>
 
-<item>
+
 <title>MAN CITY VS MAN UTD LINK 1</title>
 <f4m>http://nlds5.cdnak.lon.neulion.com/nlds/coliseum/manchestercity/as/live/manchestercity_hd_3000.f4m?nltid=plp&nltdt=6&nltnt=1&h=b76374a5d37f94c7cda205b82b0192e2.1458487172|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</f4m>
-<thumbnail>https://www.flashrouters.com/blog/wp-content/uploads/2014/08/barclays-league.jpg</thumbnail>
-</item>
-
-<item>
-<title>MAN CITY VS MAN UTD LINK 2</title>
-<f4m>http://nlds5.cdnak.lon.neulion.com/nlds/coliseum/manchestercity/as/live/manchestercity_hd_1600.f4m?nltid=plp&nltdt=6&nltnt=1&h=b76374a5d37f94c7cda205b82b0192e2.1458487172|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</f4m>
-<thumbnail>https://www.flashrouters.com/blog/wp-content/uploads/2014/08/barclays-league.jpg</thumbnail>
-</item>
-
-<item>
-<title>TOTTENHAM VS BOURNEMOUTH LINK 1</title>
-<f4m>http://nlds2.cdnak.lon.neulion.com/nlds/coliseum/tottenhamhotspur/as/live/tottenhamhotspur_hd_3000.f4m?nltid=plp&nltdt=6&nltnt=1&h=6caaa249549454b932b75d4d3125a89f.1458487305|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</f4m>
-<thumbnail>https://www.flashrouters.com/blog/wp-content/uploads/2014/08/barclays-league.jpg</thumbnail>
-</item>
-
-<item>
-<title>TOTTENHAM VS BOURNEMOUTH LINK 2</title>
-<f4m>http://nlds2.cdnak.lon.neulion.com/nlds/coliseum/tottenhamhotspur/as/live/tottenhamhotspur_hd_1600.f4m?nltid=plp&nltdt=6&nltnt=1&h=6caaa249549454b932b75d4d3125a89f.1458487305|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</f4m>
-<thumbnail>https://www.flashrouters.com/blog/wp-content/uploads/2014/08/barclays-league.jpg</thumbnail>
-</item>
-
-<item>
-<title>SOUTHAMPTON VS LIVERPOOL LINK 1</title>
-<f4m>http://nlds7.cdnak.lon.neulion.com/nlds/coliseum/southampton/as/live/southampton_hd_3000.f4m?nltid=plp&nltdt=8&uid=57740&h=e108b0f34003cfeb594a62d27d2eeec5.1458478677|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</f4m>
-<thumbnail>https://www.flashrouters.com/blog/wp-content/uploads/2014/08/barclays-league.jpg</thumbnail>
-</item>
-
-<item>
-<title>SOUTHAMPTON VS LIVERPOOL LINK 2</title>
-<f4m>http://nlds7.cdnak.lon.neulion.com/nlds/coliseum/southampton/as/live/southampton_hd_1600.f4m?nltid=plp&nltdt=8&uid=57740&h=e108b0f34003cfeb594a62d27d2eeec5.1458478677|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</f4m>
-<thumbnail>https://www.flashrouters.com/blog/wp-content/uploads/2014/08/barclays-league.jpg</thumbnail>
-</item>
-
-<item>
-<title>NEWCASTLE VS SUNDERLAND LINK 1</title>
-<f4m>http://nlds6.cdnak.lon.neulion.com/nlds/coliseum/newcastleunited/as/live/newcastleunited_hd_3000.f4m?nltid=plp&nltdt=8&uid=57740&h=bf981a91cc195273b8783c8643c31414.1458478716|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</f4m>
-<thumbnail>https://www.flashrouters.com/blog/wp-content/uploads/2014/08/barclays-league.jpg</thumbnail>
-</item>
-
-<item>
-<title>NEWCASTLE VS SUNDERLAND LINK 2</title>
-<f4m>http://nlds6.cdnak.lon.neulion.com/nlds/coliseum/newcastleunited/as/live/newcastleunited_hd_1600.f4m?nltid=plp&nltdt=8&uid=57740&h=bf981a91cc195273b8783c8643c31414.1458478716|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</f4m>
 <thumbnail>https://www.flashrouters.com/blog/wp-content/uploads/2014/08/barclays-league.jpg</thumbnail>
 </item>
 
@@ -1943,32 +1901,22 @@
 
 <item>
 <title>BPL 1 TEST</title>
-<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/c77f1f87365f/66.mpegts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/iptv/iptv/1799.ts&amp;streamtype=TSDOWNLOADER</link>
 </item>
 
 <item>
 <title>BPL 2 TEST</title>
-<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/c77f1f87365f/67.mpegts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/iptv/iptv/1109.ts&amp;streamtype=TSDOWNLOADER</link>
 </item>
 
 <item>
 <title>BPL 3 TEST</title>
-<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/c77f1f87365f/68.mpegts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/iptv/iptv/892.ts&amp;streamtype=TSDOWNLOADER</link>
 </item>
 
 <item>
 <title>BPL 4 TEST</title>
-<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/c77f1f87365f/69.mpegts&amp;streamtype=TSDOWNLOADER</link>
-</item>
-
-<item>
-<title>BPL 5 TEST</title>
-<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/c77f1f87365f/70.mpegts&amp;streamtype=TSDOWNLOADER</link>
-</item>
-
-<item>
-<title>BPL 6 TEST</title>
-<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/c77f1f87365f/269.mpegts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/iptv/iptv/1837.ts&amp;streamtype=TSDOWNLOADER</link>
 </item>
 
 <channel>
