@@ -1936,6 +1936,11 @@
 <link>plugin://plugin.video.f4mTester/?url=http://xtream-codes.no-ip.org:61250/live/dobras/dobras/12257.ts&amp;streamtype=TSDOWNLOADER</link>
 </item>
 
+<item>
+<title>SKY SPORTS 1 NS0</title>
+<link>plugin://plugin.video.f4mTester/?url=http://TheAvengersTeam.ns0.it:8000/live/anton/anton/2237.ts&amp;streamtype=TSDOWNLOADER</link>
+</item>
+
 <channel>
 <name>[COLOR red]PAYPAL DONATIONS:[/COLOR] [COLOR yellow]thesuperboxbuild@outlook.com[/COLOR]</name>
 <thumbnail>http://kastellorizo.com/wp-content/uploads/2015/02/paypal2015.png</thumbnail>
