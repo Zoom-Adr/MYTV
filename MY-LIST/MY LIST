@@ -1896,11 +1896,6 @@
 </item>
 
 <item>
-<title>SKY SPORTS PPV TEST</title>
-<link>http://smashtv.ddns.net:9090/load/4afe5b80d79c/24.mpegts</link>
-</item>
-
-<item>
 <title>SKY SPORTS 1 HD TEST</title>
 <link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/2222/2222/642.ts&amp;streamtype=TSDOWNLOADER</link>
 </item>
@@ -1909,17 +1904,6 @@
 <title>ASTRO SUPERSPORT 1 TEST</title>
 <link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/2222/2222/818.ts&amp;streamtype=TSDOWNLOADER</link>
 </item>
-
-<item>
-<title>ASTRO SUPERSPORT 1 TEST</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/818.ts&amp;streamtype=TSDOWNLOADER</link>
-</item>
-
-<item>
-<title>SKY SPORTS 2 HDdream TEST</title>
-<link>plugin://plugin.video.f4mTester/?url=http://hdreambox.dyndns.info:8000/live/shafiq/shafiq/53.ts&amp;streamtype=TSDOWNLOADER</link>
-</item>
-
 
 <item>
 <title>BPL 1 TEST</title>
@@ -1950,6 +1934,13 @@
 <title>SKY SPORTS 1 NS0</title>
 <link>plugin://plugin.video.f4mTester/?url=http://TheAvengersTeam.ns0.it:8000/live/anton/anton/2237.ts&amp;streamtype=TSDOWNLOADER</link>
 </item>
+
+<item>
+<title>BT SPORTS 1 NS0</title>
+<link>plugin://plugin.video.f4mTester/?url=http://TheAvengersTeam.ns0.it:8000/live/anton/anton/2227.ts&amp;streamtype=TSDOWNLOADER</link>
+</item>
+
+
 
 <channel>
 <name>[COLOR red]PAYPAL DONATIONS:[/COLOR] [COLOR yellow]thesuperboxbuild@outlook.com[/COLOR]</name>
