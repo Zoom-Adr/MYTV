@@ -1891,13 +1891,13 @@
 </item>
 
 <item>
-<title>TSN 1 TEST</title>
-<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/4afe5b80d79c/342.mpegts&amp;streamtype=TSDOWNLOADER</link>
+<title>WWE TEST</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/4afe5b80d79c/79.mpegts&amp;streamtype=TSDOWNLOADER</link>
 </item>
 
 <item>
 <title>SKY SPORTS PPV TEST</title>
-<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/4afe5b80d79c/446.mpegts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/4afe5b80d79c/24.mpegts&amp;streamtype=TSDOWNLOADER</link>
 </item>
 
 <item>
