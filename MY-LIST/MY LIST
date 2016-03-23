@@ -1310,6 +1310,12 @@
 </item>
 
 <item>
+<title>NBCSN</title>
+<f4m>http://globeiptv.ddns.net:9999/live/NAM/TSNAM2/195.ts</f4m>
+<thumbnail>https://nbcsportsgrouppressbox.files.wordpress.com/2012/06/nbcsport-network11.jpg</thumbnail>
+</item>
+
+<item>
 <title>NBCSN BACKUP</title>
 <link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/38ad309c19cc/467.mpegts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://nbcsportsgrouppressbox.files.wordpress.com/2012/06/nbcsport-network11.jpg</thumbnail>
