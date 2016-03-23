@@ -1940,7 +1940,20 @@
 <link>plugin://plugin.video.f4mTester/?url=http://TheAvengersTeam.ns0.it:8000/live/anton/anton/2227.ts&amp;streamtype=TSDOWNLOADER</link>
 </item>
 
-
+<item>
+<title>TV3</title> 
+<link>$doregex[getLink]|User-Agent=Mozilla/5.0 (iPad; U; CPU OS 8_1 like Mac OS X; en-us) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B410 Safari/600.1.4</link>
+<regex>
+<name>getLink</name>
+<expres>.ocation.(.*)</expres>
+<page>http://go.layarku.tv/tv3_temp1.m3u8</page>
+<referer>http://www.layarku.tv</referer>
+<agent>Mozilla/5.0 (iPad; U; CPU OS 8_1 like Mac OS X; en-us) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B410 Safari/600.1.4</agent>
+<cookieJar></cookieJar>
+<noredirect>true</noredirect>
+<includeheaders/>
+</regex>
+</item>
 
 <channel>
 <name>[COLOR red]PAYPAL DONATIONS:[/COLOR] [COLOR yellow]thesuperboxbuild@outlook.com[/COLOR]</name>
