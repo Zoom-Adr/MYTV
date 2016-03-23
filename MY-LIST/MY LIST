@@ -1311,12 +1311,6 @@
 
 <item>
 <title>NBCSN BACKUP</title>
-<f4m>http://5.196.77.20:8000/live/1234/1234/46.m3u8</f4m>
-<thumbnail>https://nbcsportsgrouppressbox.files.wordpress.com/2012/06/nbcsport-network11.jpg</thumbnail>
-</item>
-
-<item>
-<title>NBCSN BACKUP</title>
 <link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/38ad309c19cc/467.mpegts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://nbcsportsgrouppressbox.files.wordpress.com/2012/06/nbcsport-network11.jpg</thumbnail>
 </item>
@@ -1534,7 +1528,7 @@
 
 <item>
 <title>SPORTSNET ONE BACKUP</title>
-<f4m>http://5.196.77.20:8000/live/1234/1234/51.m3u8</f4m>
+<f4m>http://xtream.iptv-streamer.com:8000/live/2222/2222/56.ts</f4m>
 <thumbnail>http://www.underconsideration.com/brandnew/archives/sportsnet_logo_detail.gif</thumbnail>
 </item>
 
@@ -1546,7 +1540,7 @@
 
 <item>
 <title>SPORTSNET ONTARIO BACKUP</title>
-<f4m>http://5.196.77.20:8000/live/1234/1234/52.m3u8</f4m>
+<f4m>http://xtream.iptv-streamer.com:8000/live/2222/2222/57.ts</f4m>
 <thumbnail>http://www.underconsideration.com/brandnew/archives/sportsnet_logo_detail.gif</thumbnail>
 </item>
 
