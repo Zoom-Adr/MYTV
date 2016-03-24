@@ -1956,10 +1956,14 @@
 </item>
 
 <item>
-<title>BT SPORTS 1 NS0</title>
+<title>TV3 TEST</title>
 <link>http://go.layarku.tv/tv3_temp1.m3u8|X-Forwarded-For=42.154.55.155</link>
 </item>
 
+<item>
+<title>TV3 TEST</title>
+<link>http://mbox-addon.com/streams/71631-navix.m3u8</link>
+</item>
 
 <channel>
 <name>[COLOR red]PAYPAL DONATIONS:[/COLOR] [COLOR yellow]thesuperboxbuild@outlook.com[/COLOR]</name>
