@@ -1695,21 +1695,6 @@
 </item>
 
 <item>
-<title>BPL 2 TEST</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/iptv/iptv/1109.ts&amp;streamtype=TSDOWNLOADER</link>
-</item>
-
-<item>
-<title>BPL 3 TEST</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/iptv/iptv/892.ts&amp;streamtype=TSDOWNLOADER</link>
-</item>
-
-<item>
-<title>BPL 4 TEST</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/iptv/iptv/1837.ts&amp;streamtype=TSDOWNLOADER</link>
-</item>
-
-<item>
 <title>XTREME CODE BT 1</title>
 <link>plugin://plugin.video.f4mTester/?url=http://xtream-codes.no-ip.org:61250/live/dobras/dobras/12257.ts&amp;streamtype=TSDOWNLOADER</link>
 </item>
@@ -1725,21 +1710,6 @@
 </item>
 
 <item>
-<title>TV3</title> 
-<link>$doregex[getLink]|User-Agent=Mozilla/5.0 (iPad; U; CPU OS 8_1 like Mac OS X; en-us) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B410 Safari/600.1.4</link>
-<regex>
-<name>getLink</name>
-<expres>.ocation.(.*)</expres>
-<page>http://go.layarku.tv/tv3_temp1.m3u8</page>
-<referer>http://www.layarku.tv</referer>
-<agent>Mozilla/5.0 (iPad; U; CPU OS 8_1 like Mac OS X; en-us) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B410 Safari/600.1.4</agent>
-<cookieJar></cookieJar>
-<noredirect>true</noredirect>
-<includeheaders/>
-</regex>
-</item>
-
-<item>
 <title>TV3 TEST</title>
 <link>http://go.layarku.tv/tv3_temp1.m3u8|X-Forwarded-For=42.154.55.155</link>
 </item>
@@ -1747,6 +1717,21 @@
 <item>
 <title>TV3 TEST</title>
 <link>http://mbox-addon.com/streams/71631-navix.m3u8</link>
+</item>
+
+<item>
+<title>BEIN 1 USEETV</title>
+<f4m>http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:78a1bc703242/chunklist_b1668000.m3u8?stime=20160325081743&amp;etime=20160325121743&amp;encoded=055991607803725aa40c2</f4m>
+</item>
+
+<item>
+<title>BEIN 2 USEETV</title>
+<f4m>http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:14a27c358043/chunklist_b1668000.m3u8?stime=20160325083437&amp;etime=20160325123437&amp;encoded=035ca41ccaabf81a41cb0</f4m>
+</item>
+
+<item>
+<title>BEIN 3 USEETV</title>
+<f4m>http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:fddbadb5b544/chunklist_b1668000.m3u8?stime=20160325083116&amp;etime=20160325123116&amp;encoded=071f8e2d08f7a67052d22</f4m>
 </item>
 
 <channel>
