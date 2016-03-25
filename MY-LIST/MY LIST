@@ -108,37 +108,19 @@
 
 <item>
 <title>ANTV</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/antv2_576p/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://api.mivo.com/v4/mobile/channels/wms-auth</page>
-<referer>http://api.mivo.com/</referer>
-</regex>
+<f4m>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/antv2_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDE2IDY6Mjc6MzAgQU0maGFzaF92YWx1ZT1lektIbE96QVMvY1JRYlRlNlg5ckZnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD1FVjE1MF8xMThfNjJfMTVfNTFfMTA0fHY0LW1vYmlsZXwzLzI1LzIwMTYgNjoyNyBBTXw0Mi42MS4xNjIuMzc=</f4m>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_antv_zps5qe3o8qy.png</thumbnail>
 </item>
 
 <item>
 <title>ANTARA TV</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/antaratv_480p/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://api.mivo.com/v4/mobile/channels/wms-auth</page>
-<referer>http://api.mivo.com/</referer>
-</regex>
+<f4m>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/antaratv_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDE2IDY6Mjc6MzAgQU0maGFzaF92YWx1ZT1lektIbE96QVMvY1JRYlRlNlg5ckZnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD1FVjE1MF8xMThfNjJfMTVfNTFfMTA0fHY0LW1vYmlsZXwzLzI1LzIwMTYgNjoyNyBBTXw0Mi42MS4xNjIuMzc=</f4m>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_antaratv_zpslfe8wvho.png</thumbnail>
 </item>
 
 <item>
 <title>BERITA SATU</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/beritasatu_240p/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://api.mivo.com/v4/mobile/channels/wms-auth</page>
-<referer>http://api.mivo.com/</referer>
-</regex>
+<f4m>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/beritasatu_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDE2IDY6Mjc6MzAgQU0maGFzaF92YWx1ZT1lektIbE96QVMvY1JRYlRlNlg5ckZnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD1FVjE1MF8xMThfNjJfMTVfNTFfMTA0fHY0LW1vYmlsZXwzLzI1LzIwMTYgNjoyNyBBTXw0Mi42MS4xNjIuMzc=</f4m>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_beritasatutv_zpsdgoulgmq.png</thumbnail>
 </item>
 
@@ -150,97 +132,49 @@
 
 <item>
 <title>CTV NETWORK</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/cahayatv_480p/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://api.mivo.com/v4/mobile/channels/wms-auth</page>
-<referer>http://api.mivo.com/</referer>
-</regex>
+<f4m>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/cahayatv_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDE2IDY6Mjc6MzAgQU0maGFzaF92YWx1ZT1lektIbE96QVMvY1JRYlRlNlg5ckZnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD1FVjE1MF8xMThfNjJfMTVfNTFfMTA0fHY0LW1vYmlsZXwzLzI1LzIwMTYgNjoyNyBBTXw0Mi42MS4xNjIuMzc=</f4m>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_ctv_zpsuthdtkdg.png</thumbnail>
 </item>
 
 <item>
 <title>DAAI TV</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/daaitv2_576p/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://api.mivo.com/v4/mobile/channels/wms-auth</page>
-<referer>http://api.mivo.com/</referer>
-</regex>
+<f4m>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/daaitv2_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDE2IDY6Mjc6MzAgQU0maGFzaF92YWx1ZT1lektIbE96QVMvY1JRYlRlNlg5ckZnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD1FVjE1MF8xMThfNjJfMTVfNTFfMTA0fHY0LW1vYmlsZXwzLzI1LzIwMTYgNjoyNyBBTXw0Mi42MS4xNjIuMzc=</f4m>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_daaitv_zpsa8jkixzp.png</thumbnail>
 </item>
 
 <item>
 <title>DAMAI TV</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/more1_240p/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://api.mivo.com/v4/mobile/channels/wms-auth</page>
-<referer>http://api.mivo.com/</referer>
-</regex>
+<f4m>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/more1_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDE2IDY6Mjc6MzAgQU0maGFzaF92YWx1ZT1lektIbE96QVMvY1JRYlRlNlg5ckZnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD1FVjE1MF8xMThfNjJfMTVfNTFfMTA0fHY0LW1vYmlsZXwzLzI1LzIwMTYgNjoyNyBBTXw0Mi42MS4xNjIuMzc=</f4m>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_damaitv_zpszelmqznj.png</thumbnail>
 </item>
 
 <item>
 <title>DMC TV</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/dmctv_480p/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://api.mivo.com/v4/mobile/channels/wms-auth</page>
-<referer>http://api.mivo.com/</referer>
-</regex>
+<f4m>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/dmctv_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDE2IDY6Mjc6MzAgQU0maGFzaF92YWx1ZT1lektIbE96QVMvY1JRYlRlNlg5ckZnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD1FVjE1MF8xMThfNjJfMTVfNTFfMTA0fHY0LW1vYmlsZXwzLzI1LzIwMTYgNjoyNyBBTXw0Mi42MS4xNjIuMzc=</f4m>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_dmctv_zpszpox8rrh.png</thumbnail>
 </item>
 
 <item>
 <title>ELSHINTA TV</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/elshintatv_576p/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://api.mivo.com/v4/mobile/channels/wms-auth</page>
-<referer>http://api.mivo.com/</referer>
-</regex>
+<f4m>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/elshintatv_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDE2IDY6Mjc6MzAgQU0maGFzaF92YWx1ZT1lektIbE96QVMvY1JRYlRlNlg5ckZnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD1FVjE1MF8xMThfNjJfMTVfNTFfMTA0fHY0LW1vYmlsZXwzLzI1LzIwMTYgNjoyNyBBTXw0Mi42MS4xNjIuMzc=</f4m>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_elshintatv_zpswdybmaxs.png</thumbnail>
 </item>
 
 <item>
 <title>GLOBAL TV</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/globaltv2_576p/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://api.mivo.com/v4/mobile/channels/wms-auth</page>
-<referer>http://api.mivo.com/</referer>
-</regex>
+<f4m>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/globaltv2_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDE2IDY6Mjc6MzAgQU0maGFzaF92YWx1ZT1lektIbE96QVMvY1JRYlRlNlg5ckZnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD1FVjE1MF8xMThfNjJfMTVfNTFfMTA0fHY0LW1vYmlsZXwzLzI1LzIwMTYgNjoyNyBBTXw0Mi42MS4xNjIuMzc=</f4m>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_global_tv_zpsqptddjo9.png</thumbnail>
 </item>
 
 <item>
 <title>HAARI TV</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/more2_240p/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://api.mivo.com/v4/mobile/channels/wms-auth</page>
-<referer>http://api.mivo.com/</referer>
-</regex>
+<f4m>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/more2_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDE2IDY6Mjc6MzAgQU0maGFzaF92YWx1ZT1lektIbE96QVMvY1JRYlRlNlg5ckZnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD1FVjE1MF8xMThfNjJfMTVfNTFfMTA0fHY0LW1vYmlsZXwzLzI1LzIwMTYgNjoyNyBBTXw0Mi42MS4xNjIuMzc=</f4m>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_haaritv_zpslftcnreb.png</thumbnail>
 </item>
 
 <item>
 <title>HOT HITS</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/hothits_576p/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://api.mivo.com/v4/mobile/channels/wms-auth</page>
-<referer>http://api.mivo.com/</referer>
-</regex>
+<f4m>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/hothits_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDE2IDY6Mjc6MzAgQU0maGFzaF92YWx1ZT1lektIbE96QVMvY1JRYlRlNlg5ckZnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD1FVjE1MF8xMThfNjJfMTVfNTFfMTA0fHY0LW1vYmlsZXwzLzI1LzIwMTYgNjoyNyBBTXw0Mi42MS4xNjIuMzc=</f4m>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_hothits_zpsrob0njnq.png</thumbnail>
 </item>
 
@@ -258,13 +192,7 @@
 
 <item>
 <title>INDOSIAR</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/indosiar2_576p/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://api.mivo.com/v4/mobile/channels/wms-auth</page>
-<referer>http://api.mivo.com/</referer>
-</regex>
+<f4m>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/indosiar2_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDE2IDY6Mjc6MzAgQU0maGFzaF92YWx1ZT1lektIbE96QVMvY1JRYlRlNlg5ckZnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD1FVjE1MF8xMThfNjJfMTVfNTFfMTA0fHY0LW1vYmlsZXwzLzI1LzIwMTYgNjoyNyBBTXw0Mi42MS4xNjIuMzc=</f4m>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_indosiar_zpsnlwwccnu.png</thumbnail>
 </item>
 
@@ -282,13 +210,7 @@
 
 <item>
 <title>JAK TV</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/jaktv_576p/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://api.mivo.com/v4/mobile/channels/wms-auth</page>
-<referer>http://api.mivo.com/</referer>
-</regex>
+<f4m>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/jaktv_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDE2IDY6Mjc6MzAgQU0maGFzaF92YWx1ZT1lektIbE96QVMvY1JRYlRlNlg5ckZnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD1FVjE1MF8xMThfNjJfMTVfNTFfMTA0fHY0LW1vYmlsZXwzLzI1LzIwMTYgNjoyNyBBTXw0Mi42MS4xNjIuMzc=</f4m>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_jaktv_zpsarehs1yc.png</thumbnail>
 </item>
 
@@ -300,73 +222,37 @@
 
 <item>
 <title>JTV</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/jawatv_576p/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://api.mivo.com/v4/mobile/channels/wms-auth</page>
-<referer>http://api.mivo.com/</referer>
-</regex>
+<f4m>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/jawatv_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDE2IDY6Mjc6MzAgQU0maGFzaF92YWx1ZT1lektIbE96QVMvY1JRYlRlNlg5ckZnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD1FVjE1MF8xMThfNjJfMTVfNTFfMTA0fHY0LW1vYmlsZXwzLzI1LzIwMTYgNjoyNyBBTXw0Mi42MS4xNjIuMzc=</f4m>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_jtv_zpspcztjwpe.png</thumbnail>
 </item>
 
 <item>
 <title>KOMPAS TV</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/kompastv_480p/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://api.mivo.com/v4/mobile/channels/wms-auth</page>
-<referer>http://api.mivo.com/</referer>
-</regex>
+<f4m>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/kompastv_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDE2IDY6Mjc6MzAgQU0maGFzaF92YWx1ZT1lektIbE96QVMvY1JRYlRlNlg5ckZnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD1FVjE1MF8xMThfNjJfMTVfNTFfMTA0fHY0LW1vYmlsZXwzLzI1LzIwMTYgNjoyNyBBTXw0Mi42MS4xNjIuMzc=</f4m>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_kompastv_zpspbla9f1l.png</thumbnail>
 </item>
 
 <item>
 <title>LBS IN-DRAMA</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/lbsindrama_576p/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://api.mivo.com/v4/mobile/channels/wms-auth</page>
-<referer>http://api.mivo.com/</referer>
-</regex>
+<f4m>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/lbsindrama_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDE2IDY6Mjc6MzAgQU0maGFzaF92YWx1ZT1lektIbE96QVMvY1JRYlRlNlg5ckZnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD1FVjE1MF8xMThfNjJfMTVfNTFfMTA0fHY0LW1vYmlsZXwzLzI1LzIwMTYgNjoyNyBBTXw0Mi42MS4xNjIuMzc=</f4m>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_lbsindrama_zpshlkuj2w6.png</thumbnail>
 </item>
 
 <item>
 <title>LBS K-DRAMA</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/ldrama2_240p/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://api.mivo.com/v4/mobile/channels/wms-auth</page>
-<referer>http://api.mivo.com/</referer>
-</regex>
+<f4m>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/ldrama2_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDE2IDY6Mjc6MzAgQU0maGFzaF92YWx1ZT1lektIbE96QVMvY1JRYlRlNlg5ckZnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD1FVjE1MF8xMThfNjJfMTVfNTFfMTA0fHY0LW1vYmlsZXwzLzI1LzIwMTYgNjoyNyBBTXw0Mi42MS4xNjIuMzc=</f4m>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_lbskdrama_zpsee1focjf.png</thumbnail>
 </item>
 
 <item>
 <title>METRO TV</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/metrotv2_576p/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://api.mivo.com/v4/mobile/channels/wms-auth</page>
-<referer>http://api.mivo.com/</referer>
-</regex>
+<f4m>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/metrotv2_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDE2IDY6Mjc6MzAgQU0maGFzaF92YWx1ZT1lektIbE96QVMvY1JRYlRlNlg5ckZnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD1FVjE1MF8xMThfNjJfMTVfNTFfMTA0fHY0LW1vYmlsZXwzLzI1LzIwMTYgNjoyNyBBTXw0Mi42MS4xNjIuMzc=</f4m>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_metro_tv_zpsfy2zhqxw.png</thumbnail>
 </item>
 
 <item>
 <title>MNC TV</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/mnctv2_576p/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://api.mivo.com/v4/mobile/channels/wms-auth</page>
-<referer>http://api.mivo.com/</referer>
-</regex>
+<f4m>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/mnctv2_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDE2IDY6Mjc6MzAgQU0maGFzaF92YWx1ZT1lektIbE96QVMvY1JRYlRlNlg5ckZnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD1FVjE1MF8xMThfNjJfMTVfNTFfMTA0fHY0LW1vYmlsZXwzLzI1LzIwMTYgNjoyNyBBTXw0Mi42MS4xNjIuMzc=</f4m>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_mnc_tv_zpshi58jhma.png</thumbnail>
 </item>
 
@@ -386,49 +272,25 @@
 
 <item>
 <title>MIVO TV</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/mivotv_480p/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://api.mivo.com/v4/mobile/channels/wms-auth</page>
-<referer>http://api.mivo.com/</referer>
-</regex>
+<f4m>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/mivotv_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDE2IDY6Mjc6MzAgQU0maGFzaF92YWx1ZT1lektIbE96QVMvY1JRYlRlNlg5ckZnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD1FVjE1MF8xMThfNjJfMTVfNTFfMTA0fHY0LW1vYmlsZXwzLzI1LzIwMTYgNjoyNyBBTXw0Mi42MS4xNjIuMzc=</f4m>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_mivotv_zpso5h9xwxy.png</thumbnail>
 </item>
 
 <item>
 <title>NET.</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/nettv_480p/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://api.mivo.com/v4/mobile/channels/wms-auth</page>
-<referer>http://api.mivo.com/</referer>
-</regex>
+<f4m>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/nettv_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDE2IDY6Mjc6MzAgQU0maGFzaF92YWx1ZT1lektIbE96QVMvY1JRYlRlNlg5ckZnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD1FVjE1MF8xMThfNjJfMTVfNTFfMTA0fHY0LW1vYmlsZXwzLzI1LzIwMTYgNjoyNyBBTXw0Mi42MS4xNjIuMzc=</f4m>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_nettv_zpskioucxna.png</thumbnail>
 </item>
 
 <item>
 <title>O CHANNEL</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/ochannel_576p/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://api.mivo.com/v4/mobile/channels/wms-auth</page>
-<referer>http://api.mivo.com/</referer>
-</regex>
+<f4m>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/ochannel_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDE2IDY6Mjc6MzAgQU0maGFzaF92YWx1ZT1lektIbE96QVMvY1JRYlRlNlg5ckZnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD1FVjE1MF8xMThfNjJfMTVfNTFfMTA0fHY0LW1vYmlsZXwzLzI1LzIwMTYgNjoyNyBBTXw0Mi42MS4xNjIuMzc=</f4m>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_ochannel_zpsh4arpcai.png</thumbnail>
 </item>
 
 <item>
 <title>RCTI</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/rcti2_576p/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://api.mivo.com/v4/mobile/channels/wms-auth</page>
-<referer>http://api.mivo.com/</referer>
-</regex>
+<f4m>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/rcti2_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDE2IDY6Mjc6MzAgQU0maGFzaF92YWx1ZT1lektIbE96QVMvY1JRYlRlNlg5ckZnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD1FVjE1MF8xMThfNjJfMTVfNTFfMTA0fHY0LW1vYmlsZXwzLzI1LzIwMTYgNjoyNyBBTXw0Mi42MS4xNjIuMzc=</f4m>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_rcti_zpspbf3nrr5.png</thumbnail>
 </item>
 
@@ -447,25 +309,13 @@
 
 <item>
 <title>RTV</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/rajawalitv.stream_576p/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://api.mivo.com/v4/mobile/channels/wms-auth</page>
-<referer>http://api.mivo.com/</referer>
-</regex>
+<f4m>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/rajawalitv_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDE2IDY6Mjc6MzAgQU0maGFzaF92YWx1ZT1lektIbE96QVMvY1JRYlRlNlg5ckZnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD1FVjE1MF8xMThfNjJfMTVfNTFfMTA0fHY0LW1vYmlsZXwzLzI1LzIwMTYgNjoyNyBBTXw0Mi42MS4xNjIuMzc=</f4m>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_rtv_zps7zwluxo5.png</thumbnail>
 </item>
 
 <item>
 <title>SCTV</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/sctv2_576p/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://api.mivo.com/v4/mobile/channels/wms-auth</page>
-<referer>http://api.mivo.com/</referer>
-</regex>
+<f4m>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/sctv2_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDE2IDY6Mjc6MzAgQU0maGFzaF92YWx1ZT1lektIbE96QVMvY1JRYlRlNlg5ckZnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD1FVjE1MF8xMThfNjJfMTVfNTFfMTA0fHY0LW1vYmlsZXwzLzI1LzIwMTYgNjoyNyBBTXw0Mi42MS4xNjIuMzc=</f4m>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_sctv_zpsibjuh3i7.png</thumbnail>
 </item>
 
@@ -495,121 +345,61 @@
 
 <item>
 <title>SPACETOON</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/spacetoon_576p/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://api.mivo.com/v4/mobile/channels/wms-auth</page>
-<referer>http://api.mivo.com/</referer>
-</regex>
+<f4m>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/spacetoon_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDE2IDY6Mjc6MzAgQU0maGFzaF92YWx1ZT1lektIbE96QVMvY1JRYlRlNlg5ckZnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD1FVjE1MF8xMThfNjJfMTVfNTFfMTA0fHY0LW1vYmlsZXwzLzI1LzIwMTYgNjoyNyBBTXw0Mi42MS4xNjIuMzc=</f4m>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_spacetoon_zpsnekltnpt.png</thumbnail>
 </item>
 
 <item>
 <title>SPACETOON 2</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/spacetoon2_480p/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://api.mivo.com/v4/mobile/channels/wms-auth</page>
-<referer>http://api.mivo.com/</referer>
-</regex>
+<f4m>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/spacetoon2_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDE2IDY6Mjc6MzAgQU0maGFzaF92YWx1ZT1lektIbE96QVMvY1JRYlRlNlg5ckZnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD1FVjE1MF8xMThfNjJfMTVfNTFfMTA0fHY0LW1vYmlsZXwzLzI1LzIwMTYgNjoyNyBBTXw0Mi42MS4xNjIuMzc=</f4m>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_spacetoon_zpsnekltnpt.png</thumbnail>
 </item>
 
 <item>
 <title>TVRI 1</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/tvrinasional_480p/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://api.mivo.com/v4/mobile/channels/wms-auth</page>
-<referer>http://api.mivo.com/</referer>
-</regex>
+<f4m>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/tvrinasional_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDE2IDY6Mjc6MzAgQU0maGFzaF92YWx1ZT1lektIbE96QVMvY1JRYlRlNlg5ckZnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD1FVjE1MF8xMThfNjJfMTVfNTFfMTA0fHY0LW1vYmlsZXwzLzI1LzIwMTYgNjoyNyBBTXw0Mi42MS4xNjIuMzc=</f4m>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_tvrinasional_zpsrpwt3w2f.png</thumbnail>
 </item>
 
 <item>
 <title>TVRI 2</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/tvrijakarta_480p/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://api.mivo.com/v4/mobile/channels/wms-auth</page>
-<referer>http://api.mivo.com/</referer>
-</regex>
+<f4m>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/tvrijakarta_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDE2IDY6Mjc6MzAgQU0maGFzaF92YWx1ZT1lektIbE96QVMvY1JRYlRlNlg5ckZnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD1FVjE1MF8xMThfNjJfMTVfNTFfMTA0fHY0LW1vYmlsZXwzLzI1LzIwMTYgNjoyNyBBTXw0Mi42MS4xNjIuMzc=</f4m>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_tvrijakarta_zps9idoi7ph.png</thumbnail>
 </item>
 
 <item>
 <title>TVRI 3</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/tvribudaya_480p/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://api.mivo.com/v4/mobile/channels/wms-auth</page>
-<referer>http://api.mivo.com/</referer>
-</regex>
+<f4m>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/tvribudaya_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDE2IDY6Mjc6MzAgQU0maGFzaF92YWx1ZT1lektIbE96QVMvY1JRYlRlNlg5ckZnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD1FVjE1MF8xMThfNjJfMTVfNTFfMTA0fHY0LW1vYmlsZXwzLzI1LzIwMTYgNjoyNyBBTXw0Mi42MS4xNjIuMzc=</f4m>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_tvribudaya_zps2xarzbez.png</thumbnail>
 </item>
 
 <item>
 <title>TVRI 4</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/tvriolahraga_480p/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://api.mivo.com/v4/mobile/channels/wms-auth</page>
-<referer>http://api.mivo.com/</referer>
-</regex>
+<f4m>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/tvriolahraga_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDE2IDY6Mjc6MzAgQU0maGFzaF92YWx1ZT1lektIbE96QVMvY1JRYlRlNlg5ckZnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD1FVjE1MF8xMThfNjJfMTVfNTFfMTA0fHY0LW1vYmlsZXwzLzI1LzIwMTYgNjoyNyBBTXw0Mi42MS4xNjIuMzc=</f4m>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_tvriolahraga_zpsrrux4aqc.png</thumbnail>
 </item>
 
 <item>
 <title>TRANS 7</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/trans72_576p/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://api.mivo.com/v4/mobile/channels/wms-auth</page>
-<referer>http://api.mivo.com/</referer>
-</regex>
+<f4m>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/trans72_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDE2IDY6Mjc6MzAgQU0maGFzaF92YWx1ZT1lektIbE96QVMvY1JRYlRlNlg5ckZnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD1FVjE1MF8xMThfNjJfMTVfNTFfMTA0fHY0LW1vYmlsZXwzLzI1LzIwMTYgNjoyNyBBTXw0Mi42MS4xNjIuMzc=</f4m>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_trans_7_zpsn7frpupf.png</thumbnail>
 </item>
 
 <item>
 <title>TRANS TV</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/transtv2_576p/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://api.mivo.com/v4/mobile/channels/wms-auth</page>
-<referer>http://api.mivo.com/</referer>
-</regex>
+<f4m>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/transtv2_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDE2IDY6Mjc6MzAgQU0maGFzaF92YWx1ZT1lektIbE96QVMvY1JRYlRlNlg5ckZnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD1FVjE1MF8xMThfNjJfMTVfNTFfMTA0fHY0LW1vYmlsZXwzLzI1LzIwMTYgNjoyNyBBTXw0Mi42MS4xNjIuMzc=</f4m>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_trans_tv_zpsef7hiuqo.png</thumbnail>
 </item>
 
 <item>
 <title>THE INDONESIA CHANNEL</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/theindonesiachannel_480p/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://api.mivo.com/v4/mobile/channels/wms-auth</page>
-<referer>http://api.mivo.com/</referer>
-</regex>
+<f4m>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/theindonesiachannel_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDE2IDY6Mjc6MzAgQU0maGFzaF92YWx1ZT1lektIbE96QVMvY1JRYlRlNlg5ckZnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD1FVjE1MF8xMThfNjJfMTVfNTFfMTA0fHY0LW1vYmlsZXwzLzI1LzIwMTYgNjoyNyBBTXw0Mi42MS4xNjIuMzc=</f4m>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_tictv_zpsglqai3sx.png</thumbnail>
 </item>
 
 <item>
 <title>TV ONE</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/tvone2_576p/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://api.mivo.com/v4/mobile/channels/wms-auth</page>
-<referer>http://api.mivo.com/</referer>
-</regex>
+<f4m>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/tvone2_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDE2IDY6Mjc6MzAgQU0maGFzaF92YWx1ZT1lektIbE96QVMvY1JRYlRlNlg5ckZnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD1FVjE1MF8xMThfNjJfMTVfNTFfMTA0fHY0LW1vYmlsZXwzLzI1LzIwMTYgNjoyNyBBTXw0Mi42MS4xNjIuMzc=</f4m>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_tvone_zps2ntt5ox4.png</thumbnail>
 </item>
 
@@ -621,13 +411,7 @@
 
 <item>
 <title>U CHANNEL</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/uchannel_576p/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://api.mivo.com/v4/mobile/channels/wms-auth</page>
-<referer>http://api.mivo.com/</referer>
-</regex>
+<f4m>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/uchannel_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDE2IDY6Mjc6MzAgQU0maGFzaF92YWx1ZT1lektIbE96QVMvY1JRYlRlNlg5ckZnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD1FVjE1MF8xMThfNjJfMTVfNTFfMTA0fHY0LW1vYmlsZXwzLzI1LzIwMTYgNjoyNyBBTXw0Mi42MS4xNjIuMzc=</f4m>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_uchannel_zpsvgykqd8s.png</thumbnail>
 </item>
 </items>
