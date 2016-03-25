@@ -1714,26 +1714,6 @@
 <link>http://go.layarku.tv/tv3_temp1.m3u8|X-Forwarded-For=42.154.55.155</link>
 </item>
 
-<item>
-<title>TV3 TEST</title>
-<link>http://mbox-addon.com/streams/71631-navix.m3u8</link>
-</item>
-
-<item>
-<title>BEIN 1 USEETV</title>
-<f4m>http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:78a1bc703242/chunklist_b1668000.m3u8?stime=20160325081743&amp;etime=20160325121743&amp;encoded=055991607803725aa40c2</f4m>
-</item>
-
-<item>
-<title>BEIN 2 USEETV</title>
-<f4m>http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:14a27c358043/chunklist_b1668000.m3u8?stime=20160325083437&amp;etime=20160325123437&amp;encoded=035ca41ccaabf81a41cb0</f4m>
-</item>
-
-<item>
-<title>BEIN 3 USEETV</title>
-<f4m>http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:fddbadb5b544/chunklist_b1668000.m3u8?stime=20160325083116&amp;etime=20160325123116&amp;encoded=071f8e2d08f7a67052d22</f4m>
-</item>
-
 <channel>
 <name>[COLOR red]PAYPAL DONATIONS:[/COLOR] [COLOR yellow]thesuperboxbuild@outlook.com[/COLOR]</name>
 <thumbnail>http://kastellorizo.com/wp-content/uploads/2015/02/paypal2015.png</thumbnail>
