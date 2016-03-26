@@ -1220,42 +1220,6 @@
 </item>
 
 <item>
-<title>SKY SPORT 1 IT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat152/KzPDhwalOc/82.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/2/2b/Sky_Sport_Italy_2010.png/revision/latest?cb=20150524204137</thumbnail>
-</item>
-
-<item>
-<title>SKY SPORT 2 IT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat152/KzPDhwalOc/83.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/2/2b/Sky_Sport_Italy_2010.png/revision/latest?cb=20150524204137</thumbnail>
-</item>
-
-<item>
-<title>SKY SPORT 3 IT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat152/KzPDhwalOc/151.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/2/2b/Sky_Sport_Italy_2010.png/revision/latest?cb=20150524204137</thumbnail>
-</item>
-
-<item>
-<title>SKY SPORT MOTOGP IT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://selling-team.net:8000/live/gastr/HDf0y7ePuT/918.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/2/2b/Sky_Sport_Italy_2010.png/revision/latest?cb=20150524204137</thumbnail>
-</item>
-
-<item>
-<title>SKY SPORT F1 IT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://selling-team.net:8000/live/gastr/HDf0y7ePuT/917.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/2/2b/Sky_Sport_Italy_2010.png/revision/latest?cb=20150524204137</thumbnail>
-</item>
-
-<item>
-<title>SKY SPORT MOTOGP IT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://selling-team.net:8000/live/gastr/HDf0y7ePuT/4181.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://4.bp.blogspot.com/-cg5vg03mUwU/VSViLrJUxaI/AAAAAAAAXkM/-ARCl9gyLIs/s1600/logo.png</thumbnail>
-</item>
-
-<item>
 <title>SKY SPORTS 1 DE</title>
 <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat152/KzPDhwalOc/131.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Sky_Sport_(Sky_Deutschland).png/250px-Sky_Sport_(Sky_Deutschland).png</thumbnail>
@@ -1277,6 +1241,42 @@
 <title>SKY SPORTS 2 DE BACKUP</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/moumen/moumen/358.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Sky_Sport_(Sky_Deutschland).png/250px-Sky_Sport_(Sky_Deutschland).png</thumbnail>
+</item>
+
+<item>
+<title>SKY SPORT 1 IT</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat152/KzPDhwalOc/82.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/2/2b/Sky_Sport_Italy_2010.png/revision/latest?cb=20150524204137</thumbnail>
+</item>
+
+<item>
+<title>SKY SPORT 2 IT</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat152/KzPDhwalOc/83.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/2/2b/Sky_Sport_Italy_2010.png/revision/latest?cb=20150524204137</thumbnail>
+</item>
+
+<item>
+<title>SKY SPORT 3 IT</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat152/KzPDhwalOc/151.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/2/2b/Sky_Sport_Italy_2010.png/revision/latest?cb=20150524204137</thumbnail>
+</item>
+
+<item>
+<title>SKY SPORT PLUS IT</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat152/KzPDhwalOc/298.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/2/2b/Sky_Sport_Italy_2010.png/revision/latest?cb=20150524204137</thumbnail>
+</item>
+
+<item>
+<title>SKY SPORT F1 IT</title>
+<link>plugin://plugin.video.f4mTester/?url=http://selling-team.net:8000/live/gastr/HDf0y7ePuT/917.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/2/2b/Sky_Sport_Italy_2010.png/revision/latest?cb=20150524204137</thumbnail>
+</item>
+
+<item>
+<title>SKY SPORT MOTOGP IT</title>
+<link>plugin://plugin.video.f4mTester/?url=http://selling-team.net:8000/live/gastr/HDf0y7ePuT/918.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/2/2b/Sky_Sport_Italy_2010.png/revision/latest?cb=20150524204137</thumbnail>
 </item>
 
 <item>
