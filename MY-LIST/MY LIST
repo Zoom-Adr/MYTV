@@ -1256,18 +1256,6 @@
 </item>
 
 <item>
-<title>SKY SPORTS BOX OFFICE PPV</title>
-<link>http://smashtv.ddns.net:9090/load/38ad309c19cc/446.mpegts</link>
-<thumbnail>https://my.sky.com/orderboxoffice/images/sky-sports-box-office-logo.png</thumbnail>
-</item>
-
-<item>
-<title>SKY SPORTS BOX OFFICE PPV BACKUP</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvbox.noip.us:9998/live/atik/atik/846.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://my.sky.com/orderboxoffice/images/sky-sports-box-office-logo.png</thumbnail>
-</item>
-
-<item>
 <title>SKY SPORTS 1 DE</title>
 <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat152/KzPDhwalOc/131.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Sky_Sport_(Sky_Deutschland).png/250px-Sky_Sport_(Sky_Deutschland).png</thumbnail>
@@ -1289,6 +1277,18 @@
 <title>SKY SPORTS 2 DE BACKUP</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/moumen/moumen/358.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Sky_Sport_(Sky_Deutschland).png/250px-Sky_Sport_(Sky_Deutschland).png</thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS BOX OFFICE PPV</title>
+<link>http://smashtv.ddns.net:9090/load/38ad309c19cc/446.mpegts</link>
+<thumbnail>https://my.sky.com/orderboxoffice/images/sky-sports-box-office-logo.png</thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS BOX OFFICE PPV BACKUP</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvbox.noip.us:9998/live/atik/atik/846.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://my.sky.com/orderboxoffice/images/sky-sports-box-office-logo.png</thumbnail>
 </item>
 
 <item>
