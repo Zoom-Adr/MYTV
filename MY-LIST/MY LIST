@@ -673,6 +673,12 @@
 <fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 
 <item>
+<title>MBC BOLLYWOOD</title>
+<link>http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/3/33/MBC_Bollywood_logo.jpeg</thumbnail>
+</item>
+
+<item>
 <title>GEM BOLLYWOOD</title>
 <link>http://nimlive3.giniko.com/gembollywood/gembollywood/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
@@ -724,24 +730,6 @@
 <title>ZEE SMILE</title>
 <link>http://zeefamily-i.akamaihd.net/hls/live/227854/zeesmile/chunklist.m3u8</link>
 <thumbnail>http://res.cloudinary.com/idiso/image/upload/q_70/v1411274763/ei39fgx52yapsaq9siwj.png</thumbnail>
-</item>
-
-<item>
-<title>MBC BOLLYWOOD</title>
-<link>http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/3/33/MBC_Bollywood_logo.jpeg</thumbnail>
-</item>
-
-<item>
-<title>BOLLYWOOD CINEMA</title>
-<link>http://stream01.yamgo.com/iPhone/HLS_TS/broadcast/bollywood_cinema_2-tablet.3gp.m3u8</link>
-<thumbnail>http://res.cloudinary.com/idiso/image/upload/h_200/v1422032328/gqnsgbygl9km68jjap09.png</thumbnail>
-</item>
-
-<item>
-<title>BOLLYWOOD MOVIES</title>
-<link>http://astvstream1.tulix.tv/bollywood/mp4:bollywood/playlist.m3u8</link>
-<thumbnail>http://res.cloudinary.com/idiso/image/upload/h_200/v1422032328/gqnsgbygl9km68jjap09.png</thumbnail>
 </item>
 </items>
 </channel>
