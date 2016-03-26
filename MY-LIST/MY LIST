@@ -673,6 +673,18 @@
 <fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 
 <item>
+<title>GEM BOLLYWOOD</title>
+<link>http://nimlive3.giniko.com/gembollywood/gembollywood/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://www.giniko.com/watch.php?id=359</page>
+<referer>http://www.giniko.com/</referer>
+</regex>
+<thumbnail>http://oklivetv.com/wp-content/uploads/2015/09/GEM_BOLLYWOOD.png</thumbnail>
+</item>
+
+<item>
 <title>ZEE BOLLYWOOD</title>
 <link>http://zeefamily-i.akamaihd.net/hls/live/227854/zeebollywood227854/playlist.m3u8</link>
 <thumbnail>http://res.cloudinary.com/idiso/image/upload/q_70/v1411274844/jtnweomk62fk66zo8pun.png</thumbnail>
@@ -712,6 +724,12 @@
 <title>ZEE SMILE</title>
 <link>http://zeefamily-i.akamaihd.net/hls/live/227854/zeesmile/chunklist.m3u8</link>
 <thumbnail>http://res.cloudinary.com/idiso/image/upload/q_70/v1411274763/ei39fgx52yapsaq9siwj.png</thumbnail>
+</item>
+
+<item>
+<title>MBC BOLLYWOOD</title>
+<link>http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/3/33/MBC_Bollywood_logo.jpeg</thumbnail>
 </item>
 
 <item>
@@ -1721,9 +1739,14 @@
 </item>
 
 <item>
+<title>TV3 TEST</title>
+<link>http://136.243.12.170/star_plus_in.m3u8?token=b484670d13ab8217e7a2315dbbd514df&user=41166&bands=956</link>
+</item>
+
+
+<item>
 <title>SCTV</title>
 <f4m>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/sctv2_all/playlist.m3u8</f4m>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_sctv_zpsibjuh3i7.png</thumbnail>
 </item>
 
 <channel>
