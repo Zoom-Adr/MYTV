@@ -1694,6 +1694,12 @@
 </item>
 
 <item>
+<title>SKY DISNEY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/2018/2018/1056.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
+</item>
+
+<item>
 <title>SKY MODERN GREATS</title>
 <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat152/KzPDhwalOc/54.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
