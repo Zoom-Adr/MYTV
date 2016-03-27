@@ -1184,8 +1184,14 @@
 </item>
 
 <item>
-<title>NBCSN BACKUP - Might Require US VPN</title>
+<title>NBCSN BACKUP</title>
 <link>http://54.177.79.231/server/play/nbcsnxctg/2626000/prog.m3u8|X-Forwarded-For=54.183.196.251</link>
+<thumbnail>https://nbcsportsgrouppressbox.files.wordpress.com/2012/06/nbcsport-network11.jpg</thumbnail>
+</item>
+
+<item>
+<title>NBCSN BACKUP - Might Require US VPN</title>
+<link>http://54.177.79.231/server/play/nbcsnxctg/2626000/prog.m3u8</link>
 <thumbnail>https://nbcsportsgrouppressbox.files.wordpress.com/2012/06/nbcsport-network11.jpg</thumbnail>
 </item>
 
