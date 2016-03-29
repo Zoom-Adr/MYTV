@@ -2068,6 +2068,18 @@
 <thumbnail></thumbnail>
 </item>
 
+<item>
+<title>FOX SPORTS 1 </title>
+<link>http://54.177.195.82/server/play/fs1ctg/3964000/prog.m3u8|X-Forwarded-For=54.183.196.251</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>NBCSN</title>
+<link>http://54.177.79.231/server/play/nbcsnxctg/2626000/prog.m3u8|X-Forwarded-For=54.183.196.251</link>
+<thumbnail></thumbnail>
+</item>
+
 
 <channel>
 <name>[COLOR red]PAYPAL DONATIONS:[/COLOR] [COLOR yellow]thesuperboxbuild@outlook.com[/COLOR]</name>
