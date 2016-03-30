@@ -19,87 +19,46 @@
 
 <item>
 <title>NBC EXTRA TIME 1</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=1964000&amp;url=http://bb1.sendevric.com:8000/live/marksat152/KzPDhwalOc/1331.ts</link>
-<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/08/nbc-sports-live-extra.png</thumbnail>
-</item>
-
-<item>
-<title>NBC EXTRA TIME 1 BACKUP</title>
-<f4m>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/2968.ts|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</f4m>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=1964000&amp;url=http://mainstream.dyndns.tv:8000/live/Stone15hurst/Stone15hurst/1187.ts</link>
 <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/08/nbc-sports-live-extra.png</thumbnail>
 </item>
 
 <item>
 <title>NBC EXTRA TIME 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat152/KzPDhwalOc/1332.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/08/nbc-sports-live-extra.png</thumbnail>
-</item>
-
-<item>
-<title>NBC EXTRA TIME 2 BACKUP</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/2967.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://mainstream.dyndns.tv:8000/live/Stone15hurst/Stone15hurst/1188.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/08/nbc-sports-live-extra.png</thumbnail>
 </item>
 
 <item>
 <title>NBC EXTRA TIME 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat152/KzPDhwalOc/1333.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/08/nbc-sports-live-extra.png</thumbnail>
-</item>
-
-<item>
-<title>NBC EXTRA TIME 3 BACKUP</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/2966.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://mainstream.dyndns.tv:8000/live/Stone15hurst/Stone15hurst/1189.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/08/nbc-sports-live-extra.png</thumbnail>
 </item>
 
 <item>
 <title>NBC EXTRA TIME 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat152/KzPDhwalOc/1334.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/08/nbc-sports-live-extra.png</thumbnail>
-</item>
-
-<item>
-<title>NBC EXTRA TIME 4 BACKUP</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/2965.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://mainstream.dyndns.tv:8000/live/Stone15hurst/Stone15hurst/1190.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/08/nbc-sports-live-extra.png</thumbnail>
 </item>
 
 <item>
 <title>NBC EXTRA TIME 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat152/KzPDhwalOc/1335.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/08/nbc-sports-live-extra.png</thumbnail>
-</item>
-
-<item>
-<title>NBC EXTRA TIME 5 BACKUP</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/2964.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://mainstream.dyndns.tv:8000/live/Stone15hurst/Stone15hurst/1191.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/08/nbc-sports-live-extra.png</thumbnail>
 </item>
 
 <item>
 <title>NBC EXTRA TIME 6</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat152/KzPDhwalOc/1336.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/08/nbc-sports-live-extra.png</thumbnail>
-</item>
-
-<item>
-<title>NBC EXTRA TIME 6 BACKUP</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/2963.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://mainstream.dyndns.tv:8000/live/Stone15hurst/Stone15hurst/1192.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/08/nbc-sports-live-extra.png</thumbnail>
 </item>
 
 <item>
 <title>NBC EXTRA TIME 7</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat152/KzPDhwalOc/1337.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://mainstream.dyndns.tv:8000/live/Stone15hurst/Stone15hurst/1193.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/08/nbc-sports-live-extra.png</thumbnail>
 </item>
 
-<item>
-<title>NBC EXTRA TIME 7 BACKUP</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/2962.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/08/nbc-sports-live-extra.png</thumbnail>
-</item>
 
 <channel>
 <name>[B]---===[COLOR red]INDONESIA[/COLOR][COLOR yellow] CHANNELS[/COLOR]===---[/B]</name>
@@ -969,25 +928,25 @@
 
 <item>
 <title>ASTRO SUPERSPORT 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1975/1975/845.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://mainstream.dyndns.tv:8000/live/Stone15hurst/Stone15hurst/329.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png</thumbnail>
 </item>
 
 <item>
 <title>ASTRO SUPERSPORT 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1975/1975/844.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://mainstream.dyndns.tv:8000/live/Stone15hurst/Stone15hurst/330.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png</thumbnail>
 </item>
 
 <item>
 <title>ASTRO SUPERSPORT 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1975/1975/843.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://mainstream.dyndns.tv:8000/live/Stone15hurst/Stone15hurst/331.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png</thumbnail>
 </item>
 
 <item>
 <title>ASTRO SUPERSPORT 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1975/1975/842.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://mainstream.dyndns.tv:8000/live/Stone15hurst/Stone15hurst/829.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png</thumbnail>
 </item>
 
@@ -1137,7 +1096,7 @@
 
 <item>
 <title>BT SPORTS EUROPE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mainstream.dyndns.tv:8000/live/Stone15hurst/Stone15hurst/1023.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://cms.cyntel.co:8000/live/walter/walter/2713.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
 </item>
 
@@ -1698,7 +1657,7 @@
 
 <item>
 <title>SUPERSPORT 3 AL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mainstream.dyndns.tv:8000/live/Stone15hurst/Stone15hurst/219.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1975/1975/262.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://yt3.ggpht.com/-kF7ryGR3hHU/AAAAAAAAAAI/AAAAAAAAAAA/DNb2_uQh5ik/s512-c-k-no/photo.jpg</thumbnail>
 </item>
 
