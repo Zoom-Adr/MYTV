@@ -227,6 +227,18 @@
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_indosiar_zpsnlwwccnu.png</thumbnail>
 </item>
 
+<item> 
+<title>INDOSIAR SERVER 2</title> 
+<link>$doregex[get-m3u8]</link> 
+<regex> 
+<name>get-m3u8</name>
+<expres>data-clip-hls-url="(.*)"</expres> 
+<page>https://www.vidio.com/live/205-indosiar-tv-stream/embed</page> 
+<referer>http://www.indosiar.com/live</referer>
+</regex> 
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_sctv_zpsibjuh3i7.png</thumbnail>
+</item>
+
 <item>
 <title>JAK TV</title>
 <link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/jaktv_all/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
@@ -416,14 +428,8 @@
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_sctv_zpsibjuh3i7.png</thumbnail>
 </item>
 
-<item>
-<title>SCTV SERVER 2</title>
-<link>http://tv.vidiostream.com/carry/sctv_med/index.m3u8</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_sctv_zpsibjuh3i7.png</thumbnail>
-</item>
-
 <item> 
-<title>SCTV SERVER 3</title> 
+<title>SCTV SERVER 2</title> 
 <link>$doregex[get-m3u8]</link> 
 <regex> 
 <name>get-m3u8</name>
@@ -435,8 +441,8 @@
 </item>
 
 <item>
-<title>SCTV SERVER 4</title>
-<link>http://tv.vidiostream.com/carry/sctv_low/index.m3u8</link>
+<title>SCTV SERVER 3</title>
+<link>http://tv.vidiostream.com/i/sctv_1@137568/master.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_sctv_zpsibjuh3i7.png</thumbnail>
 </item>
 
