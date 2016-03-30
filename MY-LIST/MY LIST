@@ -1810,12 +1810,6 @@
 </item>
 
 <item>
-<title>FOX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/2470.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://3.bp.blogspot.com/-zY5BiL74tB0/VRax8KAvAUI/AAAAAAAACic/9GiK0K2ij3s/s1600/Fox%2BTv%2BCanl%C4%B1%2B%C4%B0zle,%2B%C3%96mr%C3%BCm%2BSessiz%2BB%C4%B0r%2B%C3%87%C4%B1%C4%9Fl%C4%B1k%2B%C4%B0zle.png</thumbnail>
-</item>
-
-<item>
 <title>HBO</title>
 <link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/38ad309c19cc/193.mpegts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://hboasiapromos.s3.amazonaws.com/0_core/fb-hbo-480x320.jpg</thumbnail>
@@ -1829,37 +1823,37 @@
 
 <item>
 <title>SKY ONE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat152/KzPDhwalOc/201.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/2222/2222/681.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/9/91/Sky1_logo_2011.svg/1280px-Sky1_logo_2011.svg.png</thumbnail>
 </item>
 
 <item>
 <title>SKY TWO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat152/KzPDhwalOc/202.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/2222/2222/682.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Sky2_logo_2011.svg/1280px-Sky2_logo_2011.svg.png</thumbnail>
 </item>
 
 <item>
 <title>SKY ACTION & ADVENTURE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat152/KzPDhwalOc/50.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/2222/2222/758.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
 </item>
 
 <item>
 <title>SKY COMEDY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat152/KzPDhwalOc/1338.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/2222/2222/825.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
 </item>
 
 <item>
 <title>SKY CRIME & THRILLER</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat152/KzPDhwalOc/58.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/2222/2222/764.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
 </item>
 
 <item>
 <title>SKY DRAMA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat152/KzPDhwalOc/52.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/2222/2222/760.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
 </item>
 
@@ -1871,37 +1865,37 @@
 
 <item>
 <title>SKY MODERN GREATS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat152/KzPDhwalOc/54.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/2222/2222/1515.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
 </item>
 
 <item>
 <title>SKY FAMILY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat152/KzPDhwalOc/53.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
-</item>
-
-<item>
-<title>SKY SCI-FI & HORROR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat152/KzPDhwalOc/56.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/2222/2222/911.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
 </item>
 
 <item>
 <title>SKY PREMIERE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat152/KzPDhwalOc/55.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/2222/2222/1081.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
+</item>
+
+<item>
+<title>SKY SCI-FI & HORROR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/2222/2222/826.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SHOWCASE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat152/KzPDhwalOc/179.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/2222/2222/843.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SELECT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat152/KzPDhwalOc/1340.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/2222/2222/1514.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
 </item>
 
