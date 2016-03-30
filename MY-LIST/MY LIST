@@ -2000,25 +2000,14 @@
 </item>
 
 <item>
-<title>SCTV</title>
-<f4m>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/sctv2_all/playlist.m3u8</f4m>
-</item>
-
-<item>
-<title>FOX SPORTS 1 </title>
-<link>http://54.177.195.82/server/play/fs1ctg/3964000/prog.m3u8?anv=1427415219896|X-Forwarded-For=54.183.196.251</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>FOX SPORTS 1 </title>
-<link>http://54.177.195.82/server/play/fs1ctg/3964000/prog.m3u8|X-Forwarded-For=54.183.196.251</link>
+<title>SS1</title>
+<link>http://clientportal.link:8080/live/belkhirabdou1/belkhirabdou1/5600.ts</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>SS1</title>
-<link>http://clientportal.link:8080/live/belkhirabdou1/belkhirabdou1/5600.ts</link>
+<link>http://calcaterraiptv.dyndns.tv:8877/live/enzo/enzo/1982.ts</link>
 <thumbnail></thumbnail>
 </item>
 
