@@ -2018,8 +2018,14 @@
 </item>
 
 <item>
-<title>ZEE B</title>
-<link>http://stream.zliving.online:1935/live/zeebollywood/index.m3u8</link>
+<title>TEST LETV</title>
+<link>http://103.7.6.247/m3u8/yanboshi25_5000/desc.m3u8?stream_id=yanboshi25_5000&path=118.143.210.83&mltag=1&platid=10&splatid=1001&qos=5&fcheck=0&uid=3413978068.rp&keyitem=dpoOd-l3AnupIUuBI8VtFwmKzWltcfnZpngeV5Yo3I1Oleh6yGrbVeKRoRQ.&ntm=1459404000&nkey2=aff68f0b9ab9fbde233fd90fac03cac1&nkey=97828954a1a63884d5fd3199a5465379&tag=live&video_type=m3u8&useloc=0&mslice=5&uidx=1&errc=0&buss=2501&cips=203.125.43.212&geo=SG-0-0-100&tmn=1459392784&pnl=923,923,432&rson=0&ext=m3u8&termid=1&hwtype=un&playid=1&sign=live_web&ostype=Windows7&p1=1&p2=14&p3=-&uuid=C09464482BCD3B21955B7D0352916C83EC37D730_0&vkit=20160328&liveid=1020160330123755&tm=1459392783&key=9bdee2fa64a8f44460d921ef392511f8&abtimeshift=1459392883&rdm=1459392869628&r=1459392869630</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>TEST LETV</title>
+<f4m>http://103.7.6.247/m3u8/yanboshi25_5000/desc.m3u8?stream_id=yanboshi25_5000&amp;path=118.143.210.83&amp;mltag=1&amp;platid=10&amp;splatid=1001&amp;qos=5&amp;fcheck=0&amp;uid=3413978068.rp&amp;keyitem=dpoOd-l3AnupIUuBI8VtFwmKzWltcfnZpngeV5Yo3I1Oleh6yGrbVeKRoRQ.&amp;ntm=1459404000&amp;nkey2=aff68f0b9ab9fbde233fd90fac03cac1&amp;nkey=97828954a1a63884d5fd3199a5465379&amp;tag=live&amp;video_type=m3u8&amp;useloc=0&amp;mslice=5&amp;uidx=1&amp;errc=0&amp;buss=2501&amp;cips=203.125.43.212&amp;geo=SG-0-0-100&amp;tmn=1459392784&amp;pnl=923,923,432&amp;rson=0&amp;ext=m3u8&amp;termid=1&amp;hwtype=un&amp;playid=1&amp;sign=live_web&amp;ostype=Windows7&amp;p1=1&amp;p2=14&amp;p3=-&amp;uuid=C09464482BCD3B21955B7D0352916C83EC37D730_0&amp;vkit=20160328&amp;liveid=1020160330123755&amp;tm=1459392783&amp;key=9bdee2fa64a8f44460d921ef392511f8&amp;abtimeshift=1459392883&amp;rdm=1459392869628&amp;r=1459392869630</f4m>
 <thumbnail></thumbnail>
 </item>
 
