@@ -2036,15 +2036,8 @@
 </item>
 
 <item>
-<title>BEIN 11</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/beinsports11.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
+<title>PLEX TEST</title>
+<link>http://iptv9.plexflixiptv.co.uk:80/hls/446.m3u8?channelId=446&amp;uid=292&amp;deviceUser=robo&amp;devicePass=celtic1888</link>
 </item>
 
 <channel>
