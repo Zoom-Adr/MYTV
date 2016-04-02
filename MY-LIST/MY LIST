@@ -23,12 +23,29 @@
 <thumbnail>http://files.pes-unlimited.webnode.pt/system_preview_detail_200000006-31d9732d3b-public/Barclays%20Premier%20League.png</thumbnail>
 </item>
 
-<title>SYDNEY FC VS ADELAIDE UTD</title>
-<link>http://live.g3proxy.lecloud.com/gslb?stream_id=yanboshi21_5000&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1009&amp;format=letv&amp;expect=1%7CUser-Agent=Mozilla/5.0</link>
-<thumbnail>http://www.core-ball.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/uploads/20160130111725.jpg</thumbnail>
+<item>
+<title>ARSENAL VS WATFORD LINK 1</title>
+<f4m>http://nlds15.cdnak.lon.neulion.com/nlds/coliseum/arsenal/as/live/arsenal_hd_3000.f4m?nltid=plp&nltdt=6&nltnt=1&h=255db98bb787dce0bb41ca28802f006b.1459604484|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</f4m>
+<thumbnail>http://files.pes-unlimited.webnode.pt/system_preview_detail_200000006-31d9732d3b-public/Barclays%20Premier%20League.png</thumbnail>
 </item>
 
+<item>
+<title>ARSENAL VS WATFORD LINK 2</title>
+<f4m>http://nlds15.cdnak.lon.neulion.com/nlds/coliseum/arsenal/as/live/arsenal_hd_1600.f4m?nltid=plp&nltdt=6&nltnt=1&h=255db98bb787dce0bb41ca28802f006b.1459604484|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</f4m>
+<thumbnail>http://files.pes-unlimited.webnode.pt/system_preview_detail_200000006-31d9732d3b-public/Barclays%20Premier%20League.png</thumbnail>
+</item>
 
+<item>
+<title>AFC BOURNEMOUTH VS MAN CITY LINK 1</title>
+<f4m>http://nlds3.cdnak.lon.neulion.com/nlds/coliseum/afcbournemouth/as/live/afcbournemouth_hd_3000.f4m?nltid=plp&nltdt=6&nltnt=1&h=537b420780e4e058f446d42cddd3a849.1459604727|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</f4m>
+<thumbnail>http://files.pes-unlimited.webnode.pt/system_preview_detail_200000006-31d9732d3b-public/Barclays%20Premier%20League.png</thumbnail>
+</item>
+
+<item>
+<title>AFC BOURNEMOUTH VS MAN CITY LINK 2</title>
+<f4m>http://nlds3.cdnak.lon.neulion.com/nlds/coliseum/afcbournemouth/as/live/afcbournemouth_hd_3000.f4m?nltid=plp&nltdt=6&nltnt=1&h=537b420780e4e058f446d42cddd3a849.1459604727|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</f4m>
+<thumbnail>http://files.pes-unlimited.webnode.pt/system_preview_detail_200000006-31d9732d3b-public/Barclays%20Premier%20League.png</thumbnail>
+</item>
 
 <item>
 <title>NBC EXTRA TIME 1</title>
