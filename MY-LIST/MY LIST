@@ -1577,20 +1577,8 @@
 </item>
 
 <item>
-<title>SPORTSNET ONE BACKUP</title>
-<f4m>http://xtream.iptv-streamer.com:8000/live/2222/2222/56.ts</f4m>
-<thumbnail>http://www.underconsideration.com/brandnew/archives/sportsnet_logo_detail.gif</thumbnail>
-</item>
-
-<item>
 <title>SPORTSNET ONTARIO</title>
 <link>plugin://plugin.video.f4mTester/?url=http://nlds185.cdnak.neulion.com/nlds/sportsnetnow/sn_Ontario/as/live/sn_Ontario_hd_3000.f4m?token=AgAKb25NZXRhRGF0YQgAAAAKAAhkdXJhdGlvbgBBa3dAAAAAAAAMY2FuU2Vla1RvRW5kAD/wAAAAAAAAAAx2aWRlb2NvZGVjaWQAQBwAAAAAAAAABXdpZHRoAECUAAAAAAAAAAZoZWlnaHQAQIaAAAAAAAAACWZyYW1lcmF0ZQBAPfhR4AAAAAAMYXVkaW9jb2RlY2lkAEAkAAAAAAAAAA1hdWRpb2NoYW5uZWxzAEAAAAAAAAAAAA9hdWRpb3NhbXBsZXJhdGUAQOWIgAAAAAAADWF1ZGlvZGF0YXJhdGUAQFAAAAAAAAAAAAk=</link>
-<thumbnail>http://www.underconsideration.com/brandnew/archives/sportsnet_logo_detail.gif</thumbnail>
-</item>
-
-<item>
-<title>SPORTSNET ONTARIO BACKUP</title>
-<f4m>http://xtream.iptv-streamer.com:8000/live/2222/2222/57.ts</f4m>
 <thumbnail>http://www.underconsideration.com/brandnew/archives/sportsnet_logo_detail.gif</thumbnail>
 </item>
 
@@ -1610,12 +1598,6 @@
 <title>SPORTSNET WORLD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://nlds182.cdnak.neulion.com/nlds/sportsnetnow/sn_world/as/live/sn_world_hd_3000.f4m?token=AgAKb25NZXRhRGF0YQgAAAAKAAhkdXJhdGlvbgBBa3dAAAAAAAAMY2FuU2Vla1RvRW5kAD/wAAAAAAAAAAx2aWRlb2NvZGVjaWQAQBwAAAAAAAAABXdpZHRoAECUAAAAAAAAAAZoZWlnaHQAQIaAAAAAAAAACWZyYW1lcmF0ZQBAPfhR4AAAAAAMYXVkaW9jb2RlY2lkAEAkAAAAAAAAAA1hdWRpb2NoYW5uZWxzAEAAAAAAAAAAAA9hdWRpb3NhbXBsZXJhdGUAQOWIgAAAAAAADWF1ZGlvZGF0YXJhdGUAQFAAAAAAAAAAAAk=</link>
 <cookieJar>http://37.48.104.130/sportsnet/Cookies.txt</cookieJar>
-<thumbnail>http://www.underconsideration.com/brandnew/archives/sportsnet_logo_detail.gif</thumbnail>
-</item>
-
-<item>
-<title>SPORTSNET WORLD BACKUP</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/2222/2222/58.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.underconsideration.com/brandnew/archives/sportsnet_logo_detail.gif</thumbnail>
 </item>
 
@@ -1823,37 +1805,37 @@
 
 <item>
 <title>SKY ONE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/2222/2222/681.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/moumen/moumen/289.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/9/91/Sky1_logo_2011.svg/1280px-Sky1_logo_2011.svg.png</thumbnail>
 </item>
 
 <item>
 <title>SKY TWO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/2222/2222/682.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/moumen/moumen/285.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Sky2_logo_2011.svg/1280px-Sky2_logo_2011.svg.png</thumbnail>
 </item>
 
 <item>
 <title>SKY ACTION & ADVENTURE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/2222/2222/758.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/moumen/moumen/300.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
 </item>
 
 <item>
 <title>SKY COMEDY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/2222/2222/825.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/moumen/moumen/311.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
 </item>
 
 <item>
 <title>SKY CRIME & THRILLER</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/2222/2222/764.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/moumen/moumen/290.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
 </item>
 
 <item>
 <title>SKY DRAMA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/2222/2222/760.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/moumen/moumen/299.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
 </item>
 
@@ -1865,37 +1847,37 @@
 
 <item>
 <title>SKY MODERN GREATS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/2222/2222/1515.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/moumen/moumen/295.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
 </item>
 
 <item>
 <title>SKY FAMILY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/2222/2222/911.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/moumen/moumen/309.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
 </item>
 
 <item>
 <title>SKY PREMIERE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/2222/2222/1081.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/moumen/moumen/293.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SCI-FI & HORROR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/2222/2222/826.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/2018/2018/1105.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SHOWCASE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/2222/2222/843.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/2018/2018/1062.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SELECT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/2222/2222/1514.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/moumen/moumen/291.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
 </item>
 
@@ -1939,6 +1921,11 @@
 </item>
 
 <item>
+<title>LETV SPORTS</title>
+<link>http://live.g3proxy.lecloud.com/gslb?stream_id=lb_sports_720p&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1009&amp;format=letv&amp;expect=1%7CUser-Agent=Mozilla/5.0</link>
+</item>
+
+<item>
 <title>FOX SPORTS 1 USA TEST</title>
 <link>http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/index_564_av-p.m3u8</link>
 </item>
@@ -1956,12 +1943,7 @@
 
 <item>
 <title>SKY SPORTS 1 HD TEST</title>
-<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/62e95536202c/24.mpegts&amp;streamtype=TSDOWNLOADER</link>
-</item>
-
-<item>
-<title>SKY SPORTS F1 HD TEST</title>
-<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/c77f1f87365f/64.mpegts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/38ad309c19cc/24.mpegts&amp;streamtype=TSDOWNLOADER</link>
 </item>
 
 <item>
@@ -1976,7 +1958,7 @@
 
 <item>
 <title>ASTRO SUPERSPORT 1 TEST</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/2222/2222/818.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/c77f1f87365f/484.mpegts&amp;streamtype=TSDOWNLOADER</link>
 </item>
 
 <item>
@@ -1987,11 +1969,6 @@
 <item>
 <title>XTREME CODE BT 1</title>
 <link>plugin://plugin.video.f4mTester/?url=http://xtream-codes.no-ip.org:61250/live/dobras/dobras/12257.ts&amp;streamtype=TSDOWNLOADER</link>
-</item>
-
-<item>
-<title>BT SPORTS 1 NS0</title>
-<link>plugin://plugin.video.f4mTester/?url=http://TheAvengersTeam.ns0.it:8000/live/anton/anton/2227.ts&amp;streamtype=TSDOWNLOADER</link>
 </item>
 
 <item>
