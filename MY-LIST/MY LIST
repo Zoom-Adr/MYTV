@@ -1904,19 +1904,15 @@
 <thumbnail>https://s-media-cache-ak0.pinimg.com/originals/88/64/98/886498fa48837f4a6e9252567b604638.jpg</thumbnail>
 <fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 
-<item>
-<title>SKY SPORTS 1 TEST</title>
-<link>plugin://plugin.video.f4mTester/?url=http://super-iptv.space:8000/live/sperandeo/sperandeo/3196.ts&amp;streamtype=TSDOWNLOADER</link>
-</item>
 
 <item>
 <title>FOX SPORTS 2 USA TEST</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/2222/2222/961.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/vlad/vlad/961.ts&amp;streamtype=TSDOWNLOADER</link>
 </item>
 
 <item>
 <title>FOX SPORTS 1 USA TEST</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/2222/2222/960.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/vlad/vlad/960.ts&amp;streamtype=TSDOWNLOADER</link>
 </item>
 
 <item>
@@ -1946,23 +1942,13 @@
 </item>
 
 <item>
-<title>WWE TEST</title>
-<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/4afe5b80d79c/79.mpegts&amp;streamtype=TSDOWNLOADER</link>
-</item>
-
-<item>
 <title>TSN 1 HD TEST</title>
 <link>plugin://plugin.video.f4mTester/?url=http://calcaterraiptv.dyndns.tv:8877/live/enzo/enzo/3260.ts&amp;streamtype=TSDOWNLOADER</link>
 </item>
 
 <item>
 <title>ASTRO SUPERSPORT 1 TEST</title>
-<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/c77f1f87365f/484.mpegts&amp;streamtype=TSDOWNLOADER</link>
-</item>
-
-<item>
-<title>BPL 1 TEST</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/iptv/iptv/1799.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/38ad309c19cc/484.mpegts&amp;streamtype=TSDOWNLOADER</link>
 </item>
 
 <item>
@@ -1973,18 +1959,6 @@
 <item>
 <title>TV3 TEST</title>
 <link>http://go.layarku.tv/tv3_temp1.m3u8|X-Forwarded-For=42.154.55.155</link>
-</item>
-
-<item>
-<title>SS1</title>
-<f4m>http://clientportal.link:8080/live/belkhirabdou1/belkhirabdou1/5600.ts</f4m>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>SS1</title>
-<f4m>http://calcaterraiptv.dyndns.tv:8877/live/enzo/enzo/1982.ts</f4m>
-<thumbnail></thumbnail>
 </item>
 
 <title>TEST LINK</title>
