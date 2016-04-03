@@ -1053,7 +1053,7 @@
 
 <item>
 <title>BEIN SPORTS USA</title>
-<link>http://xtream-codes.no-ip.org:61250/live/dobras/dobras/13632.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream-codes.no-ip.org:61250/live/dobras/dobras/13632.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg/revision/latest?cb=20140103213705</thumbnail>
 </item>
 
