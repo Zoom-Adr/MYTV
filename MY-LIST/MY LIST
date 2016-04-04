@@ -1989,6 +1989,16 @@
 <f4m>http://hlslive-akc.med1.net.wwe.com/ls04/wwe/LINEAR/WWE_ALL_DAY_NO_ARCHIVE_VIDEO_MEGA_SLAM_WWE_Mega_Linear_20160331/1800K/1800_slide.m3u8|User-Agent=AppleCoreMedia/1.0.0.12B440 (iPad; U; CPU OS 8_1_2 like Mac OS X; en_gb)</f4m>
 </item>
 
+<item>
+<title>BT Sports 1 HD</title>
+<f4m>http://t2-btsport-live-hls-prod.akamaized.net/out/u/bts1/642_6.m3u8?hdnea=ip=162.158.166.131~st=1459765340~exp=1459770740~acl=/*~hmac=f4d5547b171898aeeb4ad86ce03dd2197fff4c879d18d17a7b74eaf28aba6c90|User-Agent=AppleCoreMedia/1.0.0.12B440 (iPad; U; CPU OS 8_1_2 like Mac OS X; en_gb)|X-Forwarded-For=54.183.196.251</f4m>
+</item>
+
+<item>
+<title>BT Sports 1 HD</title>
+<f4m>http://t2-btsport-live-hls-prod.akamaized.net/out/u/bts1/642_6.m3u8?hdnea=ip=162.158.166.131~st=1459765340~exp=1459770740~acl=/*~hmac=f4d5547b171898aeeb4ad86ce03dd2197fff4c879d18d17a7b74eaf28aba6c90|User-Agent=AppleCoreMedia/1.0.0.12B440 (iPad; U; CPU OS 8_1_2 like Mac OS X; en_gb)</f4m>
+</item>
+
 <channel>
 <name>[COLOR red]PAYPAL DONATIONS:[/COLOR] [COLOR yellow]thesuperboxbuild@outlook.com[/COLOR]</name>
 <thumbnail>http://kastellorizo.com/wp-content/uploads/2015/02/paypal2015.png</thumbnail>
