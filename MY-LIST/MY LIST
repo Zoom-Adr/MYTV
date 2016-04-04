@@ -68,11 +68,11 @@
 
 <item>
 <title>ANTV</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/antv2_all/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/mpi7pjqx1esapruf/antv2_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
-<page>http://api.mivo.com/v4/mobile/channels/wms-auth??</page>
+<page>http://api.mivo.com/v4/mobile/channels/wms-auth</page>
 <referer>http://api.mivo.com/</referer>
 </regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_antv_zps5qe3o8qy.png</thumbnail>
@@ -80,7 +80,7 @@
 
 <item>
 <title>ANTARA TV</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/antaratv_all/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/mpi7pjqx1esapruf/antaratv_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -92,7 +92,7 @@
 
 <item>
 <title>BERITA SATU</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/beritasatu_all/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/mpi7pjqx1esapruf/beritasatu_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -104,13 +104,13 @@
 
 <item>
 <title>CHINA MOVIE</title>
-<link>http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/chinamovie/as/live/chinamovie_4.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/chinamovie/as/live/chinamovie_4.m3u8</link>
 <thumbnail>https://www.dropbox.com/s/vfiagahcttp2erq/china%20movie.png?dl=1</thumbnail>
 </item>
 
 <item>
 <title>CTV NETWORK</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/cahayatv_all/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/mpi7pjqx1esapruf/cahayatv_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -122,7 +122,7 @@
 
 <item>
 <title>DAAI TV</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/daaitv2_all/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/mpi7pjqx1esapruf/daaitv2_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -134,7 +134,7 @@
 
 <item>
 <title>DAMAI TV</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/more1_all/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/mpi7pjqx1esapruf/more1_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -146,7 +146,7 @@
 
 <item>
 <title>DMC TV</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/dmctv_all/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/mpi7pjqx1esapruf/dmctv_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -158,7 +158,7 @@
 
 <item>
 <title>ELSHINTA TV</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/elshintatv_all/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/mpi7pjqx1esapruf/elshintatv_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -170,7 +170,7 @@
 
 <item>
 <title>GLOBAL TV</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/globaltv2_all/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/mpi7pjqx1esapruf/globaltv2_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -182,7 +182,7 @@
 
 <item>
 <title>HAARI TV</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/more2_all/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/mpi7pjqx1esapruf/more2_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -194,7 +194,7 @@
 
 <item>
 <title>HOT HITS</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/hothits_all/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/mpi7pjqx1esapruf/hothits_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -218,7 +218,7 @@
 
 <item>
 <title>INDOSIAR</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/indosiar2_all/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/mpi7pjqx1esapruf/indosiar2_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -242,7 +242,7 @@
 
 <item>
 <title>JAK TV</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/jaktv_all/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/mpi7pjqx1esapruf/jaktv_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -260,7 +260,7 @@
 
 <item>
 <title>JTV</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/jawatv_all/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/mpi7pjqx1esapruf/jawatv_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -272,7 +272,7 @@
 
 <item>
 <title>KOMPAS TV</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/kompastv_all/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/mpi7pjqx1esapruf/kompastv_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -284,7 +284,7 @@
 
 <item>
 <title>LBS IN-DRAMA</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/lbsindrama_all/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/mpi7pjqx1esapruf/lbsindrama_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -296,7 +296,7 @@
 
 <item>
 <title>LBS K-DRAMA</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/ldrama2_all/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/mpi7pjqx1esapruf/ldrama2_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -308,7 +308,7 @@
 
 <item>
 <title>METRO TV</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/metrotv2_all/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/mpi7pjqx1esapruf/metrotv2_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -320,7 +320,7 @@
 
 <item>
 <title>MNC TV</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/mnctv2_all/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/mpi7pjqx1esapruf/mnctv2_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -346,7 +346,7 @@
 
 <item>
 <title>MIVO TV</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/mivotv_all/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/mpi7pjqx1esapruf/mivotv_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -358,7 +358,7 @@
 
 <item>
 <title>NET.</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/nettv_all/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/mpi7pjqx1esapruf/nettv_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -370,7 +370,7 @@
 
 <item>
 <title>O CHANNEL</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/ochannel_all/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/mpi7pjqx1esapruf/ochannel_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -382,7 +382,7 @@
 
 <item>
 <title>RCTI</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/rcti2_all/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/mpi7pjqx1esapruf/rcti2_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -407,7 +407,7 @@
 
 <item>
 <title>RTV</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/rajawalitv.stream_all/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/mpi7pjqx1esapruf/rajawalitv.stream_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -419,7 +419,7 @@
 
 <item>
 <title>SCTV</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/sctv2_576p/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/wh76pzref44u53o6/sctv2_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -449,7 +449,7 @@
 
 <item>
 <title>SPACETOON</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/spacetoon_all/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/mpi7pjqx1esapruf/spacetoon_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -461,7 +461,7 @@
 
 <item>
 <title>SPACETOON 2</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/spacetoon2_all/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/mpi7pjqx1esapruf/spacetoon2_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -473,7 +473,7 @@
 
 <item>
 <title>TVRI 1</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/tvrinasional_all/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/mpi7pjqx1esapruf/tvrinasional_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -485,7 +485,7 @@
 
 <item>
 <title>TVRI 2</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/tvrijakarta_all/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/mpi7pjqx1esapruf/tvrijakarta_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -497,7 +497,7 @@
 
 <item>
 <title>TVRI 3</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/tvribudaya_all/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/mpi7pjqx1esapruf/tvribudaya_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -509,7 +509,7 @@
 
 <item>
 <title>TVRI 4</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/tvriolahraga_all/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/mpi7pjqx1esapruf/tvriolahraga_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -521,7 +521,7 @@
 
 <item>
 <title>TRANS 7</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/trans72_all/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/mpi7pjqx1esapruf/trans72_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -533,7 +533,7 @@
 
 <item>
 <title>TRANS TV</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/transtv2_all/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/mpi7pjqx1esapruf/transtv2_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -545,7 +545,7 @@
 
 <item>
 <title>THE INDONESIA CHANNEL</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/theindonesiachannel_all/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/mpi7pjqx1esapruf/theindonesiachannel_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -557,7 +557,7 @@
 
 <item>
 <title>TV ONE</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/tvone2_all/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/mpi7pjqx1esapruf/tvone2_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -575,7 +575,7 @@
 
 <item>
 <title>U CHANNEL</title>
-<link>http://edge.nim.mivo.tv/mpi7pjqx1esapruf/uchannel_all/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/mpi7pjqx1esapruf/uchannel_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
