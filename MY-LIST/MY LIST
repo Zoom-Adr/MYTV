@@ -1975,10 +1975,19 @@
 </item>
 
 <item>
-<title>SPORTSNET WORLD TEST</title>
-<link>plugin://plugin.video.f4mTester/?url=http://nlds182.cdnak.neulion.com/nlds/sportsnetnow/sn_world/as/live/sn_world_hd_3000.f4m?token=AgAKb25NZXRhRGF0YQgAAAAKAAhkdXJhdGlvbgBBa3dAAAAAAAAMY2FuU2Vla1RvRW5kAD/wAAAAAAAAAAx2aWRlb2NvZGVjaWQAQBwAAAAAAAAABXdpZHRoAECUAAAAAAAAAAZoZWlnaHQAQIaAAAAAAAAACWZyYW1lcmF0ZQBAPfhR4AAAAAAMYXVkaW9jb2RlY2lkAEAkAAAAAAAAAA1hdWRpb2NoYW5uZWxzAEAAAAAAAAAAAA9hdWRpb3NhbXBsZXJhdGUAQOWIgAAAAAAADWF1ZGlvZGF0YXJhdGUAQFAAAAAAAAAAAAk=|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<title>WWE</title>
+<link>http://hlslive-akc.med1.net.wwe.com/ls04/wwe/LINEAR/WWE_ALL_DAY_NO_ARCHIVE_VIDEO_MEGA_SLAM_WWE_Mega_Linear_20160331/1800K/1800_slide.m3u8|User-Agent=AppleCoreMedia/1.0.0.12B440 (iPad; U; CPU OS 8_1_2 like Mac OS X; en_gb)|X-Playback-Session-Id=E19CCA32-30A7-46BF-BB30-A2FB53C79514|geo[0]=SG|ipid=149531</link>
 </item>
 
+<item>
+<title>WWE</title>
+<link>http://hlslive-akc.med1.net.wwe.com/ls04/wwe/LINEAR/WWE_ALL_DAY_NO_ARCHIVE_VIDEO_MEGA_SLAM_WWE_Mega_Linear_20160331/1800K/1800_slide.m3u8|User-Agent=AppleCoreMedia/1.0.0.12B440 (iPad; U; CPU OS 8_1_2 like Mac OS X; en_gb)|X-Playback-Session-Id=E19CCA32-30A7-46BF-BB30-A2FB53C79514|X-Forwarded-For=54.183.196.251</link>
+</item>
+
+<item>
+<title>WWE</title>
+<f4m>http://hlslive-akc.med1.net.wwe.com/ls04/wwe/LINEAR/WWE_ALL_DAY_NO_ARCHIVE_VIDEO_MEGA_SLAM_WWE_Mega_Linear_20160331/1800K/1800_slide.m3u8|User-Agent=AppleCoreMedia/1.0.0.12B440 (iPad; U; CPU OS 8_1_2 like Mac OS X; en_gb)</f4m>
+</item>
 
 <channel>
 <name>[COLOR red]PAYPAL DONATIONS:[/COLOR] [COLOR yellow]thesuperboxbuild@outlook.com[/COLOR]</name>
