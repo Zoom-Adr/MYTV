@@ -137,7 +137,7 @@
 
 <item>
 <title>SUPERSPORT 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://nowweb-lh.akamaihd.net/z/SSH_1@309694/manifest.f4m?hdcore=3.8.0&amp;g=XSSCUAPRFEOQ&amp;plugin=aasp-3.8.0.52.27&amp;swf=http://core.dstv.com/video/flash/PlayerDStvSS.swf?v=1.19</link>
+<link>plugin://plugin.video.f4mTester/?url=http://nowweb-lh.akamaihd.net/z/SSH_1@309694/manifest.f4m?hdcore=3.8.0&amp;g=XSSCUAPRFEOQ&amp;plugin=aasp-3.8.0.52.27&amp;swf=http://core.dstv.com/video/flash/PlayerDStvSS.swf?v=1.19|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <cookieJar></cookieJar>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/6/66/Supersport2012.jpg</thumbnail>
 </item>
