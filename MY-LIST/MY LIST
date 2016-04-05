@@ -1319,6 +1319,18 @@
 </item>
 
 <item>
+<title>FOX SPORTS 2 USA</title>
+<link>$doregex[get_sxstream]|User-Agent=Android</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/foxsports2.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports_us_2.png</thumbnail>
+</item>
+
+<item>
 <title>MOVISTAR MOTOGP</title>
 <link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/2018/2018/765.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://pbs.twimg.com/profile_images/692019514947534848/QKheiBW_.png</thumbnail>
@@ -1972,7 +1984,7 @@
 </item>
 
 <item>
-<title>FS2</title>
+<title>FS2[1]</title>
 <link>$doregex[select_Url]</link>
 <regex>
 <name>select_Url</name>
@@ -1996,14 +2008,13 @@
 </item>
  
 <item>
-<title>FS2</title>
+<title>FS2[2]</title>
 <link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>get_sxstream</name>
 <expres>src=.*[",'](.*m3u8.*?)[",']</expres>
 <page>http://www.liveonlinetv247.info/embed/foxsports2.php</page>
 <referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
 </regex>
 </item>
 
