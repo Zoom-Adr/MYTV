@@ -1953,6 +1953,11 @@
 <link>plugin://plugin.video.f4mTester/?url=http://x-media.mine.nu:58080/live/test1234/satlover.com/31.ts&amp;streamtype=TSDOWNLOADER</link>
 </item>
 
+<item>
+<title>TEST SS1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://stream.does-it.net:8000/live/dom/dom/589.ts&amp;streamtype=TSDOWNLOADER</link>
+</item>
+
 <title>TV3 TEST</title>
 <link>http://go.layarku.tv/tv3_temp1.m3u8|X-Forwarded-For=42.154.55.155</link>
 </item>
