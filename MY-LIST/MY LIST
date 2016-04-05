@@ -1952,12 +1952,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://xtream-codes.no-ip.org:61250/live/dobras/dobras/12257.ts&amp;streamtype=TSDOWNLOADER</link>
 </item>
 
-<item>
-<title>TV3 TEST</title>
-<link>http://go.layarku.tv/tv3_temp1.m3u8|X-Forwarded-For=42.154.55.155</link>
-</item>
 
-<item>
 <title>SKY SPORTS 1</title>
 <link>$doregex[get_sxstream]|User-Agent=iPhone</link>
 <regex>
@@ -1974,7 +1969,7 @@
 <link>$doregex[select_Url]</link>
 <regex>
 <name>select_Url</name>
-<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<expres>$pyFunction:'$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
 <page></page>
 </regex>
 <regex>
@@ -2009,8 +2004,8 @@
 </item>
 
 <item>
-  <title>TEST | http://www.mivo.com/#/live/sctv </title>
-  <link>$doregex[URL]$doregex[wmsauth]|Referer=http://www.mivo.com/&amp;User-Agent=iPhone</link>
+  <title>TEST | http://www.mivo.com/#/live/sctv</title>
+  <link>plugin://plugin.video.f4mTester/?url=$doregex[URL]$doregex[wmsauth]&amp;streamtype=HLS|Referer=http://www.mivo.com/&amp;User-Agent=iPhone</link>
   
   <regex>
     <name>URL</name>
@@ -2030,6 +2025,10 @@
   </regex>
 </item>
 
+<item>
+<title>TV3 TEST</title>
+<link>http://go.layarku.tv/tv3_temp1.m3u8|X-Forwarded-For=42.154.55.155</link>
+</item>
 
 <channel>
 <name>[COLOR red]PAYPAL DONATIONS:[/COLOR] [COLOR yellow]thesuperboxbuild@outlook.com[/COLOR]</name>
