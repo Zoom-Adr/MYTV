@@ -1975,6 +1975,30 @@
 </item>
 
 <item>
+<title>skysports</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysports1.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysports1.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+</item>
+
+<item>
 <title>NBCSN</title>
 <f4m>http://54.177.79.231/server/play/nbcsnxctg/2626000/prog.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</f4m>
 </item>
@@ -1990,9 +2014,41 @@
 </item>
 
 <item>
-<title>XMEDIA TEST</title>
-<link>http://dstvdm_hd1_hls-lh.akamaihd.net/i/SS1_1@14433/master.m3u8</link>
-</item>
+<title>sctv</title> 
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
+
+<regex>
+    <name>encodedurl</name>
+    <expres>$pyFunction:urllib.quote_plus('$doregex[get-hls]')</expres>
+    <page></page>
+</regex>
+
+<regex>
+<name>get-hls</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+ import requests
+ import re
+
+
+ headers0 = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0'}
+ url0= 'http://api.mivo.com/v4/web/channels'
+ source0= requests.get(url0, headers=headers0)
+ m3u8= re.findall('sctv","dataUrl":"(.*?)"', source0.text)[0]
+
+ headers1 = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Authorization': 'BY-TrgLgK0NMzXb_JB_81DfeOxK_SNH7'}
+ url1= 'http://api.mivo.com/v4/web/channels/wms-auth'
+ source1= requests.get(url1, headers=headers1)
+ wms_auth= re.findall('"sign":"(.*?)"', source1.text)[0]
+ url2 = m3u8 + wms_auth
+ source2= requests.get(url2, headers=headers0)
+ maxbitrate= re.findall('(http.*)', source2.text)[0]
+
+ return maxbitrate
+]]></expres>
+<page></page>
+</regex>
+ </item>
 
 
 <channel>
