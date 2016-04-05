@@ -1952,18 +1952,6 @@
 <link>plugin://plugin.video.f4mTester/?url=http://xtream-codes.no-ip.org:61250/live/dobras/dobras/12257.ts&amp;streamtype=TSDOWNLOADER</link>
 </item>
 
-
-<title>SKY SPORTS 1</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/skysports1.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-</item>
-
 <item>
 <title>skysports</title>
 <link>$doregex[select_Url]</link>
@@ -2006,16 +1994,14 @@
 <item>
   <title>TEST sctv</title>
   <link>plugin://plugin.video.f4mTester/?url=$doregex[URL]$doregex[wmsauth]&amp;streamtype=HLS|Referer=http://www.mivo.com/&amp;User-Agent=iPhone</link>
-  
-  <regex>
+    <regex>
     <name>URL</name>
     <expres>sctv","dataUrl":"(.*?)"\W</expres>
     <page>http://api.mivo.com/v4/mobile/channels</page>
     <referer>http://www.mivo.com/</referer>
     <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
   </regex>
-  
-  <regex>
+    <regex>
     <name>wmsauth</name>
     <expres>si.*:[",'](.*?)[',"]\W</expres>
     <page>http://api.mivo.com/v4/mobile/channels/wms-auth?</page>
