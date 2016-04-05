@@ -1975,8 +1975,18 @@
 </item>
 
 <item>
-<title>NBCSN BACKUP - Require US VPN</title>
+<title>NBCSN</title>
 <f4m>http://54.177.79.231/server/play/nbcsnxctg/2626000/prog.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</f4m>
+</item>
+
+<item>
+<title>XMEDIA TEST</title>
+<link>plugin://plugin.video.f4mTester/?url=http://x-media.mine.nu:58080/live/test1234/satlover.com/29.ts&amp;streamtype=TSDOWNLOADER</link>
+</item>
+
+<item>
+<title>XMEDIA TEST</title>
+<link>plugin://plugin.video.f4mTester/?url=http://x-media.mine.nu:58080/live/test1234/satlover.com/31.ts&amp;streamtype=TSDOWNLOADER</link>
 </item>
 
 <channel>
