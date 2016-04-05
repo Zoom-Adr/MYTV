@@ -1307,25 +1307,13 @@
 
 <item>
 <title>FOX SPORTS 2 USA</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/foxsports2.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports_us_2.png</thumbnail>
-</item>
-
-<item>
-<title>FOX SPORTS 2 USA</title>
 <link>$doregex[get_sxstream]|User-Agent=Android</link>
 <regex>
 <name>get_sxstream</name>
 <expres>src=.*[",'](.*m3u8.*?)[",']</expres>
 <page>http://www.liveonlinetv247.info/embed/foxsports2.php</page>
 <referer>http://www.liveonlinetv247.info/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
 </regex>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports_us_2.png</thumbnail>
 </item>
@@ -1981,41 +1969,6 @@
 
 <title>TV3 TEST</title>
 <link>http://go.layarku.tv/tv3_temp1.m3u8|X-Forwarded-For=42.154.55.155</link>
-</item>
-
-<item>
-<title>FS2[1]</title>
-<link>$doregex[select_Url]</link>
-<regex>
-<name>select_Url</name>
-<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
-<page></page>
-</regex>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/foxsports2.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent></agent>
-</regex>
-<regex>
-<name>get_sxstream1</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/foxsports2.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent></agent>
-</regex>
-</item>
- 
-<item>
-<title>FS2[2]</title>
-<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/foxsports2.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-</regex>
 </item>
 
 <channel>
