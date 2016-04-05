@@ -1953,30 +1953,6 @@
 </item>
 
 <item>
-<title>skysports</title>
-<link>$doregex[select_Url]</link>
-<regex>
-<name>select_Url</name>
-<expres>$pyFunction:'$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
-<page></page>
-</regex>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/skysports1.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent></agent>
-</regex>
-<regex>
-<name>get_sxstream1</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/skysports1.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent></agent>
-</regex>
-</item>
-
-<item>
 <title>NBCSN</title>
 <f4m>http://54.177.79.231/server/play/nbcsnxctg/2626000/prog.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</f4m>
 </item>
@@ -1990,27 +1966,6 @@
 <title>XMEDIA TEST</title>
 <link>plugin://plugin.video.f4mTester/?url=http://x-media.mine.nu:58080/live/test1234/satlover.com/31.ts&amp;streamtype=TSDOWNLOADER</link>
 </item>
-
-<item>
-  <title>TEST sctv</title>
-  <link>plugin://plugin.video.f4mTester/?url=$doregex[URL]$doregex[wmsauth]&amp;streamtype=HLS|Referer=http://www.mivo.com/&amp;User-Agent=iPhone</link>
-    <regex>
-    <name>URL</name>
-    <expres>sctv","dataUrl":"(.*?)"\W</expres>
-    <page>http://api.mivo.com/v4/mobile/channels</page>
-    <referer>http://www.mivo.com/</referer>
-    <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
-  </regex>
-    <regex>
-    <name>wmsauth</name>
-    <expres>si.*:[",'](.*?)[',"]\W</expres>
-    <page>http://api.mivo.com/v4/mobile/channels/wms-auth?</page>
-    <rawpost>Authorization: BY-TrgLgK0NMzXb_JB_81DfeOxK_SNH7</rawpost>
-    <referer>http://www.mivo.com/</referer>
-    <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
-  </regex>
-</item>
-
 
 <title>TV3 TEST</title>
 <link>http://go.layarku.tv/tv3_temp1.m3u8|X-Forwarded-For=42.154.55.155</link>
