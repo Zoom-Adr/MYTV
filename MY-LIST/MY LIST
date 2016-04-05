@@ -1952,7 +1952,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://xtream-codes.no-ip.org:61250/live/dobras/dobras/12257.ts&amp;streamtype=TSDOWNLOADER</link>
 </item>
 
-
+<item>
 <title>SKY SPORTS 1</title>
 <link>$doregex[get_sxstream]|User-Agent=iPhone</link>
 <regex>
@@ -2010,7 +2010,7 @@
   <regex>
     <name>URL</name>
     <expres>sctv","dataUrl":"(.*?)"\W</expres>
-    <page>http://api.mivo.com/v4/web/channels</page>
+    <page>http://api.mivo.com/v4/mobile/channels</page>
     <referer>http://www.mivo.com/</referer>
     <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
   </regex>
