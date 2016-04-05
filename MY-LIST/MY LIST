@@ -1964,7 +1964,7 @@
 </regex>
 </item>
 
-<item>
+
 <title>skysports</title>
 <link>$doregex[select_Url]</link>
 <regex>
@@ -2025,7 +2025,7 @@
   </regex>
 </item>
 
-<item>
+
 <title>TV3 TEST</title>
 <link>http://go.layarku.tv/tv3_temp1.m3u8|X-Forwarded-For=42.154.55.155</link>
 </item>
