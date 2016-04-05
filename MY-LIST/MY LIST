@@ -1989,6 +1989,12 @@
 <link>plugin://plugin.video.f4mTester/?url=http://x-media.mine.nu:58080/live/test1234/satlover.com/31.ts&amp;streamtype=TSDOWNLOADER</link>
 </item>
 
+<item>
+<title>XMEDIA TEST</title>
+<link>http://dstvdm_hd1_hls-lh.akamaihd.net/i/SS1_1@14433/master.m3u8</link>
+</item>
+
+
 <channel>
 <name>[COLOR red]PAYPAL DONATIONS:[/COLOR] [COLOR yellow]thesuperboxbuild@outlook.com[/COLOR]</name>
 <thumbnail>http://kastellorizo.com/wp-content/uploads/2015/02/paypal2015.png</thumbnail>
