@@ -1957,11 +1957,6 @@
 <link>http://go.layarku.tv/tv3_temp1.m3u8|X-Forwarded-For=42.154.55.155</link>
 </item>
 
-<title>TEST LINK</title>
-<f4m>http://tinyurl.com/je4n9f9</f4m>
-<thumbnail></thumbnail>
-</item>
-
 <item>
 <title>SKY SPORTS 1</title>
 <link>$doregex[get_sxstream]|User-Agent=iPhone</link>
