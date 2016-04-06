@@ -646,6 +646,8 @@
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv1_zps8mlj4nck.png</thumbnail>
 </item>
 
+
+
 <item>
 <title>TV2</title>
 <link>http://rtm-live.glueapi.io/smil:ch002.smil/chunklist_b1064000_sleng.m3u8</link>
@@ -663,6 +665,8 @@
 </regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/My_tv2_zpshzwufzrv.png</thumbnail>
 </item>
+
+
 
 <item>
 <title>TV3</title>
@@ -1871,12 +1875,6 @@
 <title>SYFY</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvbox.noip.us:9998/live/atik/atik/676.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://cdn.bleedingcool.net/wp-content/uploads/2014/09/syfy-logo-484_0.jpg</thumbnail>
-</item>
-
-<item>
-<title>WARNER TV</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?supertvlat=%2F.ts</link>
-<thumbnail>http://www.cth.co.th/wp-content/uploads/2014/09/415-x-263_1.jpg</thumbnail>
 </item>
 </items>
 
