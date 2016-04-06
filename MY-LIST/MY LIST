@@ -646,15 +646,11 @@
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv1_zps8mlj4nck.png</thumbnail>
 </item>
 
-
-
 <item>
 <title>TV2</title>
 <link>http://rtm-live.glueapi.io/smil:ch002.smil/chunklist_b1064000_sleng.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/My_tv2_zpshzwufzrv.png</thumbnail>
 </item>
-
-
 
 <item>
 <title>TV2 - Backup</title>
@@ -667,8 +663,6 @@
 </regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/My_tv2_zpshzwufzrv.png</thumbnail>
 </item>
-
-
 
 <item>
 <title>TV3</title>
@@ -1119,13 +1113,13 @@
 
 <item>
 <title>CANAL+ FUTBOL ES</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1975/1975/1020.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://mainstream.dyndns.tv:8000/live/Stone15hurst/Stone15hurst/156.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Canal%2B_F%C3%BAtbol_2008.svg/550px-Canal%2B_F%C3%BAtbol_2008.svg.png</thumbnail>
 </item>
 
 <item>
 <title>CANAL+ LIGA ES</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1975/1975/1022.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://mainstream.dyndns.tv:8000/live/Stone15hurst/Stone15hurst/154.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://coditelcordoba.com/wp-content/uploads/2014/07/canal+liga.jpg</thumbnail>
 </item>
 
