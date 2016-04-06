@@ -604,13 +604,13 @@
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_awani_zpsssci0ox7.png</thumbnail>
 </item>
 
-<item>
+
 <title>ASTRO OASIS</title>
 <link>http://www.layarku.tv/media/oasweb6.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_oasis_zpsr40ug54q.png</thumbnail>
 </item>
 
-<item>
+
 <title>ASTRO PRIMA</title>
 <link>http://www.layarku.tv/media/priweb6.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_prima_zps3xru535m.png</thumbnail>
@@ -676,7 +676,7 @@
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv3_zpsccy0afit.png</thumbnail>
 </item>
 
-<item>
+
 <title>NTV7</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=HDS&amp;maxbitrate=1264000&amp;url=$doregex[encodedurl]</link>
 <regex>
@@ -735,12 +735,11 @@
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/aksisukan_zpsynthgfvn.png</thumbnail>
 </item>
 
-<item>
+
 <title>LIGA SUPER MALAYSIA - LIVE GAMES</title>
 <link>plugin://plugin.video.f4mTester/?url=http://my2liveflash-lh.akamaihd.net/z/my2liveflash_my@30545/manifest.f4m?hdcore=2.10.3&amp;g=LWDJMNJWQIGA&amp;swf=http://dpndczlul8yjf.cloudfront.net/resources/as3_vp_player_2.4.16.2.0.swf</link>
 <thumbnail>https://www.dropbox.com/s/sdwv2zmqc5la4vf/Logo-Liga-Super-Malaysia-2016.png?dl=1</thumbnail>
 </item>
-
 </items>
 </channel>
 
