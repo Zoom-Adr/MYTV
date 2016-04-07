@@ -1975,10 +1975,19 @@
 </item>
 
 <item>
-<title>MIO 102 TEST</title>
+<title>102 TEST</title>
 <link>http://iptv9.plexflixiptv.co.uk:80/hls/446.m3u8?channelId=446&amp;uid=337&amp;deviceUser=rob&amp;devicePass=robcelticrob</link>
 </item>
 
+<item>
+<title>102 TEST</title>
+<link>http://bit.ly/23jxKrZ</link>
+</item>
+
+<item>
+<title>103 TEST</title>
+<link>http://bit.ly/1UJFvps</link>
+</item>
 
 <title>TV3 TEST</title>
 <link>http://go.layarku.tv/tv3_temp1.m3u8|X-Forwarded-For=42.154.55.155</link>
