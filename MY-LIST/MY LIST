@@ -2023,6 +2023,17 @@
 <thumbnail></thumbnail>
 </item>
 
+<item>
+<title>IPTV SAT</title>
+<f4m>http://iptvsatuk.ddns.net:8080/live/bulldog/steams/29.m3u8</f4m>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>IPTV SAT</title>
+<f4m>http://iptvsatuk.ddns.net:8080/live/bulldog/steams/29.ts</f4m>
+<thumbnail></thumbnail>
+</item>
 
 <channel>
 <name>[COLOR red]PAYPAL DONATIONS:[/COLOR] [COLOR yellow]thesuperboxbuild@outlook.com[/COLOR]</name>
