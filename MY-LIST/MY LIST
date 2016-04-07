@@ -1339,6 +1339,12 @@
 </item>
 
 <item>
+<title>NBC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/38ad309c19cc/140.mpegts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://letstalkabout.tv/wp-content/uploads/2011/07/NBC-logo.gif</thumbnail>
+</item>
+
+<item>
 <title>NBCSN</title>
 <link>plugin://plugin.video.f4mTester/?url=http://newone15.ddns.net:8000/live/ironman/ironman/1851.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://nbcsportsgrouppressbox.files.wordpress.com/2012/06/nbcsport-network11.jpg</thumbnail>
