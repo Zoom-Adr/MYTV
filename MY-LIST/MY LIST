@@ -5,7 +5,6 @@
 <thumbnail>https://i.imgur.com/01Ve7Zm.png</thumbnail>
 <fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 
-
 <title>[B]---===[COLOR red]GAMES AVAILABLE ONLY ON MATCHDAY[/COLOR]===---[/B]</title>
 <link>.</link>
 <thumbnail>https://i.imgur.com/01Ve7Zm.png</thumbnail>
@@ -1448,7 +1447,7 @@
 
 <item>
 <title>SKY SPORTS BOX OFFICE PPV</title>
-<link>http://smashtv.ddns.net:9090/load/38ad309c19cc/446.mpegts</link>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/38ad309c19cc/446.mpegts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://my.sky.com/orderboxoffice/images/sky-sports-box-office-logo.png</thumbnail>
 </item>
 
