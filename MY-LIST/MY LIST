@@ -1321,13 +1321,13 @@
 
 <item>
 <title>MOVISTAR MOTOGP</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xtream-codes.no-ip.org:61250/live/dobras/dobras/12833.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sliti/dmV9FUkIpn/765.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://pbs.twimg.com/profile_images/692019514947534848/QKheiBW_.png</thumbnail>
 </item>
 
 <item>
 <title>MOVISTAR F1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xtream-codes.no-ip.org:61250/live/dobras/dobras/12837.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sliti/dmV9FUkIpn/803.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://pbs.twimg.com/profile_images/692019245853626369/83lEs7Vo.png</thumbnail>
 </item>
 
@@ -1345,12 +1345,6 @@
 
 <item>
 <title>NBCSN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://newone15.ddns.net:8000/live/ironman/ironman/1851.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://nbcsportsgrouppressbox.files.wordpress.com/2012/06/nbcsport-network11.jpg</thumbnail>
-</item>
-
-<item>
-<title>NBCSN BACKUP</title>
 <link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/38ad309c19cc/467.mpegts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://nbcsportsgrouppressbox.files.wordpress.com/2012/06/nbcsport-network11.jpg</thumbnail>
 </item>
