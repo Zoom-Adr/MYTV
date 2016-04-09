@@ -1701,12 +1701,6 @@
 
 <item>
 <title>USA NETWORK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://newone15.ddns.net:8000/live/ironman/ironman/1836.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://tvseriesfinale.com/wp-content/uploads/2014/08/usa04.jpg</thumbnail>
-</item>
-
-<item>
-<title>USA NETWORK BACKUP</title>
 <link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/38ad309c19cc/428.mpegts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://tvseriesfinale.com/wp-content/uploads/2014/08/usa04.jpg</thumbnail>
 </item>
