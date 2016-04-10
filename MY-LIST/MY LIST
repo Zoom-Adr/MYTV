@@ -24,16 +24,27 @@
 
 <item>
 <title>TOTTENHAM HOTSPUR VS MAN UTD - LINK 1</title>
-<f4m>|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</f4m>
+<f4m>http://nlds4.cdnak.lon.neulion.com/nlds/coliseum/tottenhamhotspur/as/live/tottenhamhotspur_hd_4500.f4m?nltid=plp&nltdt=6&nltnt=1&h=0425bd948f7b4c4e8686e31a22e732f5.1460299076|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</f4m>
+<thumbnail>http://files.pes-unlimited.webnode.pt/system_preview_detail_200000006-31d9732d3b-public/Barclays%20Premier%20League.png</thumbnail>
+</item>
+
+<item>
+<title>TOTTENHAM HOTSPUR VS MAN UTD - LINK 2</title>
+<f4m>http://nlds4.cdnak.lon.neulion.com/nlds/coliseum/tottenhamhotspur/as/live/tottenhamhotspur_hd_1600.f4m?nltid=plp&nltdt=6&nltnt=1&h=0425bd948f7b4c4e8686e31a22e732f5.1460299076|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</f4m>
 <thumbnail>http://files.pes-unlimited.webnode.pt/system_preview_detail_200000006-31d9732d3b-public/Barclays%20Premier%20League.png</thumbnail>
 </item>
 
 <item>
 <title>LIVERPOOL VS STOKE CITY - LINK 1</title>
-<f4m>|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</f4m>
+<f4m>http://nlds5.cdnak.lon.neulion.com/nlds/coliseum/liverpool/as/live/liverpool_hd_4500.f4m?nltid=plp&nltdt=6&nltnt=1&h=350558e159f3dddf08cbe70f6814c305.1460299029|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</f4m>
 <thumbnail>http://files.pes-unlimited.webnode.pt/system_preview_detail_200000006-31d9732d3b-public/Barclays%20Premier%20League.png</thumbnail>
 </item>
 
+<item>
+<title>LIVERPOOL VS STOKE CITY - LINK 2</title>
+<f4m>http://nlds5.cdnak.lon.neulion.com/nlds/coliseum/liverpool/as/live/liverpool_hd_1600.f4m?nltid=plp&nltdt=6&nltnt=1&h=350558e159f3dddf08cbe70f6814c305.1460299029|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</f4m>
+<thumbnail>http://files.pes-unlimited.webnode.pt/system_preview_detail_200000006-31d9732d3b-public/Barclays%20Premier%20League.png</thumbnail>
+</item>
 
 <item>
 <title>NBC EXTRA TIME 1</title>
@@ -2028,7 +2039,7 @@
 <thumbnail></thumbnail>
 </item>
 
-<channel>
+
 <name>[COLOR red]PAYPAL DONATIONS:[/COLOR] [COLOR yellow]adrian.1717@outlook.com[/COLOR]</name>
 <thumbnail>http://kastellorizo.com/wp-content/uploads/2015/02/paypal2015.png</thumbnail>
 <fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
