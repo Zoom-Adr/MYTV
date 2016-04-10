@@ -1346,7 +1346,7 @@
 
 <item>
 <title>NBCSN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/38ad309c19cc/467.mpegts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1XhMAvh&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://nbcsportsgrouppressbox.files.wordpress.com/2012/06/nbcsport-network11.jpg</thumbnail>
 </item>
 
@@ -1670,7 +1670,7 @@
 <thumbnail>http://wpmedia.o.canada.com/2014/05/tsn_red_1__244682411.jpg?w=620</thumbnail>
 </item>
 
-<item>
+
 <title>TRUE VISIONS BEIN SPORTS</title>
 <link>http://livesg.khaozap.com:1935/live/bein1.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
@@ -1682,7 +1682,7 @@
 <thumbnail>http://www.cox.com/wcm/en/video/tv/bein-sport/bein-tv-sp-promo.jpg</thumbnail>
 </item>
 
-<item>
+
 <title>TRUE VISIONS FOX SPORTS 1</title>
 <link>http://livesg.khaozap.com:1935/live/foxsport.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
@@ -1694,7 +1694,7 @@
 <thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
 </item>
 
-<item>
+
 <title>TRUE VISIONS FOX SPORTS 3</title>
 <link>http://livesg.khaozap.com:1935/live/foxsport3.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
@@ -1738,7 +1738,7 @@
 <thumbnail>http://cdn.cybergolf.com/images/979/Zona-Sports.jpg</thumbnail>
 </item>
 
-<item>
+
 <title>ZONASPORTS - LIVE SPORTS</title>
 <link>https://origin01-atl.streamup.com/app/zonax1azs-channel/chunklist.m3u8</link>
 <referer>http://zonasports.to/</referer>
