@@ -1344,6 +1344,12 @@
 </item>
 
 <item>
+<title>NBC GOLF USA</title>
+<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
+<thumbnail>http://koaa.images.worldnow.com/images/8009302_G.jpg</thumbnail>
+</item>
+
+<item>
 <title>NBCSN</title>
 <link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1St0eYe&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://nbcsportsgrouppressbox.files.wordpress.com/2012/06/nbcsport-network11.jpg</thumbnail>
