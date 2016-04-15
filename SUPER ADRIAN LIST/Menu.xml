@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>INDONESIA CHANNELS</title>
+<title>[B]---===[COLOR red]LIVE[/COLOR][COLOR yellow] GAMES[/COLOR]===---[/B]</title>
+<thumbnail>https://i.imgur.com/01Ve7Zm.png</thumbnail>
+<fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/ProjectAdrian/AdrianList/master/SUPER%20ADRIAN%20LIST/LiveGames.xml</externallink>
+</item>
+
+<item>
+<title>[B]---===[COLOR red]INDONESIA[/COLOR][COLOR yellow] CHANNELS[/COLOR]===---[/B]</title>
 <thumbnail>http://img.freeflagicons.com/thumb/flag_background/indonesia/indonesia_640.png</thumbnail>
 <fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 <link>http://ignoreme</link>
@@ -9,7 +17,7 @@
 </item>
 
 <item>
-<title>MALAYSIA CHANNELS</title>
+<title>[B]---===[COLOR red]MALAYSIA[/COLOR][COLOR yellow] CHANNELS[/COLOR]===---[/B]</title>
 <thumbnail>http://img.freeflagicons.com/thumb/flag_background/malaysia/malaysia_640.png</thumbnail>
 <fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 <link>http://ignoreme</link>
@@ -17,7 +25,7 @@
 </item>
 
 <item>
-<title>SINGAPORE CHANNELS</title>
+<title>[B]---===[COLOR red]SINGAPORE[/COLOR][COLOR yellow] CHANNELS[/COLOR]===---[/B]</title>
 <thumbnail>http://img.freeflagicons.com/thumb/flag_background/singapore/singapore_640.png</thumbnail>
 <fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 <link>http://ignoreme</link>
@@ -25,7 +33,7 @@
 </item>
 
 <item>
-<title>INDIA CHANNELS</title>
+<title>[B]---===[COLOR red]INDIA[/COLOR][COLOR yellow] CHANNELS[/COLOR]===---[/B]</title>
 <thumbnail>http://img.freeflagicons.com/thumb/flag_background/india/india_640.png</thumbnail>
 <fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 <link>http://ignoreme</link>
@@ -33,7 +41,7 @@
 </item>
 
 <item>
-<title>WORLD OF SPORTS</title>
+<title>[B]---===[COLOR red]WORLD O[/COLOR][COLOR yellow]F SPORTS[/COLOR]===---[/B]</title>
 <thumbnail>http://previews.123rf.com/images/duug/duug1206/duug120600003/13966994-sport-logo-Stock-Vector-sports.jpg</thumbnail>
 <fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 <link>http://ignoreme</link>
@@ -41,19 +49,11 @@
 </item>
 
 <item>
-<title>PREMIER LEAGUE PASS - PLP</title>
+<title>[B]---===[COLOR red]P[/COLOR]L[COLOR yellow]P[/COLOR]===---[/B]</title>
 <link>http://ignorame</link>
 <thumbnail>https://i.imgur.com/01Ve7Zm.png</thumbnail>
 <fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 <externallink>http://goo.gl/HWoIRn</externallink>
-</item>
-
-item>
-<title>BONUS CHANNELS</title>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/flag_world_zpsic7ttnuh.png</thumbnail>
-<fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
-<link>http://ignoreme</link>
-<externallink>http://www.t12v.com:8000/get.php?username=A@kNOuch&password=RaChId&type=m3u&output=mpegts</externallink>
 </item>
 
 <item>
@@ -63,12 +63,3 @@ item>
 <fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 <externallink>https://raw.githubusercontent.com/ProjectAdrian/AdrianSyafiq/master/SUPER%20ADRIAN%20LIST/TEST.xml</externallink>
 </item>
-
-item>
-<title>DRAMAS - TESTING</title>
-<thumbnail>https://www.dropbox.com/s/heydeq4yvhuzvgt/DRAMA.png?dl=1</thumbnail>
-<fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/ProjectAdrian/AdrianSyafiq/master/SUPER%20ADRIAN%20LIST/Drama.xml</externallink>
-</item>
-
