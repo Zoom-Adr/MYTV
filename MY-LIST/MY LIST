@@ -1404,6 +1404,12 @@ item>
 
 <item>
 <title>NBCSN BACKUP</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.164.175:8080/USA/CAN/270.ch&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://nbcsportsgrouppressbox.files.wordpress.com/2012/06/nbcsport-network11.jpg</thumbnail>
+</item>
+
+<item>
+<title>NBCSN BACKUP</title>
 <f4m>http://54.177.79.231/server/play/nbcsnxctg/2626000/prog.m3u8|X-Forwarded-For=54.183.196.251</f4m>
 <thumbnail>https://nbcsportsgrouppressbox.files.wordpress.com/2012/06/nbcsport-network11.jpg</thumbnail>
 </item>
