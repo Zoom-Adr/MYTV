@@ -17,6 +17,12 @@
 <thumbnail>http://files.pes-unlimited.webnode.pt/system_preview_detail_200000006-31d9732d3b-public/Barclays%20Premier%20League.png</thumbnail>
 </item>
 
+<channel>
+<name>[B]---===[COLOR red]LIVE[/COLOR][COLOR yellow] EXTRA[/COLOR]===---[/B]</name>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/08/nbc-sports-live-extra.png</thumbnail>
+<fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
+
+
 <item>
 <title>NBC EXTRA TIME 1</title>
 <link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/2e848b643e0e/67.mpegts&amp;streamtype=TSDOWNLOADER</link>
