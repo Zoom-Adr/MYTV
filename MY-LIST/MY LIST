@@ -1313,6 +1313,23 @@ item>
 </item>
 
 <item>
+<title>ESPN BRASIL</title>
+<link>$doregex[url]|User-Agent=iPhone</link>
+<regex>
+<name>url</name>
+<expres><![CDATA[file.*?[",'](.*?)[",']\W]]></expres>
+<ignorecache>1</ignorecache>
+<page>http://pxstream.tv/embed.php?file=c7a84573f450aba4b-slv10vbn&referrer=http://ekostreams.co/ch/espnbrasil.php</page>
+<referer>http://ekostreams.co/ch/espnbrasil.php</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
+<accept>*/*</accept>
+</includeheaders>
+</regex>
+<thumbnail>http://vertv.net/wp-content/uploads/2016/01/AQ.jpg</thumbnail>
+</item>
+
+<item>
 <title>EUROSPORT DE</title>
 <link>plugin://plugin.video.f4mTester/?url=http://mainstream.dyndns.tv:8000/live/Stone15hurst/Stone15hurst/1155.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.wuv.de/var/wuv/storage/images/media/bilder/eurosport_2015_580/7186502-1-ger-DE/eurosport_2015_580_evo_580.jpg</thumbnail>
