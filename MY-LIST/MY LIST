@@ -1427,7 +1427,7 @@ item>
 
 <item>
 <title>NBCSN BACKUP</title>
-<link>plugin://plugin.video.f4mTester/?url=http://37.187.164.175:8080/USA/CAN/270.ch&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.164.175:8080/permanent/globalsportsIPTV/270.ch&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://nbcsportsgrouppressbox.files.wordpress.com/2012/06/nbcsport-network11.jpg</thumbnail>
 </item>
 
