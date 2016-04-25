@@ -11,27 +11,9 @@
 <thumbnail>https://i.imgur.com/01Ve7Zm.png</thumbnail>
 </item>
 
-<item>
-<title>SUNDERLAND VS ARSENAL - HD</title>
-<f4m>http://nlds15.cdnak.lon.neulion.com/nlds/coliseum/sunderland/as/live/sunderland_hd_4500.f4m?nltid=plp&nltdt=6&nltnt=1&h=f1c44c742c926aff4652cc913d04f2f8.1461503909|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</f4m>
-<thumbnail>http://files.pes-unlimited.webnode.pt/system_preview_detail_200000006-31d9732d3b-public/Barclays%20Premier%20League.png</thumbnail>
-</item>
 
-<item>
-<title>SUNDERLAND VS ARSENAL - SD</title>
-<f4m>http://nlds15.cdnak.lon.neulion.com/nlds/coliseum/sunderland/as/live/sunderland_hd_1600.f4m?nltid=plp&nltdt=6&nltnt=1&h=f1c44c742c926aff4652cc913d04f2f8.1461503909|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</f4m>
-<thumbnail>http://files.pes-unlimited.webnode.pt/system_preview_detail_200000006-31d9732d3b-public/Barclays%20Premier%20League.png</thumbnail>
-</item>
-
-<item>
-<title>LEICESTER CITY VS SWANSEA CITY - HD</title>
-<f4m>http://nlds6.cdnak.lon.neulion.com/nlds/coliseum/leicestercity/as/live/leicestercity_hd_4500.f4m?nltid=plp&nltdt=6&nltnt=1&h=c37ecead04cef4db09b14fc0afbd7e89.1461508699|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</f4m>
-<thumbnail>http://files.pes-unlimited.webnode.pt/system_preview_detail_200000006-31d9732d3b-public/Barclays%20Premier%20League.png</thumbnail>
-</item>
-
-<item>
 <title>LEICESTER CITY VS SWANSEA CITY - SD</title>
-<f4m>http://nlds6.cdnak.lon.neulion.com/nlds/coliseum/leicestercity/as/live/leicestercity_hd_1600.f4m?nltid=plp&nltdt=6&nltnt=1&h=c37ecead04cef4db09b14fc0afbd7e89.1461508699|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</f4m>
+<f4m>|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</f4m>
 <thumbnail>http://files.pes-unlimited.webnode.pt/system_preview_detail_200000006-31d9732d3b-public/Barclays%20Premier%20League.png</thumbnail>
 </item>
 
@@ -1003,49 +985,49 @@ item>
 
 <item>
 <title>ASTRO SUPERSPORT 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/2e848b643e0e/484.mpegts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://62.210.251.32:88/live/izu/izu/703.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png</thumbnail>
 </item>
 
 <item>
 <title>ASTRO SUPERSPORT 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/2e848b643e0e/485.mpegts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://62.210.251.32:88/live/izu/izu/702.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png</thumbnail>
 </item>
 
 <item>
 <title>ASTRO SUPERSPORT 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/2e848b643e0e/486.mpegts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://62.210.251.32:88/live/izu/izu/701.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png</thumbnail>
 </item>
 
 <item>
 <title>ASTRO SUPERSPORT 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/2549.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://62.210.251.32:88/live/izu/izu/700.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png</thumbnail>
 </item>
 
 <item>
 <title>BBC 1 UK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/saban/saban/2752.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sliti/dmV9FUkIpn/1081.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>https://pbs.twimg.com/profile_images/662708106/bbc.png</thumbnail>
 </item>
 
 <item>
 <title>BBC 2 UK</title>
-<link>http://ipsatpro.com:8000/live/robertburden5682/robertburden5682/487.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sliti/dmV9FUkIpn/1080.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>https://pbs.twimg.com/profile_images/662708106/bbc.png</thumbnail>
 </item>
 
 <item>
 <title>BBC 3 UK</title>
-<link>http://ipsatpro.com:8000/live/robertburden5682/robertburden5682/486.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sliti/dmV9FUkIpn/1079.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>https://pbs.twimg.com/profile_images/662708106/bbc.png</thumbnail>
 </item>
 
 <item>
 <title>BBC 4 UK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/robertburden5682/robertburden5682/485.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sliti/dmV9FUkIpn/1078.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>https://pbs.twimg.com/profile_images/662708106/bbc.png</thumbnail>
 </item>
 
@@ -1129,19 +1111,19 @@ item>
 
 <item>
 <title>BEIN SPORTS 1 FR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mainstream.dyndns.tv:8000/live/Stone15hurst/Stone15hurst/180.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sliti/dmV9FUkIpn/199.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg/revision/latest?cb=20140103213705</thumbnail>
 </item>
 
 <item>
 <title>BEIN SPORTS 2 FR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mainstream.dyndns.tv:8000/live/Stone15hurst/Stone15hurst/29.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sliti/dmV9FUkIpn/200.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg/revision/latest?cb=20140103213705</thumbnail>
 </item>
 
 <item>
 <title>BEIN SPORTS 3 FR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mainstream.dyndns.tv:8000/live/Stone15hurst/Stone15hurst/601.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sliti/dmV9FUkIpn/594.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg/revision/latest?cb=20140103213705</thumbnail>
 </item>
 
@@ -1153,19 +1135,19 @@ item>
 
 <item>
 <title>BOX NATION UK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/robertburden5682/robertburden5682/490.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sliti/dmV9FUkIpn/1717.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://pbs.twimg.com/profile_images/523395738181439488/ZSdNbxJ3_400x400.png</thumbnail>
 </item>
 
 <item>
 <title>BRITISH EUROSPORT 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/robertburden5682/robertburden5682/541.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://62.210.251.32:88/live/izu/izu/333.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.wuv.de/var/wuv/storage/images/media/bilder/eurosport_2015_580/7186502-1-ger-DE/eurosport_2015_580_evo_580.jpg</thumbnail>
 </item>
 
 <item>
 <title>BRITISH EUROSPORT 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/robertburden5682/robertburden5682/540.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://62.210.251.32:88/live/izu/izu/332.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.wuv.de/var/wuv/storage/images/media/bilder/eurosport_2015_580/7186502-1-ger-DE/eurosport_2015_580_evo_580.jpg</thumbnail>
 </item>
 
@@ -1201,37 +1183,31 @@ item>
 
 <item>
 <title>BT SPORT EUROPE BACKUP</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/robertburden5682/robertburden5682/453.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://stream.does-it.net:8000/live/dom/dom/2795.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
 </item>
 
 <item>
 <title>CANAL+ FUTBOL ES</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mainstream.dyndns.tv:8000/live/Stone15hurst/Stone15hurst/156.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://stream.does-it.net:8000/live/dom/dom/628.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Canal%2B_F%C3%BAtbol_2008.svg/550px-Canal%2B_F%C3%BAtbol_2008.svg.png</thumbnail>
 </item>
 
 <item>
 <title>CANAL+ LIGA ES</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mainstream.dyndns.tv:8000/live/Stone15hurst/Stone15hurst/154.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://stream.does-it.net:8000/live/dom/dom/631.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://coditelcordoba.com/wp-content/uploads/2014/07/canal+liga.jpg</thumbnail>
 </item>
 
 <item>
-<title>CANAL+ LIGA 2 ES</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mainstream.dyndns.tv:8000/live/Stone15hurst/Stone15hurst/1218.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://coditelcordoba.com/wp-content/uploads/2014/07/canal+liga.jpg</thumbnail>
-</item>
-
-<item>
-<title>CANAL+ FR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/robertburden5682/robertburden5682/328.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://medias.unifrance.org/medias/129/94/24193/format_web/media.png</thumbnail>
+<title>CANAL+ DEPORTES ES</title>
+<link>plugin://plugin.video.f4mTester/?url=http://stream.does-it.net:8000/live/dom/dom/627.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.fuerteventurashopping.es/wp-content/uploads/2011/06/PLUS2.jpg</thumbnail>
 </item>
 
 <item>
 <title>CANAL+ SPORT FR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mainstream.dyndns.tv:8000/live/Stone15hurst/Stone15hurst/30.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sliti/dmV9FUkIpn/205.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://ncplus.pl/~/media/n/npl/kanaly/logo%20na%20strony%20kanalow/canalplus_sport_logo.png?bc=white&w=575</thumbnail>
 </item>
 
@@ -1362,13 +1338,13 @@ item>
 
 <item>
 <title>EUROSPORT DE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mainstream.dyndns.tv:8000/live/Stone15hurst/Stone15hurst/1155.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sliti/dmV9FUkIpn/728.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.wuv.de/var/wuv/storage/images/media/bilder/eurosport_2015_580/7186502-1-ger-DE/eurosport_2015_580_evo_580.jpg</thumbnail>
 </item>
 
 <item>
 <title>FOX SPORTS IT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/robertburden5682/robertburden5682/650.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/152.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
 </item>
 
@@ -1380,31 +1356,31 @@ item>
 
 <item>
 <title>FOX SPORTS 1 NL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://premium-service.club:9300/live/latif/latif/830.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://maxtvv.abdou123.com:9300/live/latif/latif/830.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
 </item>
 
 <item>
 <title>FOX SPORTS 2 NL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://premium-service.club:9300/live/latif/latif/831.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://maxtvv.abdou123.com:9300/live/latif/latif/831.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
 </item>
 
 <item>
 <title>FOX SPORTS 3 NL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://premium-service.club:9300/live/latif/latif/832.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://maxtvv.abdou123.com:9300/live/latif/latif/832.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
 </item>
 
 <item>
 <title>FOX SPORTS 4 NL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://premium-service.club:9300/live/latif/latif/833.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://maxtvv.abdou123.com:9300/live/latif/latif/833.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
 </item>
 
 <item>
 <title>FOX SPORTS 5 NL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://premium-service.club:9300/live/latif/latif/834.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://maxtvv.abdou123.com:9300/live/latif/latif/834.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
 </item>
 
@@ -1469,7 +1445,7 @@ item>
 
 <item>
 <title>NBCSN BACKUP</title>
-<link>plugin://plugin.video.f4mTester/?url=http://37.187.164.175:8080/permanent/globalsportsIPTV/270.ch&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/saban/saban/4587.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://nbcsportsgrouppressbox.files.wordpress.com/2012/06/nbcsport-network11.jpg</thumbnail>
 </item>
 
@@ -1487,19 +1463,19 @@ item>
 
 <item>
 <title>OTE SPORT 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/robertburden5682/robertburden5682/831.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://62.210.251.32:88/live/izu/izu/688.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.gazzetta.gr/sites/default/files/sitefiles_2014-09/ote_logo_sport_cmyk.jpg</thumbnail>
 </item>
 
 <item>
 <title>OTE SPORT 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/robertburden5682/robertburden5682/838.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://62.210.251.32:88/live/izu/izu/687.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.gazzetta.gr/sites/default/files/sitefiles_2014-09/ote_logo_sport_cmyk.jpg</thumbnail>
 </item>
 
 <item>
 <title>OTE SPORT 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/robertburden5682/robertburden5682/837.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://62.210.251.32:88/live/izu/izu/686.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.gazzetta.gr/sites/default/files/sitefiles_2014-09/ote_logo_sport_cmyk.jpg</thumbnail>
 </item>
 
@@ -1553,7 +1529,7 @@ item>
 
 <item>
 <title>SKY SPORT F1 IT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/robertburden5682/robertburden5682/651.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/153.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/2/2b/Sky_Sport_Italy_2010.png/revision/latest?cb=20150524204137</thumbnail>
 </item>
 
@@ -1565,7 +1541,7 @@ item>
 
 <item>
 <title>SKY SPORTS BOX OFFICE PPV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/38ad309c19cc/446.mpegts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/2e848b643e0e/446.mpegts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://my.sky.com/orderboxoffice/images/sky-sports-box-office-logo.png</thumbnail>
 </item>
 
@@ -1649,19 +1625,19 @@ item>
 
 <item>
 <title>SPORT KLUB 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/robertburden5682/robertburden5682/268.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://62.210.251.32:88/live/izu/izu/655.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://pbs.twimg.com/profile_images/378800000492898989/932aba6aefb95b440f4afd5820f2e351.png</thumbnail>
 </item>
 
 <item>
 <title>SPORT KLUB 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/robertburden5682/robertburden5682/267.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://62.210.251.32:88/live/izu/izu/654.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://pbs.twimg.com/profile_images/378800000492898989/932aba6aefb95b440f4afd5820f2e351.png</thumbnail>
 </item>
 
 <item>
 <title>SPORT KLUB 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/robertburden5682/robertburden5682/266.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://62.210.251.32:88/live/izu/izu/653.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://pbs.twimg.com/profile_images/378800000492898989/932aba6aefb95b440f4afd5820f2e351.png</thumbnail>
 </item>
 
@@ -1717,43 +1693,43 @@ item>
 
 <item>
 <title>STAR SPORTS 2 IN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/robertburden5682/robertburden5682/1139.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sliti/dmV9FUkIpn/1740.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.underconsideration.com/brandnew/archives/StarSports_Logo_detail.jpg</thumbnail>
 </item>
 
 <item>
 <title>STAR SPORTS 3 IN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/robertburden5682/robertburden5682/1140.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sliti/dmV9FUkIpn/3892.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.underconsideration.com/brandnew/archives/StarSports_Logo_detail.jpg</thumbnail>
 </item>
 
 <item>
 <title>STAR SPORTS 4 IN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/robertburden5682/robertburden5682/1141.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sliti/dmV9FUkIpn/3927.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.underconsideration.com/brandnew/archives/StarSports_Logo_detail.jpg</thumbnail>
 </item>
 
 <item>
 <title>SUPERSPORT 1 AL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mainstream.dyndns.tv:8000/live/Stone15hurst/Stone15hurst/32.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://maxtvv.abdou123.com:9300/live/latif/latif/618.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://yt3.ggpht.com/-kF7ryGR3hHU/AAAAAAAAAAI/AAAAAAAAAAA/DNb2_uQh5ik/s512-c-k-no/photo.jpg</thumbnail>
 </item>
 
 <item>
 <title>SUPERSPORT 2 AL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mainstream.dyndns.tv:8000/live/Stone15hurst/Stone15hurst/33.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://maxtvv.abdou123.com:9300/live/latif/latif/619.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://yt3.ggpht.com/-kF7ryGR3hHU/AAAAAAAAAAI/AAAAAAAAAAA/DNb2_uQh5ik/s512-c-k-no/photo.jpg</thumbnail>
 </item>
 
 <item>
 <title>SUPERSPORT 3 AL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/robertburden5682/robertburden5682/262.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://maxtvv.abdou123.com:9300/live/latif/latif/620.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://yt3.ggpht.com/-kF7ryGR3hHU/AAAAAAAAAAI/AAAAAAAAAAA/DNb2_uQh5ik/s512-c-k-no/photo.jpg</thumbnail>
 </item>
 
 <item>
 <title>SUPERSPORT 4 AL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mainstream.dyndns.tv:8000/live/Stone15hurst/Stone15hurst/34.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://maxtvv.abdou123.com:9300/live/latif/latif/621.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://yt3.ggpht.com/-kF7ryGR3hHU/AAAAAAAAAAI/AAAAAAAAAAA/DNb2_uQh5ik/s512-c-k-no/photo.jpg</thumbnail>
 </item>
 
@@ -1831,7 +1807,7 @@ item>
 
 <item>
 <title>USA NETWORK BACKUP</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tinyurl.com/z32ztg7&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.do/usanetwork&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://tvseriesfinale.com/wp-content/uploads/2014/08/usa04.jpg</thumbnail>
 </item>
 
@@ -1845,27 +1821,6 @@ item>
 <title>WWE NETWORK BACKUP</title>
 <link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/2e848b643e0e/79.mpegts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://i.imgur.com/Ug9xGzp.png</thumbnail>
-</item>
-
-<item>
-<title>ZUNOX - LIVE SPORTS</title>
-<link>http://stream.ssh101.com:1935/live/zunox1a/chunklist.m3u8</link>
-<referer>http://zonasports.to</referer>
-<thumbnail>http://cdn.cybergolf.com/images/979/Zona-Sports.jpg</thumbnail>
-</item>
-
-<item>
-<title>ZONASPORTS - LIVE SPORTS</title>
-<sportsdevil>http://zonasports.to/channel.php?id=6</sportsdevil>
-<referer>http://zonasports.to/</referer>
-<thumbnail>http://cdn.cybergolf.com/images/979/Zona-Sports.jpg</thumbnail>
-</item>
-
-
-<title>ZONASPORTS - LIVE SPORTS</title>
-<link>https://origin01-atl.streamup.com/app/zonax1azs-channel/chunklist.m3u8</link>
-<referer>http://zonasports.to/</referer>
-<thumbnail>http://cdn.cybergolf.com/images/979/Zona-Sports.jpg</thumbnail>
 </item>
 </items>
 </channel>
