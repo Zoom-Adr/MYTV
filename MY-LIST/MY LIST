@@ -1763,7 +1763,7 @@ item>
 <thumbnail>http://wpmedia.o.canada.com/2014/05/tsn_red_1__244682411.jpg?w=620</thumbnail>
 </item>
 
-<item>
+
 <title>TRUE VISIONS BEIN SPORTS</title>
 <link>http://27.254.64.105:1935/mobilelink/bein1.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
@@ -1775,7 +1775,7 @@ item>
 <thumbnail>http://www.cox.com/wcm/en/video/tv/bein-sport/bein-tv-sp-promo.jpg</thumbnail>
 </item>
 
-<item>
+
 <title>TRUE VISIONS FOX SPORTS 1</title>
 <link>http://27.254.64.105:1935/mobilelink/foxsport.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
@@ -1787,7 +1787,7 @@ item>
 <thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
 </item>
 
-<item>
+
 <title>TRUE VISIONS FOX SPORTS 2</title>
 <link>http://27.254.64.105:1935/mobilelink/foxsport2.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
@@ -1799,7 +1799,7 @@ item>
 <thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
 </item>
 
-<item>
+
 <title>TRUE VISIONS FOX SPORTS 3</title>
 <link>http://27.254.64.105:1935/mobilelink/foxsport3.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
