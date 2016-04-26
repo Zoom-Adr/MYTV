@@ -1396,6 +1396,12 @@ item>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports_us_2.png</thumbnail>
 </item>
 
+<item>
+<title>FOX SPORTS DEPORTES</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.do/foxdeportes&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
+</item>
+
 <title>FOX SPORTS 2 USA</title>
 <link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
