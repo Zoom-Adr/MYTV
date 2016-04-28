@@ -2111,25 +2111,6 @@ item>
 </item>
 
 <item>
-<title>TEST MIVO</title>
-<link>$doregex[URL]$doregex[wmsauth]|Referer=http://www.mivo.com/&amp;User-Agent=iPhone</link>
-<regex>
-<name>URL</name>
-<expres>sctv","dataUrl":"(.*?)"\W</expres>
-<page>http://api.mivo.com/v4/web/channels</page>
-<referer>http://www.mivo.com/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
-</regex>
-<regex>
-<name>wmsauth</name>
-<expres>si.*:[",'](.*?)[',"]\W</expres>
-<page>http://api.mivo.com/v4/mobile/channels/wms-auth</page>
-<referer>http://www.mivo.com/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36 Authorization: BY-TrgLgK0NMzXb_JB_81DfeOxK_SNH7</agent>
-</regex>
-</item>
-
-<item>
 <title>TEST MIVO2</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[URL]$doregex[wmsauth]|Referer=http://www.mivo.com/&amp;User-Agent=iPhone</link>
 <regex>
