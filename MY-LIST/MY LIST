@@ -2111,8 +2111,8 @@ item>
 </item>
 
 <item>
-<title>TEST MIVO2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[URL]$doregex[wmsauth]|Referer=http://www.mivo.com/&amp;User-Agent=iPhone</link>
+<title>TEST MIVO3</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[URL]$doregex[wmsauth]|Referer=http://www.mivo.com/&amp;User-Agent=iPhone</link>
 <regex>
 <name>URL</name>
 <expres>sctv","dataUrl":"(.*?)"\W</expres>
