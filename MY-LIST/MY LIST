@@ -1414,18 +1414,6 @@ item>
 </item>
 
 <item>
-<title>MOVISTAR MOTOGP</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sliti/dmV9FUkIpn/765.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://pbs.twimg.com/profile_images/692019514947534848/QKheiBW_.png</thumbnail>
-</item>
-
-<item>
-<title>MOVISTAR F1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sliti/dmV9FUkIpn/803.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://pbs.twimg.com/profile_images/692019245853626369/83lEs7Vo.png</thumbnail>
-</item>
-
-<item>
 <title>MIO STADIUM 102</title>
 <f4m>http://bit.do/bYDaC</f4m>
 <thumbnail>http://www.singteltv.com.sg/_channels/pic_ch108.jpg</thumbnail>
@@ -1462,6 +1450,18 @@ item>
 </item>
 
 <item>
+<title>MOVISTAR MOTOGP</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sliti/dmV9FUkIpn/765.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://pbs.twimg.com/profile_images/692019514947534848/QKheiBW_.png</thumbnail>
+</item>
+
+<item>
+<title>MOVISTAR F1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sliti/dmV9FUkIpn/803.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://pbs.twimg.com/profile_images/692019245853626369/83lEs7Vo.png</thumbnail>
+</item>
+
+<item>
 <title>MUTV</title>
 <link>plugin://plugin.video.f4mTester/?url=http://62.210.251.32:88/live/izu/izu/296.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png</thumbnail>
@@ -1487,7 +1487,7 @@ item>
 
 <item>
 <title>NBCSN BACKUP</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.do/nbcsnhd&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.do/nbcsports&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://nbcsportsgrouppressbox.files.wordpress.com/2012/06/nbcsport-network11.jpg</thumbnail>
 </item>
 
@@ -1519,6 +1519,54 @@ item>
 <title>OTE SPORT 3 GR</title>
 <link>plugin://plugin.video.f4mTester/?url=http://62.210.251.32:88/live/izu/izu/686.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.gazzetta.gr/sites/default/files/sitefiles_2014-09/ote_logo_sport_cmyk.jpg</thumbnail>
+</item>
+
+<item>
+<title>PLP 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.do/PLP1&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://i.imgur.com/01Ve7Zm.png</thumbnail>
+</item>
+
+<item>
+<title>PLP 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.do/PLP22&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://i.imgur.com/01Ve7Zm.png</thumbnail>
+</item>
+
+<item>
+<title>PLP 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.do/PLP3&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://i.imgur.com/01Ve7Zm.png</thumbnail>
+</item>
+
+<item>
+<title>PLP 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.do/PLP4&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://i.imgur.com/01Ve7Zm.png</thumbnail>
+</item>
+
+<item>
+<title>PLP 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.do/PLP5&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://i.imgur.com/01Ve7Zm.png</thumbnail>
+</item>
+
+<item>
+<title>PLP 6</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.do/PLP6&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://i.imgur.com/01Ve7Zm.png</thumbnail>
+</item>
+
+<item>
+<title>PLP 7</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.do/PLP7&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://i.imgur.com/01Ve7Zm.png</thumbnail>
+</item>
+
+<item>
+<title>PLP 8</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.do/PLP8&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://i.imgur.com/01Ve7Zm.png</thumbnail>
 </item>
 
 <item>
