@@ -1613,54 +1613,6 @@ item>
 </item>
 
 <item>
-<title>PLP 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.do/PLP1&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://i.imgur.com/01Ve7Zm.png</thumbnail>
-</item>
-
-<item>
-<title>PLP 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.do/PLP22&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://i.imgur.com/01Ve7Zm.png</thumbnail>
-</item>
-
-<item>
-<title>PLP 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.do/PLP3&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://i.imgur.com/01Ve7Zm.png</thumbnail>
-</item>
-
-<item>
-<title>PLP 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.do/PLP4&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://i.imgur.com/01Ve7Zm.png</thumbnail>
-</item>
-
-<item>
-<title>PLP 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.do/PLP5&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://i.imgur.com/01Ve7Zm.png</thumbnail>
-</item>
-
-<item>
-<title>PLP 6</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.do/PLP6&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://i.imgur.com/01Ve7Zm.png</thumbnail>
-</item>
-
-<item>
-<title>PLP 7</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.do/PLP7&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://i.imgur.com/01Ve7Zm.png</thumbnail>
-</item>
-
-<item>
-<title>PLP 8</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.do/PLP8&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://i.imgur.com/01Ve7Zm.png</thumbnail>
-</item>
-
-<item>
 <title>PREMIUM SPORT 1 IT</title>
 <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/107.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.mediasetpremium.it/bin/0.$plit/C_54_articolo_3869_imgarticolo.jpg</thumbnail>
