@@ -19,7 +19,13 @@
 
 <item>
 <title>SWANSEA VS LIVERPOOL - HD</title>
-<f4m>|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</f4m>
+<f4m>http://nlds5.cdnak.lon.neulion.com/nlds/coliseum/swanseacity/as/live/swanseacity_hd_4500.f4m?nltid=plp&nltdt=6&nltnt=1&h=677987fe126cda19dd5875b1aad3c2f5.1462098841|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</f4m>
+<thumbnail>http://files.pes-unlimited.webnode.pt/system_preview_detail_200000006-31d9732d3b-public/Barclays%20Premier%20League.png</thumbnail>
+</item>
+
+<item>
+<title>SWANSEA VS LIVERPOOL - SD</title>
+<f4m>http://nlds5.cdnak.lon.neulion.com/nlds/coliseum/swanseacity/as/live/swanseacity_hd_1600.f4m?nltid=plp&nltdt=6&nltnt=1&h=677987fe126cda19dd5875b1aad3c2f5.1462098841|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</f4m>
 <thumbnail>http://files.pes-unlimited.webnode.pt/system_preview_detail_200000006-31d9732d3b-public/Barclays%20Premier%20League.png</thumbnail>
 </item>
 
