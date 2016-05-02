@@ -1636,7 +1636,7 @@ item>
 
 <item>
 <title>SKY SPORTS BOX OFFICE PPV UK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/946a914c3965/446.mpegts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.do/testysboffice&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://my.sky.com/orderboxoffice/images/sky-sports-box-office-logo.png</thumbnail>
 </item>
 
