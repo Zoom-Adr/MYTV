@@ -2136,6 +2136,11 @@ item>
 </item>
 
 <item>
+<title>s09 test</title>
+<link>http://s09.platinum-iptv.com:80/live?channelId=655&amp;uid=2233&amp;deviceSn=5556|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+</item>
+
+<item>
 <title>MIVO TEST</title> 
 <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
 
