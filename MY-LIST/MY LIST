@@ -936,19 +936,19 @@ item>
 
 <item>
 <title>ZEE BOLLYWOOD</title>
-<link>http://zeefamily-i.akamaihd.net/hls/live/227854/zeebollywood72839923765/playlist.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/mario12/mario12/3897.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://res.cloudinary.com/idiso/image/upload/q_70/v1411274844/jtnweomk62fk66zo8pun.png</thumbnail>
 </item>
 
 <item>
 <title>ZEE CINEMA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tabertor.ddns.net:8000/live/mudassir/mudassir/110.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/mario12/mario12/3886.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://res.cloudinary.com/idiso/image/upload/q_70/v1411274605/vg3cqxanzjoysl2h55bp.png</thumbnail>
 </item>
 
 <item>
 <title>ZEE CLASSIC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tabertor.ddns.net:8000/live/mudassir/mudassir/102.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/mario12/mario12/3885.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://res.cloudinary.com/idiso/image/upload/q_70/v1411275054/hwgpxoyesnp5bzzgfghf.png</thumbnail>
 </item>
 
@@ -966,13 +966,13 @@ item>
 
 <item>
 <title>ZEE TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tabertor.ddns.net:8000/live/mudassir/mudassir/99.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/mario12/mario12/1743.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://res.cloudinary.com/idiso/image/upload/q_70/v1448492098/ydqgeqtcxyylxhjlk2hs.png</thumbnail>
 </item>
 
 <item>
 <title>ZEE SMILE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tabertor.ddns.net:8000/live/mudassir/mudassir/114.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/mario12/mario12/1741.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://res.cloudinary.com/idiso/image/upload/q_70/v1411274763/ei39fgx52yapsaq9siwj.png</thumbnail>
 </item>
 </items>
@@ -1770,25 +1770,25 @@ item>
 
 <item>
 <title>STAR SPORTS 1 IN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tabertor.ddns.net:8000/live/mudassir/mudassir/630.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>http://149.202.85.84:8080/st1/local/index.m3u8</link>
 <thumbnail>http://www.underconsideration.com/brandnew/archives/StarSports_Logo_detail.jpg</thumbnail>
 </item>
 
 <item>
 <title>STAR SPORTS 2 IN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tabertor.ddns.net:8000/live/mudassir/mudassir/629.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>http://149.202.85.84:8080/st2/local/index.m3u8</link>
 <thumbnail>http://www.underconsideration.com/brandnew/archives/StarSports_Logo_detail.jpg</thumbnail>
 </item>
 
 <item>
 <title>STAR SPORTS 3 IN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tabertor.ddns.net:8000/live/mudassir/mudassir/628.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>http://149.202.85.84:8080/st3/local/index.m3u8</link>
 <thumbnail>http://www.underconsideration.com/brandnew/archives/StarSports_Logo_detail.jpg</thumbnail>
 </item>
 
 <item>
 <title>STAR SPORTS 4 IN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tabertor.ddns.net:8000/live/mudassir/mudassir/627.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>http://149.202.85.84:8080/st4/local/index.m3u8</link>
 <thumbnail>http://www.underconsideration.com/brandnew/archives/StarSports_Logo_detail.jpg</thumbnail>
 </item>
 
