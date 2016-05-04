@@ -2153,6 +2153,12 @@ item>
 </item>
 
 <item>
+<title>gafsa</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvgafsa.ddns.net:8000/live/tiger/tiger/9835.ts&amp;streamtype=TSDOWNLOADER</link>
+</item>
+
+
+<item>
 <title>MIVO TEST</title> 
 <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
 
