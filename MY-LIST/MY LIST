@@ -107,6 +107,30 @@ item>
 <thumbnail>http://bit.ly/1qumZV3</thumbnail>
 </item>
 
+<item>
+<title>MIO STADIUM 102</title>
+<f4m>http://bit.do/go102</f4m>
+<thumbnail>http://www.singteltv.com.sg/_channels/pic_ch108.jpg</thumbnail>
+</item>
+
+<item>
+<title>MIO STADIUM 103</title>
+<f4m>http://bit.do/go103</f4m>
+<thumbnail>http://www.singteltv.com.sg/_channels/pic_ch108.jpg</thumbnail>
+</item>
+
+<item>
+<title>MIO STADIUM 104</title>
+<f4m>http://bit.do/go104</f4m>
+<thumbnail>http://www.singteltv.com.sg/_channels/pic_ch108.jpg</thumbnail>
+</item>
+
+<item>
+<title>MIO STADIUM 105</title>
+<f4m>http://bit.do/go105</f4m>
+<thumbnail>http://www.singteltv.com.sg/_channels/pic_ch108.jpg</thumbnail>
+</item>
+
 <channel>
 <name>[B]---===[COLOR red]INDONESIA[/COLOR][COLOR yellow] CHANNELS[/COLOR]===---[/B]</name>
 <thumbnail>http://img.freeflagicons.com/thumb/flag_background/indonesia/indonesia_640.png</thumbnail>
@@ -1213,13 +1237,13 @@ item>
 
 <item>
 <title>CANAL+ FUTBOL ES</title>
-<link>plugin://plugin.video.f4mTester/?url=http://stream.does-it.net:8000/live/dom/dom/628.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/404.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Canal%2B_F%C3%BAtbol_2008.svg/550px-Canal%2B_F%C3%BAtbol_2008.svg.png</thumbnail>
 </item>
 
 <item>
 <title>CANAL+ LIGA ES</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/mario12/mario12/793.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://stream.does-it.net:8000/live/dom/dom/631.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://coditelcordoba.com/wp-content/uploads/2014/07/canal+liga.jpg</thumbnail>
 </item>
 
@@ -1435,30 +1459,6 @@ item>
 <referer>http://www.liveonlinetv247.info/</referer>
 </regex>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports_us_2.png</thumbnail>
-</item>
-
-<item>
-<title>MIO STADIUM 102</title>
-<f4m>http://bit.do/go102</f4m>
-<thumbnail>http://www.singteltv.com.sg/_channels/pic_ch108.jpg</thumbnail>
-</item>
-
-<item>
-<title>MIO STADIUM 103</title>
-<f4m>http://bit.do/go103</f4m>
-<thumbnail>http://www.singteltv.com.sg/_channels/pic_ch108.jpg</thumbnail>
-</item>
-
-<item>
-<title>MIO STADIUM 104</title>
-<f4m>http://bit.do/go104</f4m>
-<thumbnail>http://www.singteltv.com.sg/_channels/pic_ch108.jpg</thumbnail>
-</item>
-
-<item>
-<title>MIO STADIUM 105</title>
-<f4m>http://bit.do/go105</f4m>
-<thumbnail>http://www.singteltv.com.sg/_channels/pic_ch108.jpg</thumbnail>
 </item>
 
 <item>
