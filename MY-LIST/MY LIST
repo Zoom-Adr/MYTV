@@ -2163,6 +2163,11 @@ item>
 </item>
 
 <item>
+<title>tinkerbell</title>
+<link>plugin://plugin.video.f4mTester/?url=http://featur-iptv.myvnc.com:8000/live/tinkerbell/tinkerbell/1748.ts&amp;streamtype=TSDOWNLOADER</link>
+</item>
+
+<item>
 <title>MIVO TEST</title> 
 <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
 
