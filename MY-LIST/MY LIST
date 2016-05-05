@@ -2133,18 +2133,28 @@ item>
 </item>
 
 <item>
-<title>gafsa canal futbol</title>
-<link>plugin://plugin.video.f4mTester/?url=http://c0mmandpr0tv.ddns.me:8000/live/test/test/1895.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>gafsa bt1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvgafsa.ddns.net:8000/live/tiger/tiger/9835.ts&amp;streamtype=TSDOWNLOADER</link>
 </item>
 
 <item>
-<title>tinkerbell</title>
+<title>tinkerbell motogp</title>
 <link>plugin://plugin.video.f4mTester/?url=http://featur-iptv.myvnc.com:8000/live/tinkerbell/tinkerbell/1748.ts&amp;streamtype=TSDOWNLOADER</link>
 </item>
 
 <item>
-<title>tinkerbell</title>
+<title>tinkerbell b1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://featur-iptv.myvnc.com:8000/live/tinkerbell/tinkerbell/692.ts&amp;streamtype=TSDOWNLOADER</link>
+</item>
+
+<item>
+<title>ftv motogp</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/1260.ts&amp;streamtype=TSDOWNLOADER</link>
+</item>
+
+<item>
+<title>ftv canal liga</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/466.ts&amp;streamtype=TSDOWNLOADER</link>
 </item>
 
 <item>
