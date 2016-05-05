@@ -1183,7 +1183,7 @@ item>
 
 <item>
 <title>BT SPORT 1 BACKUP</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=1264000&amp;url=http://ORBIT-IPTV.COM:2500/live/atif/atif/1488.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=1264000&amp;url=http://stream.does-it.net:8000/live/dom/dom/596.ts</link>
 <thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
 </item>
 
@@ -1195,7 +1195,7 @@ item>
 
 <item>
 <title>BT SPORT 2 BACKUP</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=1264000&amp;url=http://ORBIT-IPTV.COM:2500/live/atif/atif/1487.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=1264000&amp;url=http://stream.does-it.net:8000/live/dom/dom/597.ts</link>
 <thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
 </item>
 
