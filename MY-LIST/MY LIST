@@ -2202,6 +2202,10 @@ item>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvpolo.dvrdns.org:22921/live/visioniptv/skype/18.ts&amp;streamtype=TSDOWNLOADER</link>
 </item>
 
+<item>
+<title>TEST</title>
+<link>plugin://plugin.video.dex/?url=5668&inifile</link>
+</item>
 
 <item>
 <title>MIVO TEST</title> 
