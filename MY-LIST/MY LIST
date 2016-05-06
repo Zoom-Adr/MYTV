@@ -2188,6 +2188,11 @@ item>
 </item>
 
 <item>
+<title>michel ssp1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://featur-iptv.myvnc.com:8000/live/michel/michel/682.ts&amp;streamtype=TSDOWNLOADER</link>
+</item>
+
+<item>
 <title>MIVO TEST</title> 
 <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
 
