@@ -2218,11 +2218,6 @@ item>
 </item>
 
 <item>
-<title>golbetv bt1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://golbetv.dyndns.tv:777/live/genta/genta/2343.ts&amp;streamtype=TSDOWNLOADER</link>
-</item>
-
-<item>
 <title>IPTV POLO SSP1</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvpolo.dvrdns.org:22921/live/visioniptv/skype/18.ts&amp;streamtype=TSDOWNLOADER</link>
 </item>
