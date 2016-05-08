@@ -7,12 +7,12 @@
 <fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 
 <channel>
-<name>---===[COLOR red]LIVE[/COLOR][COLOR yellow] GAMES[/COLOR]===---</name>
+<name>[B]---===[COLOR red]LIVE[/COLOR][COLOR yellow] GAMES[/COLOR]===---[B]</name>
 <thumbnail>https://i.imgur.com/01Ve7Zm.png</thumbnail>
 <fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 
 <item>
-<title>---===[COLOR red]GAMES AVAILABLE ONLY ON MATCHDAY[/COLOR]===---</title>
+<title>[B]---===[COLOR red]GAMES AVAILABLE ONLY ON MATCHDAY[/COLOR]===---[B]</title>
 <link>.</link>
 <thumbnail>https://i.imgur.com/01Ve7Zm.png</thumbnail>
 </item>
@@ -55,7 +55,7 @@
 
 
 <channel>
-<name>---===[COLOR red]LIVE[/COLOR][COLOR yellow] EXTRA[/COLOR]===---</name>
+<name>[B]---===[COLOR red]LIVE[/COLOR][COLOR yellow] EXTRA[/COLOR]===---[B]</name>
 <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/08/nbc-sports-live-extra.png</thumbnail>
 <fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 
@@ -169,7 +169,7 @@ item>
 </item>
 
 <channel>
-<name>---===[COLOR red]INDONESIA[/COLOR][COLOR yellow] CHANNELS[/COLOR]===---</name>
+<name>[B]---===[COLOR red]INDONESIA[/COLOR][COLOR yellow] CHANNELS[/COLOR]===---[B]</name>
 <thumbnail>http://img.freeflagicons.com/thumb/flag_background/indonesia/indonesia_640.png</thumbnail>
 <fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 
@@ -695,7 +695,7 @@ item>
 </channel>
 
 <channel>
-<name>---===[COLOR red]MALAYSIA[/COLOR][COLOR yellow] CHANNELS[/COLOR]===---</name>
+<name>[B]---===[COLOR red]MALAYSIA[/COLOR][COLOR yellow] CHANNELS[/COLOR]===---[B]</name>
 <thumbnail>http://img.freeflagicons.com/thumb/flag_background/malaysia/malaysia_640.png</thumbnail>
 <fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 
@@ -881,7 +881,7 @@ item>
 </channel>
 
 <channel>
-<name>---===[COLOR red]SINGAPORE[/COLOR][COLOR yellow] CHANNELS[/COLOR]===---</name>
+<name>[B]---===[COLOR red]SINGAPORE[/COLOR][COLOR yellow] CHANNELS[/COLOR]===---[B]</name>
 <thumbnail>http://img.freeflagicons.com/thumb/flag_background/singapore/singapore_640.png</thumbnail>
 <fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 
@@ -973,7 +973,7 @@ item>
 </channel>
 
 <channel>
-<name>---===[COLOR red]INDIA[/COLOR][COLOR yellow] CHANNELS[/COLOR]===---</name>
+<name>[B]---===[COLOR red]INDIA[/COLOR][COLOR yellow] CHANNELS[/COLOR]===---[B]</name>
 <thumbnail>http://img.freeflagicons.com/thumb/flag_background/india/india_640.png</thumbnail>
 <fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 
@@ -1040,7 +1040,7 @@ item>
 </channel>
 
 <channel>
-<name>---===[COLOR red]WORLD O[/COLOR][COLOR yellow]F SPORTS[/COLOR]===---</name>
+<name>[B]---===[COLOR red]WORLD O[/COLOR][COLOR yellow]F SPORTS[/COLOR]===---[B]</name>
 <thumbnail>http://previews.123rf.com/images/duug/duug1206/duug120600003/13966994-sport-logo-Stock-Vector-sports.jpg</thumbnail>
 <fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 
@@ -1970,7 +1970,7 @@ item>
 </channel>
 
 <channel>
-<name>---===[COLOR red]WORLD O[/COLOR][COLOR yellow]F ENTERTAINMENT[/COLOR]===---</name>
+<name>[B]---===[COLOR red]WORLD O[/COLOR][COLOR yellow]F ENTERTAINMENT[/COLOR]===---[B]</name>
 <thumbnail>http://static1.squarespace.com/static/52d3279be4b0e8787707c127/t/53b9c56ce4b0b0a60334d578/1404683640897/thats_entertainment_gold.jpg?format=1500w</thumbnail>
 <fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 
@@ -2072,7 +2072,7 @@ item>
 </items>
 
 <channel>
-<name>---===[COLOR red]TEST[/COLOR][COLOR yellow] AREA[/COLOR]===---</name>
+<name>[B]---===[COLOR red]TEST[/COLOR][COLOR yellow] AREA[/COLOR]===---[B]</name>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/originals/88/64/98/886498fa48837f4a6e9252567b604638.jpg</thumbnail>
 <fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 
