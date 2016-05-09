@@ -2200,7 +2200,7 @@ item>
 
 
 <item>
-<title>MIVO TEST</title> 
+<title>MIVO TEST 1</title> 
 <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
 
 <regex>
@@ -2223,7 +2223,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  m3u8= re.findall('sctv","dataUrl":"(.*?)"', source0.text)[0]
 
  headers1 = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Authorization': 'BY-TrgLgK0NMzXb_JB_81DfeOxK_SNH7'}
- url1= 'http://api.mivo.com/v4/mobile/channels/wms-auth'
+ url1= 'http://api.mivo.com/v4/web/channels/wms-auth'
  source1= requests.get(url1, headers=headers1)
  wms_auth= re.findall('"sign":"(.*?)"', source1.text)[0]
  url2 = m3u8 + wms_auth
