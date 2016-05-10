@@ -1,335 +1,153 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>http://www.mivo.com/#/live/sctv</title> 
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
+<title>FOX SPORTS 2 USA TEST</title>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/vlad/vlad/961.ts&amp;streamtype=TSDOWNLOADER</link>
+</item>
 
-<regex>
-    <name>encodedurl</name>
-    <expres>$pyFunction:urllib.quote_plus('$doregex[get-hls]')</expres>
-    <page></page>
-</regex>
-
-<regex>
-<name>get-hls</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m):
- import requests
- import re
-
-
- headers0 = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0'}
- url0= 'http://api.mivo.com/v4/web/channels'
- source0= requests.get(url0, headers=headers0)
- m3u8= re.findall('sctv","dataUrl":"(.*?)"', source0.text)[0]
-
- headers1 = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Authorization': 'BY-TrgLgK0NMzXb_JB_81DfeOxK_SNH7'}
- url1= 'http://api.mivo.com/v4/mobile/channels/wms-auth'
- source1= requests.get(url1, headers=headers1)
- wms_auth= re.findall('"sign":"(.*?)"', source1.text)[0]
- url2 = m3u8 + wms_auth
- source2= requests.get(url2, headers=headers0)
- maxbitrate= re.findall('(http.*)', source2.text)[0]
-
- return maxbitrate
-]]></expres>
-<page></page>
-</regex>
- </item>
- 
 <item>
-<title>[COLOR blue]SOUTHAMPTON VS MAN CITY 720 HD [/COLOR]</title>
-<link>
-sublink:LISTNAME:[COLOR yellow]Stream 1[/COLOR] - [COLOR blue]HD[/COLOR] ::LISTSOURCE:https://video06-lax.streamup.com/app/zonaxpsot2s-stream_aac/playlist.m3u8 ::--#
-sublink:LISTNAME:[COLOR yellow]Stream 2[/COLOR] - [COLOR blue]HD[/COLOR] ::LISTSOURCE:https://video06-lax.streamup.com/app/zonaxpsot2s-stream_aac/playlist.m3u8 ::--#
-sublink:LISTNAME:[COLOR yellow] Stream 3[/COLOR] - [COLOR blue]SD[/COLOR] ::LISTSOURCE:plugin://plugin.video.f4mTester/?url=http://italians-server.tv:8000/live/alesandro/alesandro/9024.ts&amp;streamtype=TSDOWNLOADER ::--#
-</link>
-<thumbnail></thumbnail>
+<title>FOX SPORTS 1 USA TEST</title>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/vlad/vlad/960.ts&amp;streamtype=TSDOWNLOADER</link>
+</item>
+
+<item>
+<title>LETV SPORTS</title>
+<link>http://live.g3proxy.lecloud.com/gslb?stream_id=lb_sports_720p&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1009&amp;format=letv&amp;expect=1%7CUser-Agent=Mozilla/5.0</link>
+</item>
+
+<item>
+<title>FOX SPORTS 1 USA TEST</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/index_564_av-p.m3u8</link>
 </item>
 
 
 <item>
-<title>CTH STADIUM 1</title>
-<link>$doregex[rtmp] app=$doregex[app] playpath=$doregex[file] swfUrl=http://p.jwpcdn.com/6/9/jwplayer.flash.swf flashVer=WIN\2020,0,0,306 swfVfy=1 live=1 timeout=13 pageUrl=$doregex[page]</link>
-<regex>
-<name>rtmp</name>
-<expres>file: "(rtmp.*\/).*?",</expres>
-<page>$doregex[page]</page>
-<referer>http://www.speed9kick9.com/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<regex>
-<name>app</name>
-<expres>file: ".*\/(.*?\/).*?",</expres>
-<page>$doregex[page]</page>
-<referer>http://www.speed9kick9.com/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<regex>
-<name>file</name>
-<expres>file: ".*\/(.*?)",</expres>
-<page>$doregex[page]</page>
-<referer>http://www.speed9kick9.com/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<regex>
-<name>page</name>
-<expres>iframe src='(.*?)'.*?width='100%</expres>
-<page>http://www.speed9kick9.com/CTHStadium1-164.html</page>
-<referer>http://www.speed9kick9.com/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<title>BT SPORT 1 HD TEST</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/946a914c3965/429.mpegts&amp;streamtype=TSDOWNLOADER</link>
 </item>
 
 <item>
-<title>CTH STADIUM 2</title>
-<link>$doregex[rtmp] app=$doregex[app] playpath=$doregex[file] swfUrl=http://p.jwpcdn.com/6/9/jwplayer.flash.swf flashVer=WIN\2020,0,0,306 swfVfy=1 live=1 timeout=13 pageUrl=$doregex[page]</link>
-<regex>
-<name>rtmp</name>
-<expres>file: "(rtmp.*\/).*?",</expres>
-<page>$doregex[page]</page>
-<referer>http://www.speed9kick9.com/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<regex>
-<name>app</name>
-<expres>file: ".*\/(.*?\/).*?",</expres>
-<page>$doregex[page]</page>
-<referer>http://www.speed9kick9.com/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<regex>
-<name>file</name>
-<expres>file: ".*\/(.*?)",</expres>
-<page>$doregex[page]</page>
-<referer>http://www.speed9kick9.com/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<regex>
-<name>page</name>
-<expres>iframe src='(.*?)'.*?width='100%</expres>
-<page>http://www.speed9kick9.com/CTHStadium2-165.html</page>
-<referer>http://www.speed9kick9.com/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<title>BT SPORT 2 HD TEST</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/946a914c3965/432.mpegts&amp;streamtype=TSDOWNLOADER</link>
 </item>
 
 <item>
-<title>CTH STADIUM 3</title>
-<link>$doregex[rtmp] app=$doregex[app] playpath=$doregex[file] swfUrl=http://p.jwpcdn.com/6/9/jwplayer.flash.swf flashVer=WIN\2020,0,0,306 swfVfy=1 live=1 timeout=13 pageUrl=$doregex[page]</link>
-<regex>
-<name>rtmp</name>
-<expres>file: "(rtmp.*\/).*?",</expres>
-<page>$doregex[page]</page>
-<referer>http://www.speed9kick9.com/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<regex>
-<name>app</name>
-<expres>file: ".*\/(.*?\/).*?",</expres>
-<page>$doregex[page]</page>
-<referer>http://www.speed9kick9.com/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<regex>
-<name>file</name>
-<expres>file: ".*\/(.*?)",</expres>
-<page>$doregex[page]</page>
-<referer>http://www.speed9kick9.com/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<regex>
-<name>page</name>
-<expres>iframe src='(.*?)'.*?width='100%</expres>
-<page>http://www.speed9kick9.com/CTHStadium3-166.html</page>
-<referer>http://www.speed9kick9.com/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<title>SKY SPORTS 1 HD TEST</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/946a914c3965/24.mpegts&amp;streamtype=TSDOWNLOADER</link>
 </item>
 
 <item>
-<title>CTH STADIUM 4</title>
-<link>$doregex[rtmp] app=$doregex[app] playpath=$doregex[file] swfUrl=http://p.jwpcdn.com/6/9/jwplayer.flash.swf flashVer=WIN\2020,0,0,306 swfVfy=1 live=1 timeout=13 pageUrl=$doregex[page]</link>
-<regex>
-<name>rtmp</name>
-<expres>file: "(rtmp.*\/).*?",</expres>
-<page>$doregex[page]</page>
-<referer>http://www.speed9kick9.com/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<regex>
-<name>app</name>
-<expres>file: ".*\/(.*?\/).*?",</expres>
-<page>$doregex[page]</page>
-<referer>http://www.speed9kick9.com/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<regex>
-<name>file</name>
-<expres>file: ".*\/(.*?)",</expres>
-<page>$doregex[page]</page>
-<referer>http://www.speed9kick9.com/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<regex>
-<name>page</name>
-<expres>iframe src='(.*?)'.*?width='100%</expres>
-<page>http://www.speed9kick9.com/CTHStadium4-167.html</page>
-<referer>http://www.speed9kick9.com/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<title>ASTRO SUPERSPORT 1 TEST</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/946a914c3965/484.mpegts&amp;streamtype=TSDOWNLOADER</link>
 </item>
 
 <item>
-<title>CTH STADIUM 5</title>
-<link>$doregex[rtmp] app=$doregex[app] playpath=$doregex[file] swfUrl=http://p.jwpcdn.com/6/9/jwplayer.flash.swf flashVer=WIN\2020,0,0,306 swfVfy=1 live=1 timeout=13 pageUrl=$doregex[page]</link>
-<regex>
-<name>rtmp</name>
-<expres>file: "(rtmp.*\/).*?",</expres>
-<page>$doregex[page]</page>
-<referer>http://www.speed9kick9.com/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<regex>
-<name>app</name>
-<expres>file: ".*\/(.*?\/).*?",</expres>
-<page>$doregex[page]</page>
-<referer>http://www.speed9kick9.com/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<regex>
-<name>file</name>
-<expres>file: ".*\/(.*?)",</expres>
-<page>$doregex[page]</page>
-<referer>http://www.speed9kick9.com/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<regex>
-<name>page</name>
-<expres>iframe src='(.*?)'.*?width='100%</expres>
-<page>http://www.speed9kick9.com/CTHStadium5-168.html</page>
-<referer>http://www.speed9kick9.com/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<title>NBCSN TEST</title>
+<f4m>http://54.177.79.231/server/play/nbcsnxctg/2626000/prog.m3u8|X-Forwarded-For=54.183.196.251|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</f4m>
 </item>
 
 <item>
-<title>SKYNET SPORTS 4</title>
-<link>$doregex[rtmp] app=$doregex[app] playpath=$doregex[file] swfUrl=http://p.jwpcdn.com/6/9/jwplayer.flash.swf flashVer=WIN\2020,0,0,306 swfVfy=1 live=1 timeout=13 pageUrl=$doregex[page]</link>
+<title>FS2</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
-<name>rtmp</name>
-<expres>file: "(rtmp.*\/).*?",</expres>
-<page>$doregex[page]</page>
-<referer>http://www.speed9kick9.com/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/foxsports2.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
 </regex>
-<regex>
-<name>app</name>
-<expres>file: ".*\/(.*?\/).*?",</expres>
-<page>$doregex[page]</page>
-<referer>http://www.speed9kick9.com/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<regex>
-<name>file</name>
-<expres>file: ".*\/(.*?)",</expres>
-<page>$doregex[page]</page>
-<referer>http://www.speed9kick9.com/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<regex>
-<name>page</name>
-<expres>iframe src='(.*?)'.*?width='100%</expres>
-<page>http://www.speed9kick9.com/Skynet4-161.html</page>
-<referer>http://www.speed9kick9.com/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
 </item>
 
 <item>
-<title>SKYNET SPORTS 5</title>
-<link>$doregex[rtmp] app=$doregex[app] playpath=$doregex[file] swfUrl=http://p.jwpcdn.com/6/9/jwplayer.flash.swf flashVer=WIN\2020,0,0,306 swfVfy=1 live=1 timeout=13 pageUrl=$doregex[page]</link>
-<regex>
-<name>rtmp</name>
-<expres>file: "(rtmp.*\/).*?",</expres>
-<page>$doregex[page]</page>
-<referer>http://www.speed9kick9.com/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<regex>
-<name>app</name>
-<expres>file: ".*\/(.*?\/).*?",</expres>
-<page>$doregex[page]</page>
-<referer>http://www.speed9kick9.com/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<regex>
-<name>file</name>
-<expres>file: ".*\/(.*?)",</expres>
-<page>$doregex[page]</page>
-<referer>http://www.speed9kick9.com/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<regex>
-<name>page</name>
-<expres>iframe src='(.*?)'.*?width='100%</expres>
-<page>http://www.speed9kick9.com/Skynet5-162.html</page>
-<referer>http://www.speed9kick9.com/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<title>TEST SS1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://stream.does-it.net:8000/live/dom/dom/589.ts&amp;streamtype=TSDOWNLOADER</link>
 </item>
 
 <item>
-<title>SKYNET SPORTS 6</title>
-<link>$doregex[rtmp] app=$doregex[app] playpath=$doregex[file] swfUrl=http://p.jwpcdn.com/6/9/jwplayer.flash.swf flashVer=WIN\2020,0,0,306 swfVfy=1 live=1 timeout=13 pageUrl=$doregex[page]</link>
+<title>TEST MIVO</title>
+<link>$doregex[URL]$doregex[wmsauth]|Referer=http://www.mivo.com/&amp;User-Agent=iPhone</link>
 <regex>
-<name>rtmp</name>
-<expres>file: "(rtmp.*\/).*?",</expres>
-<page>$doregex[page]</page>
-<referer>http://www.speed9kick9.com/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+<name>URL</name>
+<expres>sctv","dataUrl":"(.*?)"\W</expres>
+<page>http://api.mivo.com/v4/web/channels</page>
+<referer>http://www.mivo.com/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
 </regex>
 <regex>
-<name>app</name>
-<expres>file: ".*\/(.*?\/).*?",</expres>
-<page>$doregex[page]</page>
-<referer>http://www.speed9kick9.com/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+<name>wmsauth</name>
+<expres>si.*:[",'](.*?)[',"]\W</expres>
+<page>http://api.mivo.com/v4/mobile/channels/wms-auth</page>
+<referer>http://www.mivo.com/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36 Authorization: BY-TrgLgK0NMzXb_JB_81DfeOxK_SNH7</agent>
 </regex>
-<regex>
-<name>file</name>
-<expres>file: ".*\/(.*?)",</expres>
-<page>$doregex[page]</page>
-<referer>http://www.speed9kick9.com/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<regex>
-<name>page</name>
-<expres>iframe src='(.*?)'.*?width='100%</expres>
-<page>http://www.speed9kick9.com/Skynet6-163.html</page>
-<referer>http://www.speed9kick9.com/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
+</item>
+
+
+<item>
+<title>SS1 BALTICBOX</title>
+<link>http://stream.balticbox.tv:8080/SkySP1/mono.m3u8?token=asg!1dkhaSG!!54754</link>
 <thumbnail></thumbnail>
-<fanart></fanart>
 </item>
 
 <item>
-<title>http://www.mivo.com/#/live/sctv</title> 
+<title>BTEUR BALTICBOX</title>
+<link>http://stream.balticbox.tv:8080/BTSpeur/mono.m3u8?token=asg!1dkhaSG!!54754</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>s09 test</title>
+<link>http://s09.platinum-iptv.com:80/live?channelId=655&amp;uid=2233&amp;deviceSn=5556|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+</item>
+
+<item>
+<title>gafsa canal futbol</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvgafsa.ddns.net:8000/live/tiger/tiger/8482.ts&amp;streamtype=TSDOWNLOADER</link>
+</item>
+
+<item>
+<title>gafsa bt1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvgafsa.ddns.net:8000/live/tiger/tiger/9835.ts&amp;streamtype=TSDOWNLOADER</link>
+</item>
+
+<item>
+<title>tinkerbell motogp</title>
+<link>plugin://plugin.video.f4mTester/?url=http://featur-iptv.myvnc.com:8000/live/tinkerbell/tinkerbell/1748.ts&amp;streamtype=TSDOWNLOADER</link>
+</item>
+
+<item>
+<title>tinkerbell b1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://featur-iptv.myvnc.com:8000/live/tinkerbell/tinkerbell/692.ts&amp;streamtype=TSDOWNLOADER</link>
+</item>
+
+<item>
+<title>reyhan stsp</title>
+<link>plugin://plugin.video.f4mTester/?url=http://featur-iptv.myvnc.com:8000/live/reyhan/reyhan/35.ts&amp;streamtype=TSDOWNLOADER</link>
+</item>
+
+
+<item>
+<title>ftv motogp</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/1260.ts&amp;streamtype=TSDOWNLOADER</link>
+</item>
+
+<item>
+<title>ftv canal liga</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/466.ts&amp;streamtype=TSDOWNLOADER</link>
+</item>
+
+<item>
+<title>michel ssp1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://featur-iptv.myvnc.com:8000/live/michel/michel/682.ts&amp;streamtype=TSDOWNLOADER</link>
+</item>
+
+<item>
+<title>IPTV POLO SSP1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvpolo.dvrdns.org:22921/live/visioniptv/skype/18.ts&amp;streamtype=TSDOWNLOADER</link>
+</item>
+
+
+<item>
+<title>MIVO TEST 1</title> 
 <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
 
 <regex>
@@ -364,3 +182,27 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 </regex>
  </item>
+
+<item>
+  <title>TEST | **www.filmon.com/tv/ufc-next**</title>
+  <link>$doregex[sxlink]</link>
+  <regex>
+    <name>sxlink</name>
+    <expres><![CDATA[high.stream.*?(http.*?)[",']\W]]></expres>
+    <page>http://www.filmon.com/api-v2/channel/$doregex[ch_id]</page>
+    <referer>http://www.filmon.com/tv/channel/export?channel_id=$doregex[ch_id]</referer>
+    <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
+    <accept>*/*; q=0.01</accept>
+    <cookieJar></cookieJar>
+    </includeheaders>
+  </regex>
+  <regex>
+    <name>ch_id</name>
+    <expres><![CDATA[clicked_channel_id.*?[",'](.*?)[",']\W]]></expres>
+    <page>https://www.filmon.com/tv/ufc-next</page>
+    <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
+    <accept>*/*; q=0.01</accept>
+    <cookieJar></cookieJar>
+    </includeheaders>
+  </regex>
+</item>
