@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<item>
+<title>ASTRO ARENA</title>
+<link>http://www.layarku.tv/media/areweb6.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_arena_zpsyciworbm.png</thumbnail>
+</item>
+
+<item>
+<title>ASTRO AWANI</title>
+<link>http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer6.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_awani_zpsssci0ox7.png</thumbnail>
+</item>
+
+
+<title>ASTRO OASIS</title>
+<link>http://www.layarku.tv/media/oasweb6.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_oasis_zpsr40ug54q.png</thumbnail>
+</item>
+
+
+<title>ASTRO PRIMA</title>
+<link>http://www.layarku.tv/media/priweb6.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_prima_zps3xru535m.png</thumbnail>
+</item>
+
+<item>
+<title>ASTRO RIA</title>
+<link>http://www.layarku.tv/media/indiecrew4.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_ria_zps6zrje2dc.png</thumbnail>
+</item>
+
+<item>
+<title>ASTRO WARNA</title>
+<link>http://www.layarku.tv/media/warna6v.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_warna_zpstzts3reb.png</thumbnail>
+</item>
+
+<item>
+<title>TV1</title>
+<link>$doregex[m3u8]|User-Agent=Android</link>
+<regex>
+    <name>m3u8</name>
+    <expres>file="(.*?)"</expres>
+    <page>http://cdn-rtm-player.gluempsapp.com/103/10149</page>
+    <referer>http://cdn-rtm-player.gluempsapp.com/103/10149</referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv1_zps8mlj4nck.png</thumbnail>
+</item>
+
+<item>
+<title>TV1 - Backup</title>
+<link>$doregex[m3u8]|User-Agent=Android</link>
+<regex>
+    <name>m3u8</name>
+    <expres>file="(.*?)"</expres>
+    <page>http://cdn-rtm-player.gluempsapp.com/102/10149</page>
+    <referer>http://cdn-rtm-player.gluempsapp.com/102/10149</referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv1_zps8mlj4nck.png</thumbnail>
+</item>
+
+<item>
+<title>TV2</title>
+<link>$doregex[m3u8]|User-Agent=Android</link>
+<regex>
+    <name>m3u8</name>
+    <expres>file="(.*?)"</expres>
+    <page>http://cdn-rtm-player.gluempsapp.com/103/10148</page>
+    <referer>http://cdn-rtm-player.gluempsapp.com/103/10148</referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/My_tv2_zpshzwufzrv.png</thumbnail>
+</item>
+
+<item>
+<title>TV2 - Backup</title>
+<link>$doregex[m3u8]|User-Agent=Android</link>
+<regex>
+    <name>m3u8</name>
+    <expres>file="(.*?)"</expres>
+    <page>http://cdn-rtm-player.gluempsapp.com/102/10148</page>
+    <referer>http://cdn-rtm-player.gluempsapp.com/102/10148</referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/My_tv2_zpshzwufzrv.png</thumbnail>
+</item>
+
+<item>
+<title>TV3</title>
+<link>http://www.layarku.tv/media/indiecrew3.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv3_zpsccy0afit.png</thumbnail>
+</item>
+
+<item>
+<title>TV3 - Backup</title>
+<link>http://us.layarku.tv/edge/149_591_live/chunklist_w610663079.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv3_zpsccy0afit.png</thumbnail>
+</item>
+
+
+<title>NTV7</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HDS&amp;maxbitrate=1264000&amp;url=$doregex[encodedurl]</link>
+<regex>
+    <name>encodedurl</name>
+    <expres>$pyFunction:urllib.quote_plus('http://ntv7flashsecure-lh.akamaihd.net/z/ntv7flash_sp@392290/manifest.f4m?hdnea=$doregex[get-token]&amp;hdcore=3.8.0&amp;plugin=jwplayer-3.8.0.0')</expres>
+    <page></page>
+</regex>
+<regex>
+      <name>get-token</name>
+      <expres>(.*)<expres>
+      <page>http://player.ooyala.com/sas/akamai_edge_auth_token?embed_code=c0aGNmeDqMkuwBzt5byiz-T1dCeMA7sB&amp;video_pcode=owMjgyOkSbJagb4ozVY_03UrHYLt</page>
+      <referer></referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_ntv7_zpsmslc5gwf.png</thumbnail>
+</item>
+
+<item>
+<title>TV9</title>
+<link>http://www.layarku.tv/media/tv9web6.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv9_zpsvy6n5ypz.png</thumbnail>
+</item>
+
+<item>
+<title>RTM PARLIMEN</title>
+<link>$doregex[m3u8]|User-Agent=Android</link>
+<regex>
+    <name>m3u8</name>
+    <expres>file="(.*?)"</expres>
+    <page>http://cdn-rtm-player.gluempsapp.com/103/10152</page>
+    <referer>http://cdn-rtm-player.gluempsapp.com/103/10152</referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/rtmparlimen_zpsu1trkjx7.png</thumbnail>
+</item>
+
+<item>
+<title>AL-HIJRAH</title>
+<link>http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:tvah_hypptv.smil/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_alhijrah_zps7om1g57e.png</thumbnail>
+</item>
+
+<item>
+<title>TVi</title>
+<link>$doregex[m3u8]|User-Agent=Android</link>
+<regex>
+    <name>m3u8</name>
+    <expres>file="(.*?)"</expres>
+    <page>http://cdn-rtm-player.gluempsapp.com/103/10150</page>
+    <referer>http://cdn-rtm-player.gluempsapp.com/103/10150</referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/tvi_zpsmwdrm674.png</thumbnail>
+</item>
+
+<item>
+<title>MARA TV</title>
+<link>http://stream2.1malaysiaiptv.com/mylive/smil:maratv_all.smil/chunklist_w387938424_b1000000_sleng.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/maratv_zpsees3ljuu.png</thumbnail>
+</item>
+
+<item>
+<title>BERNAMA TV</title>
+<link>http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_bernamatv_zpswz7nlgor.png</thumbnail>
+</item>
+
+<item>
+<title>AKSI SUKAN</title>
+<link>$doregex[m3u8]|User-Agent=Android</link>
+<regex>
+    <name>m3u8</name>
+    <expres>file="(.*?)"</expres>
+    <page>http://cdn-rtm-player.gluempsapp.com/103/10154</page>
+    <referer>http://cdn-rtm-player.gluempsapp.com/103/10154</referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/aksisukan_zpsynthgfvn.png</thumbnail>
+</item>

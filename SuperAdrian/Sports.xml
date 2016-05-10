@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<item>
+<title>ASTRO SUPERSPORT 1</title>
+<link>http://bit.ly/1LsRvCY</link>
+<thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png</thumbnail>
+</item>
+
+<item>
+<title>ASTRO SUPERSPORT 2</title>
+<link>http://bit.ly/1Vm5PD2</link>
+<thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png</thumbnail>
+</item>
+
+<item>
+<title>ASTRO SUPERSPORT 3</title>
+<link>http://bit.ly/1KoTFc4</link>
+<thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png</thumbnail>
+</item>
+
+<item>
+<title>ASTRO SUPERSPORT 4</title>
+<link>http://bit.ly/1KVEDdH</link>
+<thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png</thumbnail>
+</item>
+
+<item>
+<title>BOX NATION</title>
+<link>http://stream.balticbox.tv:8080/BOX/mono.m3u8?token=asg!1dkhaSG!!54754|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>https://pbs.twimg.com/profile_images/523395738181439488/ZSdNbxJ3_400x400.png</thumbnail>
+</item>
+
+<item>
+<title>BRITISH EUROSPORT 1</title>
+<link>http://stream.balticbox.tv:8080/EUUK/mono.m3u8?token=asg!1dkhaSG!!54754|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://www.wuv.de/var/wuv/storage/images/media/bilder/eurosport_2015_580/7186502-1-ger-DE/eurosport_2015_580_evo_580.jpg</thumbnail>
+</item
+
+<item>
+<title>BRITISH EUROSPORT 2</title>
+<link>http://stream.balticbox.tv:8080/EU2UK/mono.m3u8?token=asg!1dkhaSG!!54754|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://www.wuv.de/var/wuv/storage/images/media/bilder/eurosport_2015_580/7186502-1-ger-DE/eurosport_2015_580_evo_580.jpg</thumbnail>
+</item
+
+<item>
+<title>BT SPORTS 1 HD</title>
+<link>http://stream.balticbox.tv:8080/BTSp1/mono.m3u8?token=asg!1dkhaSG!!54754|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
+</item>
+
+<item>
+<title>BT SPORTS 2 HD</title>
+<link>http://stream.balticbox.tv:8080/BTSp2/mono.m3u8?token=asg!1dkhaSG!!54754|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
+</item>
+
+<item>
+<title>BT SPORTS EUROPE</title>
+<link>http://stream.balticbox.tv:8080/BTSpeur/mono.m3u8?token=asg!1dkhaSG!!54754|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
+</item>
+
+<item>
+<title>BT SPORTS ESPN</title>
+<link>http://stream.balticbox.tv:8080/BTSespn/mono.m3u8?token=asg!1dkhaSG!!54754|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
+</item>
+
+<item>
+<title>CHELSEA TV</title>
+<link>http://stream.balticbox.tv:8080/Chls/mono.m3u8?token=asg!1dkhaSG!!54754|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://www.chelseafc.com/content/cfc/en/homepage/videos/chelsea-tv-on-demand/_jcr_content.autoteaser.jpeg</thumbnail>
+</item>
+
+<item>
+<title>CTH STADIUM 1</title>
+<link>http://27.254.64.105:1935/mobilelink/cth1.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://khaozap.com/wp/sport/cth1.php</page>
+<referer>http://khaozap.com</referer>
+</regex>
+<thumbnail>http://www.cthbpl.com/img/stadium/stadium1.png</thumbnail>
+</item>
+
+<item>
+<title>CTH STADIUM 2</title>
+<link>http://27.254.64.105:1935/mobilelink/cth2.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://khaozap.com/wp/sport/cth1.php</page>
+<referer>http://khaozap.com</referer>
+</regex>
+<thumbnail>http://www.cthbpl.com/img/stadium/stadium2.png</thumbnail>
+</item>
+
+<item>
+<title>CTH STADIUM 3</title>
+<link>http://27.254.64.105:1935/mobilelink/cth3.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://khaozap.com/wp/sport/cth1.php</page>
+<referer>http://khaozap.com</referer>
+</regex>
+<thumbnail>http://www.cthbpl.com/img/stadium/stadium3.png</thumbnail>
+</item>
+
+<item>
+<title>CTH STADIUM 4</title>
+<link>http://27.254.64.105:1935/mobilelink/cth4.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://khaozap.com/wp/sport/cth1.php</page>
+<referer>http://khaozap.com</referer>
+</regex>
+<thumbnail>http://www.cthbpl.com/img/stadium/stadium4.png</thumbnail>
+</item>
+
+<item>
+<title>CTH STADIUM 5</title>
+<link>http://27.254.64.105:1935/mobilelink/cth5.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://khaozap.com/wp/sport/cth1.php</page>
+<referer>http://khaozap.com</referer>
+</regex>
+<thumbnail>http://www.cthbpl.com/img/stadium/stadium5.png</thumbnail>
+</item>
+
+<item>
+<title>CTH STADIUM 6</title>
+<link>http://bit.ly/1PRJWvd</link>
+<thumbnail>http://www.cthbpl.com/img/stadium/stadium6.png</thumbnail>
+</item>
+
+<item>
+<title>FOX SPORTS 1 USA</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/master.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports_us_1.png</thumbnail>
+</item>
+
+<item>
+<title>LFC TV</title>
+<link>http://stream.balticbox.tv:8080/LFCTV/mono.m3u8?token=asg!1dkhaSG!!54754|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://www.prolificnorth.co.uk/wp-content/uploads/2013/03/lfctv.jpg</thumbnail>
+</item>
+
+<item>
+<title>MUTV</title>
+<link>http://stream.balticbox.tv:8080/MUTV/mono.m3u8?token=asg!1dkhaSG!!54754|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png</thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS 1</title>
+<link>http://stream.balticbox.tv:8080/SkySP1/mono.m3u8?token=asg!1dkhaSG!!54754|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS 2</title>
+<link>http://stream.balticbox.tv:8080/SkySP2/mono.m3u8?token=asg!1dkhaSG!!54754|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS 3</title>
+<link>http://stream.balticbox.tv:8080/SkySP3/mono.m3u8?token=asg!1dkhaSG!!54754|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS 4</title>
+<link>http://stream.balticbox.tv:8080/SkySP4/mono.m3u8?token=asg!1dkhaSG!!54754|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS 5</title>
+<link>http://stream.balticbox.tv:8080/SkySP5/mono.m3u8?token=asg!1dkhaSG!!54754|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS F1</title>
+<link>http://stream.balticbox.tv:8080/SkySPf1/mono.m3u8?token=asg!1dkhaSG!!54754|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
+</item>
+
+<item>
+<title>SUPERSPORT 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nowweb-lh.akamaihd.net/z/SSH_1@309694/manifest.f4m?hdcore=3.8.0&amp;g=XSSCUAPRFEOQ&amp;plugin=aasp-3.8.0.52.27&amp;swf=http://core.dstv.com/video/flash/PlayerDStvSS.swf?v=1.19|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<cookieJar></cookieJar>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/6/66/Supersport2012.jpg</thumbnail>
+</item>
+
+<item>
+<title>SUPERSPORT 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nowweb-lh.akamaihd.net/z/SS2_1@309723/manifest.f4m?hdcore=3.8.0&amp;g=GUTXHTZTVQJN&amp;plugin=aasp-3.8.0.52.27&amp;swf=http://core.dstv.com/video/flash/PlayerDStvSS.swf?v=1.19</link>
+<cookieJar></cookieJar>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/6/66/Supersport2012.jpg</thumbnail>
+</item>
+
+<item>
+<title>SUPERSPORT 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nowweb-lh.akamaihd.net/z/SS3_1@309725/manifest.f4m?hdcore=3.8.0&amp;g=MRKKNUTMNKTJ&amp;plugin=aasp-3.8.0.52.27&amp;swf=http://core.dstv.com/video/flash/PlayerDStvSS.swf?v=1.19</link>
+<cookieJar></cookieJar>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/6/66/Supersport2012.jpg</thumbnail>
+</item>
+
+<item>
+<title>SUPERSPORT 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nowweb-lh.akamaihd.net/z/SS4_1@309727/manifest.f4m?hdcore=3.8.0&amp;g=GKVCJXNEUTKP&amp;plugin=aasp-3.8.0.52.27&amp;swf=http://core.dstv.com/video/flash/PlayerDStvSS.swf?v=1.19</link>
+<cookieJar></cookieJar>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/6/66/Supersport2012.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>SUPERSPORT 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nowweb-lh.akamaihd.net/z/HD5_1@309704/manifest.f4m?hdcore=3.8.0&amp;g=NXIBBKGLGIIT&amp;plugin=aasp-3.8.0.52.27&amp;swf=http://core.dstv.com/video/flash/PlayerDStvSS.swf?v=1.19</link>
+<cookieJar></cookieJar>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/6/66/Supersport2012.jpg</thumbnail>
+</item>
+
+<item>
+<title>SUPERSPORT 6</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nowweb-lh.akamaihd.net/z/SS6_1@309729/manifest.f4m?hdcore=3.8.0&amp;g=WRJFXZDLBNGI&amp;plugin=aasp-3.8.0.52.27&amp;swf=http://core.dstv.com/video/flash/PlayerDStvSS.swf?v=1.19</link>
+<cookieJar></cookieJar>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/6/66/Supersport2012.jpg</thumbnail>
+</item>
+
+<item>
+<title>SUPERSPORT 7</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nowweb-lh.akamaihd.net/z/SS7_1@309695/manifest.f4m?hdcore=3.8.0&amp;g=YTBYSKJLWHYE&amp;plugin=aasp-3.8.0.52.27&amp;swf=http://core.dstv.com/video/flash/PlayerDStvSS.swf?v=1.19</link>
+<cookieJar></cookieJar>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/6/66/Supersport2012.jpg</thumbnail>
+</item>
+
+<item>
+<title>SPORTSNET 360</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_3000.f4m?token=AgAKb25NZXRhRGF0YQgAAAAKAAhkdXJhdGlvbgBBa3dAAAAAAAAMY2FuU2Vla1RvRW5kAD/wAAAAAAAAAAx2aWRlb2NvZGVjaWQAQBwAAAAAAAAABXdpZHRoAECUAAAAAAAAAAZoZWlnaHQAQIaAAAAAAAAACWZyYW1lcmF0ZQBAPfhR4AAAAAAMYXVkaW9jb2RlY2lkAEAkAAAAAAAAAA1hdWRpb2NoYW5uZWxzAEAAAAAAAAAAAA9hdWRpb3NhbXBsZXJhdGUAQOWIgAAAAAAADWF1ZGlvZGF0YXJhdGUAQFAAAAAAAAAAAAk=</link>
+<cookieJar>http://37.48.104.130/sportsnet/Cookies.txt</cookieJar>
+<thumbnail>http://www.underconsideration.com/brandnew/archives/sportsnet_logo_detail.gif</thumbnail>
+</item>
+
+<item>
+<title>SPORTSNET ONE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nlds181.cdnak.neulion.com/nlds/sportsnetnow/sn_one/as/live/sn_one_hd_3000.f4m?token=AgAKb25NZXRhRGF0YQgAAAAKAAhkdXJhdGlvbgBBa3dAAAAAAAAMY2FuU2Vla1RvRW5kAD/wAAAAAAAAAAx2aWRlb2NvZGVjaWQAQBwAAAAAAAAABXdpZHRoAECUAAAAAAAAAAZoZWlnaHQAQIaAAAAAAAAACWZyYW1lcmF0ZQBAPfhR4AAAAAAMYXVkaW9jb2RlY2lkAEAkAAAAAAAAAA1hdWRpb2NoYW5uZWxzAEAAAAAAAAAAAA9hdWRpb3NhbXBsZXJhdGUAQOWIgAAAAAAADWF1ZGlvZGF0YXJhdGUAQFAAAAAAAAAAAAk=</link></link>
+<thumbnail>http://www.underconsideration.com/brandnew/archives/sportsnet_logo_detail.gif</thumbnail>
+</item>
+
+<item>
+<title>SPORTSNET ONTARIO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nlds185.cdnak.neulion.com/nlds/sportsnetnow/sn_Ontario/as/live/sn_Ontario_hd_3000.f4m?token=AgAKb25NZXRhRGF0YQgAAAAKAAhkdXJhdGlvbgBBa3dAAAAAAAAMY2FuU2Vla1RvRW5kAD/wAAAAAAAAAAx2aWRlb2NvZGVjaWQAQBwAAAAAAAAABXdpZHRoAECUAAAAAAAAAAZoZWlnaHQAQIaAAAAAAAAACWZyYW1lcmF0ZQBAPfhR4AAAAAAMYXVkaW9jb2RlY2lkAEAkAAAAAAAAAA1hdWRpb2NoYW5uZWxzAEAAAAAAAAAAAA9hdWRpb3NhbXBsZXJhdGUAQOWIgAAAAAAADWF1ZGlvZGF0YXJhdGUAQFAAAAAAAAAAAAk=</link>
+<thumbnail>http://www.underconsideration.com/brandnew/archives/sportsnet_logo_detail.gif</thumbnail>
+</item>
+
+<item>
+<title>SPORTSNET WORLD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nlds182.cdnak.neulion.com/nlds/sportsnetnow/sn_world/as/live/sn_world_hd_3000.f4m?token=AgAKb25NZXRhRGF0YQgAAAAKAAhkdXJhdGlvbgBBa3dAAAAAAAAMY2FuU2Vla1RvRW5kAD/wAAAAAAAAAAx2aWRlb2NvZGVjaWQAQBwAAAAAAAAABXdpZHRoAECUAAAAAAAAAAZoZWlnaHQAQIaAAAAAAAAACWZyYW1lcmF0ZQBAPfhR4AAAAAAMYXVkaW9jb2RlY2lkAEAkAAAAAAAAAA1hdWRpb2NoYW5uZWxzAEAAAAAAAAAAAA9hdWRpb3NhbXBsZXJhdGUAQOWIgAAAAAAADWF1ZGlvZGF0YXJhdGUAQFAAAAAAAAAAAAk=</link>
+<cookieJar>http://37.48.104.130/sportsnet/Cookies.txt</cookieJar>
+<thumbnail>http://www.underconsideration.com/brandnew/archives/sportsnet_logo_detail.gif</thumbnail>
+</item>
+
+
+<item>
+<title>TSN 1</title>
+<link>http://tv.supertv4u.eu:8000/live/C0KTK6nRg9/EyGXXiETaG/556.m3u8</link>
+<thumbnail>http://wpmedia.o.canada.com/2014/05/tsn_red_1__244682411.jpg?w=620</thumbnail>
+</item>
+
+<item>
+<title>TSN 2</title>
+<link>http://tv.supertv4u.eu:8000/live/C0KTK6nRg9/EyGXXiETaG/557.m3u8</link>
+<thumbnail>http://wpmedia.o.canada.com/2014/05/tsn_red_1__244682411.jpg?w=620</thumbnail>
+</item>
+
+<item>
+<title>TSN 3</title>
+<link>http://tv.supertv4u.eu:8000/live/C0KTK6nRg9/EyGXXiETaG/558.m3u8</link>
+<thumbnail>http://wpmedia.o.canada.com/2014/05/tsn_red_1__244682411.jpg?w=620</thumbnail>
+</item>
+
+<item>
+<title>TSN 4</title>
+<link>http://tv.supertv4u.eu:8000/live/C0KTK6nRg9/EyGXXiETaG/559.m3u8</link>
+<thumbnail>http://wpmedia.o.canada.com/2014/05/tsn_red_1__244682411.jpg?w=620</thumbnail>
+</item>
+
+<item>
+<title>TSN 5</title>
+<link>http://tv.supertv4u.eu:8000/live/C0KTK6nRg9/EyGXXiETaG/560.m3u8</link>
+<thumbnail>http://wpmedia.o.canada.com/2014/05/tsn_red_1__244682411.jpg?w=620</thumbnail>
+</item>

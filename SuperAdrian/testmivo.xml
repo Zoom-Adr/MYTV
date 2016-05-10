@@ -1,0 +1,36 @@
+<item>
+<title>http://www.mivo.com/#/live/sctv</title> 
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
+
+<regex>
+    <name>encodedurl</name>
+    <expres>$pyFunction:urllib.quote_plus('$doregex[get-hls]')</expres>
+    <page></page>
+</regex>
+
+<regex>
+<name>get-hls</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+ import requests
+ import re
+
+
+ headers0 = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0'}
+ url0= 'http://api.mivo.com/v4/web/channels'
+ source0= requests.get(url0, headers=headers0)
+ m3u8= re.findall('sctv","dataUrl":"(.*?)"', source0.text)[0]
+
+ headers1 = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Authorization': 'BY-TrgLgK0NMzXb_JB_81DfeOxK_SNH7'}
+ url1= 'http://api.mivo.com/v4/web/channels/wms-auth'
+ source1= requests.get(url1, headers=headers1)
+ wms_auth= re.findall('"sign":"(.*?)"', source1.text)[0]
+ url2 = m3u8 + wms_auth
+ source2= requests.get(url2, headers=headers0)
+ maxbitrate= re.findall('(http.*)', source2.text)[0]
+
+ return maxbitrate
+]]></expres>
+<page></page>
+</regex>
+ </item>

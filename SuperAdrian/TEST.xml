@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<item>
+<title>http://www.mivo.com/#/live/sctv</title> 
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
+
+<regex>
+    <name>encodedurl</name>
+    <expres>$pyFunction:urllib.quote_plus('$doregex[get-hls]')</expres>
+    <page></page>
+</regex>
+
+<regex>
+<name>get-hls</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+ import requests
+ import re
+
+
+ headers0 = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0'}
+ url0= 'http://api.mivo.com/v4/web/channels'
+ source0= requests.get(url0, headers=headers0)
+ m3u8= re.findall('sctv","dataUrl":"(.*?)"', source0.text)[0]
+
+ headers1 = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Authorization': 'BY-TrgLgK0NMzXb_JB_81DfeOxK_SNH7'}
+ url1= 'http://api.mivo.com/v4/mobile/channels/wms-auth'
+ source1= requests.get(url1, headers=headers1)
+ wms_auth= re.findall('"sign":"(.*?)"', source1.text)[0]
+ url2 = m3u8 + wms_auth
+ source2= requests.get(url2, headers=headers0)
+ maxbitrate= re.findall('(http.*)', source2.text)[0]
+
+ return maxbitrate
+]]></expres>
+<page></page>
+</regex>
+ </item>
+ 
+<item>
+<title>[COLOR blue]SOUTHAMPTON VS MAN CITY 720 HD [/COLOR]</title>
+<link>
+sublink:LISTNAME:[COLOR yellow]Stream 1[/COLOR] - [COLOR blue]HD[/COLOR] ::LISTSOURCE:https://video06-lax.streamup.com/app/zonaxpsot2s-stream_aac/playlist.m3u8 ::--#
+sublink:LISTNAME:[COLOR yellow]Stream 2[/COLOR] - [COLOR blue]HD[/COLOR] ::LISTSOURCE:https://video06-lax.streamup.com/app/zonaxpsot2s-stream_aac/playlist.m3u8 ::--#
+sublink:LISTNAME:[COLOR yellow] Stream 3[/COLOR] - [COLOR blue]SD[/COLOR] ::LISTSOURCE:plugin://plugin.video.f4mTester/?url=http://italians-server.tv:8000/live/alesandro/alesandro/9024.ts&amp;streamtype=TSDOWNLOADER ::--#
+</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>CTH STADIUM 1</title>
+<link>$doregex[rtmp] app=$doregex[app] playpath=$doregex[file] swfUrl=http://p.jwpcdn.com/6/9/jwplayer.flash.swf flashVer=WIN\2020,0,0,306 swfVfy=1 live=1 timeout=13 pageUrl=$doregex[page]</link>
+<regex>
+<name>rtmp</name>
+<expres>file: "(rtmp.*\/).*?",</expres>
+<page>$doregex[page]</page>
+<referer>http://www.speed9kick9.com/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<regex>
+<name>app</name>
+<expres>file: ".*\/(.*?\/).*?",</expres>
+<page>$doregex[page]</page>
+<referer>http://www.speed9kick9.com/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<regex>
+<name>file</name>
+<expres>file: ".*\/(.*?)",</expres>
+<page>$doregex[page]</page>
+<referer>http://www.speed9kick9.com/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<regex>
+<name>page</name>
+<expres>iframe src='(.*?)'.*?width='100%</expres>
+<page>http://www.speed9kick9.com/CTHStadium1-164.html</page>
+<referer>http://www.speed9kick9.com/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>CTH STADIUM 2</title>
+<link>$doregex[rtmp] app=$doregex[app] playpath=$doregex[file] swfUrl=http://p.jwpcdn.com/6/9/jwplayer.flash.swf flashVer=WIN\2020,0,0,306 swfVfy=1 live=1 timeout=13 pageUrl=$doregex[page]</link>
+<regex>
+<name>rtmp</name>
+<expres>file: "(rtmp.*\/).*?",</expres>
+<page>$doregex[page]</page>
+<referer>http://www.speed9kick9.com/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<regex>
+<name>app</name>
+<expres>file: ".*\/(.*?\/).*?",</expres>
+<page>$doregex[page]</page>
+<referer>http://www.speed9kick9.com/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<regex>
+<name>file</name>
+<expres>file: ".*\/(.*?)",</expres>
+<page>$doregex[page]</page>
+<referer>http://www.speed9kick9.com/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<regex>
+<name>page</name>
+<expres>iframe src='(.*?)'.*?width='100%</expres>
+<page>http://www.speed9kick9.com/CTHStadium2-165.html</page>
+<referer>http://www.speed9kick9.com/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>CTH STADIUM 3</title>
+<link>$doregex[rtmp] app=$doregex[app] playpath=$doregex[file] swfUrl=http://p.jwpcdn.com/6/9/jwplayer.flash.swf flashVer=WIN\2020,0,0,306 swfVfy=1 live=1 timeout=13 pageUrl=$doregex[page]</link>
+<regex>
+<name>rtmp</name>
+<expres>file: "(rtmp.*\/).*?",</expres>
+<page>$doregex[page]</page>
+<referer>http://www.speed9kick9.com/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<regex>
+<name>app</name>
+<expres>file: ".*\/(.*?\/).*?",</expres>
+<page>$doregex[page]</page>
+<referer>http://www.speed9kick9.com/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<regex>
+<name>file</name>
+<expres>file: ".*\/(.*?)",</expres>
+<page>$doregex[page]</page>
+<referer>http://www.speed9kick9.com/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<regex>
+<name>page</name>
+<expres>iframe src='(.*?)'.*?width='100%</expres>
+<page>http://www.speed9kick9.com/CTHStadium3-166.html</page>
+<referer>http://www.speed9kick9.com/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>CTH STADIUM 4</title>
+<link>$doregex[rtmp] app=$doregex[app] playpath=$doregex[file] swfUrl=http://p.jwpcdn.com/6/9/jwplayer.flash.swf flashVer=WIN\2020,0,0,306 swfVfy=1 live=1 timeout=13 pageUrl=$doregex[page]</link>
+<regex>
+<name>rtmp</name>
+<expres>file: "(rtmp.*\/).*?",</expres>
+<page>$doregex[page]</page>
+<referer>http://www.speed9kick9.com/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<regex>
+<name>app</name>
+<expres>file: ".*\/(.*?\/).*?",</expres>
+<page>$doregex[page]</page>
+<referer>http://www.speed9kick9.com/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<regex>
+<name>file</name>
+<expres>file: ".*\/(.*?)",</expres>
+<page>$doregex[page]</page>
+<referer>http://www.speed9kick9.com/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<regex>
+<name>page</name>
+<expres>iframe src='(.*?)'.*?width='100%</expres>
+<page>http://www.speed9kick9.com/CTHStadium4-167.html</page>
+<referer>http://www.speed9kick9.com/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>CTH STADIUM 5</title>
+<link>$doregex[rtmp] app=$doregex[app] playpath=$doregex[file] swfUrl=http://p.jwpcdn.com/6/9/jwplayer.flash.swf flashVer=WIN\2020,0,0,306 swfVfy=1 live=1 timeout=13 pageUrl=$doregex[page]</link>
+<regex>
+<name>rtmp</name>
+<expres>file: "(rtmp.*\/).*?",</expres>
+<page>$doregex[page]</page>
+<referer>http://www.speed9kick9.com/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<regex>
+<name>app</name>
+<expres>file: ".*\/(.*?\/).*?",</expres>
+<page>$doregex[page]</page>
+<referer>http://www.speed9kick9.com/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<regex>
+<name>file</name>
+<expres>file: ".*\/(.*?)",</expres>
+<page>$doregex[page]</page>
+<referer>http://www.speed9kick9.com/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<regex>
+<name>page</name>
+<expres>iframe src='(.*?)'.*?width='100%</expres>
+<page>http://www.speed9kick9.com/CTHStadium5-168.html</page>
+<referer>http://www.speed9kick9.com/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>SKYNET SPORTS 4</title>
+<link>$doregex[rtmp] app=$doregex[app] playpath=$doregex[file] swfUrl=http://p.jwpcdn.com/6/9/jwplayer.flash.swf flashVer=WIN\2020,0,0,306 swfVfy=1 live=1 timeout=13 pageUrl=$doregex[page]</link>
+<regex>
+<name>rtmp</name>
+<expres>file: "(rtmp.*\/).*?",</expres>
+<page>$doregex[page]</page>
+<referer>http://www.speed9kick9.com/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<regex>
+<name>app</name>
+<expres>file: ".*\/(.*?\/).*?",</expres>
+<page>$doregex[page]</page>
+<referer>http://www.speed9kick9.com/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<regex>
+<name>file</name>
+<expres>file: ".*\/(.*?)",</expres>
+<page>$doregex[page]</page>
+<referer>http://www.speed9kick9.com/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<regex>
+<name>page</name>
+<expres>iframe src='(.*?)'.*?width='100%</expres>
+<page>http://www.speed9kick9.com/Skynet4-161.html</page>
+<referer>http://www.speed9kick9.com/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>SKYNET SPORTS 5</title>
+<link>$doregex[rtmp] app=$doregex[app] playpath=$doregex[file] swfUrl=http://p.jwpcdn.com/6/9/jwplayer.flash.swf flashVer=WIN\2020,0,0,306 swfVfy=1 live=1 timeout=13 pageUrl=$doregex[page]</link>
+<regex>
+<name>rtmp</name>
+<expres>file: "(rtmp.*\/).*?",</expres>
+<page>$doregex[page]</page>
+<referer>http://www.speed9kick9.com/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<regex>
+<name>app</name>
+<expres>file: ".*\/(.*?\/).*?",</expres>
+<page>$doregex[page]</page>
+<referer>http://www.speed9kick9.com/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<regex>
+<name>file</name>
+<expres>file: ".*\/(.*?)",</expres>
+<page>$doregex[page]</page>
+<referer>http://www.speed9kick9.com/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<regex>
+<name>page</name>
+<expres>iframe src='(.*?)'.*?width='100%</expres>
+<page>http://www.speed9kick9.com/Skynet5-162.html</page>
+<referer>http://www.speed9kick9.com/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>SKYNET SPORTS 6</title>
+<link>$doregex[rtmp] app=$doregex[app] playpath=$doregex[file] swfUrl=http://p.jwpcdn.com/6/9/jwplayer.flash.swf flashVer=WIN\2020,0,0,306 swfVfy=1 live=1 timeout=13 pageUrl=$doregex[page]</link>
+<regex>
+<name>rtmp</name>
+<expres>file: "(rtmp.*\/).*?",</expres>
+<page>$doregex[page]</page>
+<referer>http://www.speed9kick9.com/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<regex>
+<name>app</name>
+<expres>file: ".*\/(.*?\/).*?",</expres>
+<page>$doregex[page]</page>
+<referer>http://www.speed9kick9.com/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<regex>
+<name>file</name>
+<expres>file: ".*\/(.*?)",</expres>
+<page>$doregex[page]</page>
+<referer>http://www.speed9kick9.com/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<regex>
+<name>page</name>
+<expres>iframe src='(.*?)'.*?width='100%</expres>
+<page>http://www.speed9kick9.com/Skynet6-163.html</page>
+<referer>http://www.speed9kick9.com/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>http://www.mivo.com/#/live/sctv</title> 
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
+
+<regex>
+    <name>encodedurl</name>
+    <expres>$pyFunction:urllib.quote_plus('$doregex[get-hls]')</expres>
+    <page></page>
+</regex>
+
+<regex>
+<name>get-hls</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+ import requests
+ import re
+
+
+ headers0 = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0'}
+ url0= 'http://api.mivo.com/v4/web/channels'
+ source0= requests.get(url0, headers=headers0)
+ m3u8= re.findall('sctv","dataUrl":"(.*?)"', source0.text)[0]
+
+ headers1 = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Authorization': 'BY-TrgLgK0NMzXb_JB_81DfeOxK_SNH7'}
+ url1= 'http://api.mivo.com/v4/web/channels/wms-auth'
+ source1= requests.get(url1, headers=headers1)
+ wms_auth= re.findall('"sign":"(.*?)"', source1.text)[0]
+ url2 = m3u8 + wms_auth
+ source2= requests.get(url2, headers=headers0)
+ maxbitrate= re.findall('(http.*)', source2.text)[0]
+
+ return maxbitrate
+]]></expres>
+<page></page>
+</regex>
+ </item>
