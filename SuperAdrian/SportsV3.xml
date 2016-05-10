@@ -7,19 +7,19 @@
 </item>
 
 <item>
+<title>[B]=== [COLOR magenta]PREMIER LEA[/COLOR][COLOR cyan]GUE PASS[/COLOR] ===[/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://i.imgur.com/01Ve7Zm.png</thumbnail>
+<fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
+<externallink>http://goo.gl/HWoIRn</externallink>
+</item>
+
+<item>
 <title>[B]=== [COLOR magenta]NBC LI[/COLOR][COLOR cyan]VE EXTRA[/COLOR] ===[/B]</title>
 <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/08/nbc-sports-live-extra.png</thumbnail>
 <fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/ProjectAdrian/SuperAdrian/master/SuperAdrianList/NBCExtra.xml</externallink>
-</item>
-
-<item>
-<title>[B]=== [COLOR magenta]STADIUM[/COLOR][COLOR cyan] EXTRA[/COLOR] ===[/B]</title>
-<thumbnail>http://bit.ly/1qumZV3</thumbnail>
-<fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/ProjectAdrian/SuperAdrian/master/SuperAdrianList/StadiumExtra.xml</externallink>
+<externallink>https://raw.githubusercontent.com/ProjectAdrian/AdrianList/master/SuperAdrian/NBCExtra.xml</externallink>
 </item>
 
 <item>
@@ -27,7 +27,7 @@
 <thumbnail>https://pbs.twimg.com/profile_images/3715123247/43bc82a68d8e936b7ba4c230edc3e725_400x400.png</thumbnail>
 <fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/ProjectAdrian/SuperAdrian/master/SuperAdrianList/SportsV1.xml</externallink>
+<externallink>https://raw.githubusercontent.com/ProjectAdrian/AdrianList/master/SuperAdrian/SportsV1.xml</externallink>
 </item>
 
 <item>
@@ -43,7 +43,7 @@
 <thumbnail>https://raw.githubusercontent.com/ProjectAdrian/SuperAdrian/master/Icons/LETV.png</thumbnail>
 <fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/ProjectAdrian/SuperAdrian/master/SuperAdrianList/LETV.xml</externallink>
+<externallink>https://raw.githubusercontent.com/ProjectAdrian/AdrianList/master/SuperAdrian/LETV.xml</externallink>
 </item>
 
 
