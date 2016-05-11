@@ -1,6 +1,6 @@
 <item>
 <title>ANTV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
 <regex>
     <name>encodedurl</name>
     <expres>$pyFunction:urllib.quote_plus('$doregex[get-hls]')</expres>
@@ -38,7 +38,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
 <item>
 <title>ANTARA TV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
 <regex>
     <name>encodedurl</name>
     <expres>$pyFunction:urllib.quote_plus('$doregex[get-hls]')</expres>
@@ -76,7 +76,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 <item>
 <title>ASWAJA TV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
 <regex>
     <name>encodedurl</name>
     <expres>$pyFunction:urllib.quote_plus('$doregex[get-hls]')</expres>
@@ -114,7 +114,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 <item>
 <title>BERITA SATU</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
 <regex>
     <name>encodedurl</name>
     <expres>$pyFunction:urllib.quote_plus('$doregex[get-hls]')</expres>
@@ -152,7 +152,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
 <item>
 <title>CAHAYA TV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
 <regex>
     <name>encodedurl</name>
     <expres>$pyFunction:urllib.quote_plus('$doregex[get-hls]')</expres>
@@ -190,7 +190,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
 <item>
 <title>DAAI TV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
 <regex>
     <name>encodedurl</name>
     <expres>$pyFunction:urllib.quote_plus('$doregex[get-hls]')</expres>
@@ -228,7 +228,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
 <item>
 <title>DAMAI TV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
 <regex>
     <name>encodedurl</name>
     <expres>$pyFunction:urllib.quote_plus('$doregex[get-hls]')</expres>
@@ -266,7 +266,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
 <item>
 <title>DMC TV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
 <regex>
     <name>encodedurl</name>
     <expres>$pyFunction:urllib.quote_plus('$doregex[get-hls]')</expres>
@@ -304,7 +304,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
 <item>
 <title>ELSHINTA TV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
 <regex>
     <name>encodedurl</name>
     <expres>$pyFunction:urllib.quote_plus('$doregex[get-hls]')</expres>
@@ -342,7 +342,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
 <item>
 <title>GLOBAL TV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
 <regex>
     <name>encodedurl</name>
     <expres>$pyFunction:urllib.quote_plus('$doregex[get-hls]')</expres>
@@ -380,7 +380,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 <item>
 <title>HI INDO!</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
 <regex>
     <name>encodedurl</name>
     <expres>$pyFunction:urllib.quote_plus('$doregex[get-hls]')</expres>
@@ -418,7 +418,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
 <item>
 <title>INDOSIAR</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
 <regex>
     <name>encodedurl</name>
     <expres>$pyFunction:urllib.quote_plus('$doregex[get-hls]')</expres>
@@ -469,7 +469,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
 <item>
 <title>JAK TV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
 <regex>
     <name>encodedurl</name>
     <expres>$pyFunction:urllib.quote_plus('$doregex[get-hls]')</expres>
@@ -507,7 +507,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
 <item>
 <title>JTV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
 <regex>
     <name>encodedurl</name>
     <expres>$pyFunction:urllib.quote_plus('$doregex[get-hls]')</expres>
@@ -545,7 +545,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
 <item>
 <title>KOMPAS TV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
 <regex>
     <name>encodedurl</name>
     <expres>$pyFunction:urllib.quote_plus('$doregex[get-hls]')</expres>
@@ -583,7 +583,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
 <item>
 <title>LBS IN-DRAMA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
 <regex>
     <name>encodedurl</name>
     <expres>$pyFunction:urllib.quote_plus('$doregex[get-hls]')</expres>
@@ -621,7 +621,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
 <item>
 <title>LBS K-DRAMA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
 <regex>
     <name>encodedurl</name>
     <expres>$pyFunction:urllib.quote_plus('$doregex[get-hls]')</expres>
@@ -659,7 +659,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
 <item>
 <title>METRO TV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
 <regex>
     <name>encodedurl</name>
     <expres>$pyFunction:urllib.quote_plus('$doregex[get-hls]')</expres>
@@ -697,7 +697,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
 <item>
 <title>MNC TV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
 <regex>
     <name>encodedurl</name>
     <expres>$pyFunction:urllib.quote_plus('$doregex[get-hls]')</expres>
@@ -751,7 +751,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
 <item>
 <title>MIVO TV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
 <regex>
     <name>encodedurl</name>
     <expres>$pyFunction:urllib.quote_plus('$doregex[get-hls]')</expres>
@@ -789,7 +789,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
 <item>
 <title>NET.</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
 <regex>
     <name>encodedurl</name>
     <expres>$pyFunction:urllib.quote_plus('$doregex[get-hls]')</expres>
@@ -827,7 +827,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
 <item>
 <title>O CHANNEL</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
 <regex>
     <name>encodedurl</name>
     <expres>$pyFunction:urllib.quote_plus('$doregex[get-hls]')</expres>
@@ -865,7 +865,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
 <item>
 <title>RCTI</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
 <regex>
     <name>encodedurl</name>
     <expres>$pyFunction:urllib.quote_plus('$doregex[get-hls]')</expres>
@@ -918,7 +918,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
 <item>
 <title>SCTV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
 <regex>
     <name>encodedurl</name>
     <expres>$pyFunction:urllib.quote_plus('$doregex[get-hls]')</expres>
@@ -969,7 +969,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
 <item>
 <title>SPACETOON</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
 <regex>
     <name>encodedurl</name>
     <expres>$pyFunction:urllib.quote_plus('$doregex[get-hls]')</expres>
@@ -1007,7 +1007,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
 <item>
 <title>SPACETOON 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
 <regex>
     <name>encodedurl</name>
     <expres>$pyFunction:urllib.quote_plus('$doregex[get-hls]')</expres>
@@ -1045,7 +1045,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
 <item>
 <title>TVRI NASIONAL</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
 <regex>
     <name>encodedurl</name>
     <expres>$pyFunction:urllib.quote_plus('$doregex[get-hls]')</expres>
@@ -1083,7 +1083,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
 <item>
 <title>TVRI JAKARTA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
 <regex>
     <name>encodedurl</name>
     <expres>$pyFunction:urllib.quote_plus('$doregex[get-hls]')</expres>
@@ -1121,7 +1121,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
 <item>
 <title>TVRI BUDAYA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
 <regex>
     <name>encodedurl</name>
     <expres>$pyFunction:urllib.quote_plus('$doregex[get-hls]')</expres>
@@ -1159,7 +1159,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
 <item>
 <title>TVRI OLAHRAGA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
 <regex>
     <name>encodedurl</name>
     <expres>$pyFunction:urllib.quote_plus('$doregex[get-hls]')</expres>
@@ -1197,7 +1197,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
 <item>
 <title>TRANS 7</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
 <regex>
     <name>encodedurl</name>
     <expres>$pyFunction:urllib.quote_plus('$doregex[get-hls]')</expres>
@@ -1235,7 +1235,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
 <item>
 <title>TRANS TV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
 <regex>
     <name>encodedurl</name>
     <expres>$pyFunction:urllib.quote_plus('$doregex[get-hls]')</expres>
@@ -1273,7 +1273,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
 <item>
 <title>TV ONE</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
 <regex>
     <name>encodedurl</name>
     <expres>$pyFunction:urllib.quote_plus('$doregex[get-hls]')</expres>
@@ -1311,7 +1311,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
 <item>
 <title>U CHANNEL</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
 <regex>
     <name>encodedurl</name>
     <expres>$pyFunction:urllib.quote_plus('$doregex[get-hls]')</expres>
