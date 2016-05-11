@@ -50,25 +50,25 @@
 
 <item>
 <title>BBC 1 UK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://stream.does-it.net:8000/live/dom/dom/687.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://62.210.102.248:8000/live/phill/phill/349.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>https://pbs.twimg.com/profile_images/662708106/bbc.png</thumbnail>
 </item>
 
 <item>
 <title>BBC 2 UK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://stream.does-it.net:8000/live/dom/dom/688.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://62.210.102.248:8000/live/phill/phill/471.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>https://pbs.twimg.com/profile_images/662708106/bbc.png</thumbnail>
 </item>
 
 <item>
 <title>BBC 3 UK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://stream.does-it.net:8000/live/dom/dom/689.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://62.210.102.248:8000/live/phill/phill/455.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>https://pbs.twimg.com/profile_images/662708106/bbc.png</thumbnail>
 </item>
 
 <item>
 <title>BBC 4 UK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://stream.does-it.net:8000/live/dom/dom/690.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://62.210.102.248:8000/live/phill/phill/407.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>https://pbs.twimg.com/profile_images/662708106/bbc.png</thumbnail>
 </item>
 
@@ -170,25 +170,25 @@
 
 <item>
 <title>BEIN SPORTS USA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://stream.does-it.net:8000/live/dom/dom/1070.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.142.232:8000/live/persian.eagle/persian.eagle/1170.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://cdn.marketplaceimages.windowsphone.com/v8/images/24a7a709-4c44-43ea-9838-a01e2914de0f?imageType=ws_icon_medium</thumbnail>
 </item>
 
 <item>
 <title>BOX NATION UK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://stream.does-it.net:8000/live/dom/dom/613.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sami4/sami4/1717.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://pbs.twimg.com/profile_images/523395738181439488/ZSdNbxJ3_400x400.png</thumbnail>
 </item>
 
 <item>
 <title>BRITISH EUROSPORT 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.210.251.32:88/live/izu/izu/333.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://featur-iptv.myvnc.com:8000/live/luke/luke/351.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.wuv.de/var/wuv/storage/images/media/bilder/eurosport_2015_580/7186502-1-ger-DE/eurosport_2015_580_evo_580.jpg</thumbnail>
 </item>
 
 <item>
 <title>BRITISH EUROSPORT 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.210.251.32:88/live/izu/izu/332.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://featur-iptv.myvnc.com:8000/live/luke/luke/352.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.wuv.de/var/wuv/storage/images/media/bilder/eurosport_2015_580/7186502-1-ger-DE/eurosport_2015_580_evo_580.jpg</thumbnail>
 </item>
 
@@ -200,7 +200,7 @@
 
 <item>
 <title>BT SPORT 1 BACKUP</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=1264000&amp;url=http://stream.does-it.net:8000/live/dom/dom/596.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=1264000&amp;url=http://37.187.142.232:8000/live/persian.eagle/persian.eagle/762.ts</link>
 <thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
 </item>
 
@@ -212,7 +212,7 @@
 
 <item>
 <title>BT SPORT 2 BACKUP</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=1264000&amp;url=http://stream.does-it.net:8000/live/dom/dom/597.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=1264000&amp;url=http://37.187.142.232:8000/live/persian.eagle/persian.eagle/763.ts</link>
 <thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
 </item>
 
@@ -224,7 +224,7 @@
 
 <item>
 <title>BT SPORT EUROPE BACKUP</title>
-<link>plugin://plugin.video.f4mTester/?url=http://stream.does-it.net:8000/live/dom/dom/2795.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://featur-iptv.myvnc.com:8000/live/tinkerbell/tinkerbell/347.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
 </item>
 
@@ -236,13 +236,13 @@
 
 <item>
 <title>CANAL+ LIGA ES</title>
-<link>plugin://plugin.video.f4mTester/?url=http://stream.does-it.net:8000/live/dom/dom/631.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/403.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://coditelcordoba.com/wp-content/uploads/2014/07/canal+liga.jpg</thumbnail>
 </item>
 
 <item>
 <title>CANAL+ DEPORTES ES</title>
-<link>plugin://plugin.video.f4mTester/?url=http://stream.does-it.net:8000/live/dom/dom/627.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/405.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.fuerteventurashopping.es/wp-content/uploads/2011/06/PLUS2.jpg</thumbnail>
 </item>
 
@@ -433,7 +433,7 @@
 
 <item>
 <title>FOX SPORTS 2 USA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://stream.does-it.net:8000/live/dom/dom/645.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/946a914c3965/228.mpegts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports_us_2.png</thumbnail>
 </item>
 
@@ -468,7 +468,7 @@
 
 <item>
 <title>MUTV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.210.251.32:88/live/izu/izu/296.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://62.210.102.248:8000/live/phill/phill/927.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png</thumbnail>
 </item>
 
@@ -630,12 +630,6 @@
 <item>
 <title>SKY SPORTS BOX OFFICE PPV UK</title>
 <link>plugin://plugin.video.f4mTester/?url=http://bit.do/testysboffice&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://my.sky.com/orderboxoffice/images/sky-sports-box-office-logo.png</thumbnail>
-</item>
-
-<item>
-<title>SKY SPORTS BOX OFFICE PPV BACKUP UK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://stream.does-it.net:8000/live/dom/dom/1129.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://my.sky.com/orderboxoffice/images/sky-sports-box-office-logo.png</thumbnail>
 </item>
 
