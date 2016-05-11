@@ -1,0 +1,95 @@
+<item>
+<title>CW</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/946a914c3965/138.mpegts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://logos-vector.com/images/logo/xxl/8/9/7/89723/The_CW_a65ba_450x450.png</thumbnail>
+</item>
+
+<item>
+<title>HBO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/946a914c3965/193.mpegts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://hboasiapromos.s3.amazonaws.com/0_core/fb-hbo-480x320.jpg</thumbnail>
+</item>
+
+<item>
+<title>NBC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/946a914c3965/140.mpegts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://letstalkabout.tv/wp-content/uploads/2011/07/NBC-logo.gif</thumbnail>
+</item>
+
+<item>
+<title>SKY ONE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/946a914c3965/71.mpegts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/9/91/Sky1_logo_2011.svg/1280px-Sky1_logo_2011.svg.png</thumbnail>
+</item>
+
+<item>
+<title>SKY TWO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/946a914c3965/72.mpegts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Sky2_logo_2011.svg/1280px-Sky2_logo_2011.svg.png</thumbnail>
+</item>
+
+<item>
+<title>SKY ACTION & ADVENTURE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/saban/saban/2778.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
+</item>
+
+<item>
+<title>SKY COMEDY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/saban/saban/2783.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
+</item>
+
+<item>
+<title>SKY CRIME & THRILLER</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/saban/saban/2773.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
+</item>
+
+<item>
+<title>SKY DRAMA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/saban/saban/2777.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
+</item>
+
+<item>
+<title>SKY DISNEY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/saban/saban/2744.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
+</item>
+
+<item>
+<title>SKY MODERN GREATS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/saban/saban/2742.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
+</item>
+
+<item>
+<title>SKY FAMILY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/saban/saban/2743.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
+</item>
+
+<item>
+<title>SKY PREMIERE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/saban/saban/2775.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
+</item>
+
+<item>
+<title>SKY SCI-FI & HORROR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/saban/saban/2774.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
+</item>
+
+<item>
+<title>SKY SHOWCASE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/saban/saban/2741.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.sky.com/tv/static/mANRTtJUaNEPyI0aWOD3yx4hUVioQX1NlkvLHKNTIH9.png</thumbnail>
+</item>
+
+<item>
+<title>STAR MOVIES</title>
+<link>http://112.197.2.135:1935/colive/C001_HD_4/chunklist.m3u8</link>
+<thumbnail>http://tvimages.burrp.com/images/channels2/movies/Star-Movies-HD.png</thumbnail>
+</item>
