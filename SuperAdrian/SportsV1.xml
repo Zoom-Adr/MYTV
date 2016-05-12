@@ -349,18 +349,6 @@
 </item>
 
 <item>
-<title>ELEVEN SPORTS HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/robertburden5682/robertburden5682/1306.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://elevensportsnetwork.sg/wp-content/uploads/2015/06/ELEVEN-SPORTS-NETWORK_logo-RGB-01-e1455880585580.png</thumbnail>
-</item>
-
-<item>
-<title>ELEVEN HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/robertburden5682/robertburden5682/1307.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://elevensportsnetwork.sg/wp-content/uploads/2015/06/ELEVEN-SPORTS-NETWORK_logo-RGB-01-e1455880585580.png</thumbnail>
-</item>
-
-<item>
 <title>ESPN BRASIL</title>
 <link>$doregex[url]|User-Agent=iPhone</link>
 <regex>
@@ -540,19 +528,19 @@
 
 <item>
 <title>OTE SPORT 1 GR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.210.251.32:88/live/izu/izu/688.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/oscar/oscar/831.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.gazzetta.gr/sites/default/files/sitefiles_2014-09/ote_logo_sport_cmyk.jpg</thumbnail>
 </item>
 
 <item>
 <title>OTE SPORT 2 GR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.210.251.32:88/live/izu/izu/687.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/oscar/oscar/838.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.gazzetta.gr/sites/default/files/sitefiles_2014-09/ote_logo_sport_cmyk.jpg</thumbnail>
 </item>
 
 <item>
 <title>OTE SPORT 3 GR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.210.251.32:88/live/izu/izu/686.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/oscar/oscar/837.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.gazzetta.gr/sites/default/files/sitefiles_2014-09/ote_logo_sport_cmyk.jpg</thumbnail>
 </item>
 
