@@ -227,3 +227,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail></thumbnail>
 </item>
 
+
+<item>
+<title>SSP1</title>
+<link>rtmp://95.211.184.118:1935/mytv/skyhd01?user=donprate@gmail.com&amp;pass=6rTxPoqkepaz9brf</link>
+</item>
+
+<item>
+<title>SSP1</title>
+<link>http://95.211.184.118:1935/mytv/skyhd01/playlist.m3u8?user=donprate@gmail.com&amp;pass=6rTxPoqkepaz9brf</link>
+</item>
+
