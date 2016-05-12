@@ -208,7 +208,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-  <title>BEIN 3</title>
+  <title>BEIN 3 TEST</title>
   <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[ReplaceUrl]|User-Agent=iPhone&amp;Referer=http://www.useetv.com/livetv/bein3</link>
 <regex>
   <name>ReplaceUrl</name>
