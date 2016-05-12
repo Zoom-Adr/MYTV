@@ -209,7 +209,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 <item>
   <title>BEIN 3</title>
-  <link>$doregex[ReplaceUrl]|User-Aget=iPhone&amp;Referer=http://www.useetv.com/livetv/bein3</link>
+  <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[ReplaceUrl]|User-Agent=iPhone&amp;Referer=http://www.useetv.com/livetv/bein3</link>
 <regex>
   <name>ReplaceUrl</name>
   <expres>$pyFunction: '$doregex[PlayURL]'.replace('\/','/')</expres>
