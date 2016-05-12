@@ -26,7 +26,13 @@
 
 <item>
 <title>ASTRO RIA</title>
-<link>http://www.layarku.tv/media/indiecrew4.m3u8</link>
+<link>http://www.layarku.tv/media/riamy.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_ria_zps6zrje2dc.png</thumbnail>
+</item>
+
+<item>
+<title>ASTRO RIA BACKUP</title>
+<link>http://us.layarku.tv/edge/149_612_live/chunklist_w1018921013.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_ria_zps6zrje2dc.png</thumbnail>
 </item>
 
@@ -86,7 +92,7 @@
 
 <item>
 <title>TV3</title>
-<link>http://www.layarku.tv/media/indiecrew3.m3u8</link>
+<link>http://www.layarku.tv/media/tv3my.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv3_zpsccy0afit.png</thumbnail>
 </item>
 
