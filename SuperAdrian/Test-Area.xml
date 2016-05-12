@@ -209,7 +209,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 <item>
   <title>BEIN 3 TEST</title>
-  <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[ReplaceUrl]|User-Agent=iPhone&amp;Referer=http://www.useetv.com/livetv/bein3</link>
+  <link>$doregex[ReplaceUrl]|User-Agent=iPhone&amp;Referer=http://www.useetv.com/livetv/bein3</link>
 <regex>
   <name>ReplaceUrl</name>
   <expres>$pyFunction: '$doregex[PlayURL]'.replace('\/','/')</expres>
@@ -227,22 +227,3 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail></thumbnail>
 </item>
 
-<item>
-  <title>BEIN 3 TEST 2</title>
-  <link>$doregex[ReplaceUrl]|X-Forwarded-For=202.152.40.28|User-Agent=iPhone&amp;Referer=http://www.useetv.com/livetv/bein3</link>
-<regex>
-  <name>ReplaceUrl</name>
-  <expres>$pyFunction: '$doregex[PlayURL]'.replace('\/','/')</expres>
-  <page></page>
-</regex>
-<regex>
-  <name>PlayURL</name>
-  <expres>play_url":"([^"]+)",</expres>
-  <page><![CDATA[http://www.useetv.com/services/tv_play_auth?channel_code=bein3&token=&starttime=&endtime=&vd_service=livetv]]></page>
-  <referer>http://www.useetv.com/livetv/bein3</referer>
-  <x-req>XMLHttpRequest</x-req>
-  <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
-  <accept>*/*</accept>
-</regex>
-<thumbnail></thumbnail>
-</item>
