@@ -200,13 +200,13 @@
 
 <item>
 <title>BRITISH EUROSPORT 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://featur-iptv.myvnc.com:8000/live/luke/luke/351.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://213.136.90.30:8000/live/sk3/sk3/14386.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.wuv.de/var/wuv/storage/images/media/bilder/eurosport_2015_580/7186502-1-ger-DE/eurosport_2015_580_evo_580.jpg</thumbnail>
 </item>
 
 <item>
 <title>BRITISH EUROSPORT 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://featur-iptv.myvnc.com:8000/live/luke/luke/352.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://213.136.90.30:8000/live/sk3/sk3/14385.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.wuv.de/var/wuv/storage/images/media/bilder/eurosport_2015_580/7186502-1-ger-DE/eurosport_2015_580_evo_580.jpg</thumbnail>
 </item>
 
@@ -242,7 +242,7 @@
 
 <item>
 <title>BT SPORT EUROPE BACKUP</title>
-<link>plugin://plugin.video.f4mTester/?url=http://featur-iptv.myvnc.com:8000/live/tinkerbell/tinkerbell/347.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://213.136.90.30:8000/live/sk3/sk3/11488.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
 </item>
 
