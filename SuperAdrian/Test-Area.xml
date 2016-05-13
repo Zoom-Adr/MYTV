@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
+
+<item>
+<title>TEST</title>
+<f4m>http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:m-beib3/playlist.m3u8</f4m>
+</item>
+
 <item>
 <title>FOX SPORTS 2 USA TEST</title>
 <link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/vlad/vlad/961.ts&amp;streamtype=TSDOWNLOADER</link>
