@@ -3,7 +3,7 @@
 
 <item>
 <title>TEST</title>
-<f4m>http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:m-beib3/playlist.m3u8</f4m>
+<link>rtp://@239.1.1.205:9204</link>
 </item>
 
 <item>
