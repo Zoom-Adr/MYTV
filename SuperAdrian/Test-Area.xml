@@ -208,8 +208,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-  <title>BEIN 3 TEST</title>
-  <link>$doregex[ReplaceUrl]|User-Agent=iPhone&amp;Referer=http://www.useetv.com/livetv/bein3</link>
+  <title>BEIN 3 | NEED INDONESIAN IP/VPN</title>
+  <link>$doregex[ReplaceUrl]|User-Aget=iPhone&amp;Referer=http://www.useetv.com/livetv/bein3</link>
 <regex>
   <name>ReplaceUrl</name>
   <expres>$pyFunction: '$doregex[PlayURL]'.replace('\/','/')</expres>
@@ -221,11 +221,12 @@ def GetLSProData(page_data,Cookie_Jar,m):
   <page><![CDATA[http://www.useetv.com/services/tv_play_auth?channel_code=bein3&token=&starttime=&endtime=&vd_service=livetv]]></page>
   <referer>http://www.useetv.com/livetv/bein3</referer>
   <x-req>XMLHttpRequest</x-req>
-  <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
+  <agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Authorization': 'BY-TrgLgK0NMzXb_JB_81DfeOxK_SNH7</agent>
   <accept>*/*</accept>
 </regex>
 <thumbnail></thumbnail>
 </item>
+
 
 
 <item>
