@@ -2,12 +2,12 @@
 
 <item>
 <title>ACESTREAM SKY SPORTS 1 TEST</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://4da737db105c24e1ccfe352f29a917994c10faa8</link>
+<link>plugin://program.plexus/?url=acestream://4da737db105c24e1ccfe352f29a917994c10faa8&amp;mode=1&amp;name=Mylist</link>
 </item>
 
 <item>
-<title>ACESTREAM SKY SPORTS 1 TEST</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://fecd83c98d6b7aeac0b0f0aec09a82c4745a74f2</link>
+<title>ACESTREAM SPORTS 1 TEST</title>
+<link>plugin://program.plexus/?url=acestream://fecd83c98d6b7aeac0b0f0aec09a82c4745a74f2&amp;mode=1&amp;name=Mylist</link>
 </item>
 
 <item>
