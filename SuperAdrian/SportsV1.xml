@@ -598,6 +598,30 @@
 </item>
 
 <item>
+<title>SKY BUNDESLIGA 1 DE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/245.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/5/59/Sky_Bundesliga.png/revision/latest?cb=20141218001304</thumbnail>
+</item>
+
+<item>
+<title>SKY BUNDESLIGA 2 DE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/3013.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/5/59/Sky_Bundesliga.png/revision/latest?cb=20141218001304</thumbnail>
+</item>
+
+<item>
+<title>SKY BUNDESLIGA 3 DE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/3012.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/5/59/Sky_Bundesliga.png/revision/latest?cb=20141218001304</thumbnail>
+</item>
+
+<item>
+<title>SKY BUNDESLIGA 4 DE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/3011.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/5/59/Sky_Bundesliga.png/revision/latest?cb=20141218001304</thumbnail>
+</item>
+
+<item>
 <title>SKY SPORT 1 IT</title>
 <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/82.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/2/2b/Sky_Sport_Italy_2010.png/revision/latest?cb=20150524204137</thumbnail>
