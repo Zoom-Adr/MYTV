@@ -2,49 +2,49 @@
 
 <item>
 <title>ARENASPORT 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/1.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://213.136.90.30:8000/live/sk3/sk3/13335.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/6/65/Arena_sport_logo.jpg</thumbnail>
 </item>
 
 <item>
 <title>ARENASPORT 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/2.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://213.136.90.30:8000/live/sk3/sk3/13337.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/6/65/Arena_sport_logo.jpg</thumbnail>
 </item>
 
 <item>
 <title>ARENASPORT 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/3.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://213.136.90.30:8000/live/sk3/sk3/13340.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/6/65/Arena_sport_logo.jpg</thumbnail>
 </item>
 
 <item>
 <title>ARENASPORT 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/4.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://213.136.90.30:8000/live/sk3/sk3/13343.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/6/65/Arena_sport_logo.jpg</thumbnail>
 </item>
 
 <item>
 <title>ASTRO SUPERSPORT 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.do/bY49w&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/946a914c3965/484.mpegts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png</thumbnail>
 </item>
 
 <item>
 <title>ASTRO SUPERSPORT 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.do/bY49Z&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/946a914c3965/690.mpegts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png</thumbnail>
 </item>
 
 <item>
 <title>ASTRO SUPERSPORT 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.do/bY5ab&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/946a914c3965/691.mpegts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png</thumbnail>
 </item>
 
 <item>
 <title>ASTRO SUPERSPORT 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.do/bY5aL&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/946a914c3965/487.mpegts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png</thumbnail>
 </item>
 
@@ -212,7 +212,7 @@
 
 <item>
 <title>BT SPORT 1</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=1264000&amp;url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/1511.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=1264000&amp;url=http://smashtv.ddns.net:9090/load/946a914c3965/429.mpegts</link>
 <thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
 </item>
 
@@ -224,7 +224,7 @@
 
 <item>
 <title>BT SPORT 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=1264000&amp;url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/1512.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=1264000&amp;url=http://smashtv.ddns.net:9090/load/946a914c3965/432.mpegts</link>
 <thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
 </item>
 
@@ -236,7 +236,7 @@
 
 <item>
 <title>BT SPORT EUROPE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/1513.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.do/gobteur&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
 </item>
 
@@ -248,31 +248,31 @@
 
 <item>
 <title>CANAL+ FUTBOL ES</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/404.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/1255.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Canal%2B_F%C3%BAtbol_2008.svg/550px-Canal%2B_F%C3%BAtbol_2008.svg.png</thumbnail>
 </item>
 
 <item>
 <title>CANAL+ LIGA ES</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/403.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/1253.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://coditelcordoba.com/wp-content/uploads/2014/07/canal+liga.jpg</thumbnail>
 </item>
 
 <item>
 <title>CANAL+ DEPORTES ES</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/405.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/476.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.fuerteventurashopping.es/wp-content/uploads/2011/06/PLUS2.jpg</thumbnail>
 </item>
 
 <item>
 <title>CANAL+ SPORT FR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/635.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/294.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://ncplus.pl/~/media/n/npl/kanaly/logo%20na%20strony%20kanalow/canalplus_sport_logo.png?bc=white&w=575</thumbnail>
 </item>
 
 <item>
 <title>CTH STADIUM 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/160.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://213.136.90.30:8000/live/sk3/sk3/13352.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium1.png</thumbnail>
 </item>
 
@@ -290,7 +290,7 @@
 
 <item>
 <title>CTH STADIUM 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/161.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://213.136.90.30:8000/live/sk3/sk3/13353.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium2.png</thumbnail>
 </item>
 
@@ -308,7 +308,7 @@
 
 <item>
 <title>CTH STADIUM 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/162.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://213.136.90.30:8000/live/sk3/sk3/13354.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium3.png</thumbnail>
 </item>
 
@@ -326,7 +326,7 @@
 
 <item>
 <title>CTH STADIUM 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/163.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://213.136.90.30:8000/live/sk3/sk3/13355.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium4.png</thumbnail>
 </item>
 
@@ -344,7 +344,7 @@
 
 <item>
 <title>CTH STADIUM 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/164.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://213.136.90.30:8000/live/sk3/sk3/13356.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium5.png</thumbnail>
 </item>
 
@@ -362,25 +362,8 @@
 
 <item>
 <title>CTH STADIUM 6</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/165.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://213.136.90.30:8000/live/sk3/sk3/13357.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium6.png</thumbnail>
-</item>
-
-<item>
-<title>ESPN BRASIL</title>
-<link>$doregex[url]|User-Agent=iPhone</link>
-<regex>
-<name>url</name>
-<expres><![CDATA[file.*?[",'](.*?)[",']\W]]></expres>
-<ignorecache>1</ignorecache>
-<page>http://pxstream.tv/embed.php?file=c7a84573f450aba4b-slv10vbn&referrer=http://ekostreams.co/ch/espnbrasil.php</page>
-<referer>http://ekostreams.co/ch/espnbrasil.php</referer>
-<connection>keep-alive</connection>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
-<accept>*/*</accept>
-</includeheaders>
-</regex>
-<thumbnail>http://vertv.net/wp-content/uploads/2016/01/AQ.jpg</thumbnail>
 </item>
 
 <item>
@@ -391,13 +374,13 @@
 
 <item>
 <title>FOX SPORTS IT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/152.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://213.136.90.30:8000/live/sk3/sk3/14898.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
 </item>
 
 <item>
 <title>FOX SPORTS PLUS IT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/298.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://213.136.90.30:8000/live/sk3/sk3/14250.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
 </item>
 
@@ -564,78 +547,49 @@
 
 <item>
 <title>PREMIUM SPORT 1 IT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/107.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://213.136.90.30:8000/live/sk3/sk3/13742.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.mediasetpremium.it/bin/0.$plit/C_54_articolo_3869_imgarticolo.jpg</thumbnail>
 </item>
 
 <item>
 <title>PREMIUM SPORT 2 IT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/571.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://213.136.90.30:8000/live/sk3/sk3/13743.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.mediasetpremium.it/bin/0.$plit/C_54_articolo_3869_imgarticolo.jpg</thumbnail>
-</item>
-
-<title>SKYNET SPORTS HD </title>
-<link>http://216.185.103.158:1935/live2/chSport1hd/playlist.m3u8</link>
-<thumbnail>http://www.skynetdth.com/images/templates/dd_wildlion_37/images/logo-2.png</thumbnail>
-</item>
-
-
-<title>SKYNET SPORTS 1</title>
-<link>http://216.185.103.158:1935/live2/chSport2hd/playlist.m3u8</link>
-<thumbnail>http://www.skynetdth.com/images/templates/dd_wildlion_37/images/logo-2.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 1 DE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/131.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://213.136.90.30:8000/live/sk3/sk3/10541.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Sky_Sport_(Sky_Deutschland).png/250px-Sky_Sport_(Sky_Deutschland).png</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 2 DE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/244.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://213.136.90.30:8000/live/sk3/sk3/10542.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Sky_Sport_(Sky_Deutschland).png/250px-Sky_Sport_(Sky_Deutschland).png</thumbnail>
 </item>
 
 <item>
 <title>SKY BUNDESLIGA 1 DE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/245.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/5/59/Sky_Bundesliga.png/revision/latest?cb=20141218001304</thumbnail>
-</item>
-
-<item>
-<title>SKY BUNDESLIGA 2 DE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/3013.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/5/59/Sky_Bundesliga.png/revision/latest?cb=20141218001304</thumbnail>
-</item>
-
-<item>
-<title>SKY BUNDESLIGA 3 DE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/3012.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/5/59/Sky_Bundesliga.png/revision/latest?cb=20141218001304</thumbnail>
-</item>
-
-<item>
-<title>SKY BUNDESLIGA 4 DE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/3011.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://213.136.90.30:8000/live/sk3/sk3/14826.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/5/59/Sky_Bundesliga.png/revision/latest?cb=20141218001304</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORT 1 IT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/82.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://213.136.90.30:8000/live/sk3/sk3/14368.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/2/2b/Sky_Sport_Italy_2010.png/revision/latest?cb=20150524204137</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORT 2 IT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/83.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://213.136.90.30:8000/live/sk3/sk3/14162.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/2/2b/Sky_Sport_Italy_2010.png/revision/latest?cb=20150524204137</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORT 3 IT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/151.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://213.136.90.30:8000/live/sk3/sk3/14369.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/2/2b/Sky_Sport_Italy_2010.png/revision/latest?cb=20150524204137</thumbnail>
 </item>
 
@@ -647,13 +601,13 @@
 
 <item>
 <title>SKY SPORT F1 IT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/153.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://213.136.90.30:8000/live/sk3/sk3/14192.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/2/2b/Sky_Sport_Italy_2010.png/revision/latest?cb=20150524204137</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORT MOTOGP IT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/242.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://213.136.90.30:8000/live/sk3/sk3/14193.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/2/2b/Sky_Sport_Italy_2010.png/revision/latest?cb=20150524204137</thumbnail>
 </item>
 
@@ -671,7 +625,7 @@
 
 <item>
 <title>SKY SPORTS 1 UK BACKUP</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/735.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://213.136.90.30:8000/live/sk3/sk3/14665.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-Logo.png</thumbnail>
 </item>
 
@@ -683,7 +637,7 @@
 
 <item>
 <title>SKY SPORTS 2 UK BACKUP</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/736.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://213.136.90.30:8000/live/sk3/sk3/14666.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-Logo.png</thumbnail>
 </item>
 
@@ -695,7 +649,7 @@
 
 <item>
 <title>SKY SPORTS 3 UK BACKUP</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/737.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://213.136.90.30:8000/live/sk3/sk3/14667.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-Logo.png</thumbnail>
 </item>
 
@@ -707,7 +661,7 @@
 
 <item>
 <title>SKY SPORTS 4 UK BACKUP</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/738.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://213.136.90.30:8000/live/sk3/sk3/14668.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-Logo.png</thumbnail>
 </item>
 
@@ -719,7 +673,7 @@
 
 <item>
 <title>SKY SPORTS 5 UK BACKUP</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/739.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://213.136.90.30:8000/live/sk3/sk3/14675.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-Logo.png</thumbnail>
 </item>
 
@@ -731,7 +685,7 @@
 
 <item>
 <title>SKY SPORTS F1 UK BACKUP</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/1206.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://213.136.90.30:8000/live/sk3/sk3/14670.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-Logo.png</thumbnail>
 </item>
 
@@ -937,7 +891,7 @@
 
 <item>
 <title>WWE NETWORK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/1329.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://213.136.90.30:8000/live/sk3/sk3/13283.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://i.imgur.com/Ug9xGzp.png</thumbnail>
 </item>
 
