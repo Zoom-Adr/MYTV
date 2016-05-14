@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>BT1 ACESTREAM</title>
-<plexus>b23a988ab9138f4280772f1175bdaa3aefc61092</plexus>
+<title>ACESTREAM ASTRO 1 TEST</title>
+<link>plugin://program.plexus/?url=39b0e64a063e1e3fc12a3641bc2ca4096b793b70&amp;mode=1&amp;name=AdrianSports</link>
 </item>
 
-
 <item>
-<title>ACESTREAM SPORTS 1 TEST</title>
-<plexus>fecd83c98d6b7aeac0b0f0aec09a82c4745a74f2</plexus>
+<title>ACESTREAM ASTRO 1 TEST</title>
+<link>plugin://program.plexus/?url=39b0e64a063e1e3fc12a3641bc2ca4096b793b70&amp;mode=1</link>
 </item>
 
 <item>
