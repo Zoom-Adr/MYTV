@@ -152,19 +152,19 @@
 
 <item>
 <title>BEIN SPORTS 1 FR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.do/beinfr1&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://213.136.90.30:8000/live/sk3/sk3/14103.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://cdn.marketplaceimages.windowsphone.com/v8/images/24a7a709-4c44-43ea-9838-a01e2914de0f?imageType=ws_icon_medium</thumbnail>
 </item>
 
 <item>
 <title>BEIN SPORTS 2 FR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.do/beinfr2&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://213.136.90.30:8000/live/sk3/sk3/14104.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://cdn.marketplaceimages.windowsphone.com/v8/images/24a7a709-4c44-43ea-9838-a01e2914de0f?imageType=ws_icon_medium</thumbnail>
 </item>
 
 <item>
 <title>BEIN SPORTS 3 FR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.do/beinfr3&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://213.136.90.30:8000/live/sk3/sk3/14105.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://cdn.marketplaceimages.windowsphone.com/v8/images/24a7a709-4c44-43ea-9838-a01e2914de0f?imageType=ws_icon_medium</thumbnail>
 </item>
 
