@@ -6,11 +6,6 @@
 </item>
 
 <item>
-<title>ACESTREAM ASTRO 1 TEST</title>
-<link>plugin://program.plexus/?url=39b0e64a063e1e3fc12a3641bc2ca4096b793b70&amp;mode=1</link>
-</item>
-
-<item>
 <title>SKY SPORTS 1 TEST</title>
 <link>plugin://plugin.video.f4mTester/?url=http://213.136.90.30:8000/live/sk3/sk3/14665.ts&amp;streamtype=TSDOWNLOADER</link>
 </item>
