@@ -1,6 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
+<title>ACESTREAM</title> 
+<link>plugin://program.plexus/?url=$doregex[encodedurl]&amp;mode=1&amp;name=AdrianSports</link>
+
+<regex>
+    <name>encodedurl</name>
+    <expres>$pyFunction:urllib.quote_plus('$doregex[get-hls]')</expres>
+    <page></page>
+</regex>
+
+<regex>
+<name>get-hls</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+ import requests
+ import re
+
+ headers0 = {'User-Agent': 'Mozilla/5.0'}
+ url0= 'http://super-pomoyka.us.to/trash/ttv-list/ttv.json'
+ source0= requests.get(url0, headers=headers0)
+ m3u8= re.findall('BT Sport 1 HD","url":"(.*?)"', source0.text)[0]
+ 
+]]></expres>
+<page></page>
+</regex>
+ </item>
+ 
+<item>
 <title>ACESTREAM ASTRO 1 TEST</title>
 <link>plugin://program.plexus/?url=39b0e64a063e1e3fc12a3641bc2ca4096b793b70&amp;mode=1&amp;name=AdrianSports</link>
 </item>
