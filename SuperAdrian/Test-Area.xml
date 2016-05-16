@@ -26,11 +26,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 </regex>
  </item>
- 
-<item>
-<title>ACESTREAM ASTRO 1 TEST</title>
-<link>plugin://program.plexus/?url=39b0e64a063e1e3fc12a3641bc2ca4096b793b70&amp;mode=1&amp;name=AdrianSports</link>
-</item>
 
 <item>
 <title>SKY SPORTS 1 TEST</title>
