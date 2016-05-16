@@ -34,18 +34,24 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 <item>
 <title>SKY SPORTS 1 TEST</title>
-<link>plugin://plugin.video.f4mTester/?url=http://213.136.90.30:8000/live/sk3/sk3/14665.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ss1.maltasat.com:8000/live/kazinsnsiggiewi/kjhjhss/548.ts&amp;streamtype=TSDOWNLOADER</link>
 </item>
 
 <item>
 <title>BT SPORTS 1 TEST</title>
-<link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/riadh1635/chaaben1635/1308.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ss1.maltasat.com:8000/live/kazinsnsiggiewi/kjhjhss/556.ts&amp;streamtype=TSDOWNLOADER</link>
 </item>
 
 <item>
-<title>SKY SPORTS 1 TEST</title>
-<link>plugin://plugin.video.f4mTester/?url=http://stream.turksolutions.org:8000/live/fiko/fiko123/104.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>BT EUROPE TEST</title>
+<link>plugin://plugin.video.f4mTester/?url=http://uptv.mine.nu:8282/live/ilker/ilker/1350.ts&amp;streamtype=TSDOWNLOADER</link>
 </item>
+
+<item>
+<title>CTH TEST</title>
+<link>plugin://plugin.video.f4mTester/?url=http://dzcamiptv.ddns.net:1984/live/endrit/endrit/1427.ts&amp;streamtype=TSDOWNLOADER</link>
+</item>
+
 
 <item>
 <title>FOX SPORTS 2 USA TEST</title>
