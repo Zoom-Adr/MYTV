@@ -1,6 +1,44 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
+<title>http://www.mivo.com/#/live/sctv</title> 
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36&amp;Accept-Encoding=gzip&amp;Referer=http://www.mivo.com/</link>
+
+<regex>
+    <name>encodedurl</name>
+    <expres>$pyFunction:urllib.quote_plus('$doregex[get-hls]')</expres>
+    <page></page>
+</regex>
+
+<regex>
+<name>get-hls</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+ import requests
+ import re
+
+
+ headers0 = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36'}
+ url0= 'http://api.mivo.com/v4/web/channels'
+ source0= requests.get(url0, headers=headers0)
+ m3u8= re.findall('sctv","dataUrl":"(.*?)"', source0.text)[0]
+
+ headers1 = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36', 'Authorization': 'otBp3oYTBjo-LUCQY7s9Bb0y2CEW0jj4'}
+ url1= 'http://api.mivo.com/v4/web/channels/wms-auth'
+ source1= requests.get(url1, headers=headers1)
+ wms_auth= re.findall('"sign":"(.*?)"', source1.text)[0]
+ url2 = m3u8 + wms_auth
+ source2= requests.get(url2, headers=headers0)
+ maxbitrate= re.findall('(http.*)', source2.text)[0]
+
+ return maxbitrate
+]]></expres>
+<page></page>
+<x-req>ShockwaveFlash/21.0.0.242</x-req>
+</regex>
+ </item>
+ 
+<item>
 <title>ACESTREAM</title> 
 <link>plugin://program.plexus/?url=$doregex[encodedurl]&amp;mode=1&amp;name=AdrianSports</link>
 
@@ -46,12 +84,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title>BT EUROPE TEST</title>
 <link>plugin://plugin.video.f4mTester/?url=http://uptv.mine.nu:8282/live/ilker/ilker/1350.ts&amp;streamtype=TSDOWNLOADER</link>
 </item>
-
-<item>
-<title>CTH TEST</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dzcamiptv.ddns.net:1984/live/endrit/endrit/1427.ts&amp;streamtype=TSDOWNLOADER</link>
-</item>
-
 
 <item>
 <title>FOX SPORTS 2 USA TEST</title>
@@ -153,16 +185,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>gafsa canal futbol</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvgafsa.ddns.net:8000/live/tiger/tiger/8482.ts&amp;streamtype=TSDOWNLOADER</link>
-</item>
-
-<item>
-<title>gafsa bt1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvgafsa.ddns.net:8000/live/tiger/tiger/9835.ts&amp;streamtype=TSDOWNLOADER</link>
-</item>
-
-<item>
 <title>tinkerbell motogp</title>
 <link>plugin://plugin.video.f4mTester/?url=http://featur-iptv.myvnc.com:8000/live/tinkerbell/tinkerbell/1748.ts&amp;streamtype=TSDOWNLOADER</link>
 </item>
@@ -192,49 +214,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title>michel ssp1</title>
 <link>plugin://plugin.video.f4mTester/?url=http://featur-iptv.myvnc.com:8000/live/michel/michel/682.ts&amp;streamtype=TSDOWNLOADER</link>
 </item>
-
-<item>
-<title>IPTV POLO SSP1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvpolo.dvrdns.org:22921/live/visioniptv/skype/18.ts&amp;streamtype=TSDOWNLOADER</link>
-</item>
-
-
-<item>
-<title>MIVO TEST 1</title> 
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
-
-<regex>
-    <name>encodedurl</name>
-    <expres>$pyFunction:urllib.quote_plus('$doregex[get-hls]')</expres>
-    <page></page>
-</regex>
-
-<regex>
-<name>get-hls</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m):
- import requests
- import re
-
-
- headers0 = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0'}
- url0= 'http://api.mivo.com/v4/web/channels'
- source0= requests.get(url0, headers=headers0)
- m3u8= re.findall('sctv","dataUrl":"(.*?)"', source0.text)[0]
-
- headers1 = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Authorization': 'BY-TrgLgK0NMzXb_JB_81DfeOxK_SNH7'}
- url1= 'http://api.mivo.com/v4/web/channels/wms-auth'
- source1= requests.get(url1, headers=headers1)
- wms_auth= re.findall('"sign":"(.*?)"', source1.text)[0]
- url2 = m3u8 + wms_auth
- source2= requests.get(url2, headers=headers0)
- maxbitrate= re.findall('(http.*)', source2.text)[0]
-
- return maxbitrate
-]]></expres>
-<page></page>
-</regex>
- </item>
 
 <item>
   <title>TEST | **www.filmon.com/tv/ufc-next**</title>
