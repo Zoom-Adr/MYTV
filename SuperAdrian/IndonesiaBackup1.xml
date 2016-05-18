@@ -150,6 +150,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 </item>
  
+ <item>
+<title>BERITA SATU SPORT</title>
+<link>http://edge.firstmediacdn.swiftserve.com/live/fmcdn/amlst:beritasatusport/chunklist_b2217000.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_beritasatutv_zpsdgoulgmq.png</thumbnail>
+<fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
+</item>
+
 <item>
 <title>CAHAYA TV</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
