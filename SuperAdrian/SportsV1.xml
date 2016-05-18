@@ -800,6 +800,12 @@
 </item>
 
 <item>
+<title>TRT 1</title>
+<link>http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8</link>
+<thumbnail>http://i.sozcu.com.tr/wp-content/uploads/2016/04/28/trt-1-yayin-akisi-390x216.jpg</thumbnail>
+</item>
+
+<item>
 <title>TSN 1</title>
 <link>plugin://plugin.video.f4mTester/?url=http://bit.do/VTSN1&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://wpmedia.o.canada.com/2014/05/tsn_red_1__244682411.jpg?w=620</thumbnail>
