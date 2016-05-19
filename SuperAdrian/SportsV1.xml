@@ -807,31 +807,31 @@
 
 <item>
 <title>TSN 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.do/VTSN1&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/946a914c3965/342.mpegts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://wpmedia.o.canada.com/2014/05/tsn_red_1__244682411.jpg?w=620</thumbnail>
 </item>
 
 <item>
 <title>TSN 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.do/VTSN2&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/946a914c3965/343.mpegts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://wpmedia.o.canada.com/2014/05/tsn_red_1__244682411.jpg?w=620</thumbnail>
 </item>
 
 <item>
 <title>TSN 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.do/VTSN3&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/946a914c3965/344.mpegts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://wpmedia.o.canada.com/2014/05/tsn_red_1__244682411.jpg?w=620</thumbnail>
 </item>
 
 <item>
 <title>TSN 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.do/VTSN4&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/946a914c3965/345.mpegts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://wpmedia.o.canada.com/2014/05/tsn_red_1__244682411.jpg?w=620</thumbnail>
 </item>
 
 <item>
 <title>TSN 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.do/VTSN5&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/946a914c3965/346.mpegts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://wpmedia.o.canada.com/2014/05/tsn_red_1__244682411.jpg?w=620</thumbnail>
 </item>
 
