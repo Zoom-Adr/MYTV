@@ -6,22 +6,6 @@
 </item>
 
 <item>
-<title>ASIAN FOOD CHANNEL</title>
-<link>rtmp://flashd.localmidia.com.br/cheftv//aovivo</link>
-</item>
-
-<item>
-<title>http://www.crestream.com/2015/11/boxnation.html</title>
-<link>http://89.40.71.245:8081/liverepeater/55c258694142d/index.m3u8?wmsAuthSign=$doregex[tok]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://www.crestream.com/2015/11/boxnation.html</page>
-<referer>http://www.crestream.com/</referer>
-</regex>
-</item>
-
-<item>
 <title>http://www.mivo.com/#/live/sctv</title> 
 <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36&amp;Accept-Encoding=gzip&amp;Referer=http://www.mivo.com/</link>
 
@@ -59,33 +43,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </regex>
  </item>
  
-<item>
-<title>ACESTREAM</title> 
-<link>plugin://program.plexus/?url=$doregex[encodedurl]&amp;mode=1&amp;name=AdrianSports</link>
-
-<regex>
-    <name>encodedurl</name>
-    <expres>$pyFunction:urllib.quote_plus('$doregex[get-hls]')</expres>
-    <page></page>
-</regex>
-
-<regex>
-<name>get-hls</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m):
- import requests
- import re
-
- headers0 = {'User-Agent': 'Mozilla/5.0'}
- url0= 'http://super-pomoyka.us.to/trash/ttv-list/ttv.json'
- source0= requests.get(url0, headers=headers0)
- m3u8= re.findall('BT Sport 1 HD","url":"(.*?)"', source0.text)[0]
- 
-]]></expres>
-<page></page>
-</regex>
- </item>
-
 <item>
 <title>MOVISTAR MOTOGP TEST</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/alneaimy5/e1kuxa/1916.ts&amp;streamtype=TSDOWNLOADER</link>
