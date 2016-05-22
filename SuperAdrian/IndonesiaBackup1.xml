@@ -976,7 +976,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
 <item>
 <title>SCTV SERVER 3</title>
-<link>rtmp://103.49.105.78:1935/RTMPChannel playpath=1473799202546e3768809a5/1/2/high swfUrl=http://ply001.3d.ibolztv.net/player/flash/id/iBolz-2.1.5.a.swf live=1 pageUrl=http://id.ibolz.tv/home/content_detail/1473799202546e3768809a5/1473799202546e3768809a5/channel|User-Agent=Mozilla/5.0</link>
+<link>rtmp://103.49.105.78/RTMPChannel playpath=1473799202546e3768809a5/1/1/high swfUrl=http://ply001.3d.ibolztv.net/player/flash/id/iBolz-2.1.5.a.swf live=1 pageUrl=http://id.ibolz.tv/home/content_detail/1473799202546e3768809a5/1473799202546e3768809a5/channel|User-Agent=Mozilla/5.0</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_sctv_zpsibjuh3i7.png</thumbnail>
 </item>
 
@@ -1248,7 +1248,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
 <item>
 <title>TRANS 7 SERVER 2</title>
-<link>rtmp://103.49.105.80/RTMPChannel playpath=54187483654cb1d095e910/1/1/high swfUrl=http://ply001.3d.ibolztv.net/player/flash/id/iBolz-2.1.5.a.swf live=1 pageUrl=http://id.ibolz.tv/home/content_detail/54187483654cb1d095e910/54187483654cb1d095e910/channel|User-Agent=Mozilla/5.0</link>
+<link>rtmp://103.49.105.80/RTMPChannel playpath=54187483654cb1d095e910/1/1/high swfUrl=http://ply001.3d.ibolztv.net/player/flash/id/iBolz-2.1.5.a.swf live=1 pageUrl=http://id.ibolz.tv/home/content_detail/1473799202546e3768809a5/1473799202546e3768809a5/channel|User-Agent=Mozilla/5.0</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_trans_7_zpsn7frpupf.png</thumbnail>
 </item>
 
@@ -1290,6 +1290,12 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 </item>
  
+<item>
+<title>TRANS TV SERVER 2</title>
+<link>rtmp://103.49.105.80/RTMPChannel playpath=154612677655150dcd986be/1/1/high swfUrl=http://ply001.3d.ibolztv.net/player/flash/id/iBolz-2.1.5.a.swf live=1 pageUrl=http://id.ibolz.tv/home/content_detail/1473799202546e3768809a5/1473799202546e3768809a5/channel|User-Agent=Mozilla/5.0</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_trans_tv_zpsef7hiuqo.png</thumbnail>
+</item>
+
 <item>
 <title>TV ONE</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
