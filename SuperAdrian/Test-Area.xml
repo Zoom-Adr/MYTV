@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
+<title> http://id.ibolz.tv/</title>
+<link>rtmp://103.49.105.78:1935/RTMPChannel playpath=1473799202546e3768809a5/1/2/high swfUrl=http://ply001.3d.ibolztv.net/player/flash/id/iBolz-2.1.5.a.swf live=1 pageUrl=http://id.ibolz.tv/home/content_detail/1473799202546e3768809a5/1473799202546e3768809a5/channel</link>
+</item>
+
+<item>
 <title>ASIAN FOOD CHANNEL</title>
 <link>rtmp://flashd.localmidia.com.br/cheftv//aovivo</link>
 </item>
