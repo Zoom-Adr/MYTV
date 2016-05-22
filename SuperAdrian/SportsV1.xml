@@ -169,24 +169,6 @@
 </item>
 
 <item>
-<title>BEIN SPORTS 1 ID</title>
-<f4m>http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:78a1bc703242/chunklist_b2532000.m3u8?stime=20160515090000&amp;etime=20160515130000&amp;encoded=02c110e827579a5ed1d64</f4m>
-<thumbnail>http://cdn.marketplaceimages.windowsphone.com/v8/images/24a7a709-4c44-43ea-9838-a01e2914de0f?imageType=ws_icon_medium</thumbnail>
-</item>
-
-<item>
-<title>BEIN SPORTS 2 ID</title>
-<f4m>http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:14a27c358043/chunklist_b2532000.m3u8?stime=20160515090000&amp;etime=20160515130000&amp;encoded=0435c25111a890c65b8cd</f4m>
-<thumbnail>http://cdn.marketplaceimages.windowsphone.com/v8/images/24a7a709-4c44-43ea-9838-a01e2914de0f?imageType=ws_icon_medium</thumbnail>
-</item>
-
-<item>
-<title>BEIN SPORTS 3 ID</title>
-<f4m>http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:fddbadb5b544/chunklist_b1668000.m3u8?stime=20160515090000&amp;etime=20160515130000&amp;encoded=0805813432283f354c095</f4m>
-<thumbnail>http://cdn.marketplaceimages.windowsphone.com/v8/images/24a7a709-4c44-43ea-9838-a01e2914de0f?imageType=ws_icon_medium</thumbnail>
-</item>
-
-<item>
 <title>BEIN SPORTS USA</title>
 <link>plugin://plugin.video.f4mTester/?url=http://213.136.90.30:8000/live/sk3/sk3/13280.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://cdn.marketplaceimages.windowsphone.com/v8/images/24a7a709-4c44-43ea-9838-a01e2914de0f?imageType=ws_icon_medium</thumbnail>
