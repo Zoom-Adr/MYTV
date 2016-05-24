@@ -2,7 +2,7 @@
 
 <item>
 <title>star world test</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
+<link>$doregex[encodedurl]</link>
 <regex>
 <name>encodedurl</name>
 <expres>$pyFunction:urllib.quote_plus('$doregex[get=URL]]')</expres>
