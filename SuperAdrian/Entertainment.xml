@@ -5,26 +5,8 @@
 </item>
 
 <item>
-<title>FOX MOVIES PREMIUM ASIA</title>
-<link>http://bit.do/b29VE</link>
-<thumbnail>https://pbs.twimg.com/profile_images/2647451160/e2b9e01f29a64babd2b456b10f7e5b96_400x400.png</thumbnail>
-</item>
-
-<item>
-<title>FOX FAMILY MOVIES ASIA</title>
-<link>http://bit.do/b29Xb</link>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0jmgw84xRkn9Is1TbztWnAOE7oygskupkY25mm1UdWQOdYP9Q</thumbnail>
-</item>
-
-<item>
 <title>HBO</title>
 <link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/946a914c3965/193.mpegts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://hboasiapromos.s3.amazonaws.com/0_core/fb-hbo-480x320.jpg</thumbnail>
-</item>
-
-<item>
-<title>HBO ASIA</title>
-<link>http://bit.do/b29TD</link>
 <thumbnail>http://hboasiapromos.s3.amazonaws.com/0_core/fb-hbo-480x320.jpg</thumbnail>
 </item>
 
