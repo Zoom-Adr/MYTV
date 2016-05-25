@@ -79,6 +79,12 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
+<title>SN360</title>
+<link>http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8</link>
+</item>
+
+
+<item>
 <title>BT EUROPE TEST</title>
 <link>plugin://plugin.video.f4mTester/?url=http://uptv.mine.nu:8282/live/ilker/ilker/1350.ts&amp;streamtype=TSDOWNLOADER</link>
 </item>
