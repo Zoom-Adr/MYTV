@@ -873,6 +873,12 @@
 
 <item>
 <title>USA NETWORK BACKUP</title>
+<link>http://hd4u.tvonip.biz:8588/hd_usa_network/index.m3u8</link>
+<thumbnail>http://tvseriesfinale.com/wp-content/uploads/2014/08/usa04.jpg</thumbnail>
+</item>
+
+<item>
+<title>USA NETWORK BACKUP</title>
 <link>plugin://plugin.video.f4mTester/?url=http://bit.do/usanetwork&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://tvseriesfinale.com/wp-content/uploads/2014/08/usa04.jpg</thumbnail>
 </item>
