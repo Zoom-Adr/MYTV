@@ -29,6 +29,42 @@
 </item>
 
 <item>
+<title>HBO COMEDY</title>
+<link>http://flu.tvonip.biz:8588/aloo_hbo_comedy/index.m3u8</link>
+<thumbnail>http://hboasiapromos.s3.amazonaws.com/0_core/fb-hbo-480x320.jpg</thumbnail>
+</item>
+
+<item>
+<title>HBO EAST</title>
+<link>http://flu.tvonip.biz:8588/aloo_hbo_east/index.m3u8</link>
+<thumbnail>http://hboasiapromos.s3.amazonaws.com/0_core/fb-hbo-480x320.jpg</thumbnail>
+</item>
+
+<item>
+<title>HBO 2</title>
+<link>http://flu.tvonip.biz:8588/aloo_hbo2/index.m3u8</link>
+<thumbnail>http://hboasiapromos.s3.amazonaws.com/0_core/fb-hbo-480x320.jpg</thumbnail>
+</item>
+
+<item>
+<title>HBO FAMILY</title>
+<link>http://flu.tvonip.biz:8588/aloo_hbo_family/index.m3u8</link>
+<thumbnail>http://hboasiapromos.s3.amazonaws.com/0_core/fb-hbo-480x320.jpg</thumbnail>
+</item>
+
+<item>
+<title>HBO SIGNATURE</title>
+<link>http://flu.tvonip.biz:8588/aloo_hbo_signature/index.m3u8</link>
+<thumbnail>http://hboasiapromos.s3.amazonaws.com/0_core/fb-hbo-480x320.jpg</thumbnail>
+</item>
+
+<item>
+<title>HBO ZONE</title>
+<link>http://flu.tvonip.biz:8588/aloo_hbo_zone/index.m3u8</link>
+<thumbnail>http://hboasiapromos.s3.amazonaws.com/0_core/fb-hbo-480x320.jpg</thumbnail>
+</item>
+
+<item>
 <title>KANAL 7 TURKEY</title>
 <link>http://livetr.gostream.nl/kanal7hq/kanal7hq/playlist.m3u8</link>
 <thumbnail>http://basin.kanal7.com/dosyalar/LOGO/vest/kanal%207%20gri%20logo_siyah%20yazi.jpg</thumbnail>
