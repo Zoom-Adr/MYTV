@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
+<title>TEST</title>
+<link>https://52.74.146.91/VideoServer/GetLiveLeafIndex.aspx/102.m3u8?token=C&amp;l=5102&amp;v=N&amp;a=&amp;p=04|X-Forwarded-For=107.182.239.164</link>
+</item>
+
+<item>
 <title>star world test</title>
 <link>$doregex[encodedurl]</link>
 <regex>
