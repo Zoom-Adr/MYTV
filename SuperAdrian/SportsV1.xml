@@ -218,7 +218,7 @@
 
 <item>
 <title>BT SPORT EUROPE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.do/gobteur&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat28/customer28/1513.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
 </item>
 
