@@ -1,6 +1,6 @@
 <item>
 <title>LETV SPORTS</title>
-<link>http://live.g3proxy.lecloud.com/gslb?stream_id=lb_sports_720p&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1009&amp;format=letv&amp;expect=1|User-Agent=Mozilla/5.0 (iPad; CPU OS 5_1 like Mac OS X; en-us) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9B176 Safari/7534.48.3</link>
+<link>http://live.g3proxy.lecloud.com/gslb?stream_id=lb_sports_720p&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1009&amp;format=letv&amp;expect=1|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</link>
 <thumbnail>https://raw.githubusercontent.com/ProjectAdrian/SuperAdrian/master/Icons/LETV.png</thumbnail>
 </item>
 
