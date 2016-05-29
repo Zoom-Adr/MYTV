@@ -44,7 +44,7 @@
 
 <item>
 <title>TV1</title>
-<link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://cdn-rtm-player.gluempsapp.com/105/10149</link>
+<link>$doregex[m3u8]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36&amp;Referer=http://cdn-rtm-player.gluempsapp.com/105/10149</link>
 <regex>
     <name>m3u8</name>
     <expres>file="([^\"]+)"</expres>
@@ -86,7 +86,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://www.layarku.tv/media/tv1m.
 
 <item>
 <title>TV2</title>
-<link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://cdn-rtm-player.gluempsapp.com/105/10148</link>
+<link>$doregex[m3u8]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36&amp;Referer=http://cdn-rtm-player.gluempsapp.com/105/10148</link>
 <regex>
     <name>m3u8</name>
     <expres>file="([^\"]+)"</expres>
@@ -241,7 +241,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://www.layarku.tv/media/tv9se
 
 <item>
 <title>RTM PARLIMEN</title>
-<link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://cdn-rtm-player.gluempsapp.com/105/10152</link>
+<link>$doregex[m3u8]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36&amp;Referer=http://cdn-rtm-player.gluempsapp.com/105/10152</link>
 <regex>
     <name>m3u8</name>
     <expres>file="([^\"]+)"</expres>
@@ -263,7 +263,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://www.layarku.tv/media/tv9se
 
 <item>
 <title>TVi</title>
-<link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://cdn-rtm-player.gluempsapp.com/105/10150</link>
+<link>$doregex[m3u8]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36&amp;Referer=http://cdn-rtm-player.gluempsapp.com/105/10150</link>
 <regex>
     <name>m3u8</name>
     <expres>file="([^\"]+)"</expres>
@@ -291,7 +291,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://www.layarku.tv/media/tv9se
 
 <item>
 <title>AKSI SUKAN</title>
-<link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://cdn-rtm-player.gluempsapp.com/105/10154</link>
+<link>$doregex[m3u8]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36&amp;Referer=http://cdn-rtm-player.gluempsapp.com/105/10154</link>
 <regex>
     <name>m3u8</name>
     <expres>file="([^\"]+)"</expres>
