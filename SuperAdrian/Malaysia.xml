@@ -44,12 +44,16 @@
 
 <item>
 <title>TV1</title>
-<link>$doregex[m3u8]|User-Agent=Android</link>
+<link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://cdn-rtm-player.gluempsapp.com/105/10149</link>
 <regex>
     <name>m3u8</name>
-    <expres>file="(.*?)"</expres>
+    <expres>file="([^\"]+)"</expres>
     <page>http://cdn-rtm-player.gluempsapp.com/103/10149</page>
     <referer>http://cdn-rtm-player.gluempsapp.com/103/10149</referer>
+    <accept>*/*</accept>
+    <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
+    <x-req>ShockwaveFlash/21.0.0.242</x-req>
+    <cookieJar></cookieJar>
 </regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv1_zps8mlj4nck.png</thumbnail>
 </item>
@@ -82,12 +86,16 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://www.layarku.tv/media/tv1m.
 
 <item>
 <title>TV2</title>
-<link>$doregex[m3u8]|User-Agent=Android</link>
+<link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://cdn-rtm-player.gluempsapp.com/105/10148</link>
 <regex>
     <name>m3u8</name>
-    <expres>file="(.*?)"</expres>
+    <expres>file="([^\"]+)"</expres>
     <page>http://cdn-rtm-player.gluempsapp.com/103/10148</page>
     <referer>http://cdn-rtm-player.gluempsapp.com/103/10148</referer>
+    <accept>*/*</accept>
+    <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
+    <x-req>ShockwaveFlash/21.0.0.242</x-req>
+    <cookieJar></cookieJar>
 </regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/My_tv2_zpshzwufzrv.png</thumbnail>
 </item>
