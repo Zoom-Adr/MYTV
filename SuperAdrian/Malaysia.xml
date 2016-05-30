@@ -48,8 +48,8 @@
 <regex>
     <name>m3u8</name>
     <expres>file="([^\"]+)"</expres>
-    <page>http://cdn-rtm-player.gluempsapp.com/103/10149</page>
-    <referer>http://cdn-rtm-player.gluempsapp.com/103/10149</referer>
+    <page>http://cdn-rtm-player.gluempsapp.com/105/10149</page>
+    <referer>http://cdn-rtm-player.gluempsapp.com/105/10149</referer>
     <accept>*/*</accept>
     <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
     <x-req>ShockwaveFlash/21.0.0.242</x-req>
@@ -90,8 +90,8 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://www.layarku.tv/media/tv1m.
 <regex>
     <name>m3u8</name>
     <expres>file="([^\"]+)"</expres>
-    <page>http://cdn-rtm-player.gluempsapp.com/103/10148</page>
-    <referer>http://cdn-rtm-player.gluempsapp.com/103/10148</referer>
+    <page>http://cdn-rtm-player.gluempsapp.com/105/10148</page>
+    <referer>http://cdn-rtm-player.gluempsapp.com/105/10148</referer>
     <accept>*/*</accept>
     <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
     <x-req>ShockwaveFlash/21.0.0.242</x-req>
@@ -245,8 +245,8 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://www.layarku.tv/media/tv9se
 <regex>
     <name>m3u8</name>
     <expres>file="([^\"]+)"</expres>
-    <page>http://cdn-rtm-player.gluempsapp.com/103/10152</page>
-    <referer>http://cdn-rtm-player.gluempsapp.com/103/10152</referer>
+    <page>http://cdn-rtm-player.gluempsapp.com/105/10152</page>
+    <referer>http://cdn-rtm-player.gluempsapp.com/105/10152</referer>
     <accept>*/*</accept>
     <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
     <x-req>ShockwaveFlash/21.0.0.242</x-req>
@@ -267,8 +267,8 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://www.layarku.tv/media/tv9se
 <regex>
     <name>m3u8</name>
     <expres>file="([^\"]+)"</expres>
-    <page>http://cdn-rtm-player.gluempsapp.com/103/10150</page>
-    <referer>http://cdn-rtm-player.gluempsapp.com/103/10150</referer>
+    <page>http://cdn-rtm-player.gluempsapp.com/105/10150</page>
+    <referer>http://cdn-rtm-player.gluempsapp.com/105/10150</referer>
     <accept>*/*</accept>
     <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
     <x-req>ShockwaveFlash/21.0.0.242</x-req>
@@ -295,8 +295,8 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://www.layarku.tv/media/tv9se
 <regex>
     <name>m3u8</name>
     <expres>file="([^\"]+)"</expres>
-    <page>http://cdn-rtm-player.gluempsapp.com/103/10154</page>
-    <referer>http://cdn-rtm-player.gluempsapp.com/103/10154</referer>
+    <page>http://cdn-rtm-player.gluempsapp.com/105/10154</page>
+    <referer>http://cdn-rtm-player.gluempsapp.com/105/10154</referer>
     <accept>*/*</accept>
     <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
     <x-req>ShockwaveFlash/21.0.0.242</x-req>
