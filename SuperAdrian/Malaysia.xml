@@ -63,24 +63,28 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
 <regex>
 <name>encodedurl</name>
-<expres>$pyFunction:urllib.quote_plus('$doregex[get=URL]]')</expres>
+<expres>$pyFunction:urllib.quote_plus('$doregex[getsxtream]')</expres>
 <page></page>
 </regex>
 <regex>
-<name>get=URL</name>
-<expres><![CDATA[#$pyFunction
-import requests, re
-def GetLSProData(page_data,Cookie_Jar,m,url = 'http://www.layarku.tv/media/tv1m.php?url=http://www.layarku.tv/media2/tvm.m3u8 '):
- headers = {'User-Agent': 'Mozilla/5.0','Referer': 'http://www.layarku.tv/media/tv1.php'}
- source = requests.get(url, headers=headers)
- m3u8 = re.findall('BANDWIDTH=[\d\D]*\n.*?([^\"]+)', source.text)[0]
- return m3u8 + '|headers'
-]]></expres>
-<page></page>
+<name>getsxtream</name>
+<expres>"file":.+?(h.+\m3u8)</expres>
+<page>$doregex[page]</page>
+<referer>http://www.layarku.tv/media/tv1.php</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
+<accept>*/*</accept>
+<connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<accept>*/*</accept>
-<x-req>ShockwaveFlash/21.0.0.242</x-req>
+<regex>
+<name>page</name>
+<expres>script src='([^"]+)'</expres>
+<page>http://www.layarku.tv/media/tv1.php</page>
+<referer>http://www.layarku.tv/tv1.html</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
+<accept>*/*;q=0.8</accept>
+<connection>keep-alive</connection>
+</regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv1_zps8mlj4nck.png</thumbnail>
 </item>
 
