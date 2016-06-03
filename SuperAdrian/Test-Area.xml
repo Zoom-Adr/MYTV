@@ -2,7 +2,7 @@
 
 <item>
     <title>TEST | URL=http://www.layarku.tv/tv1.html</title> 
-    <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
+    <link>plugin://plugin.video.f4mtester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
     <regex>
     <name>encodedurl</name>
     <expres>$pyFunction:urllib.quote_plus('$doregex[getsxtream]')</expres>
