@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
+
+<item>
+<title>kompas TEST</title>
+<link>rtmp://202.137.11.52:1935/jakarta/offair.sdp</link>
+</item>
+
 <item>
     <title>TEST | URL=http://www.layarku.tv/tv1.html</title> 
     <link>plugin://plugin.video.f4mtester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
