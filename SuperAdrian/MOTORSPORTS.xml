@@ -1,0 +1,23 @@
+<item>
+<title>===[COLOR red] LIVE MOTORSPORTS [/COLOR]===</title>
+<link>.</link>
+<thumbnail>http://i.imgur.com/jK8TEMD.png</thumbnail>
+</item>
+
+<item>
+<title>LIVE MOTORSPORTS 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.do/MOTOGP1&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://i.imgur.com/jK8TEMD.png</thumbnail>
+</item>
+
+<item>
+<title>LIVE MOTORSPORTS 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.do/MOTOGP2&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://i.imgur.com/jK8TEMD.png</thumbnail>
+</item>
+
+<item>
+<title>LIVE MOTORSPORTS 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.do/MOTOGP3&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://i.imgur.com/jK8TEMD.png</thumbnail>
+</item>
