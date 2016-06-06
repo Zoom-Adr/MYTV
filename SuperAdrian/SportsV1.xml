@@ -194,7 +194,7 @@
 
 <item>
 <title>BT SPORT 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/946a914c3965/1201.mpegts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://mainstream.dyndns.tv:8000/live/oADdzK6f4W/UswG3exEgX/15.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
 </item>
 
@@ -206,7 +206,7 @@
 
 <item>
 <title>BT SPORT 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/946a914c3965/1059.mpegts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://mainstream.dyndns.tv:8000/live/oADdzK6f4W/UswG3exEgX/16.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
 </item>
 
@@ -729,49 +729,49 @@ item>
 
 <item>
 <title>STAR SPORTS 1 IN</title>
-<link>http://149.202.85.84:8080/st1-2050/local/index.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?url=http://31.220.40.87:8000/live/testy/testy/580.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.underconsideration.com/brandnew/archives/StarSports_Logo_detail.jpg</thumbnail>
 </item>
 
 <item>
 <title>STAR SPORTS 2 IN</title>
-<link>http://149.202.85.84:8080/st2-2050/local/index.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?url=http://31.220.40.87:8000/live/testy/testy/581.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.underconsideration.com/brandnew/archives/StarSports_Logo_detail.jpg</thumbnail>
 </item>
 
 <item>
 <title>STAR SPORTS 3 IN</title>
-<link>http://149.202.85.84:8080/st3-2050/local/index.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?url=http://31.220.40.87:8000/live/testy/testy/582.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.underconsideration.com/brandnew/archives/StarSports_Logo_detail.jpg</thumbnail>
 </item>
 
 <item>
 <title>STAR SPORTS 4 IN</title>
-<link>http://149.202.85.84:8080/st4-2050/local/index.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?url=http://31.220.40.87:8000/live/testy/testy/583.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.underconsideration.com/brandnew/archives/StarSports_Logo_detail.jpg</thumbnail>
 </item>
 
 <item>
 <title>SUPERSPORT 1 AL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/vincenzo/vincenzo/971.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/wael/wael/1196.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://yt3.ggpht.com/-kF7ryGR3hHU/AAAAAAAAAAI/AAAAAAAAAAA/DNb2_uQh5ik/s512-c-k-no/photo.jpg</thumbnail>
 </item>
 
 <item>
 <title>SUPERSPORT 2 AL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/vincenzo/vincenzo/972.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/wael/wael/1268.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://yt3.ggpht.com/-kF7ryGR3hHU/AAAAAAAAAAI/AAAAAAAAAAA/DNb2_uQh5ik/s512-c-k-no/photo.jpg</thumbnail>
 </item>
 
 <item>
 <title>SUPERSPORT 3 AL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/vincenzo/vincenzo/973.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/wael/wael/1267.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://yt3.ggpht.com/-kF7ryGR3hHU/AAAAAAAAAAI/AAAAAAAAAAA/DNb2_uQh5ik/s512-c-k-no/photo.jpg</thumbnail>
 </item>
 
 <item>
 <title>SUPERSPORT 4 AL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/vincenzo/vincenzo/974.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/wael/wael/1266.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://yt3.ggpht.com/-kF7ryGR3hHU/AAAAAAAAAAI/AAAAAAAAAAA/DNb2_uQh5ik/s512-c-k-no/photo.jpg</thumbnail>
 </item>
 
