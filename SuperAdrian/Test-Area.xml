@@ -102,39 +102,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
  </item>
  
 <item>
-<title>MOVISTAR MOTOGP TEST</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/alneaimy5/e1kuxa/1916.ts&amp;streamtype=TSDOWNLOADER</link>
-</item>
-
-<item>
-<title>SKY SPORTS 1 TEST</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ss1.maltasat.com:8000/live/kazinsnsiggiewi/kjhjhss/548.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>ASTRO SP TEST</title>
+<link>plugin://plugin.video.f4mTester/?url=http://elite-stream.dyndns.tv:8000/live/test/test/4320.ts&amp;streamtype=TSDOWNLOADER</link>
 </item>
 
 <item>
 <title>BEIN 11 TEST</title>
 <link>plugin://plugin.video.f4mTester/?url=http://mainstream.dyndns.tv:8000/live/oADdzK6f4W/UswG3exEgX/526.ts&amp;streamtype=TSDOWNLOADER</link>
-</item>
-
-<item>
-<title>SN360</title>
-<link>http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8</link>
-</item>
-
-
-<item>
-<title>BT EUROPE TEST</title>
-<link>plugin://plugin.video.f4mTester/?url=http://uptv.mine.nu:8282/live/ilker/ilker/1350.ts&amp;streamtype=TSDOWNLOADER</link>
-</item>
-
-<item>
-<title>FOX SPORTS 2 USA TEST</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/vlad/vlad/961.ts&amp;streamtype=TSDOWNLOADER</link>
-</item>
-
-<item>
-<title>FOX SPORTS 1 USA TEST</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/vlad/vlad/960.ts&amp;streamtype=TSDOWNLOADER</link>
 </item>
 
 <item>
@@ -222,42 +196,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>s09 test</title>
-<link>http://s09.platinum-iptv.com:80/live?channelId=655&amp;uid=2233&amp;deviceSn=5556|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-</item>
-
-<item>
-<title>tinkerbell motogp</title>
-<link>plugin://plugin.video.f4mTester/?url=http://featur-iptv.myvnc.com:8000/live/tinkerbell/tinkerbell/1748.ts&amp;streamtype=TSDOWNLOADER</link>
-</item>
-
-<item>
-<title>tinkerbell b1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://featur-iptv.myvnc.com:8000/live/tinkerbell/tinkerbell/692.ts&amp;streamtype=TSDOWNLOADER</link>
-</item>
-
-<item>
-<title>reyhan stsp</title>
-<link>plugin://plugin.video.f4mTester/?url=http://featur-iptv.myvnc.com:8000/live/reyhan/reyhan/35.ts&amp;streamtype=TSDOWNLOADER</link>
-</item>
-
-
-<item>
-<title>ftv motogp</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/1260.ts&amp;streamtype=TSDOWNLOADER</link>
-</item>
-
-<item>
-<title>ftv canal liga</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/466.ts&amp;streamtype=TSDOWNLOADER</link>
-</item>
-
-<item>
-<title>michel ssp1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://featur-iptv.myvnc.com:8000/live/michel/michel/682.ts&amp;streamtype=TSDOWNLOADER</link>
-</item>
-
-<item>
   <title>TEST | **www.filmon.com/tv/ufc-next**</title>
   <link>$doregex[sxlink]</link>
   <regex>
@@ -299,17 +237,5 @@ def GetLSProData(page_data,Cookie_Jar,m):
   <accept>*/*</accept>
 </regex>
 <thumbnail></thumbnail>
-</item>
-
-
-
-<item>
-<title>SSP1</title>
-<link>rtmp://95.211.184.118:1935/mytv/skyhd01?user=donprate@gmail.com&amp;pass=6rTxPoqkepaz9brf</link>
-</item>
-
-<item>
-<title>SSP1</title>
-<link>http://95.211.184.118:1935/mytv/skyhd01/playlist.m3u8?user=donprate@gmail.com&amp;pass=6rTxPoqkepaz9brf</link>
 </item>
 
