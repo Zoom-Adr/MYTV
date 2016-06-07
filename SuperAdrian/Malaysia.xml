@@ -70,7 +70,7 @@
     <name>getsxtream</name>
     <expres>"file":.+?(h.+\m3u8)</expres>
     <page>$doregex[page]</page>
-    <referer>http://www.layarku.tv/media/tv1.php</referer>
+    <referer>http://www.layarku.tv/media/membertv1.php</referer>
     <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
     <accept>*/*</accept>
     <connection>keep-alive</connection>
@@ -79,7 +79,7 @@
   <regex>
     <name>page</name>
     <expres>script src='([^"]+)'</expres>
-    <page>http://www.layarku.tv/media/tv1.php</page>
+    <page>http://www.layarku.tv/media/membertv1.php</page>
     <referer>http://www.layarku.tv/tv1.html</referer>
     <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
     <accept>*/*;q=0.8</accept>
