@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>TV1 test</title>
-<link>$doregex[encodedurl]</link>
+<title>TV3</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
 <regex>
 <name>encodedurl</name>
 <expres>$pyFunction:urllib.quote_plus('$doregex[get=URL]]')</expres>
@@ -12,8 +12,8 @@
 <name>get=URL</name>
 <expres><![CDATA[#$pyFunction
 import requests, re
-def GetLSProData(page_data,Cookie_Jar,m,url = 'http://www.layarku.tv/media/tv1m.php?url=http://www.layarku.tv/media2/tvm.m3u8'):
- headers = {'User-Agent': 'Mozilla/5.0','Referer': 'http://www.layarku.tv/media/tv1.php'}
+def GetLSProData(page_data,Cookie_Jar,m,url = 'http://www.layarku.tv/media/tv3sec.php?url=http://www.layarku.tv/media2/tvmysec.m3u8 '):
+ headers = {'User-Agent': 'Mozilla/5.0','Referer': 'http://www.layarku.tv/media/membertv3.php'}
  source = requests.get(url, headers=headers)
  m3u8 = re.findall('BANDWIDTH=[\d\D]*\n.*?([^\"]+)', source.text)[0]
  return m3u8 + '|headers'
