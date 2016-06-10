@@ -26,9 +26,15 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://www.layarku.tv/media/tv3se
 </item>
 
 <item>
-<title>MOTOGP RACE - CATALUNYA REPLAY</title>
-<link>http://goo.gl/OzWYy0</link>
+<title>BEIN MAX 1</title>
+<link>http://62.210.248.96:11000/live/test/test/7785.ts</link>
 </item>
+
+<item>
+<title>BEIN MAX 2</title>
+<link>http://62.210.248.96:11000/live/test/test/7786.ts</link>
+</item>
+
 
 <item>
 <title>kompas TEST</title>
