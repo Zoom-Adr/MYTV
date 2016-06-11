@@ -60,33 +60,7 @@
 
 <item>
 <title>TV1 - Backup</title>
-    <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
-    <regex>
-    <name>encodedurl</name>
-    <expres>$pyFunction:urllib.quote_plus('$doregex[getsxtream]')</expres>
-    <page></page>
-  </regex>
-  <regex>
-    <name>getsxtream</name>
-    <expres>"file":.+?(h.+\m3u8)</expres>
-    <page>$doregex[page]</page>
-    <referer>http://www.layarku.tv/media/membertv1.php</referer>
-    <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
-    <accept>*/*</accept>
-    <connection>keep-alive</connection>
-    <cookieJar></cookieJar>
-  </regex>
-  <regex>
-    <name>page</name>
-    <expres>script src='([^"]+)'</expres>
-    <page>http://www.layarku.tv/media/membertv1.php</page>
-    <referer>http://www.layarku.tv/tv1.html</referer>
-    <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
-    <accept>*/*;q=0.8</accept>
-    <connection>keep-alive</connection>
-    <x-req>ShockwaveFlash/21.0.0.242</x-req>
-    <cookieJar></cookieJar>
-    </regex>
+<link>http://rtm-live.glueapi.io/smil:rtm-ch001.smil/chunklist_b1064000_sleng.m3u8|User-Agent=Android</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv1_zps8mlj4nck.png</thumbnail>
 </item>
 
@@ -108,27 +82,7 @@
 
 <item>
 <title>TV2 - Backup</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
-<regex>
-<name>encodedurl</name>
-<expres>$pyFunction:urllib.quote_plus('$doregex[get=URL]]')</expres>
-<page></page>
-</regex>
-<regex>
-<name>get=URL</name>
-<expres><![CDATA[#$pyFunction
-import requests, re
-def GetLSProData(page_data,Cookie_Jar,m,url = 'http://www.layarku.tv/media/tv2m.php?url=http://www.layarku.tv/media2/tvm.m3u8 '):
- headers = {'User-Agent': 'Mozilla/5.0','Referer': 'http://www.layarku.tv/media/tv2.php'}
- source = requests.get(url, headers=headers)
- m3u8 = re.findall('BANDWIDTH=[\d\D]*\n.*?([^\"]+)', source.text)[0]
- return m3u8 + '|headers'
-]]></expres>
-<page></page>
-<cookieJar></cookieJar>
-</regex>
-<accept>*/*</accept>
-<x-req>ShockwaveFlash/21.0.0.242</x-req>
+<link>http://rtm-live.glueapi.io/smil:rtm-ch002/chunklist_b1064000_sleng.m3u8|User-Agent=Android</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/My_tv2_zpshzwufzrv.png</thumbnail>
 </item>
 
@@ -259,6 +213,32 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://www.layarku.tv/media/tv9se
 <accept>*/*</accept>
 <x-req>ShockwaveFlash/21.0.0.242</x-req>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv9_zpsvy6n5ypz.png</thumbnail>
+</item>
+
+<item>
+<title>8TV</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
+<regex>
+<name>encodedurl</name>
+<expres>$pyFunction:urllib.quote_plus('$doregex[get=URL]]')</expres>
+<page></page>
+</regex>
+<regex>
+<name>get=URL</name>
+<expres><![CDATA[#$pyFunction
+import requests, re
+def GetLSProData(page_data,Cookie_Jar,m,url = 'http://www.layarku.tv/media/8tvsec.php?url=http://www.layarku.tv/media2/tvmysec.m3u8 '):
+ headers = {'User-Agent': 'Mozilla/5.0','Referer': 'http://www.layarku.tv/media/member8tv.php'}
+ source = requests.get(url, headers=headers)
+ m3u8 = re.findall('BANDWIDTH=[\d\D]*\n.*?([^\"]+)', source.text)[0]
+ return m3u8 + '|headers'
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<accept>*/*</accept>
+<x-req>ShockwaveFlash/21.0.0.242</x-req>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_8tv_zpsvhm1dgc8.png</thumbnail>
 </item>
 
 <item>
