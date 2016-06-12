@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
+<title>BBC ONE</title>
+<link>
+<sublink>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://s1.ukhdtv.com:7860/live/5JVp3tMVeY/NnuGlxM41o/2205.ts</sublink>
+<sublink>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://cp.dmbshare.net:8000/live/horn/horn/5810.ts</sublink>
+<sublink>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://cp.dmbshare.net:8000/live/calle1/calle1/5810.ts</sublink>
+<sublink>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://s1.ukhdtv.com:7860/live/uWTmFPDKRl/ZBBOiZTQ9j/2205.ts</sublink>
+</link>
+</item>
+
+<item>
 <title>BEIN MAX 1</title>
 <link>http://globeiptv.ddns.net:9999/live/Plex/Premium/1069.ts</link>
 </item>
