@@ -131,20 +131,10 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <x-req>ShockwaveFlash/21.0.0.242</x-req>
 </regex>
  </item>
- 
-<item>
-<title>ASTRO SP TEST</title>
-<link>plugin://plugin.video.f4mTester/?url=http://elite-stream.dyndns.tv:8000/live/test/test/4320.ts&amp;streamtype=TSDOWNLOADER</link>
-</item>
- 
+
 <item>
 <title>movistar TEST</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/1011.ts&amp;streamtype=TSDOWNLOADER</link>
-</item>
-
-<item>
-<title>BEIN 11 TEST</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mainstream.dyndns.tv:8000/live/oADdzK6f4W/UswG3exEgX/526.ts&amp;streamtype=TSDOWNLOADER</link>
 </item>
 
 <item>
