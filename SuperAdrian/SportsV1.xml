@@ -796,7 +796,7 @@ item>
 
 <item>
 <title>WORLD FISHING NETWORK</title>
-<link>http://hd4u.tvonip.biz:8588/sd_world_fishing/index.m3u8</link>
+<f4m>http://hd4u.tvonip.biz:8588/sd_world_fishing/index.m3u8?token=e97d451098fb64be7ddbb9fddfdc252a-1465879865-8596-1-3d818cac9d1871890edb4a54b981504b|User-Agent=Mozilla/5.0</f4m>
 <thumbnail>https://pbs.twimg.com/profile_images/529770856222699521/p9JE5xM6.jpeg</thumbnail>
 </item>
 
