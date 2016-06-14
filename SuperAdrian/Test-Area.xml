@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
+<title>SOOCERINHD</title>
+<sportsdevil>http://www.soccerinhd.com/hd1.html</sportsdevil>
+<referer>http://soccerinhd.com</referer>
+</item>
+
+<item>
+<title>LENSA GOL</title>
+<sportsdevil>http://lensagol.com/live/detail/2460/38/Copa-America_Mexico-vs-Venezuela.html</sportsdevil>
+<referer>http://lensagol.com/</referer>
+</item>
+
+<item>
 <title>CTH LENSA GOL</title>
 <link>rtmp://119.81.19.107:1935/indopeer?Q1hiYVNoTHdLUzhIRHRod1NtRWpvWDRVQU1kUjdWWHNzbExjdjRvMUJLdWhhRFZ5SytycThacGlzQTdxYkdwbmtxVkdHMC9STG5sWUxYbWJ0aW9jMTJ3K01Fd3gwMjBYOUF2SU9HM1h0dnM9/ playpath=hdmi2 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 pageUrl=http://lensagol-live.com/channel/view/2?w=825&h=464|User-Agent=Mozilla/5.0</link>
 </item>
