@@ -24,12 +24,17 @@
 
 <item>
 <title>BEIN MAX 1</title>
-<link>http://globeiptv.ddns.net:9999/live/Plex/Premium/1069.ts</link>
+<link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/plexMio/WMTq4nBEkY/3046.ts&amp;streamtype=TSDOWNLOADER</link>
+</item>
+
+<item>
+<title>BEIN MAX 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globeiptv.ddns.net:9999/live/Plex/Premium/1069.ts&amp;streamtype=TSDOWNLOADER</link>
 </item>
 
 <item>
 <title>BEIN MAX 2</title>
-<link>http://globeiptv.ddns.net:9999/live/Plex/Premium/1071.ts</link>
+<link>plugin://plugin.video.f4mTester/?url=http://globeiptv.ddns.net:9999/live/Plex/Premium/1071.ts&amp;streamtype=TSDOWNLOADER</link>
 </item>
 
 
