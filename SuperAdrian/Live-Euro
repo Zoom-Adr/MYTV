@@ -5,84 +5,6 @@
 </item>
 
 <item>
-<title>[COLOR blue]AUSTRIA VS HUNGARY[/COLOR] LINK 1</title> ---- TSN1
-<link>plugin://plugin.video.f4mTester/?url=http://bit.do/plextsn1&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://40.media.tumblr.com/7c16541dc22b07f43f41604ae8a7a820/tumblr_mp0jw9iGpm1r2syj2o1_500.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue]AUSTRIA VS HUNGARY[/COLOR] LINK 2</title> ---- ITV1
-<link>plugin://plugin.video.f4mTester/?url=http://bit.do/plexitv1&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://40.media.tumblr.com/7c16541dc22b07f43f41604ae8a7a820/tumblr_mp0jw9iGpm1r2syj2o1_500.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue]AUSTRIA VS HUNGARY[/COLOR] LINK 3</title> ---- BEIN 1 FR
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat41/customer41/410.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://40.media.tumblr.com/7c16541dc22b07f43f41604ae8a7a820/tumblr_mp0jw9iGpm1r2syj2o1_500.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue]AUSTRIA VS HUNGARY[/COLOR] LINK 4</title> ---- NPO1
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat41/customer41/5347.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://40.media.tumblr.com/7c16541dc22b07f43f41604ae8a7a820/tumblr_mp0jw9iGpm1r2syj2o1_500.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue]AUSTRIA VS HUNGARY[/COLOR] LINK 5</title> ---- SPORT TV1
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat41/customer41/1056.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://40.media.tumblr.com/7c16541dc22b07f43f41604ae8a7a820/tumblr_mp0jw9iGpm1r2syj2o1_500.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue]AUSTRIA VS HUNGARY[/COLOR] LINK 6</title> ---- BEIN MAX 1
-<link>plugin://plugin.video.f4mTester/?url=http://arabic1.mickypizza1.com:80/live/stalker12/stalker12/1391.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://40.media.tumblr.com/7c16541dc22b07f43f41604ae8a7a820/tumblr_mp0jw9iGpm1r2syj2o1_500.jpg</thumbnail>
-</item>
-
-
-----------------------------------------------------------------------------------------------------------------------------
-<item>
-<title>[COLOR yellow]PORTUGAL VS ICELAND[/COLOR] LINK 1</title> ---- TSN1
-<link>plugin://plugin.video.f4mTester/?url=http://bit.do/plextsn1&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://40.media.tumblr.com/7c16541dc22b07f43f41604ae8a7a820/tumblr_mp0jw9iGpm1r2syj2o1_500.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR yellow]PORTUGAL VS ICELAND[/COLOR] LINK 2</title> ---- BBC1
-<link>plugin://plugin.video.f4mTester/?url=http://bit.do/plexbbc1&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://40.media.tumblr.com/7c16541dc22b07f43f41604ae8a7a820/tumblr_mp0jw9iGpm1r2syj2o1_500.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR yellow]PORTUGAL VS ICELAND[/COLOR] LINK 3</title> ---- BEIN 1 FR
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat41/customer41/410.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://40.media.tumblr.com/7c16541dc22b07f43f41604ae8a7a820/tumblr_mp0jw9iGpm1r2syj2o1_500.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR yellow]PORTUGAL VS ICELAND[/COLOR] LINK 4</title> ---- NPO1
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat41/customer41/5347.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://40.media.tumblr.com/7c16541dc22b07f43f41604ae8a7a820/tumblr_mp0jw9iGpm1r2syj2o1_500.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR yellow]PORTUGAL VS ICELAND[/COLOR] LINK 5</title> ---- SPORT TV1
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat41/customer41/1056.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://40.media.tumblr.com/7c16541dc22b07f43f41604ae8a7a820/tumblr_mp0jw9iGpm1r2syj2o1_500.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR yellow]PORTUGAL VS ICELAND[/COLOR] LINK 6</title> ---- BEIN MAX 1
-<link>plugin://plugin.video.f4mTester/?url=http://arabic1.mickypizza1.com:80/live/stalker12/stalker12/1391.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://40.media.tumblr.com/7c16541dc22b07f43f41604ae8a7a820/tumblr_mp0jw9iGpm1r2syj2o1_500.jpg</thumbnail>
-</item>
-
-
-----------------------------------------------------------------------------------------------------------------------------
-
-
-<item>
 <title>[COLOR cyan]RUSSIA VS SLOVAKIA[/COLOR] LINK 1</title> ---- BBC1
 <link>plugin://plugin.video.f4mTester/?url=http://bit.do/plexbbc1&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://40.media.tumblr.com/7c16541dc22b07f43f41604ae8a7a820/tumblr_mp0jw9iGpm1r2syj2o1_500.jpg</thumbnail>
@@ -112,6 +34,120 @@
 <thumbnail>https://40.media.tumblr.com/7c16541dc22b07f43f41604ae8a7a820/tumblr_mp0jw9iGpm1r2syj2o1_500.jpg</thumbnail>
 </item>
 
+----------------------------------------------------------------------------------------------------------------------------
+
+<item>
+<title>[COLOR blue]ROMANIA VS SWITZERLAND[/COLOR] LINK 1</title> ---- TSN1
+<link>plugin://plugin.video.f4mTester/?url=http://bit.do/plextsn1&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://40.media.tumblr.com/7c16541dc22b07f43f41604ae8a7a820/tumblr_mp0jw9iGpm1r2syj2o1_500.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue]ROMANIA VS SWITZERLAND[/COLOR] LINK 2</title> ---- ITV1
+<link>plugin://plugin.video.f4mTester/?url=http://bit.do/plexitv1&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://40.media.tumblr.com/7c16541dc22b07f43f41604ae8a7a820/tumblr_mp0jw9iGpm1r2syj2o1_500.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue]ROMANIA VS SWITZERLAND[/COLOR] LINK 3</title> ---- BEIN 1 FR
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat41/customer41/410.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://40.media.tumblr.com/7c16541dc22b07f43f41604ae8a7a820/tumblr_mp0jw9iGpm1r2syj2o1_500.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue]ROMANIA VS SWITZERLAND[/COLOR] LINK 4</title> ---- NPO1
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat41/customer41/5347.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://40.media.tumblr.com/7c16541dc22b07f43f41604ae8a7a820/tumblr_mp0jw9iGpm1r2syj2o1_500.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue]ROMANIA VS SWITZERLAND[/COLOR] LINK 5</title> ---- SPORT TV1
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat41/customer41/1056.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://40.media.tumblr.com/7c16541dc22b07f43f41604ae8a7a820/tumblr_mp0jw9iGpm1r2syj2o1_500.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue]ROMANIA VS SWITZERLAND[/COLOR] LINK 6</title> ---- BEIN MAX 1
+<link>plugin://plugin.video.f4mTester/?url=http://arabic1.mickypizza1.com:80/live/stalker12/stalker12/1391.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://40.media.tumblr.com/7c16541dc22b07f43f41604ae8a7a820/tumblr_mp0jw9iGpm1r2syj2o1_500.jpg</thumbnail>
+</item>
+
+
+----------------------------------------------------------------------------------------------------------------------------
+<item>
+<title>[COLOR yellow]FRANCE VS ALBANIA[/COLOR] LINK 1</title> ---- TSN1
+<link>plugin://plugin.video.f4mTester/?url=http://bit.do/plextsn1&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://40.media.tumblr.com/7c16541dc22b07f43f41604ae8a7a820/tumblr_mp0jw9iGpm1r2syj2o1_500.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]FRANCE VS ALBANIA[/COLOR] LINK 2</title> ---- ITV1
+<link>plugin://plugin.video.f4mTester/?url=http://bit.do/plexitv1&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://40.media.tumblr.com/7c16541dc22b07f43f41604ae8a7a820/tumblr_mp0jw9iGpm1r2syj2o1_500.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]FRANCE VS ALBANIA[/COLOR] LINK 3</title> ---- BEIN 1 FR
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat41/customer41/410.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://40.media.tumblr.com/7c16541dc22b07f43f41604ae8a7a820/tumblr_mp0jw9iGpm1r2syj2o1_500.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]FRANCE VS ALBANIA[/COLOR] LINK 4</title> ---- NPO1
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat41/customer41/5347.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://40.media.tumblr.com/7c16541dc22b07f43f41604ae8a7a820/tumblr_mp0jw9iGpm1r2syj2o1_500.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]FRANCE VS ALBANIA[/COLOR] LINK 5</title> ---- SPORT TV1
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat41/customer41/1056.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://40.media.tumblr.com/7c16541dc22b07f43f41604ae8a7a820/tumblr_mp0jw9iGpm1r2syj2o1_500.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]FRANCE VS ALBANIA[/COLOR] LINK 6</title> ---- BEIN MAX 1
+<link>plugin://plugin.video.f4mTester/?url=http://arabic1.mickypizza1.com:80/live/stalker12/stalker12/1391.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://40.media.tumblr.com/7c16541dc22b07f43f41604ae8a7a820/tumblr_mp0jw9iGpm1r2syj2o1_500.jpg</thumbnail>
+</item>
+
+
+----------------------------------------------------------------------------------------------------------------------------
+
+<item>
+<title>[COLOR pink]ENGLAND VS WALES[/COLOR] LINK 1</title> ---- TSN1
+<link>plugin://plugin.video.f4mTester/?url=http://bit.do/plextsn1&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://40.media.tumblr.com/7c16541dc22b07f43f41604ae8a7a820/tumblr_mp0jw9iGpm1r2syj2o1_500.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR pink]ENGLAND VS WALES[/COLOR] LINK 2</title> ---- BBC1
+<link>plugin://plugin.video.f4mTester/?url=http://bit.do/plexbbc1&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://40.media.tumblr.com/7c16541dc22b07f43f41604ae8a7a820/tumblr_mp0jw9iGpm1r2syj2o1_500.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR pink]ENGLAND VS WALES[/COLOR] LINK 3</title> ---- BEIN 1 FR
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat41/customer41/410.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://40.media.tumblr.com/7c16541dc22b07f43f41604ae8a7a820/tumblr_mp0jw9iGpm1r2syj2o1_500.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR pink]ENGLAND VS WALES[/COLOR] LINK 4</title> ---- NPO1
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat41/customer41/5347.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://40.media.tumblr.com/7c16541dc22b07f43f41604ae8a7a820/tumblr_mp0jw9iGpm1r2syj2o1_500.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR pink]ENGLAND VS WALES[/COLOR] LINK 5</title> ---- SPORT TV1
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat41/customer41/1056.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://40.media.tumblr.com/7c16541dc22b07f43f41604ae8a7a820/tumblr_mp0jw9iGpm1r2syj2o1_500.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR pink]ENGLAND VS WALES[/COLOR] LINK 6</title> ---- BEIN MAX 1
+<link>plugin://plugin.video.f4mTester/?url=http://arabic1.mickypizza1.com:80/live/stalker12/stalker12/1391.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://40.media.tumblr.com/7c16541dc22b07f43f41604ae8a7a820/tumblr_mp0jw9iGpm1r2syj2o1_500.jpg</thumbnail>
+</item>
 
 
 ----------------------------------------------------------------------------------------------------------------------------
