@@ -57,6 +57,10 @@
 <link>plugin://plugin.video.f4mTester/?url=http://globeiptv.ddns.net:9999/live/Plex/Premium/1071.ts&amp;streamtype=TSDOWNLOADER</link>
 </item>
 
+<item>
+<title>ELEVEN HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://dmtn-iptv.com:8080/live/malburaih@hotmail.com/139071iptv/5029.ts&amp;streamtype=TSDOWNLOADER</link>
+</item>
 
 <item>
 <title>BEIN MAX 1</title>
