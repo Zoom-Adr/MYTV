@@ -74,25 +74,25 @@
 
 <item>
 <title>BBC 1 UK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.do/glbbc1&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat28/customer28/1471.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>https://pbs.twimg.com/profile_images/662708106/bbc.png</thumbnail>
 </item>
 
 <item>
 <title>BBC 2 UK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.do/glbbc2&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat28/customer28/1472.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>https://pbs.twimg.com/profile_images/662708106/bbc.png</thumbnail>
 </item>
 
 <item>
 <title>BBC 3 UK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.do/glbbc3&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat28/customer28/1473.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>https://pbs.twimg.com/profile_images/662708106/bbc.png</thumbnail>
 </item>
 
 <item>
 <title>BBC 4 UK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.do/glbbc4&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat28/customer28/1474.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>https://pbs.twimg.com/profile_images/662708106/bbc.png</thumbnail>
 </item>
 
@@ -224,7 +224,7 @@
 
 <item>
 <title>BT SPORT 1 BACKUP</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.do/glbt1&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat28/customer28/1511.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
 </item>
 
@@ -236,7 +236,7 @@
 
 <item>
 <title>BT SPORT 2 BACKUP</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.do/glbt2&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat28/customer28/1512.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
 </item>
 
@@ -356,7 +356,7 @@ item>
 
 <item>
 <title>FOX SPORTS IT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.do/proplexfoxspit&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat28/customer28/152.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
 </item>
 
@@ -512,13 +512,13 @@ item>
 
 <item>
 <title>PREMIUM SPORT 1 IT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.do/proplexpremsp&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat28/customer28/107.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.mediasetpremium.it/bin/0.$plit/C_54_articolo_3869_imgarticolo.jpg</thumbnail>
 </item>
 
 <item>
 <title>PREMIUM SPORT 2 IT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.do/proplexpremsp2&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat28/customer28/571.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.mediasetpremium.it/bin/0.$plit/C_54_articolo_3869_imgarticolo.jpg</thumbnail>
 </item>
 
@@ -536,19 +536,19 @@ item>
 
 <item>
 <title>SKY BUNDESLIGA 1 DE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.do/glbundes&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat28/customer28/245.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/5/59/Sky_Bundesliga.png/revision/latest?cb=20141218001304</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORT 1 IT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.do/proplexskyspit&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat28/customer28/82.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/2/2b/Sky_Sport_Italy_2010.png/revision/latest?cb=20150524204137</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORT 2 IT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.do/proplexskyspit2&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat28/customer28/83.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/2/2b/Sky_Sport_Italy_2010.png/revision/latest?cb=20150524204137</thumbnail>
 </item>
 
@@ -560,19 +560,19 @@ item>
 
 <item>
 <title>SKY SPORT PLUS IT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.do/proplexskyspplusit&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat28/customer28/298.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/2/2b/Sky_Sport_Italy_2010.png/revision/latest?cb=20150524204137</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORT F1 IT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.do/proplexskyspf1it&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat28/customer28/153.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/2/2b/Sky_Sport_Italy_2010.png/revision/latest?cb=20150524204137</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORT MOTOGP IT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.do/proplexskyspgpit&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat28/customer28/242.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/2/2b/Sky_Sport_Italy_2010.png/revision/latest?cb=20150524204137</thumbnail>
 </item>
 
