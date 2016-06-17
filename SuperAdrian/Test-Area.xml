@@ -5,6 +5,10 @@
 <f4m>http://edgecdn.starhubgo.com/hds/ba85a26d-0200-4324-8227-e8e1872e0308/index.f4m</f4m>
 </item>
 
+<item>
+<title>ZEE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://internext.zapto.org:8000/live/ismail/ismail/523.ts&amp;streamtype=TSDOWNLOADER</link>
+</item>
 
 <item>
 <title>TEST SLEAGUE</title>
