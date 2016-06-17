@@ -783,6 +783,12 @@ item>
 </item>
 
 <item>
+<title>SUPERSPORT ARENA SG</title>
+<f4m>http://edgecdn.starhubgo.com/hds/ba85a26d-0200-4324-8227-e8e1872e0308/index.f4m|User-Agent=Mozilla/5.0</f4m>
+<thumbnail>http://58.146.131.37/Linear_channels/16412293_201_ssa_360x160.png?h=400&w=776</thumbnail>
+</item>
+
+<item>
 <title>SUPERSPORT 1 AL</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/264.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://yt3.ggpht.com/-kF7ryGR3hHU/AAAAAAAAAAI/AAAAAAAAAAA/DNb2_uQh5ik/s512-c-k-no/photo.jpg</thumbnail>
