@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>SOOCERINHD</title>
-<sportsdevil>http://www.soccerinhd.com/hd1.html</sportsdevil>
-<referer>http://soccerinhd.com</referer>
+<title>BBC1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://IPTV-VOLKAN.NET:8000/live/mike/mike1/349.ts&amp;streamtype=TSDOWNLOADER</link>
 </item>
 
 <item>
-<title>LENSA GOL</title>
-<sportsdevil>http://www.lensagol-live.com/channel/view/38?w=825&h=464</sportsdevil>
-<referer>http://lensagol.com/</referer>
+<title>ELEVEN HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://dmtn-iptv.com:8080/live/malburaih@hotmail.com/139071iptv/5029.ts&amp;streamtype=TSDOWNLOADER</link>
+</item>
+
+<item>
+<title>BEIN MAX IPSAT</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/sun3/sun3/2908.ts&amp;streamtype=TSDOWNLOADER</link>
 </item>
 
 <item>
@@ -20,26 +23,6 @@
 <item>
 <title>SKYNET 1 LENSA GOL</title>
 <link>rtmp://119.81.19.107:1935/indopeer?Q1hiYVNoTHdLUzhIRHRod1NtRWpvWDRVQU1kUjdWWHNzbExjdjRvMUJLdWhhRFZ5SytycThacGlzQTdxYkdwbmd0MUQ1RGU2YmJBMk14NGFPRVhEZzJ3K01Fd3gwMjBYOUF2SU9HM1h0dnM9/ playpath=skynets1 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 pageUrl=http://lensagol-live.com/channel/view/45?w=825&h=464|User-Agent=Mozilla/5.0</link>
-</item>
-
-<item>
-<title>SKYNET 2 LENSA GOL</title>
-<link>rtmp://119.81.19.107:1935/indopeer?Q1hiYVNoTHdLUzhIRHRod1NtRWpvWDRVQU1kUjdWWHNzbExjdjRvMUJLdWhhRFZ5SytycThacGlzQTdxYkdwbmd0MUQ1RGU2YmJBMk14NGFPRVhEZzJ3K01Fd3gwMjBYOUF2SU9HM1h0dnM9/ playpath=skynets2 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 pageUrl=http://lensagol-live.com/channel/view/46?w=825&h=464|User-Agent=Mozilla/5.0</link>
-</item>
-
-<item>
-<title>SKYNET 4 LENSA GOL</title>
-<link>rtmp://119.81.19.107:1935/indopeer?Q1hiYVNoTHdLUzhIRHRod1NtRWpvWDRVQU1kUjdWWHNzbExjdjRvMUJLdWhhRFZ5SytycThacGlzQTdxYkdwbmd0MUQ1RGU2YmJBMk14NGFPRVhEZzJ3K01Fd3gwMjBYOUF2SU9HM1h0dnM9/ playpath=skynets4 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 pageUrl=http://lensagol-live.com/channel/view/48?w=825&h=464|User-Agent=Mozilla/5.0</link>
-</item>
-
-<item>
-<title>SKYNET 5 LENSA GOL</title>
-<link>rtmp://119.81.19.107:1935/indopeer?Q1hiYVNoTHdLUzhIRHRod1NtRWpvWDRVQU1kUjdWWHNzbExjdjRvMUJLdWhhRFZ5SytycThacGlzQTdxYkdwbmd0MUQ1RGU2YmJBMk14NGFPRVhEZzJ3K01Fd3gwMjBYOUF2SU9HM1h0dnM9/ playpath=skynets5 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 pageUrl=http://lensagol-live.com/channel/view/49?w=825&h=464|User-Agent=Mozilla/5.0</link>
-</item>
-
-<item>
-<title>SKYNET 6 LENSA GOL</title>
-<link>rtmp://119.81.19.107:1935/indopeer?Q1hiYVNoTHdLUzhIRHRod1NtRWpvWDRVQU1kUjdWWHNzbExjdjRvMUJLdWhhRFZ5SytycThacGlzQTdxYkdwbmd0MUQ1RGU2YmJBMk14NGFPRVhEZzJ3K01Fd3gwMjBYOUF2SU9HM1h0dnM9/ playpath=skynets6 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 pageUrl=http://lensagol-live.com/channel/view/50?w=825&h=464|User-Agent=Mozilla/5.0</link>
 </item>
 
 <item>
@@ -55,11 +38,6 @@
 <item>
 <title>BEIN MAX 2</title>
 <link>plugin://plugin.video.f4mTester/?url=http://globeiptv.ddns.net:9999/live/Plex/Premium/1071.ts&amp;streamtype=TSDOWNLOADER</link>
-</item>
-
-<item>
-<title>ELEVEN HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dmtn-iptv.com:8080/live/malburaih@hotmail.com/139071iptv/5029.ts&amp;streamtype=TSDOWNLOADER</link>
 </item>
 
 <item>
