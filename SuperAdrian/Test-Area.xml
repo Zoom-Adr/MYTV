@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>BBC1</title>
+<title>TEST SLEAGUE</title>
 <link>https://www.youtube.com/watch?v=t-EO2CZ0vE8</link>
 </item>
+
+<item>
+<title>TEST SLEAGUE1</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=EO2CZ0vE8</link>
+</item>
+
 
 <item>
 <title>BBC1</title>
