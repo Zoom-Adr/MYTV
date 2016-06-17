@@ -6,6 +6,11 @@
 </item>
 
 <item>
+<title>TEST SS2</title>
+<f4m>http://edgecdn.starhubgo.com/hds/7610614-0200-4324-8227-e8e1872e0308/index.f4m</f4m>
+</item>
+
+<item>
 <title>ZEE</title>
 <link>plugin://plugin.video.f4mTester/?url=http://internext.zapto.org:8000/live/ismail/ismail/523.ts&amp;streamtype=TSDOWNLOADER</link>
 </item>
@@ -13,6 +18,13 @@
 <item>
 <title>TEST SLEAGUE</title>
 <link>https://www.youtube.com/watch?v=t-EO2CZ0vE8</link>
+</item>
+
+<item>
+<title>S.League</title>
+<utube>t-EO2CZ0vE8</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
 
 <item>
