@@ -981,6 +981,12 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
+<title>SCTV SERVER 4</title>
+<link>http://www.widih.com/idtv/sctv2.m3u8|User-Agent=Mozilla/5.0</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_sctv_zpsibjuh3i7.png</thumbnail>
+</item>
+
+<item>
 <title>SPACETOON</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
 <regex>
