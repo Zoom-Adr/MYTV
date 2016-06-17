@@ -6,13 +6,6 @@
 </item>
 
 <item>
-<title>TEST SLEAGUE1</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=t-EO2CZ0vE8</link>
-<link>plugin://plugin.video.youtube/play/?video_id=t-EO2CZ0vE8</link>
-</item>
-
-
-<item>
 <title>BBC1</title>
 <link>plugin://plugin.video.f4mTester/?url=http://IPTV-VOLKAN.NET:8000/live/mike/mike1/349.ts&amp;streamtype=TSDOWNLOADER</link>
 </item>
