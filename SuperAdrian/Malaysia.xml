@@ -133,7 +133,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://www.layarku.tv/media/tv3se
 <expres></expres>
 <page>http://www.layarku.tv/forum/ucp.php?mode=login</page>
 <referer>http://www.layarku.tv/media/membertv3.php</referer>
-<rawpost>username=tv3&amp;password=tv3&amp;login=Login&amp;redirect=http://www.layarku.tv/media/tv3m.php</rawpost>
+<rawpost>username=tv3&amp;password=tv3&amp;login=Login&amp;redirect=http://www.layarku.tv/media/membertv3.php</rawpost>
 <agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0</agent>
 <cookieJar></cookieJar>
 </regex>
