@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>TV3 - Backup</title>
+<title>TV3 - Backup1</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[EncodedM3u8]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>EncodedM3u8</name>
@@ -38,42 +38,6 @@
 </regex>
 </item>
 
-<item>
-<title>layarku WITH LOGIN1</title> 
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<regex>
-<name>encodedurl</name>
-<expres>$pyFunction:urllib.quote_plus('$doregex[getsxtream]|Referer=http://www.layarku.tv/media/tv3m.php/ ')</expres>
-<page></page>
-</regex>
-<regex>
-<name>getsxtream</name>
-<expres>"file": "(http.+?m3u8.*?)"</expres>
-<page>$doregex[page2]</page>
-<referer> http://www.layarku.tv/media/tv3m.php </referer>
-<agent>Mozilla/5.0 (iPhone; CPU iPhone OS 9_0_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13A452 Twitter for iPhone</agent>
-<cookieJar></cookieJar>
-</regex>
-
-<regex>
-<name>page2</name>
-<expres>src='(htt.*?)'</expres>
-<page>http://www.layarku.tv/forum/ucp.php?mode=login …</page>
-<rawpost>username=ProjectAdrian&amp;password=adrian17&amp;login=Login&amp;redirect=..%2Fmedia%2Ftv3m.php</rawpost>
-<agent>Mozilla/5.0 (iPhone; CPU iPhone OS 9_0_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13A452 Twitter for iPhone</agent>
-<cookieJar></cookieJar>
-</regex>
-</item>
-
-<regex>
-<name>page2</name>
-<expres>src='(htt.*?)'</expres>
-<page>http://www.layarku.tv/forum/ucp.php?mode=login …</page>
-<rawpost>username=ProjectAdrian&amp;password=adrian17&amp;login=Login&amp;redirect=http://www.layarku.tv/media/tv3m.php</rawpost>
-<agent>Mozilla/5.0 (iPhone; CPU iPhone OS 9_0_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13A452 Twitter for iPhone</agent>
-<cookieJar></cookieJar>
-</regex>
-</item>
 
 <item>
 <title>TEST SS1</title>
