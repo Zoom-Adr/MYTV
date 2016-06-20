@@ -39,7 +39,7 @@
 </item>
 
 <item>
-<title>layarku WITH LOGIN</title> 
+<title>layarku WITH LOGIN1</title> 
 <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
 <regex>
 <name>encodedurl</name>
@@ -50,10 +50,20 @@
 <name>getsxtream</name>
 <expres>"file": "(http.+?m3u8.*?)"</expres>
 <page>$doregex[page2]</page>
-<referer>http://www.layarku.tv/media/tv3m.php</referer>
+<referer> http://www.layarku.tv/media/tv3m.php </referer>
 <agent>Mozilla/5.0 (iPhone; CPU iPhone OS 9_0_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13A452 Twitter for iPhone</agent>
 <cookieJar></cookieJar>
 </regex>
+
+<regex>
+<name>page2</name>
+<expres>src='(htt.*?)'</expres>
+<page>http://www.layarku.tv/forum/ucp.php?mode=login …</page>
+<rawpost>username=ProjectAdrian&amp;password=adrian17&amp;login=Login&amp;redirect=..%2Fmedia%2Ftv3m.php</rawpost>
+<agent>Mozilla/5.0 (iPhone; CPU iPhone OS 9_0_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13A452 Twitter for iPhone</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
 
 <regex>
 <name>page2</name>
