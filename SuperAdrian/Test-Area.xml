@@ -2,7 +2,7 @@
 
 <item>
 <title>TV3 - Backup</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[EncodedM3u8]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[EncodedM3u8]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>EncodedM3u8</name>
 <expres>$pyFunction:urllib.quote_plus('$doregex[getHiResM3u8]')</expres>
@@ -40,7 +40,7 @@
 
 <item>
 <title>layarku WITH LOGIN1</title> 
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>encodedurl</name>
 <expres>$pyFunction:urllib.quote_plus('$doregex[getsxtream]|Referer=http://www.layarku.tv/media/tv3m.php/ ')</expres>
