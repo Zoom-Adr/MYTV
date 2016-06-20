@@ -54,28 +54,6 @@
 <link>plugin://plugin.video.f4mTester/?url=http://internext.zapto.org:8000/live/ismail/ismail/523.ts&amp;streamtype=TSDOWNLOADER</link>
 </item>
 
-<item>
-<title>TEST SLEAGUE</title>
-<link>https://www.youtube.com/watch?v=t-EO2CZ0vE8</link>
-</item>
-
-<item>
-<title>S.League</title>
-<utube>Imjt3Nw-MfA</utube>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>TEST SLEAGUE1</title>
-<link>plugin://plugin.video.youtube/play/?video_id=EO2CZ0vE8</link>
-</item>
-
-<item>
-<title>TEST SLEAGUE123</title>
-<link>plugin://plugin.video.youtube/play/?video_id=TYWvjdHvZyM</link>
-</item>
-
 
 <item>
 <title>BBC1</title>
