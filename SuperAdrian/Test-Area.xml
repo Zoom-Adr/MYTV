@@ -1,6 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
-
+<item>
+<title> http://www.passimtv.xyz/p/1.html</title>
+<link>http://$doregex[get-IP]$doregex[get-m3u8]|User-Agent=iPad</link>
+<regex>
+  <name>get-IP</name>
+  <expres>redirect=(.*)</expres>
+  <page>http://pubzony.com:1935/loadbalancer</page>
+  <referer>http://www.zony.tv/membedplayer/lpdfofd/1/705/405</referer>
+  <connection>keep-alive</connection>
+  <accept>text/plain, */*; q=0.01</accept>
+  <agent>iPad</agent>
+  <cookieJar></cookieJar>
+</regex>
+<regex>
+  <name>get-m3u8</name>
+  <expres>setAttribute\("src".*ea.*?"([^"]+)"\)</expres>
+  <page>http://www.zony.tv/membedplayer/lpdfofd/1/705/405</page>
+  <referer>http://www.passimtv.xyz/p/1.html?m=1</referer>
+  <connection>keep-alive</connection>
+  <accept>text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8</accept>
+  <agent>iPad</agent>
+  <cookieJar></cookieJar>
+</regex>
+</item>
 
 <item>
 <title>TEST SS1</title>
