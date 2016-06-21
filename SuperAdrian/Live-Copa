@@ -12,19 +12,19 @@
 </item>
 
 <item>
-<title>[COLOR blue]ARGENTINA VS VENEZUELA[/COLOR] LINK 2</title> ---- FEVER 1
+<title>[COLOR blue]USA VS ARGENTINA[/COLOR] LINK 2</title> ---- FEVER 1
 <link>plugin://plugin.video.f4mTester/?url=http://bit.do/glfever1&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.ca2016.com/uploads/10/08/SOC_1511100_copa_venues-map-1140x580v2-500x500-trim_perc(0.203,0,0.7122,1).png?token=2940f62a82b4a88eb41fdc75cefd08ca</thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue]ARGENTINA VS VENEZUELA[/COLOR] LINK 2</title> ---- FS1 1
+<title>[COLOR blue]USA VS ARGENTINA[/COLOR] LINK 3</title> ---- FS1
 <link>plugin://plugin.video.f4mTester/?url=http://bit.do/glfs1&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.ca2016.com/uploads/10/08/SOC_1511100_copa_venues-map-1140x580v2-500x500-trim_perc(0.203,0,0.7122,1).png?token=2940f62a82b4a88eb41fdc75cefd08ca</thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue]ARGENTINA VS VENEZUELA[/COLOR] LINK 3</title> ---- TRUE SPORTS 2
+<title>[COLOR blue]USA VS ARGENTINA[/COLOR] LINK 4</title> ---- TRUE SPORTS 2
 <link>rtmp://216.185.103.158/live2 playpath=chthaipremier11 swfUrl= live=1 pageUrl=|User-Agent=Mozilla/5.0</link>
 <thumbnail>http://www.ca2016.com/uploads/10/08/SOC_1511100_copa_venues-map-1140x580v2-500x500-trim_perc(0.203,0,0.7122,1).png?token=2940f62a82b4a88eb41fdc75cefd08ca</thumbnail>
 </item>
@@ -32,19 +32,25 @@
 ----------------------------------------------------------------------------------------------------------------------
 
 <item>
-<title>[COLOR yellow]MEXICO VS CHILE[/COLOR] LINK 1</title> ---- PREMIER SP
+<title>[COLOR yellow]COLOMBIA VS CHILE[/COLOR] LINK 1</title> ---- PREMIER SP
 <link>plugin://plugin.video.f4mTester/?url=http://bit.do/glpremiersp&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.ca2016.com/uploads/10/08/SOC_1511100_copa_venues-map-1140x580v2-500x500-trim_perc(0.203,0,0.7122,1).png?token=2940f62a82b4a88eb41fdc75cefd08ca</thumbnail>
 </item>
 
 <item>
-<title>[COLOR yellow]MEXICO VS CHILE[/COLOR] LINK 2</title> ---- FEVER 1
+<title>[COLOR yellow]COLOMBIA VS CHILE[/COLOR] LINK 2</title> ---- FEVER 1
 <link>plugin://plugin.video.f4mTester/?url=http://bit.do/glfever1&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.ca2016.com/uploads/10/08/SOC_1511100_copa_venues-map-1140x580v2-500x500-trim_perc(0.203,0,0.7122,1).png?token=2940f62a82b4a88eb41fdc75cefd08ca</thumbnail>
 </item>
 
 <item>
-<title>[COLOR yellow]MEXICO VS CHILE[/COLOR] LINK 3</title> ---- TRUE SPORTS 2
+<title>[COLOR yellow]COLOMBIA VS CHILE[/COLOR] LINK 3</title> ---- FS1
+<link>plugin://plugin.video.f4mTester/?url=http://bit.do/glfs1&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.ca2016.com/uploads/10/08/SOC_1511100_copa_venues-map-1140x580v2-500x500-trim_perc(0.203,0,0.7122,1).png?token=2940f62a82b4a88eb41fdc75cefd08ca</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]COLOMBIA VS CHILE[/COLOR] LINK 4</title> ---- TRUE SPORTS 2
 <link>rtmp://216.185.103.158/live2 playpath=chthaipremier11 swfUrl= live=1 pageUrl=|User-Agent=Mozilla/5.0</link>
 <thumbnail>http://www.ca2016.com/uploads/10/08/SOC_1511100_copa_venues-map-1140x580v2-500x500-trim_perc(0.203,0,0.7122,1).png?token=2940f62a82b4a88eb41fdc75cefd08ca</thumbnail>
 </item>
