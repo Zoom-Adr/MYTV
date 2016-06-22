@@ -5,7 +5,7 @@
 </item>
 
 <item>
-<title>[COLOR blue]ICELAND VS AUSTRIA[/COLOR]</title>
+<title>[COLOR cyan]ICELAND VS AUSTRIA[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://bit.do/plextsn4&amp;streamtype=TSDOWNLOADER</link> -- TSN4
 <link>plugin://plugin.video.f4mTester/?url=http://bit.do/glespn2&amp;streamtype=TSDOWNLOADER</link> -- ESPN2
 <link>plugin://plugin.video.f4mTester/?url=http://bit.do/glfever1&amp;streamtype=TSDOWNLOADER</link> -- FEVER 1
@@ -27,7 +27,7 @@
 ----------------------------------------------------------------------------------------------------------------------------
 
 <item>
-<title>[COLOR yellow]ITALY VS IRELAND[/COLOR]</title>
+<title>[COLOR blue]ITALY VS IRELAND[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://bit.do/plextsn4&amp;streamtype=TSDOWNLOADER</link> -- TSN4
 <link>plugin://plugin.video.f4mTester/?url=http://bit.do/glespn&amp;streamtype=TSDOWNLOADER</link> -- ESPN
 <link>plugin://plugin.video.f4mTester/?url=http://bit.do/glfever1&amp;streamtype=TSDOWNLOADER</link> -- FEVER 1
@@ -38,7 +38,7 @@
 ----------------------------------------------------------------------------------------------------------------------------
 
 <item>
-<title>[COLOR green]SWEDEN VS BELGIUM[/COLOR]</title>
+<title>[COLOR yellow]SWEDEN VS BELGIUM[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://bit.do/plextsn3&amp;streamtype=TSDOWNLOADER</link> -- TSN3
 <link>plugin://plugin.video.f4mTester/?url=http://bit.do/glespn2&amp;streamtype=TSDOWNLOADER</link> -- ESPN2
 <link>plugin://plugin.video.f4mTester/?url=http://bit.do/glfever2&amp;streamtype=TSDOWNLOADER</link> -- FEVER 2
