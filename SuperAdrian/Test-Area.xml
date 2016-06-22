@@ -1,6 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
+<title>TV1</title>
+<link>$doregex[m3u8]|Referer=http://cdn-rtm-player.gluempsapp.com/105/10148&amp;User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+    <name>m3u8</name>
+    <expres>file="(.*?)"</expres>
+    <page>http://cdn-rtm-player.gluempsapp.com/105/10149</page>
+    <referer>http://myklik.rtm.gov.my/live/10149</referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv1_zps8mlj4nck.png</thumbnail>
+</item>
+
+<item>
+<title>TV2</title>
+ <link>$doregex[m3u8]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25&amp;Referer=http://cdn-rtm-player.gluempsapp.com/105/10148</link>
+  <regex>
+    <name>m3u8</name>
+    <expres>file="([^\"]+)"</expres>
+    <page>http://cdn-rtm-player.gluempsapp.com/105/10148</page>
+    <referer>http://cdn-rtm-player.gluempsapp.com/105/10148</referer>
+    <agent>Mozilla/5.0</agent>
+    <accept>*/*</accept>
+    <cookieJar></cookieJar>
+  </regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/My_tv2_zpshzwufzrv.png</thumbnail>
+</item>
+
+<item>
 <title> http://www.passimtv.xyz/p/1.html</title>
 <link>http://$doregex[get-IP]$doregex[get-m3u8]|User-Agent=iPad</link>
 <regex>
