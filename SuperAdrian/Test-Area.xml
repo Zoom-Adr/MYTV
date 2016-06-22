@@ -1,20 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>TV1</title>
- <link>$doregex[m3u8]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25&amp;Referer=http://cdn-rtm-player.gluempsapp.com/105/10148</link>
-  <regex>
-    <name>m3u8</name>
-    <expres>file="([^\"]+)"</expres>
-    <page>http://cdn-rtm-player.gluempsapp.com/105/10149</page>
-    <referer>http://cdn-rtm-player.gluempsapp.com/105/10149</referer>
-    <agent>Mozilla/5.0</agent>
-    <accept>*/*</accept>
-    <cookieJar></cookieJar>
-  </regex>
-</item>
-
-<item>
 <title> http://www.passimtv.xyz/p/1.html</title>
 <link>http://$doregex[get-IP]$doregex[get-m3u8]|User-Agent=iPad</link>
 <regex>
