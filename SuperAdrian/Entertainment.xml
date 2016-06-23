@@ -11,6 +11,18 @@
 </item>
 
 <item>
+<title>FOX MOVIES PREMIUM</title>
+<link>http://103.7.57.30:9981/stream/channelid/1047743078</link>
+<thumbnail>https://s31.postimg.org/940kybpkr/FMP.jpg</thumbnail>
+</item>
+
+<item>
+<title>FOX ACTION MOVIES</title>
+<link>http://103.7.57.30:9981/stream/channelid/1565088423</link>
+<thumbnail>https://s31.postimg.org/drgvly4ez/logo_fox_movies_action.jpg</thumbnail>
+</item>
+ 
+<item>
 <title>HBO</title>
 <link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/946a914c3965/193.mpegts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://hboasiapromos.s3.amazonaws.com/0_core/fb-hbo-480x320.jpg</thumbnail>
