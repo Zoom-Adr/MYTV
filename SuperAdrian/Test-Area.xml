@@ -2,19 +2,13 @@
 
 <item>
 <title>ASTRO 11</title>
-<link>plugin://program.plexus/?url=56f8f093000c82682d912da569cb0446&amp;mode=1&amp;name=AdrianSports</link>
+<link>plugin://program.plexus/?url=122.114.113.182:9999/56f8a73c0001d07b2c72af0e27126364&amp;mode=1&amp;name=AdrianSports</link>
 <thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png</thumbnail>
 </item>
 
 <item>
-<title>ASTRO 2</title>
-<link>plugin://program.plexus/?url=p2p://122.114.113.182:9999/56f8f093000c82682d912da569cb0446&amp;mode=2&amp;name=AdrianSports</link>
-<thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png</thumbnail>
-</item>
-
-<item>
-<title>ASTRO 3</title>
-<link>plugin://program.plexus/?url=p2p://122.114.113.182:9999/56f8f093000c82682d912da569cb0446&amp;mode=3&amp;name=AdrianSports</link>
+<title>ASTRO 22</title>
+<link>plugin://program.plexus/?url=p2p://76.73.57.138:9999/53ccbf5c0006c884c9555e472fc6303d&amp;mode=1&amp;name=AdrianSports</link>
 <thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png</thumbnail>
 </item>
 
