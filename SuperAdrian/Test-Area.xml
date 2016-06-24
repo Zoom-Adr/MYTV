@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
+<title>ASTRO SUPERSPORT 1</title>
+<link>plugin://program.plexus/?url=p2p://122.114.113.182:9999/56f8f093000c82682d912da569cb0446&amp;mode=1&amp;name=AdrianSports</link>
+<thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png</thumbnail>
+</item>
+
+<item>
 <title>TEST SS1</title>
 <f4m>http://103.7.57.30:9981/stream/channelid/672675102</f4m>
 </item>
