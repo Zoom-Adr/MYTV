@@ -26,7 +26,7 @@
 
 <item>
 <title>ASTRO SUPERSPORT 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat28/customer28/167.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/946a914c3965/484.mpegts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png</thumbnail>
 </item>
 
@@ -38,7 +38,7 @@
 
 <item>
 <title>ASTRO SUPERSPORT 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat28/customer28/168.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/946a914c3965/690.mpegts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png</thumbnail>
 </item>
 
@@ -50,7 +50,7 @@
 
 <item>
 <title>ASTRO SUPERSPORT 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat28/customer28/169.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/946a914c3965/691.mpegts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png</thumbnail>
 </item>
 
@@ -74,13 +74,13 @@
 
 <item>
 <title>BBC 1 UK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat28/customer28/1471.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/946a914c3965/1493.mpegts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>https://pbs.twimg.com/profile_images/662708106/bbc.png</thumbnail>
 </item>
 
 <item>
 <title>BBC 2 UK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat28/customer28/1472.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/946a914c3965/1494.mpegts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>https://pbs.twimg.com/profile_images/662708106/bbc.png</thumbnail>
 </item>
 
@@ -92,7 +92,7 @@
 
 <item>
 <title>BBC 4 UK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat28/customer28/1474.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/946a914c3965/4.mpegts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>https://pbs.twimg.com/profile_images/662708106/bbc.png</thumbnail>
 </item>
 
@@ -176,25 +176,19 @@
 
 <item>
 <title>BEIN SPORTS 1 FR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://213.136.90.30:8000/live/guzi/isla/14103.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/366.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://cdn.marketplaceimages.windowsphone.com/v8/images/24a7a709-4c44-43ea-9838-a01e2914de0f?imageType=ws_icon_medium</thumbnail>
 </item>
 
 <item>
 <title>BEIN SPORTS 2 FR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://213.136.90.30:8000/live/guzi/isla/14104.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/365.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://cdn.marketplaceimages.windowsphone.com/v8/images/24a7a709-4c44-43ea-9838-a01e2914de0f?imageType=ws_icon_medium</thumbnail>
 </item>
 
 <item>
 <title>BEIN SPORTS 3 FR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://213.136.90.30:8000/live/guzi/isla/14105.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://cdn.marketplaceimages.windowsphone.com/v8/images/24a7a709-4c44-43ea-9838-a01e2914de0f?imageType=ws_icon_medium</thumbnail>
-</item>
-
-<item>
-<title>BEIN SPORTS USA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://213.136.90.30:8000/live/guzi/isla/13280.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/364.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://cdn.marketplaceimages.windowsphone.com/v8/images/24a7a709-4c44-43ea-9838-a01e2914de0f?imageType=ws_icon_medium</thumbnail>
 </item>
 
@@ -206,13 +200,13 @@
 
 <item>
 <title>BRITISH EUROSPORT 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://213.136.90.30:8000/live/guzi/isla/14386.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/541.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.wuv.de/var/wuv/storage/images/media/bilder/eurosport_2015_580/7186502-1-ger-DE/eurosport_2015_580_evo_580.jpg</thumbnail>
 </item>
 
 <item>
 <title>BRITISH EUROSPORT 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://213.136.90.30:8000/live/guzi/isla/14385.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/540.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.wuv.de/var/wuv/storage/images/media/bilder/eurosport_2015_580/7186502-1-ger-DE/eurosport_2015_580_evo_580.jpg</thumbnail>
 </item>
 
@@ -248,31 +242,31 @@
 
 <item>
 <title>BT SPORT EUROPE BACKUP</title>
-<link>plugin://plugin.video.f4mTester/?url=http://213.136.90.30:8000/live/guzi/isla/11488.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/453.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
 </item>
 
 <item>
 <title>CANAL+ FUTBOL ES</title>
-<link>plugin://plugin.video.f4mTester/?url=http://213.136.90.30:8000/live/guzi/isla/14684.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/1020.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Canal%2B_F%C3%BAtbol_2008.svg/550px-Canal%2B_F%C3%BAtbol_2008.svg.png</thumbnail>
 </item>
 
 <item>
 <title>CANAL+ LIGA ES</title>
-<link>plugin://plugin.video.f4mTester/?url=http://213.136.90.30:8000/live/guzi/isla/11395.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/1022.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://coditelcordoba.com/wp-content/uploads/2014/07/canal+liga.jpg</thumbnail>
 </item>
 
 <item>
 <title>CANAL+ DEPORTES ES</title>
-<link>plugin://plugin.video.f4mTester/?url=http://213.136.90.30:8000/live/guzi/isla/14685.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/1012.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.fuerteventurashopping.es/wp-content/uploads/2011/06/PLUS2.jpg</thumbnail>
 </item>
 
 <item>
 <title>CANAL+ SPORT FR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://213.136.90.30:8000/live/guzi/isla/14529.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/350.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://ncplus.pl/~/media/n/npl/kanaly/logo%20na%20strony%20kanalow/canalplus_sport_logo.png?bc=white&w=575</thumbnail>
 </item>
 
@@ -356,7 +350,7 @@ item>
 
 <item>
 <title>FOX SPORTS IT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat28/customer28/152.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/650.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
 </item>
 
@@ -512,7 +506,7 @@ item>
 
 <item>
 <title>PREMIUM SPORT 1 IT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat28/customer28/107.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/615.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.mediasetpremium.it/bin/0.$plit/C_54_articolo_3869_imgarticolo.jpg</thumbnail>
 </item>
 
@@ -524,19 +518,19 @@ item>
 
 <item>
 <title>SKY SPORTS 1 DE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://213.136.90.30:8000/live/guzi/isla/14116.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/829.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Sky_Sport_(Sky_Deutschland).png/250px-Sky_Sport_(Sky_Deutschland).png</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 2 DE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://213.136.90.30:8000/live/guzi/isla/14117.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/826.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Sky_Sport_(Sky_Deutschland).png/250px-Sky_Sport_(Sky_Deutschland).png</thumbnail>
 </item>
 
 <item>
 <title>SKY BUNDESLIGA 1 DE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat28/customer28/245.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/810.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/5/59/Sky_Bundesliga.png/revision/latest?cb=20141218001304</thumbnail>
 </item>
 
@@ -566,13 +560,13 @@ item>
 
 <item>
 <title>SKY SPORT F1 IT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat28/customer28/153.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/651.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/2/2b/Sky_Sport_Italy_2010.png/revision/latest?cb=20150524204137</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORT MOTOGP IT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat28/customer28/242.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/646.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/2/2b/Sky_Sport_Italy_2010.png/revision/latest?cb=20150524204137</thumbnail>
 </item>
 
@@ -868,12 +862,6 @@ item>
 
 <item>
 <title>WWE NETWORK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://213.136.90.30:8000/live/guzi/isla/13283.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://i.imgur.com/Ug9xGzp.png</thumbnail>
-</item>
-
-<item>
-<title>WWE NETWORK BACKUP</title>
 <link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/946a914c3965/79.mpegts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://i.imgur.com/Ug9xGzp.png</thumbnail>
 </item>
