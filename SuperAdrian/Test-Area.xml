@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>ASTRO SUPERSPORT 1</title>
+<title>ASTRO 1</title>
 <link>plugin://program.plexus/?url=p2p://122.114.113.182:9999/56f8f093000c82682d912da569cb0446&amp;mode=1&amp;name=AdrianSports</link>
+<thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png</thumbnail>
+</item>
+
+<item>
+<title>ASTRO 2</title>
+<link>plugin://program.plexus/?url=p2p://122.114.113.182:9999/56f8f093000c82682d912da569cb0446&amp;mode=2&amp;name=AdrianSports</link>
+<thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png</thumbnail>
+</item>
+
+<item>
+<title>ASTRO 3</title>
+<link>plugin://program.plexus/?url=p2p://122.114.113.182:9999/56f8f093000c82682d912da569cb0446&amp;mode=3&amp;name=AdrianSports</link>
 <thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png</thumbnail>
 </item>
 
