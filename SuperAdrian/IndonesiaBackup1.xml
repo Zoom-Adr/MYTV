@@ -196,6 +196,12 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
  
 <item>
+<title>CHINA MOVIE</title>
+<link>http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/chinamovie/as/live/chinamovie_4.m3u8</link>
+<thumbnail>https://www.dropbox.com/s/vfiagahcttp2erq/china%20movie.png?dl=1</thumbnail>
+</item>
+
+<item>
 <title>DAAI TV</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
 <regex>
