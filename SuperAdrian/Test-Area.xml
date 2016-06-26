@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>ASTRO 11</title>
-<link>plugin://program.plexus/?url=122.114.113.182:9999/56f8a73c0001d07b2c72af0e27126364&amp;mode=1&amp;name=AdrianSports</link>
-<thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png</thumbnail>
-</item>
-
-<item>
-<title>ASTRO 22</title>
-<link>plugin://program.plexus/?url=p2p://76.73.57.138:9999/53ccbf5c0006c884c9555e472fc6303d&amp;mode=1&amp;name=AdrianSports</link>
-<thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png</thumbnail>
-</item>
-
-<item>
-<title>TEST SS1</title>
+<title>TEST SKYNET HD</title>
 <f4m>http://103.7.57.30:9981/stream/channelid/672675102</f4m>
 </item>
 
