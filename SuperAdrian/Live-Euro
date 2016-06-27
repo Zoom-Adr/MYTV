@@ -5,10 +5,10 @@
 </item>
 
 <item>
-<title>[COLOR yellow]FRANCE VS IRELAND[/COLOR]</title>
+<title>[COLOR blue]ITALY VS SPAIN[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://bit.do/plextsn4&amp;streamtype=TSDOWNLOADER</link> -- TSN4
 <link>plugin://plugin.video.f4mTester/?url=http://bit.do/plextsn3&amp;streamtype=TSDOWNLOADER</link> -- TSN3
-<link>plugin://plugin.video.f4mTester/?url=http://bit.do/glespn&amp;streamtype=TSDOWNLOADER</link> -- ESPN
+<link>plugin://plugin.video.f4mTester/?url=http://bit.do/plexespn2&amp;streamtype=TSDOWNLOADER</link> -- ESPN2
 <link>plugin://plugin.video.f4mTester/?url=http://bit.do/glfever2&amp;streamtype=TSDOWNLOADER</link> -- FEVER 2
 <thumbnail>https://40.media.tumblr.com/7c16541dc22b07f43f41604ae8a7a820/tumblr_mp0jw9iGpm1r2syj2o1_500.jpg</thumbnail>
 </item>
@@ -16,27 +16,15 @@
 ----------------------------------------------------------------------------------------------------------------------------
 
 <item>
-<title>[COLOR cyan]GERMANY VS SLOVAKIA[/COLOR]</title>
+<title>[COLOR cyan]ENGLAND VS ICELAND[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://bit.do/plextsn4&amp;streamtype=TSDOWNLOADER</link> -- TSN4
 <link>plugin://plugin.video.f4mTester/?url=http://bit.do/plextsn3&amp;streamtype=TSDOWNLOADER</link> -- TSN3
-<link>plugin://plugin.video.f4mTester/?url=http://bit.do/glespn&amp;streamtype=TSDOWNLOADER</link> -- ESPN2
+<link>plugin://plugin.video.f4mTester/?url=http://bit.do/plexespn2&amp;streamtype=TSDOWNLOADER</link> -- ESPN2
 <link>plugin://plugin.video.f4mTester/?url=http://bit.do/glfever2&amp;streamtype=TSDOWNLOADER</link> -- FEVER 2
 <thumbnail>https://40.media.tumblr.com/7c16541dc22b07f43f41604ae8a7a820/tumblr_mp0jw9iGpm1r2syj2o1_500.jpg</thumbnail>
 </item>
 
 ----------------------------------------------------------------------------------------------------------------------------
-
-<item>
-<title>[COLOR green]HUNGARY VS BELGIUM[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.do/plextsn4&amp;streamtype=TSDOWNLOADER</link> -- TSN4
-<link>plugin://plugin.video.f4mTester/?url=http://bit.do/plextsn3&amp;streamtype=TSDOWNLOADER</link> -- TSN3
-<link>plugin://plugin.video.f4mTester/?url=http://bit.do/glespn&amp;streamtype=TSDOWNLOADER</link> -- ESPN
-<link>plugin://plugin.video.f4mTester/?url=http://bit.do/glfever2&amp;streamtype=TSDOWNLOADER</link> -- FEVER 2
-<thumbnail>https://40.media.tumblr.com/7c16541dc22b07f43f41604ae8a7a820/tumblr_mp0jw9iGpm1r2syj2o1_500.jpg</thumbnail>
-</item>
-
-----------------------------------------------------------------------------------------------------------------------------
-
 
 <title>[COLOR yellow]TURKEY VS CROATIA[/COLOR] LINK 4</title> ---- ZDF
 <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/32upp/xyg64356/2743.ts&amp;streamtype=TSDOWNLOADER</link>
