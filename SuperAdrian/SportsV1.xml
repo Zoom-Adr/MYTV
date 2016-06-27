@@ -512,7 +512,7 @@ item>
 
 <item>
 <title>PREMIUM SPORT 1 IT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/615.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat28/customer28/107.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.mediasetpremium.it/bin/0.$plit/C_54_articolo_3869_imgarticolo.jpg</thumbnail>
 </item>
 
@@ -566,13 +566,13 @@ item>
 
 <item>
 <title>SKY SPORT F1 IT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/651.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat28/customer28/153.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/2/2b/Sky_Sport_Italy_2010.png/revision/latest?cb=20150524204137</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORT MOTOGP IT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/646.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat28/customer28/242.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/2/2b/Sky_Sport_Italy_2010.png/revision/latest?cb=20150524204137</thumbnail>
 </item>
 
@@ -590,7 +590,7 @@ item>
 
 <item>
 <title>SKY SPORTS 1 UK BACKUP</title>
-<link>plugin://plugin.video.f4mTester/?url=http://213.136.90.30:8000/live/guzi/isla/14665.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat28/customer28/735.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-Logo.png</thumbnail>
 </item>
 
@@ -602,7 +602,7 @@ item>
 
 <item>
 <title>SKY SPORTS 2 UK BACKUP</title>
-<link>plugin://plugin.video.f4mTester/?url=http://213.136.90.30:8000/live/guzi/isla/14666.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat28/customer28/736.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-Logo.png</thumbnail>
 </item>
 
@@ -614,7 +614,7 @@ item>
 
 <item>
 <title>SKY SPORTS 3 UK BACKUP</title>
-<link>plugin://plugin.video.f4mTester/?url=http://213.136.90.30:8000/live/guzi/isla/14667.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat28/customer28/737.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-Logo.png</thumbnail>
 </item>
 
@@ -626,7 +626,7 @@ item>
 
 <item>
 <title>SKY SPORTS 4 UK BACKUP</title>
-<link>plugin://plugin.video.f4mTester/?url=http://213.136.90.30:8000/live/guzi/isla/14668.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat28/customer28/738.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-Logo.png</thumbnail>
 </item>
 
@@ -638,7 +638,7 @@ item>
 
 <item>
 <title>SKY SPORTS 5 UK BACKUP</title>
-<link>plugin://plugin.video.f4mTester/?url=http://213.136.90.30:8000/live/guzi/isla/14675.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat28/customer28/739.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-Logo.png</thumbnail>
 </item>
 
@@ -650,7 +650,7 @@ item>
 
 <item>
 <title>SKY SPORTS F1 UK BACKUP</title>
-<link>plugin://plugin.video.f4mTester/?url=http://213.136.90.30:8000/live/guzi/isla/14670.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat28/customer28/1206.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-Logo.png</thumbnail>
 </item>
 
@@ -855,12 +855,6 @@ item>
 </item>
 
 <item>
-<title>USA NETWORK BACKUP</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/test/test/4235.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://tvseriesfinale.com/wp-content/uploads/2014/08/usa04.jpg</thumbnail>
-</item>
-
-<item>
 <title>WORLD FISHING NETWORK</title>
 <f4m>http://hd4u.tvonip.biz:8588/sd_world_fishing/index.m3u8?token=e97d451098fb64be7ddbb9fddfdc252a-1465879865-8596-1-3d818cac9d1871890edb4a54b981504b|User-Agent=Mozilla/5.0</f4m>
 <thumbnail>https://pbs.twimg.com/profile_images/529770856222699521/p9JE5xM6.jpeg</thumbnail>
@@ -869,5 +863,11 @@ item>
 <item>
 <title>WWE NETWORK</title>
 <link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/946a914c3965/79.mpegts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://i.imgur.com/Ug9xGzp.png</thumbnail>
+</item>
+
+<item>
+<title>WWE NETWORK BACKUP</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat28/customer28/1329.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://i.imgur.com/Ug9xGzp.png</thumbnail>
 </item>
