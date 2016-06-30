@@ -48,8 +48,8 @@
   <regex>
     <name>m3u8</name>
     <expres>file="([^\"]+)"</expres>
-    <page>http://cdn-rtm-player.gluempsapp.com/105/10149</page>
-    <referer>http://cdn-rtm-player.gluempsapp.com/105/10149</referer>
+    <page>http://rtm-player.gluempsapp.com/v8/10149</page>
+    <referer>http://rtm-player.gluempsapp.com/v8/10149</referer>
     <agent>Mozilla/5.0</agent>
     <accept>*/*</accept>
     <cookieJar></cookieJar>
@@ -69,8 +69,8 @@
   <regex>
     <name>m3u8</name>
     <expres>file="([^\"]+)"</expres>
-    <page>http://cdn-rtm-player.gluempsapp.com/105/10148</page>
-    <referer>http://cdn-rtm-player.gluempsapp.com/105/10148</referer>
+    <page>http://rtm-player.gluempsapp.com/v8/10148</page>
+    <referer>http://rtm-player.gluempsapp.com/v8/10148</referer>
     <agent>Mozilla/5.0</agent>
     <accept>*/*</accept>
     <cookieJar></cookieJar>
