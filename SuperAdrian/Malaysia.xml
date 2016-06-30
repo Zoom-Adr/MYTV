@@ -181,12 +181,6 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://www.layarku.tv/media/ntv7s
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_ntv7_zpsmslc5gwf.png</thumbnail>
 </item>
 
-item>
-<title>TV9</title>
-<link>http://www.layarku.tv/media/tv9my.m3u8</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv9_zpsvy6n5ypz.png</thumbnail>
-</item>
-
 <item>
 <title>TV9</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
@@ -245,8 +239,8 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://www.layarku.tv/media/8tvse
 <regex>
     <name>m3u8</name>
     <expres>file="([^\"]+)"</expres>
-    <page>http://cdn-rtm-player.gluempsapp.com/105/10152</page>
-    <referer>http://cdn-rtm-player.gluempsapp.com/105/10152</referer>
+    <page>http://rtm-player.gluempsapp.com/v8/10152</page>
+    <referer>http://rtm-player.gluempsapp.com/v8/10152</referer>
     <accept>*/*</accept>
     <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
     <x-req>ShockwaveFlash/21.0.0.242</x-req>
@@ -267,8 +261,8 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://www.layarku.tv/media/8tvse
 <regex>
     <name>m3u8</name>
     <expres>file="([^\"]+)"</expres>
-    <page>http://cdn-rtm-player.gluempsapp.com/105/10150</page>
-    <referer>http://cdn-rtm-player.gluempsapp.com/105/10150</referer>
+    <page>http://rtm-player.gluempsapp.com/v8/10150</page>
+    <referer>http://rtm-player.gluempsapp.com/v8/10150</referer>
     <accept>*/*</accept>
     <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
     <x-req>ShockwaveFlash/21.0.0.242</x-req>
@@ -295,8 +289,8 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://www.layarku.tv/media/8tvse
 <regex>
     <name>m3u8</name>
     <expres>file="([^\"]+)"</expres>
-    <page>http://cdn-rtm-player.gluempsapp.com/105/10154</page>
-    <referer>http://cdn-rtm-player.gluempsapp.com/105/10154</referer>
+    <page>http://rtm-player.gluempsapp.com/v8/10154</page>
+    <referer>http://rtm-player.gluempsapp.com/v8/10154</referer>
     <accept>*/*</accept>
     <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
     <x-req>ShockwaveFlash/21.0.0.242</x-req>
