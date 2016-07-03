@@ -5,7 +5,7 @@
 </item>
 
 <item>
-<title>[COLOR green]POLAND VS PORTUGAL[/COLOR]</title>
+<title>[COLOR cyan]PORTUGAL VS WALES[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://bit.do/plextsn4&amp;streamtype=TSDOWNLOADER</link> -- TSN4
 <link>plugin://plugin.video.f4mTester/?url=http://bit.do/plextsn5&amp;streamtype=TSDOWNLOADER</link> -- TSN5
 <link>plugin://plugin.video.f4mTester/?url=http://bit.do/plexespn2&amp;streamtype=TSDOWNLOADER</link> -- ESPN2
@@ -16,7 +16,7 @@
 ----------------------------------------------------------------------------------------------------------------------------
 
 <item>
-<title>[COLOR cyan]WALES VS BELGIUM[/COLOR]</title>
+<title>[COLOR blue]GERMANY VS FRANCE[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://bit.do/plextsn5&amp;streamtype=TSDOWNLOADER</link> -- TSN5
 <link>plugin://plugin.video.f4mTester/?url=http://bit.do/plextsn3&amp;streamtype=TSDOWNLOADER</link> -- TSN3
 <link>plugin://plugin.video.f4mTester/?url=http://bit.do/plexespn2&amp;streamtype=TSDOWNLOADER</link> -- ESPN2
@@ -26,7 +26,7 @@
 
 ----------------------------------------------------------------------------------------------------------------------------
 
-<item>
+
 <title>[COLOR pink] GERMANY VS ITALY[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://bit.do/plextsn5&amp;streamtype=TSDOWNLOADER</link> -- TSN5
 <link>plugin://plugin.video.f4mTester/?url=http://bit.do/plextsn3&amp;streamtype=TSDOWNLOADER</link> -- TSN3
@@ -37,7 +37,7 @@
 
 ----------------------------------------------------------------------------------------------------------------------------
 
-<item>
+
 <title>[COLOR blue] FRANCE VS ICELAND[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://bit.do/plextsn5&amp;streamtype=TSDOWNLOADER</link> -- TSN5
 <link>plugin://plugin.video.f4mTester/?url=http://bit.do/plextsn3&amp;streamtype=TSDOWNLOADER</link> -- TSN3
