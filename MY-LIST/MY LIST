@@ -6,142 +6,54 @@
 <thumbnail>https://djseanray.files.wordpress.com/2015/01/you-re-a-jerk-shirt_design.png</thumbnail>
 <fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 
-<channel>
-<name>ADRIAN IPTV SUBS COMING SOON</name>
-<thumbnail>http://4.bp.blogspot.com/-x3hr1AZMmsw/VKUwpaHQRLI/AAAAAAAAAug/iTIhv3ZDArc/s1600/unnamed0.png</thumbnail>
-<fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
-
-<channel>
-<name>[B]---===[COLOR red]LIVE[/COLOR][COLOR yellow] GAMES[/COLOR]===---[/B]</name>
-<thumbnail>https://i.imgur.com/01Ve7Zm.png</thumbnail>
-<fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
-
-<item>
-<title>[B]---===[COLOR red]GAMES AVAILABLE ONLY ON MATCHDAY[/COLOR]===---[/B]</title>
-<link>.</link>
-<thumbnail>https://i.imgur.com/01Ve7Zm.png</thumbnail>
-</item>
-
-
-
 <title>SUNDERLAND VS CHELSEA - HD</title>
 <f4m>http://nlds4.cdnak.lon.neulion.com/nlds/coliseum/manchesterunited/as/live/manchesterunited_hd_1600.f4m?nltid=plp&nltdt=6&nltnt=1&h=4953edb7c0a9990da78f5803a1e7f939.1462106351|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</f4m>
 <thumbnail>http://files.pes-unlimited.webnode.pt/system_preview_detail_200000006-31d9732d3b-public/Barclays%20Premier%20League.png</thumbnail>
 </item>
 
 
-<channel>
-<name>[B]---===[COLOR red]LIVE[/COLOR][COLOR yellow] EXTRA[/COLOR]===---[/B]</name>
-<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/08/nbc-sports-live-extra.png</thumbnail>
-<fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 
 
-<item>
+item>
 <title>NBC EXTRA TIME 1</title>
 <link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/946a914c3965/67.mpegts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/08/nbc-sports-live-extra.png</thumbnail>
 </item>
 
-<item>
+item>
 <title>NBC EXTRA TIME 2</title>
 <link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/946a914c3965/66.mpegts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/08/nbc-sports-live-extra.png</thumbnail>
 </item>
 
-<item>
+item>
 <title>NBC EXTRA TIME 3</title>
 <link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/946a914c3965/68.mpegts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/08/nbc-sports-live-extra.png</thumbnail>
 </item>
 
-<item>
+item>
 <title>NBC EXTRA TIME 4</title>
 <link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/946a914c3965/69.mpegts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/08/nbc-sports-live-extra.png</thumbnail>
 </item>
 
-<item>
+item>
 <title>NBC EXTRA TIME 5</title>
 <link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/946a914c3965/70.mpegts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/08/nbc-sports-live-extra.png</thumbnail>
 </item>
 
-<item>
+item>
 <title>NBC EXTRA TIME 6</title>
 <link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/946a914c3965/269.mpegtsamp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/08/nbc-sports-live-extra.png</thumbnail>
 </item>
 
-<item>
+item>
 <title>NBC EXTRA TIME 7</title>
 <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/1337.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/08/nbc-sports-live-extra.png</thumbnail>
-</item>
-
-<item>
-<title>STADIUM EXTRA 1</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bit.do/extra102|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://bit.ly/1qumZV3</thumbnail>
-</item>
-
-<item>
-<title>STADIUM EXTRA 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bit.do/extra103|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://bit.ly/1qumZV3</thumbnail>
-</item>
-
-<item>
-<title>STADIUM EXTRA 3</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bit.do/extra104|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://bit.ly/1qumZV3</thumbnail>
-</item>
-
-item>
-<title>STADIUM EXTRA 4</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://bit.ly/1qumZV3</thumbnail>
-</item>
-
-item>
-<title>STADIUM EXTRA 5</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://bit.ly/1qumZV3</thumbnail>
-</item>
-
-item>
-<title>STADIUM EXTRA 6</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://bit.ly/1qumZV3</thumbnail>
-</item>
-
-item>
-<title>STADIUM EXTRA 7</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://bit.ly/1qumZV3</thumbnail>
-</item>
-
-<item>
-<title>102</title>
-<f4m>http://bit.do/go102</f4m>
-<thumbnail>http://www.singteltv.com.sg/_channels/pic_ch108.jpg</thumbnail>
-</item>
-
-<item>
-<title>103</title>
-<f4m>http://bit.do/go103</f4m>
-<thumbnail>http://www.singteltv.com.sg/_channels/pic_ch108.jpg</thumbnail>
-</item>
-
-<item>
-<title>104</title>
-<f4m>http://bit.do/go104</f4m>
-<thumbnail>http://www.singteltv.com.sg/_channels/pic_ch108.jpg</thumbnail>
-</item>
-
-<item>
-<title>105</title>
-<f4m>http://bit.do/go105</f4m>
-<thumbnail>http://www.singteltv.com.sg/_channels/pic_ch108.jpg</thumbnail>
 </item>
 
 <channel>
