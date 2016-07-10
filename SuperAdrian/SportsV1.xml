@@ -457,8 +457,8 @@ item>
 </item>
 
 <item>
-<title>NBCSN BACKUP</title>
-<link>http://54.177.79.231/server/play/nbcsnxctg/master.m3u8|X-Forwarded-For=54.183.196.251</link>
+<title>NBCSN BACKUP - NEED A FEW CLICKS</title>
+<link>http://play-prod1.nbc.anvato.net/server/play/nbcsnxctg/master.m3u8|X-Forwarded-For=54.183.196.251</link>
 <thumbnail>https://nbcsportsgrouppressbox.files.wordpress.com/2012/06/nbcsport-network11.jpg</thumbnail>
 </item>
 
@@ -488,7 +488,7 @@ item>
 
 <item>
 <title>NBCSN BACKUP - Require US VPN</title>
-<link>http://play-prod1.nbc.anvato.net/server/play/nbcsnxctg/master.m3u8|X-Forwarded-For=54.183.196.251</link>
+<link>http://play-prod1.nbc.anvato.net/server/play/nbcsnxctg/master.m3u8</link>
 <thumbnail>https://nbcsportsgrouppressbox.files.wordpress.com/2012/06/nbcsport-network11.jpg</thumbnail>
 </item>
 
