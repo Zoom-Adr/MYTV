@@ -386,7 +386,7 @@
 
 <item>
 <title>FOX SPORTS 1 THAI</title>
-<link>rtmp://119.81.19.107:1935/indopeer?Q1hiYVNoTHdLUzhIRHRod1NtRWpvWDRVQU1kUjdWWHNzbExjdjRvMUJLdWhhRFZ5SytycThacGlzQTdxYkdwbmd0MUQ1RGU2YmJBMk14NGFPRVhEZzJ3K01Fd3gwMjBYOUF2SU9HM1h0dnM9/ playpath=hdmi19 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 pageUrl=http://lensagol-live.com/channel/view/19?w=825&h=464|User-Agent=Mozilla/5.0</link>
+<link>rtmp://119.81.36.98:1935/indopeer?Q1hiYVNoTHdLUzhIRHRod1NtRWpvWDRVQU1kUjdWWHNzbExjdjRvMUJLdGR6VmlXejNQQ2I2dUpHQW5FcVE2YjlmK3Bnd1VYK29YaVhlbTBOdjJvUVd3K01Fd3gwMjBYOUF2SU9HM1h0dnM9/ playpath=hdmi19 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 pageUrl=http://lensagol-live.com/channel/view/19?w=825&h=464|User-Agent=Mozilla/5.0</link>
 <thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
 </item>
 
@@ -403,20 +403,20 @@ item>
 </item>
 
 <item>
+<title>FOX SPORTS 1 USA BACKUP</title>
+<link>http://11e6.vp9.tv/chn/fox1/v.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports_us_1.png</thumbnail>
+</item>
+
+<item>
 <title>FOX SPORTS 2 USA</title>
 <link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/946a914c3965/228.mpegts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports_us_2.png</thumbnail>
 </item>
 
-
-<title>FOX SPORTS 2 USA</title>
-<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/foxsports2.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-</regex>
+<item>
+<title>FOX SPORTS 2 USA BACKUP</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/946a914c3965/228.mpegts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports_us_2.png</thumbnail>
 </item>
 
@@ -864,12 +864,6 @@ item>
 <title>USA NETWORK</title>
 <link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/946a914c3965/428.mpegts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://tvseriesfinale.com/wp-content/uploads/2014/08/usa04.jpg</thumbnail>
-</item>
-
-<item>
-<title>WORLD FISHING NETWORK</title>
-<f4m>http://hd4u.tvonip.biz:8588/sd_world_fishing/index.m3u8?token=e97d451098fb64be7ddbb9fddfdc252a-1465879865-8596-1-3d818cac9d1871890edb4a54b981504b|User-Agent=Mozilla/5.0</f4m>
-<thumbnail>https://pbs.twimg.com/profile_images/529770856222699521/p9JE5xM6.jpeg</thumbnail>
 </item>
 
 <item>
