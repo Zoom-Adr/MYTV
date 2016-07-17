@@ -26,37 +26,37 @@
 
 <item>
 <title>ASTRO SUPERSPORT 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/946a914c3965/484.mpegts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat28/customer28/167.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png</thumbnail>
 </item>
 
 <item>
 <title>ASTRO SUPERSPORT 1 BACKUP</title>
-<link>rtmp://119.81.19.107:1935/indopeer?Q1hiYVNoTHdLUzhIRHRod1NtRWpvWDRVQU1kUjdWWHNzbExjdjRvMUJLdWhhRFZ5SytycThacGlzQTdxYkdwbmtxVkdHMC9STG5sWUxYbWJ0aW9jMTJ3K01Fd3gwMjBYOUF2SU9HM1h0dnM9/ playpath=hdmi27 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 pageUrl=http://lensagol-live.com/channel/view/27?w=825&h=464|User-Agent=Mozilla/5.0</link>
+<link>rtmp://119.81.36.98:1935/indopeer?Q1hiYVNoTHdLUzhIRHRod1NtRWpvWDRVQU1kUjdWWHNzbExjdjRvMUJLdGR6VmlXejNQQ2I2dUpHQW5FcVE2YjlmK3Bnd1VYK29YaVhlbTBOdjJvUVd3K01Fd3gwMjBYOUF2SU9HM1h0dnM9/ playpath=hdmi27 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 pageUrl=http://lensagol-live.com/channel/view/27?w=825&h=464|User-Agent=Mozilla/5.0</link>
 <thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png</thumbnail>
 </item>
 
 <item>
 <title>ASTRO SUPERSPORT 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/946a914c3965/690.mpegts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat28/customer28/168.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png</thumbnail>
 </item>
 
 <item>
 <title>ASTRO SUPERSPORT 2 BACKUP</title>
-<link>rtmp://119.81.19.107:1935/indopeer?Q1hiYVNoTHdLUzhIRHRod1NtRWpvWDRVQU1kUjdWWHNzbExjdjRvMUJLdWhhRFZ5SytycThacGlzQTdxYkdwbmtxVkdHMC9STG5sWUxYbWJ0aW9jMTJ3K01Fd3gwMjBYOUF2SU9HM1h0dnM9/ playpath=hdmi28 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 pageUrl=http://lensagol-live.com/channel/view/28?w=825&h=464|User-Agent=Mozilla/5.0</link>
+<link>rtmp://119.81.36.98:1935/indopeer?Q1hiYVNoTHdLUzhIRHRod1NtRWpvWDRVQU1kUjdWWHNzbExjdjRvMUJLdGR6VmlXejNQQ2I2dUpHQW5FcVE2YjlmK3Bnd1VYK29YaVhlbTBOdjJvUVd3K01Fd3gwMjBYOUF2SU9HM1h0dnM9/ playpath=hdmi28 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 pageUrl=http://lensagol-live.com/channel/view/28?w=825&h=464|User-Agent=Mozilla/5.0</link>
 <thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png</thumbnail>
 </item>
 
 <item>
 <title>ASTRO SUPERSPORT 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/946a914c3965/691.mpegts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat28/customer28/169.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png</thumbnail>
 </item>
 
 <item>
 <title>ASTRO SUPERSPORT 3 BACKUP</title>
-<link>rtmp://119.81.19.107:1935/indopeer?Q1hiYVNoTHdLUzhIRHRod1NtRWpvWDRVQU1kUjdWWHNzbExjdjRvMUJLdWhhRFZ5SytycThacGlzQTdxYkdwbmtxVkdHMC9STG5sWUxYbWJ0aW9jMTJ3K01Fd3gwMjBYOUF2SU9HM1h0dnM9/ playpath=hdmi29 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 pageUrl=http://lensagol-live.com/channel/view/29?w=825&h=464|User-Agent=Mozilla/5.0</link>
+<link>rtmp://119.81.36.98:1935/indopeer?Q1hiYVNoTHdLUzhIRHRod1NtRWpvWDRVQU1kUjdWWHNzbExjdjRvMUJLdGR6VmlXejNQQ2I2dUpHQW5FcVE2YjlmK3Bnd1VYK29YaVhlbTBOdjJvUVd3K01Fd3gwMjBYOUF2SU9HM1h0dnM9/ playpath=hdmi29 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 pageUrl=http://lensagol-live.com/channel/view/29?w=825&h=464|User-Agent=Mozilla/5.0</link>
 <thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png</thumbnail>
 </item>
 
@@ -68,7 +68,7 @@
 
 <item>
 <title>ASTRO SUPERSPORT 4 BACKUP</title>
-<link>rtmp://119.81.19.107:1935/indopeer?Q1hiYVNoTHdLUzhIRHRod1NtRWpvWDRVQU1kUjdWWHNzbExjdjRvMUJLdWhhRFZ5SytycThacGlzQTdxYkdwbmtxVkdHMC9STG5sWUxYbWJ0aW9jMTJ3K01Fd3gwMjBYOUF2SU9HM1h0dnM9/ playpath=hdmi30 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 pageUrl=http://lensagol-live.com/channel/view/30?w=825&h=464|User-Agent=Mozilla/5.0</link>
+<link>rtmp://119.81.36.98:1935/indopeer?Q1hiYVNoTHdLUzhIRHRod1NtRWpvWDRVQU1kUjdWWHNzbExjdjRvMUJLdGR6VmlXejNQQ2I2dUpHQW5FcVE2YjlmK3Bnd1VYK29YaVhlbTBOdjJvUVd3K01Fd3gwMjBYOUF2SU9HM1h0dnM9/ playpath=hdmi30 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 pageUrl=http://lensagol-live.com/channel/view/30?w=825&h=464|User-Agent=Mozilla/5.0</link>
 <thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png</thumbnail>
 </item>
 
@@ -276,9 +276,9 @@
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium1.png</thumbnail>
 </item>
 
-item>
+<item>
 <title>CTH STADIUM 1 BACKUP</title>
-<link>http://27.254.64.105:1935/mobilelink/cth1.stream/playlist.m3u8</link>
+<link>rtmp://119.81.36.98:1935/indopeer?Q1hiYVNoTHdLUzhIRHRod1NtRWpvWDRVQU1kUjdWWHNzbExjdjRvMUJLdGR6VmlXejNQQ2I2dUpHQW5FcVE2YjlmK3Bnd1VYK29YaVhlbTBOdjJvUVd3K01Fd3gwMjBYOUF2SU9HM1h0dnM9/ playpath=hdmi2 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 pageUrl=http://lensagol-live.com/channel/view/2?w=825&h=464|User-Agent=Mozilla/5.0</link>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium1.png</thumbnail>
 </item>
 
@@ -288,9 +288,9 @@ item>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium2.png</thumbnail>
 </item>
 
-item>
+<item>
 <title>CTH STADIUM 2 BACKUP</title>
-<link>http://27.254.64.105:1935/mobilelink/cth2.stream/playlist.m3u8</link>
+<link>rtmp://119.81.36.98:1935/indopeer?Q1hiYVNoTHdLUzhIRHRod1NtRWpvWDRVQU1kUjdWWHNzbExjdjRvMUJLdGR6VmlXejNQQ2I2dUpHQW5FcVE2YjlmK3Bnd1VYK29YaVhlbTBOdjJvUVd3K01Fd3gwMjBYOUF2SU9HM1h0dnM9/ playpath=hdmi4 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 pageUrl=http://lensagol-live.com/channel/view/4?w=825&h=464|User-Agent=Mozilla/5.0</link>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium2.png</thumbnail>
 </item>
 
@@ -300,9 +300,9 @@ item>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium3.png</thumbnail>
 </item>
 
-item>
+<item>
 <title>CTH STADIUM 3 BACKUP</title>
-<link>http://27.254.64.105:1935/mobilelink/cth3.stream/playlist.m3u8</link>
+<link>rtmp://119.81.36.98:1935/indopeer?Q1hiYVNoTHdLUzhIRHRod1NtRWpvWDRVQU1kUjdWWHNzbExjdjRvMUJLdGR6VmlXejNQQ2I2dUpHQW5FcVE2YjlmK3Bnd1VYK29YaVhlbTBOdjJvUVd3K01Fd3gwMjBYOUF2SU9HM1h0dnM9/ playpath=hdmi6 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 pageUrl=http://lensagol-live.com/channel/view/6?w=825&h=464|User-Agent=Mozilla/5.0</link>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium3.png</thumbnail>
 </item>
 
@@ -312,9 +312,9 @@ item>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium4.png</thumbnail>
 </item>
 
-item>
+<item>
 <title>CTH STADIUM 4 BACKUP</title>
-<link>http://27.254.64.105:1935/mobilelink/cth4.stream/playlist.m3u8</link>
+<link>rtmp://119.81.36.98:1935/indopeer?Q1hiYVNoTHdLUzhIRHRod1NtRWpvWDRVQU1kUjdWWHNzbExjdjRvMUJLdGR6VmlXejNQQ2I2dUpHQW5FcVE2YjlmK3Bnd1VYK29YaVhlbTBOdjJvUVd3K01Fd3gwMjBYOUF2SU9HM1h0dnM9/ playpath=hdmi8 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 pageUrl=http://lensagol-live.com/channel/view/8?w=825&h=464|User-Agent=Mozilla/5.0</link>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium4.png</thumbnail>
 </item>
 
@@ -324,9 +324,9 @@ item>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium5.png</thumbnail>
 </item>
 
-item>
+<item>
 <title>CTH STADIUM 5 BACKUP</title>
-<link>http://27.254.64.105:1935/mobilelink/cth5.stream/playlist.m3u8</link>
+<link>rtmp://119.81.36.98:1935/indopeer?Q1hiYVNoTHdLUzhIRHRod1NtRWpvWDRVQU1kUjdWWHNzbExjdjRvMUJLdGR6VmlXejNQQ2I2dUpHQW5FcVE2YjlmK3Bnd1VYK29YaVhlbTBOdjJvUVd3K01Fd3gwMjBYOUF2SU9HM1h0dnM9/ playpath=hdmi10 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 pageUrl=http://lensagol-live.com/channel/view/10?w=825&h=464|User-Agent=Mozilla/5.0</link>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium5.png</thumbnail>
 </item>
 
@@ -336,9 +336,9 @@ item>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium6.png</thumbnail>
 </item>
 
-item>
+<item>
 <title>CTH STADIUM 6 BACKUP</title>
-<link>http://27.254.64.105:1935/mobilelink/cth6.stream/playlist.m3u8</link>
+<link>rtmp://119.81.36.98:1935/indopeer?Q1hiYVNoTHdLUzhIRHRod1NtRWpvWDRVQU1kUjdWWHNzbExjdjRvMUJLdGR6VmlXejNQQ2I2dUpHQW5FcVE2YjlmK3Bnd1VYK29YaVhlbTBOdjJvUVd3K01Fd3gwMjBYOUF2SU9HM1h0dnM9/ playpath=hdmi11 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 pageUrl=http://lensagol-live.com/channel/view/11?w=825&h=464|User-Agent=Mozilla/5.0</link>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium6.png</thumbnail>
 </item>
 
