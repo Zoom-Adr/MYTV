@@ -1,23 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>ASTRO TEST 1</title>
-<link>plugin://program.plexus/?url=p2p://96.44.141.58:6038/573c267d00070a1b0023f88156546552.ts&amp;mode=1&amp;name=AdrianSports</link>
+<title>MOVISTAR F1</title>
+<link>http://cdn.sstream.pw/live/tvb116/playlist.m3u8|Referer=http://www.playerhd2.pw/embed5.php</link>
 </item>
-
 <item>
-<title>ASTRO TEST 2</title>
-<link>plugin://program.plexus/?url=573c267d00070a1b0023f88156546552.ts&amp;mode=1&amp;name=AdrianSports</link>
-</item>
-
-<item>
-<title>TEST SKYNET HD</title>
-<f4m>http://103.7.57.30:9981/stream/channelid/672675102|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</f4m>
-</item>
-
-<item>
-<title>TEST SS1</title>
-<f4m>http://edgecdn.starhubgo.com/hds/ba85a26d-0200-4324-8227-e8e1872e0308/index.f4m</f4m>
+<title>MOVISTAR MOTO GP</title>
+<link>http://cdn.sstream.pw/live/tvb117/playlist.m3u8|Referer=http://www.playerhd2.pw/embed5.php</link>
 </item>
 
 <item>
