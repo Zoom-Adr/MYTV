@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
+<title>MY TEST</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HDS&amp;maxbitrate=1264000&amp;url=$doregex[encodedurl]</link>
+<regex>
+    <name>encodedurl</name>
+    <expres>$pyFunction:urllib.quote_plus('http://tv3iossecure-i.akamaihd.net/hls/live/225715/ios/tv3ios_sp/master.m3u8?hdnea=$doregex[get-token]&amp;hdcore=3.8.0&amp;plugin=jwplayer-3.8.0.0')</expres>
+    <page></page>
+</regex>
+<regex>
+      <name>get-token</name>
+      <expres>(.*)<expres>
+      <page>http://player.ooyala.com/sas/player_api/v2/authorization/embed_code/owMjgyOkSbJagb4ozVY_03UrHYLt/J3ZmNmeDpV1EMWlR6YJU_YDCqKbh_bSg?device=html5&amp;domain=player.ooyala.com&amp;auth_token=andHeCt3blFhWW1NV3R1WjV0eFlxL1FYUGJhWk1TSWJBeEZ0Lzl2ampUUnQ4WjJYNU84WlBybWNvVEY1CjlBOEFqT3RtdkxqOUZ6am85QUF6dXg0MVhVMVdYekpYN0dMNGY1RE9KZGJSdkQ3WkNyc0tlQ0F5dC93UgpCU3RGYTRSMHR0NEozL2hRMnNWTUtkN3grSFRjQXpQT0p6d2tLZzhBeTZscFA0RkVPUmVlbzlnN0lFWDIKUEx5MWZZNDB6eVYxU2g5NzJsLytxRU5MbjdHOFpKbmhySElVZitmMUpkM2JiR2pSME90bHNaWnFob1ArCmNQbjdyS04wMnlHSDVNczUK</page>
+      <referer></referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_ntv7_zpsmslc5gwf.png</thumbnail>
+</item>
+
+<item>
 <title>MOVISTAR F1</title>
 <link>http://cdn.sstream.pw/live/tvb116/playlist.m3u8|Referer=http://www.playerhd2.pw/embed5.php</link>
 </item>
