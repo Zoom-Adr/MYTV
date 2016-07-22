@@ -218,7 +218,7 @@
 
 <item>
 <title>BT SPORT 1 BACKUP</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.do/jusserbtsp1&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat28/customer28/1511.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
 </item>
 
@@ -230,7 +230,7 @@
 
 <item>
 <title>BT SPORT 2 BACKUP</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.do/jusserbtsp2&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat28/customer28/1512.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
 </item>
 
@@ -434,7 +434,7 @@ item>
 
 <item>
 <title>MUTV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.do/plexmutv&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.do/plex-mutv&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png</thumbnail>
 </item>
 
