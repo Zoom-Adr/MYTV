@@ -431,3 +431,15 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://www.layarku.tv/media/8tvse
 <link>plugin://plugin.video.f4mTester/?url=http://my2liveflash-lh.akamaihd.net/z/my2liveflash_my@30545/manifest.f4m?hdcore=2.10.3&amp;g=LWDJMNJWQIGA&amp;swf=http://dpndczlul8yjf.cloudfront.net/resources/as3_vp_player_2.4.16.2.0.swf</link>
 <thumbnail>https://www.dropbox.com/s/sdwv2zmqc5la4vf/Logo-Liga-Super-Malaysia-2016.png?dl=1</thumbnail>
 </item>
+
+<item>
+<title>AFC CUP - LIVE GAMES</title>
+<link>plugin://plugin.video.f4mTester/?url=http://uniliveflash-lh.akamaihd.net/z/unilive_1@86102/manifest.f4m?hdcore=2.10.3&amp;g=PBENUXUVQQGX&amp;swf=http://dpndczlul8yjf.cloudfront.net/resources/as3_vp_player_2.4.16.2.0.swf</link>
+<thumbnail>https://s31.postimg.org/xpdcy1amz/a_f_c_cup_2.jpg</thumbnail>
+</item>
+
+<item>
+<title>PIALA MALAYSIA - LIVE GAMES</title>
+<link>plugin://plugin.video.f4mTester/?url=http://my1liveflash-lh.akamaihd.net/z/my1liveflash_my@30541/manifest.f4m?hdcore=2.10.3&amp;g=WIHBUVPTOBCK&amp;swf=http://dpndczlul8yjf.cloudfront.net/resources/as3_vp_player_2.4.16.2.0.swf</link>
+<thumbnail>https://s31.postimg.org/5c1299wzf/642bc95563639_5625446e19caf.jpg</thumbnail>
+</item>
