@@ -85,6 +85,44 @@ item>
 </item>
 
 <item>
+ <item>
+<title>TV3</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[encodedurl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0 FirePHP/0.7.4&amp;X-Requested-With=ShockwaveFlash/22.0.0.192&amp;Referer=http://www.tonton.com.my/liveChannel?id=1051142878</link>
+
+
+    <regex>
+    <name>encodedurl</name>
+    <expres>$pyFunction:urllib.quote_plus('http://tv3flashsecure-lh.akamaihd.net/z/tv3flash_sp@392287/manifest.f4m?hdnea=$doregex[token]')</expres>
+    <page></page>
+  </regex>
+<regex>
+<name>token</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data, Cookie_Jar, m):
+	import requests
+	import re
+
+	session = requests.session()
+
+	headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0 FirePHP/0.7.4",
+			   "Referer": "http://www.tonton.com.my/login",
+			   "Connection": "keep-alive"}
+
+	r = session.get('http://www.tonton.com.my/vindicia/playerOTP?id=J3ZmNmeDpV1EMWlR6YJU_YDCqKbh_bSg&account_id=067dcc18-d9ad-0904-95e4-4d7e8d63cb4c', headers=headers)
+	token = re.findall(r'"token":"(.*?)"', r.text)[0].replace('\/', '/')
+
+	r = session.get(token, headers=headers)
+
+	headers = {'Referer': 'http://player.ooyala.com/static/cacheable/a749e376b1fadc6784b96bd76a37692d/player_v2.swf?player=dde0012b6dcc4dc7b26306bdaff0dce2',
+			   'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0 FirePHP/0.7.4'}
+	r = session.get('http://player.ooyala.com/sas/akamai_edge_auth_token?embed_code=J3ZmNmeDpV1EMWlR6YJU_YDCqKbh_bSg&video_pcode=owMjgyOkSbJagb4ozVY_03UrHYLt', headers=headers)
+	return r.text+'&hdcore=2.10.3&g=SWEQGAKKWKPS'
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv3_zpsccy0afit.png</thumbnail>
+</item>
+
 <title>TV3</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
 <regex>
