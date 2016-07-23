@@ -87,8 +87,6 @@ item>
 <item>
 <title>TV3</title>
 <link>plugin://plugin.video.f4mTester/?url=$doregex[encodedurl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0 FirePHP/0.7.4&amp;X-Requested-With=ShockwaveFlash/22.0.0.192&amp;Referer=http://www.tonton.com.my/liveChannel?id=1051142878</link>
-
-
     <regex>
     <name>encodedurl</name>
     <expres>$pyFunction:urllib.quote_plus('http://tv3flashsecure-lh.akamaihd.net/z/tv3flash_sp@392287/manifest.f4m?hdnea=$doregex[token]')</expres>
@@ -193,7 +191,37 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://www.layarku.tv/media/tv3se
 
 <item>
 <title>NTV7</title>
-<title>TEST | URL=http://www.layarku.tv/tv3my.html</title> 
+<link>plugin://plugin.video.f4mTester/?url=$doregex[encodedurl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0 FirePHP/0.7.4&amp;X-Requested-With=ShockwaveFlash/22.0.0.192&amp;Referer=http://www.tonton.com.my/liveChannel?id=1051225896</link>
+    <regex>
+    <name>encodedurl</name>
+    <expres>$pyFunction:urllib.quote_plus('http://ntv7flashsecure-lh.akamaihd.net/z/ntv7flash_sp@392290/manifest.f4m?hdnea=$doregex[token]')</expres>
+    <page></page>
+  </regex>
+<regex>
+<name>token</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data, Cookie_Jar, m):
+	import requests
+	import re
+	session = requests.session()
+	headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0 FirePHP/0.7.4",
+			   "Referer": "http://www.tonton.com.my/login",
+			   "Connection": "keep-alive"}
+	r = session.get('http://www.tonton.com.my/vindicia/playerOTP?id=c0aGNmeDqMkuwBzt5byiz-T1dCeMA7sB&account_id=067dcc18-d9ad-0904-95e4-4d7e8d63cb4c', headers=headers)
+	token = re.findall(r'"token":"(.*?)"', r.text)[0].replace('\/', '/')
+	r = session.get(token, headers=headers)
+	headers = {'Referer': 'http://player.ooyala.com/static/cacheable/a749e376b1fadc6784b96bd76a37692d/player_v2.swf?player=dde0012b6dcc4dc7b26306bdaff0dce2',
+			   'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0 FirePHP/0.7.4'}
+	r = session.get('http://player.ooyala.com/sas/akamai_edge_auth_token?embed_code=c0aGNmeDqMkuwBzt5byiz-T1dCeMA7sB&video_pcode=owMjgyOkSbJagb4ozVY_03UrHYLt', headers=headers)
+	return r.text+'&hdcore=2.10.3&g=LLQJJEGYCCWK'
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_ntv7_zpsmslc5gwf.png</thumbnail>
+</item>
+
+<item>
+<title>NTV7 - Backup</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
 <regex>
 <name>encodedurl</name>
@@ -220,6 +248,37 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://www.layarku.tv/media/ntv7s
 
 <item>
 <title>TV9</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[encodedurl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0 FirePHP/0.7.4&amp;X-Requested-With=ShockwaveFlash/22.0.0.192&amp;Referer=http://www.tonton.com.my/liveChannel?id=1051205088</link>
+    <regex>
+    <name>encodedurl</name>
+    <expres>$pyFunction:urllib.quote_plus('http://tv9flashsecure-lh.akamaihd.net/z/tv9flash_sp@392291/manifest.f4m?hdnea=$doregex[token]')</expres>
+    <page></page>
+  </regex>
+<regex>
+<name>token</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data, Cookie_Jar, m):
+	import requests
+	import re
+	session = requests.session()
+	headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0 FirePHP/0.7.4",
+			   "Referer": "http://www.tonton.com.my/login",
+			   "Connection": "keep-alive"}
+	r = session.get('http://www.tonton.com.my/vindicia/playerOTP?id=U5aWNmeDqtZM4iw2BCEnjB9A0KHdntmZ&account_id=067dcc18-d9ad-0904-95e4-4d7e8d63cb4c', headers=headers)
+	token = re.findall(r'"token":"(.*?)"', r.text)[0].replace('\/', '/')
+	r = session.get(token, headers=headers)
+	headers = {'Referer': 'http://player.ooyala.com/static/cacheable/a749e376b1fadc6784b96bd76a37692d/player_v2.swf?player=dde0012b6dcc4dc7b26306bdaff0dce2',
+			   'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0 FirePHP/0.7.4'}
+	r = session.get('http://player.ooyala.com/sas/akamai_edge_auth_token?embed_code=U5aWNmeDqtZM4iw2BCEnjB9A0KHdntmZ&video_pcode=owMjgyOkSbJagb4ozVY_03UrHYLt', headers=headers)
+	return r.text+'&hdcore=2.10.3&g=LBQNKIJKKTUP'
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv9_zpsvy6n5ypz.png</thumbnail>
+</item>
+
+<item>
+<title>TV9 - Backup</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
 <regex>
 <name>encodedurl</name>
@@ -246,6 +305,37 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://www.layarku.tv/media/tv9se
 
 <item>
 <title>8TV</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[encodedurl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0 FirePHP/0.7.4&amp;X-Requested-With=ShockwaveFlash/22.0.0.192&amp;Referer=http://www.tonton.com.my/liveChannel?id=1051221556</link>
+    <regex>
+    <name>encodedurl</name>
+    <expres>$pyFunction:urllib.quote_plus('http://8tvflashsecure-lh.akamaihd.net/z/8tvflash_sp@392288/manifest.f4m?hdnea=$doregex[token]')</expres>
+    <page></page>
+  </regex>
+<regex>
+<name>token</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data, Cookie_Jar, m):
+	import requests
+	import re
+	session = requests.session()
+	headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0 FirePHP/0.7.4",
+			   "Referer": "http://www.tonton.com.my/login",
+			   "Connection": "keep-alive"}
+	r = session.get('http://www.tonton.com.my/vindicia/playerOTP?id=FnaGNmeDqLbwHR5rVFvAXU8XFOBcqdYc&account_id=067dcc18-d9ad-0904-95e4-4d7e8d63cb4c', headers=headers)
+	token = re.findall(r'"token":"(.*?)"', r.text)[0].replace('\/', '/')
+	r = session.get(token, headers=headers)
+	headers = {'Referer': 'http://player.ooyala.com/static/cacheable/a749e376b1fadc6784b96bd76a37692d/player_v2.swf?player=dde0012b6dcc4dc7b26306bdaff0dce2',
+			   'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0 FirePHP/0.7.4'}
+	r = session.get('http://player.ooyala.com/sas/akamai_edge_auth_token?embed_code=FnaGNmeDqLbwHR5rVFvAXU8XFOBcqdYc&video_pcode=owMjgyOkSbJagb4ozVY_03UrHYLt', headers=headers)
+	return r.text+'&hdcore=2.10.3&g=RDNHIGOCEKBX'
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_8tv_zpsvhm1dgc8.png</thumbnail>
+</item>
+
+<item>
+<title>8TV - Backup</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
 <regex>
 <name>encodedurl</name>
