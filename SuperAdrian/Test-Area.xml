@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
+<title>TEST</title>
+<link>plugin://plugin.video.youtube/play/?video_id=L1wVGU7vMfo</link>
+</item>
+
+<item>
 <title>MY TEST</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=HDS&amp;maxbitrate=1264000&amp;url=$doregex[encodedurl]</link>
 <regex>
