@@ -392,6 +392,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
+<title>GLOBAL TV SERVER 2</title>
+<link>http://tv.vidiostream.com/i/globaltv_1@137568/index_360_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_global_tv_zpsqptddjo9.png</thumbnail>
+<fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
+</item>
+
+<item>
 <title>HI INDO!</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
 <regex>
