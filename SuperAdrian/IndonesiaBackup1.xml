@@ -195,7 +195,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 </item>
  
-<item>
+item>
 <title>CHINA MOVIE</title>
 <link>http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/chinamovie/as/live/chinamovie_4.m3u8</link>
 <thumbnail>https://www.dropbox.com/s/vfiagahcttp2erq/china%20movie.png?dl=1</thumbnail>
