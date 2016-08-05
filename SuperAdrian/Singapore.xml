@@ -13,6 +13,12 @@
 </item> 
 
 <item>
+<title>CHANNEL 5 - BACKUP</title>
+<link>http://tglch5-lh.akamaihd.net/i/channel5_fta@334581/index_4_av-b.m3u8?sd=10&rebase=on|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/SG_channel5_zpslpt6pjmb.png</thumbnail>
+</item> 
+
+<item>
 <title>CHANNEL 8</title>
 <link>$doregex[m3u8]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
@@ -21,6 +27,12 @@
 	<page>http://goo.gl/uQhZSa</page>
         <referer>http://goo.gl/uQhZSa</referer>
 </regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/SG_channel8_zpsv6hcf98c.png</thumbnail>
+</item> 
+
+<item>
+<title>CHANNEL 8 - BACKUP</title>
+<link>http://tglch8-lh.akamaihd.net/i/channel8_fta@334582/index_4_av-b.m3u8?sd=10&rebase=on|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/SG_channel8_zpsv6hcf98c.png</thumbnail>
 </item> 
 
