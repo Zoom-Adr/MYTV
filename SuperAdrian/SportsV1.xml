@@ -175,6 +175,24 @@
 </item>
 
 <item>
+<title>BEIN SPORTS 1 ID</title>
+<link>http://bit.do/BEIN1ID</link>
+<thumbnail>https://pbs.twimg.com/profile_images/524051316159438848/aESfg0FT.jpeg</thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS 2 ID</title>
+<link>http://bit.do/BEIN2ID</link>
+<thumbnail>https://pbs.twimg.com/profile_images/524051316159438848/aESfg0FT.jpeg</thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS 3 ID</title>
+<link>http://bit.do/BEIN3ID</link>
+<thumbnail>https://pbs.twimg.com/profile_images/524051316159438848/aESfg0FT.jpeg</thumbnail>
+</item>
+
+<item>
 <title>BEIN SPORTS 1 FR</title>
 <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat28/customer28/410.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://cdn.marketplaceimages.windowsphone.com/v8/images/24a7a709-4c44-43ea-9838-a01e2914de0f?imageType=ws_icon_medium</thumbnail>
@@ -271,78 +289,6 @@
 </item>
 
 <item>
-<title>CTH STADIUM 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/946a914c3965/12.mpegts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://www.cthbpl.com/img/stadium/stadium1.png</thumbnail>
-</item>
-
-<item>
-<title>CTH STADIUM 1 BACKUP</title>
-<link>rtmp://119.81.36.98:1935/indopeer?Q1hiYVNoTHdLUzhIRHRod1NtRWpvWDRVQU1kUjdWWHNzbExjdjRvMUJLdGR6VmlXejNQQ2I2dUpHQW5FcVE2YjlmK3Bnd1VYK29YaVhlbTBOdjJvUVd3K01Fd3gwMjBYOUF2SU9HM1h0dnM9/ playpath=hdmi2 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 pageUrl=http://lensagol-live.com/channel/view/2?w=825&h=464|User-Agent=Mozilla/5.0</link>
-<thumbnail>http://www.cthbpl.com/img/stadium/stadium1.png</thumbnail>
-</item>
-
-<item>
-<title>CTH STADIUM 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/946a914c3965/13.mpegts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://www.cthbpl.com/img/stadium/stadium2.png</thumbnail>
-</item>
-
-<item>
-<title>CTH STADIUM 2 BACKUP</title>
-<link>rtmp://119.81.36.98:1935/indopeer?Q1hiYVNoTHdLUzhIRHRod1NtRWpvWDRVQU1kUjdWWHNzbExjdjRvMUJLdGR6VmlXejNQQ2I2dUpHQW5FcVE2YjlmK3Bnd1VYK29YaVhlbTBOdjJvUVd3K01Fd3gwMjBYOUF2SU9HM1h0dnM9/ playpath=hdmi4 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 pageUrl=http://lensagol-live.com/channel/view/4?w=825&h=464|User-Agent=Mozilla/5.0</link>
-<thumbnail>http://www.cthbpl.com/img/stadium/stadium2.png</thumbnail>
-</item>
-
-<item>
-<title>CTH STADIUM 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/946a914c3965/14.mpegts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://www.cthbpl.com/img/stadium/stadium3.png</thumbnail>
-</item>
-
-<item>
-<title>CTH STADIUM 3 BACKUP</title>
-<link>rtmp://119.81.36.98:1935/indopeer?Q1hiYVNoTHdLUzhIRHRod1NtRWpvWDRVQU1kUjdWWHNzbExjdjRvMUJLdGR6VmlXejNQQ2I2dUpHQW5FcVE2YjlmK3Bnd1VYK29YaVhlbTBOdjJvUVd3K01Fd3gwMjBYOUF2SU9HM1h0dnM9/ playpath=hdmi6 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 pageUrl=http://lensagol-live.com/channel/view/6?w=825&h=464|User-Agent=Mozilla/5.0</link>
-<thumbnail>http://www.cthbpl.com/img/stadium/stadium3.png</thumbnail>
-</item>
-
-<item>
-<title>CTH STADIUM 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/946a914c3965/15.mpegts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://www.cthbpl.com/img/stadium/stadium4.png</thumbnail>
-</item>
-
-<item>
-<title>CTH STADIUM 4 BACKUP</title>
-<link>rtmp://119.81.36.98:1935/indopeer?Q1hiYVNoTHdLUzhIRHRod1NtRWpvWDRVQU1kUjdWWHNzbExjdjRvMUJLdGR6VmlXejNQQ2I2dUpHQW5FcVE2YjlmK3Bnd1VYK29YaVhlbTBOdjJvUVd3K01Fd3gwMjBYOUF2SU9HM1h0dnM9/ playpath=hdmi8 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 pageUrl=http://lensagol-live.com/channel/view/8?w=825&h=464|User-Agent=Mozilla/5.0</link>
-<thumbnail>http://www.cthbpl.com/img/stadium/stadium4.png</thumbnail>
-</item>
-
-<item>
-<title>CTH STADIUM 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/946a914c3965/16.mpegts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://www.cthbpl.com/img/stadium/stadium5.png</thumbnail>
-</item>
-
-<item>
-<title>CTH STADIUM 5 BACKUP</title>
-<link>rtmp://119.81.36.98:1935/indopeer?Q1hiYVNoTHdLUzhIRHRod1NtRWpvWDRVQU1kUjdWWHNzbExjdjRvMUJLdGR6VmlXejNQQ2I2dUpHQW5FcVE2YjlmK3Bnd1VYK29YaVhlbTBOdjJvUVd3K01Fd3gwMjBYOUF2SU9HM1h0dnM9/ playpath=hdmi10 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 pageUrl=http://lensagol-live.com/channel/view/10?w=825&h=464|User-Agent=Mozilla/5.0</link>
-<thumbnail>http://www.cthbpl.com/img/stadium/stadium5.png</thumbnail>
-</item>
-
-<item>
-<title>CTH STADIUM 6</title>
-<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/946a914c3965/17.mpegts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://www.cthbpl.com/img/stadium/stadium6.png</thumbnail>
-</item>
-
-<item>
-<title>CTH STADIUM 6 BACKUP</title>
-<link>rtmp://119.81.36.98:1935/indopeer?Q1hiYVNoTHdLUzhIRHRod1NtRWpvWDRVQU1kUjdWWHNzbExjdjRvMUJLdGR6VmlXejNQQ2I2dUpHQW5FcVE2YjlmK3Bnd1VYK29YaVhlbTBOdjJvUVd3K01Fd3gwMjBYOUF2SU9HM1h0dnM9/ playpath=hdmi11 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 pageUrl=http://lensagol-live.com/channel/view/11?w=825&h=464|User-Agent=Mozilla/5.0</link>
-<thumbnail>http://www.cthbpl.com/img/stadium/stadium6.png</thumbnail>
-</item>
-
-<item>
 <title>EUROSPORT DE</title>
 <link>plugin://plugin.video.f4mTester/?url=http://31.220.40.87:8000/live/testy/testy/933.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.wuv.de/var/wuv/storage/images/media/bilder/eurosport_2015_580/7186502-1-ger-DE/eurosport_2015_580_evo_580.jpg</thumbnail>
@@ -418,6 +364,30 @@ item>
 <title>FOX SPORTS 2 USA BACKUP</title>
 <link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/946a914c3965/228.mpegts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports_us_2.png</thumbnail>
+</item>
+
+<item>
+<title>MATCH TV RU</title>
+<link>http://www.sport24.pw/hls/MatchTV.m3u8</link>
+<thumbnail>https://s31.postimg.org/hz6lrandn/matchtv.jpg</thumbnail>
+</item>
+
+<item>
+<title>MATCH FUTBOL 1 RU</title>
+<link>http://www.sport24.pw/hls/MatchFutbol1.m3u8</link>
+<thumbnail>https://s32.postimg.org/6w6qxb78l/match_ru_futbol_1.png</thumbnail>
+</item>
+
+<item>
+<title>MATCH FUTBOL 2 RU</title>
+<link>http://www.sport24.pw/hls/MatchFutbol2.m3u8</link>
+<thumbnail>https://s32.postimg.org/jhaytm80l/match_ru_futbol_2.png</thumbnail>
+</item>
+
+<item>
+<title>MATCH FUTBOL 1 RU</title>
+<link>http://www.sport24.pw/hls/MatchFutbol3.m3u8</link>
+<thumbnail>https://s31.postimg.org/cw3lndraj/match_ru_futbol_3.png</thumbnail>
 </item>
 
 <item>
