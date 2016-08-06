@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>VIP-GOAL GP-1</title>
-<sportsdevil>http://www.sunhd.info/channelsa.php?file=117&amp;width=650&amp;height=410&amp;autostart=true</sportsdevil>
-<referer>http://www.vipgoal.net/elitegol.com/35597/77297/Movistar_MotoGP.html</referer>
+<title>SETANTA SPORTS PLUS</title>
+<f4m>http://178.124.183.11/hls/CH_SETANTASPORT/variant.m3u8?version=3</f4m>
 </item>
 
+<item>
+<title>SETANTA SPORTS PLUS-1</title>
+<f4m>http://178.124.183.11/hls/CH_SETANTASPORT/variant.m3u8?version=2</f4m>
+</item>
 
 <item>
 <title>liveonlinetv247-1</title>
