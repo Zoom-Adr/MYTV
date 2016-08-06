@@ -762,6 +762,36 @@ item>
 </item>
 
 <item>
+<title>SPORT TV1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/1655.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://s32.postimg.org/fmeof9a9h/pr_source.png</thumbnail>
+</item>
+
+<item>
+<title>SPORT TV2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/1656.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://s32.postimg.org/fmeof9a9h/pr_source.png</thumbnail>
+</item>
+
+<item>
+<title>SPORT TV3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/1656.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://s32.postimg.org/fmeof9a9h/pr_source.png</thumbnail>
+</item>
+
+<item>
+<title>SPORT TV4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/1695.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://s32.postimg.org/fmeof9a9h/pr_source.png</thumbnail>
+</item>
+
+<item>
+<title>SPORT TV5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/1696.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://s32.postimg.org/fmeof9a9h/pr_source.png</thumbnail>
+</item>
+
+<item>
 <title>STAR SPORTS 1 IN</title>
 <link>plugin://plugin.video.f4mTester/?url=http://31.220.40.87:8000/live/testy/testy/580.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://s32.postimg.org/9efg8w1md/Star_Sports_Logo_detail.jpg</thumbnail>
