@@ -20,6 +20,12 @@
 </item>
 
 <item>
+<title>liveonlinetv247-2</title>
+<sportsdevil>http://www.liveonlinetv247.info/embed/beinsports11.php?width=650&amp;height=480</sportsdevil>
+<referer>http://www.liveonlinetv247.info/skysports1.php</referer>
+</item>
+
+<item>
 <title>streaming-football</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.streaming-football.org/streaming/22418/streaming-beinsport1-hd.html</link>
 </item>
