@@ -532,6 +532,24 @@ item>
 </item>
 
 <item>
+<title>PPTV HD TH</title>
+<link>http://111.223.48.84/ch1/th1pba.isml/QualityLevels(1564000)/manifest(format=m3u8-aapl).m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/ProjectAdrian/Adrian_Sports/master/Icons/PTV.png</thumbnail>
+</item>
+
+<item>
+<title>SETANTA SPORTS EURASIA</title>
+<link>http://178.124.183.11/hls/CH_SETANTASPORT/variant.m3u8?version=3</link>
+<thumbnail>https://raw.githubusercontent.com/ProjectAdrian/Adrian_Sports/master/Icons/Setanta-Sports-Eurasia.png</thumbnail>
+</item>
+
+<item>
+<title>SETANTA SPORTS PLUS</title>
+<link>http://178.124.183.11/hls/CH_SETANTASPORTPLUS/variant.m3u8?version=3</link>
+<thumbnail>https://raw.githubusercontent.com/ProjectAdrian/Adrian_Sports/master/Icons/Setanta-Sports-Eurasia.png</thumbnail>
+</item>
+
+<item>
 <title>SKY SPORTS 1 DE</title>
 <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat28/customer28/131.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://s31.postimg.org/r6d4b8nej/D5_SGRQX.jpg</thumbnail>
