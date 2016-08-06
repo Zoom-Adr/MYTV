@@ -356,6 +356,19 @@
 <thumbnail>https://pbs.twimg.com/profile_images/702486644658573312/jxyCoLOl.png</thumbnail>
 </item>
 
+<item>
+<title>FOX SPORTS 3 THAI</title>
+<link>$doregex[CH]</link>
+<regex>
+<name>CH</name>
+<expres><![CDATA[file: "(http://[^"]+)"]]></expres>
+<page>http://ball.qoo-p.com/dooballsod/live13.php</page>
+<referer>http://www.xn--l3car8bzaq6f.com/channel-detail.php?pid=17</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://pbs.twimg.com/profile_images/702486644658573312/jxyCoLOl.png</thumbnail>
+</item>
+
 item>
 <title>FOX SPORTS 1 USA</title>
 <link>http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/master.m3u8</link>
@@ -825,6 +838,45 @@ item>
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>https://s32.postimg.org/ubyz871x1/unnamed.png</thumbnail>
+</item>
+
+<item>
+<title>TRUE SPORTS HD</title>
+<link>$doregex[CH]</link>
+<regex>
+<name>CH</name>
+<expres><![CDATA[file: "(http://[^"]+)"]]></expres>
+<page>http://ball.qoo-p.com/dooballsod/live7.php</page>
+<referer>http://www.xn--l3car8bzaq6f.com/channel-detail.php?pid=11</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://s32.postimg.org/u08y35zdh/True_Sport_Thailand.jpg</thumbnail>
+</item>
+
+<item>
+<title>TRUE SPORTS HD 2</title>
+<link>$doregex[CH]</link>
+<regex>
+<name>CH</name>
+<expres><![CDATA[file: "(http://[^"]+)"]]></expres>
+<page>http://ball.qoo-p.com/dooballsod/live8.php</page>
+<referer>http://www.xn--l3car8bzaq6f.com/channel-detail.php?pid=12</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://s32.postimg.org/u08y35zdh/True_Sport_Thailand.jpg</thumbnail>
+</item>
+
+<item>
+<title>TRUE SPORTS HD 3</title>
+<link>$doregex[CH]</link>
+<regex>
+<name>CH</name>
+<expres><![CDATA[file: "(http://[^"]+)"]]></expres>
+<page>http://ball.qoo-p.com/dooballsod/live9.php</page>
+<referer>http://www.xn--l3car8bzaq6f.com/channel-detail.php?pid=13</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://s32.postimg.org/u08y35zdh/True_Sport_Thailand.jpg</thumbnail>
 </item>
 
 <item>
