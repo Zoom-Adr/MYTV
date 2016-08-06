@@ -14,6 +14,21 @@
 </item>
 
 <item>
+<title>liveonlinetv247</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.liveonlinetv247.info/skysports1.php</link>
+</item>
+
+<item>
+<title>liveonlinetv247-1</title>
+<sportsdevil>http://www.liveonlinetv247.info/skysports1.php</sportsdevil>
+</item>
+
+<item>
+<title>streaming-football</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.streaming-football.org/streaming/22418/streaming-beinsport1-hd.html</link>
+</item>
+
+<item>
 <title>[COLOR=blue][B][I]BT SPORTS 1 (UK) [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
 <sportsdevil>http://streamking.cc/player?channel=btsport1&type=p2p</sportsdevil>
 <referer>http://streamking.cc/player?channel=btsport1&type=p2p</referer>
