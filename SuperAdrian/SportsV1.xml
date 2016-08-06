@@ -175,24 +175,6 @@
 </item>
 
 <item>
-<title>BEIN SPORTS 1 ID</title>
-<link>rtsp://180.250.29.22:1935/jhos/beib1_4</link>
-<thumbnail>https://pbs.twimg.com/profile_images/524051316159438848/aESfg0FT.jpeg</thumbnail>
-</item>
-
-<item>
-<title>BEIN SPORTS 2 ID</title>
-<link>rtsp://180.250.29.22:1935/jhos/beib2_4</link>
-<thumbnail>https://pbs.twimg.com/profile_images/524051316159438848/aESfg0FT.jpeg</thumbnail>
-</item>
-
-<item>
-<title>BEIN SPORTS 3 ID</title>
-<link>rtsp://180.250.29.22:1935/jhos/beib3_4</link>
-<thumbnail>https://pbs.twimg.com/profile_images/524051316159438848/aESfg0FT.jpeg</thumbnail>
-</item>
-
-<item>
 <title>BEIN SPORTS 1 FR</title>
 <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat28/customer28/410.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://s32.postimg.org/ubyz871x1/unnamed.png</thumbnail>
@@ -208,6 +190,24 @@
 <title>BEIN SPORTS 3 FR</title>
 <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat28/customer28/489.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://s32.postimg.org/ubyz871x1/unnamed.png</thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS 1 ID</title>
+<link>rtsp://180.250.29.22:1935/jhos/beib1_4</link>
+<thumbnail>https://pbs.twimg.com/profile_images/524051316159438848/aESfg0FT.jpeg</thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS 2 ID</title>
+<link>rtsp://180.250.29.22:1935/jhos/beib2_4</link>
+<thumbnail>https://pbs.twimg.com/profile_images/524051316159438848/aESfg0FT.jpeg</thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS 3 ID</title>
+<link>rtsp://180.250.29.22:1935/jhos/beib3_4</link>
+<thumbnail>https://pbs.twimg.com/profile_images/524051316159438848/aESfg0FT.jpeg</thumbnail>
 </item>
 
 <item>
@@ -332,7 +332,27 @@
 
 <item>
 <title>FOX SPORTS 1 THAI</title>
-<link>rtmp://119.81.36.98:1935/indopeer?Q1hiYVNoTHdLUzhIRHRod1NtRWpvWDRVQU1kUjdWWHNzbExjdjRvMUJLdGR6VmlXejNQQ2I2dUpHQW5FcVE2YjlmK3Bnd1VYK29YaVhlbTBOdjJvUVd3K01Fd3gwMjBYOUF2SU9HM1h0dnM9/ playpath=hdmi19 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 pageUrl=http://lensagol-live.com/channel/view/19?w=825&h=464|User-Agent=Mozilla/5.0</link>
+<link>$doregex[CH]</link>
+<regex>
+<name>CH</name>
+<expres><![CDATA[file: "(http://[^"]+)"]]></expres>
+<page>http://ball.qoo-p.com/dooballsod/live11.php</page>
+<referer>http://www.xn--l3car8bzaq6f.com/channel-detail.php?pid=15</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://pbs.twimg.com/profile_images/702486644658573312/jxyCoLOl.png</thumbnail>
+</item>
+
+<item>
+<title>FOX SPORTS 2 THAI</title>
+<link>$doregex[CH]</link>
+<regex>
+<name>CH</name>
+<expres><![CDATA[file: "(http://[^"]+)"]]></expres>
+<page>http://ball.qoo-p.com/dooballsod/live12.php</page>
+<referer>http://www.xn--l3car8bzaq6f.com/channel-detail.php?pid=16</referer>
+<cookieJar></cookieJar>
+</regex>
 <thumbnail>https://pbs.twimg.com/profile_images/702486644658573312/jxyCoLOl.png</thumbnail>
 </item>
 
@@ -792,6 +812,19 @@ item>
 <title>SUPERSPORT 4 AL</title>
 <link>plugin://plugin.video.f4mTester/?url=http://31.220.40.87:8000/live/testy/testy/972.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://s32.postimg.org/haajfflh1/SUPERSPORTSAL.png</thumbnail>
+</item>
+
+<item>
+<title>TRUE BEIN SPORTS</title>
+<link>$doregex[CH]</link>
+<regex>
+<name>CH</name>
+<expres><![CDATA[file: "(http://[^"]+)"]]></expres>
+<page>http://ball.qoo-p.com/dooballsod/live6.php</page>
+<referer>http://www.xn--l3car8bzaq6f.com/channel-detail.php?pid=10</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://s32.postimg.org/ubyz871x1/unnamed.png</thumbnail>
 </item>
 
 <item>
