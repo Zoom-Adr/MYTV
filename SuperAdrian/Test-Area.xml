@@ -14,11 +14,6 @@
 </item>
 
 <item>
-<title>liveonlinetv247</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.liveonlinetv247.info/skysports1.php</link>
-</item>
-
-<item>
 <title>liveonlinetv247-1</title>
 <sportsdevil>http://www.liveonlinetv247.info/skysports1.php</sportsdevil>
 <referer>http://www.liveonlinetv247.info/skysports1.php</referer>
