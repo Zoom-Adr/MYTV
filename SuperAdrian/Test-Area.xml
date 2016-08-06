@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>CH12 |</title>
+<title>CH10|BEIN</title>
 <link>$doregex[CH]</link>
 <regex>
 <name>CH</name>
 <expres><![CDATA[file: "(http://[^"]+)"]]></expres>
-<page>http://ball.qoo-p.com/dooballsod/live8.php</page>
-<referer>http://www.xn--l3car8bzaq6f.com/channel-detail.php?pid=12</referer>
+<page>http://ball.qoo-p.com/dooballsod/live6.php</page>
+<referer>http://www.xn--l3car8bzaq6f.com/channel-detail.php?pid=10</referer>
 <cookieJar></cookieJar>
 <thumbnail></thumbnail>
 </regex>
