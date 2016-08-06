@@ -331,7 +331,7 @@
 </item>
 
 <item>
-<title>FOX SPORTS 1 THAI</title>
+<title>FOX SPORTS 1 TH</title>
 <link>$doregex[CH]</link>
 <regex>
 <name>CH</name>
@@ -344,7 +344,7 @@
 </item>
 
 <item>
-<title>FOX SPORTS 2 THAI</title>
+<title>FOX SPORTS 2 TH</title>
 <link>$doregex[CH]</link>
 <regex>
 <name>CH</name>
@@ -357,7 +357,7 @@
 </item>
 
 <item>
-<title>FOX SPORTS 3 THAI</title>
+<title>FOX SPORTS 3 TH</title>
 <link>$doregex[CH]</link>
 <regex>
 <name>CH</name>
@@ -828,7 +828,7 @@ item>
 </item>
 
 <item>
-<title>TRUE BEIN SPORTS</title>
+<title>TRUE BEIN SPORTS TH</title>
 <link>$doregex[CH]</link>
 <regex>
 <name>CH</name>
@@ -841,7 +841,7 @@ item>
 </item>
 
 <item>
-<title>TRUE SPORTS HD</title>
+<title>TRUE SPORTS HD TH</title>
 <link>$doregex[CH]</link>
 <regex>
 <name>CH</name>
@@ -854,7 +854,7 @@ item>
 </item>
 
 <item>
-<title>TRUE SPORTS HD 2</title>
+<title>TRUE SPORTS HD 2 TH</title>
 <link>$doregex[CH]</link>
 <regex>
 <name>CH</name>
@@ -867,7 +867,7 @@ item>
 </item>
 
 <item>
-<title>TRUE SPORTS HD 3</title>
+<title>TRUE SPORTS HD 3 TH</title>
 <link>$doregex[CH]</link>
 <regex>
 <name>CH</name>
