@@ -2,7 +2,7 @@
 
 <addon id="plugin.video.superadrian"
        name=".[COLOR magenta]SUPER[/COLOR][COLOR cyan] ADRIAN[/COLOR]."
-       version="21.1.6"
+       version="22.1.6"
        provider-name="Project Adrian">
 
   <requires>
