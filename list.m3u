@@ -182,6 +182,11 @@ https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s21.postimg.cc/ddkoi2tuv/fox_sportstv.png",FOX SPORTS VN 3
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/05F8hNby/motogp-wsbk.jpg",MOTOGP (LIVE)
+http://iptvhit.live/superboxkodi/MYTV/6rcgr1xceN/19
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/05F8hNby/motogp-wsbk.jpg",WSBK (LIVE)
+http://iptvhit.live/superboxkodi/MYTV/6rcgr1xceN/22
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Kc0CKpnk/sppp.jpg",SKYNET SPORTS HD
 https://vodcache.worldwidetv.club/root-c2/liveorigin/sd-skynetsportshd_720/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Kc0CKpnk/sppp.jpg",SKYNET SPORTS 1
