@@ -21,15 +21,14 @@ https://vodcache.worldwidetv.club/root-c2/liveorigin/epl-bein1_720/playlist.m3u8
 https://vodcache.worldwidetv.club/root-c2/liveorigin/epl-bein2_720/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s4.postimg.cc/m171drj19/bein-sports-400.png",BEIN SPORTS XTRA
 https://bein-xtra-roku.amagi.tv/ingest/playlist1080p.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s23.postimg.cc/i12809ta3/beinus.png",BEIN SPORTS USA
+https://vodcache.worldwidetv.club/root-c2/liveorigin/us-bein_480/playlist.m3u8
  
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s32.postimg.cc/5coedna8l/EUROSPOPRT.png",EUROSPORTS 1
 https://vodcache.worldwidetv.club/root-c2/liveorigin/uk-eurosport_480/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s32.postimg.cc/5coedna8l/EUROSPOPRT.png",EUROSPORTS 2
 https://vodcache.worldwidetv.club/root-c2/liveorigin/uk-eurosport2_480/playlist.m3u8
  
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s23.postimg.cc/i12809ta3/beinus.png",BEIN SPORTS USA
-https://vodcache.worldwidetv.club/root-c2/liveorigin/us-bein_480/playlist.m3u8
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/rmYfRpCX/512x512bb.jpg",FOX SPORTS ID 1
 http://iptvhit.live/superboxkodi/MYTV/6rcgr1xceN/60
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/rmYfRpCX/512x512bb.jpg",FOX SPORTS ID 2
@@ -153,13 +152,14 @@ https://fvtv.mywire.org/playlist/uz03ddxrcx-dpwx0wh5ug.m3u8
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://s11.postimg.cc/ybnoc9ir7/400x400_38hbo_hd.jpg",HBO
-
+http://iptvhit.live/superboxkodi/MYTV/6rcgr1xceN/85
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://s11.postimg.cc/g5s9gyesz/hbo_family.jpg",HBO FAMILY
-
+http://iptvhit.live/superboxkodi/MYTV/6rcgr1xceN/86
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://s15.postimg.cc/g7oiuikkr/hbo_hits.jpg",HBO HITS
-
+http://iptvhit.live/superboxkodi/MYTV/6rcgr1xceN/87
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.postimg.cc/Hx2xtJSy/cinemax.png",CINEMAX
-
+http://iptvhit.live/superboxkodi/MYTV/6rcgr1xceN/88
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.postimg.cc/763sLLZd/red-hbo.png",RED BY HBO
-
+http://iptvhit.live/superboxkodi/MYTV/6rcgr1xceN/89
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.postimg.cc/v8fJTSwn/400x400-3hbo-signature.jpg",HBO SIGNATURE
+http://iptvhit.live/superboxkodi/MYTV/6rcgr1xceN/90
