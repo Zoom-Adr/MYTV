@@ -24,15 +24,15 @@ https://fvtv.mywire.org/playlist/uwn5qna2wm-qywbpjhcrm.m3u8
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://freeview.github.io/logos/hello.png",Hello
 https://fvtv.mywire.org/playlist/9uhgasgstp-bfxkgv0t8s.m3u8
 #EXTINF:-1 group-title="Singapore" tvg-logo="https://freeview.github.io/logos/channel-5.png",Channel 5 
-https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master.m3u8
+https://dlau142f16b92.cloudfront.net/hls/clr4ctv_ch5/master.m3u8
 #EXTINF:-1 group-title="Singapore" tvg-logo="https://freeview.github.io/logos/channel-8.png",Channel 8 
-https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master.m3u8
+https://d34e90s3s13i7n.cloudfront.net/hls/clr4ctv_ch8/master.m3u8
 #EXTINF:-1 group-title="Singapore" tvg-logo="https://freeview.github.io/logos/channel-u.png",Channel U 
-https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master.m3u8
+https://d3inlz9elsutjl.cloudfront.net/hls/clr4ctv_chu/master.m3u8
 #EXTINF:-1 group-title="Singapore" tvg-logo="https://freeview.github.io/logos/vasantham.png",Vasantham 
-https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master.m3u8
+https://d39v9xz8f7n8tk.cloudfront.net/hls/clr4ctv_vsnthm/master.m3u8
 #EXTINF:-1 group-title="Singapore" tvg-logo="https://freeview.github.io/logos/suria.png",Suria 
-https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master.m3u8
+https://d11h6a6nhl9kj9.cloudfront.net/hls/clr4ctv_suria/master.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://freeview.github.io/logos/channel-newsasia.png",Channel NewsAsia 
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
