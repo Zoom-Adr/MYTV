@@ -97,8 +97,6 @@ https://fvtv.mywire.org/playlist/emnak73qtc-y3xws9ka64.m3u8|Referer=https://www.
 https://fvtv.mywire.org/playlist/aeukxvsxen-6zzdxf31bw.m3u8|Referer=https://www.youtube.com
 #EXTINF:-1 group-title="News" tvg-logo="https://freeview.github.io/logos/trtworld.png",TRT World
 https://fvtv.mywire.org/playlist/apscydm0ca-dy3etwbmsq.m3u8
-# #EXTINF:-1 group-title="International" tvg-logo="https://freeview.github.io/logos/abcau.png",ABC Australia
-# https://fvtv.mywire.org/playlist/wmg52czsgy-tjspv9dbbp.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://freeview.github.io/logos/aljazeera.png",Al Jazeera
 https://fvtv.mywire.org/playlist/62bzb5mjt3-vd1ycapt2f.m3u8
 #EXTINF:-1 group-title="International" tvg-logo="https://freeview.github.io/logos/arirang.png",Arirang TV
@@ -188,7 +186,7 @@ http://iptvhit.live/superboxkodi/MYTV/6rcgr1xceN/19
 http://iptvhit.live/superboxkodi/MYTV/6rcgr1xceN/22
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Kc0CKpnk/sppp.jpg",SKYNET SPORTS HD
-https://vodcache.worldwidetv.club/root-c2/liveorigin/sd-skynetsportshd_720/playlist.m3u8
+https://www.livedoomovies.com/03_skynetsporthd_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Kc0CKpnk/sppp.jpg",SKYNET SPORTS 1
 https://vodcache.worldwidetv.club/root-c2/liveorigin/sd-skynetsports1_480/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Kc0CKpnk/sppp.jpg",SKYNET SPORTS 2
