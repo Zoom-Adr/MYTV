@@ -24,9 +24,11 @@ https://fvtv.mywire.org/playlist/uwn5qna2wm-qywbpjhcrm.m3u8
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://freeview.github.io/logos/hello.png",Hello
 https://fvtv.mywire.org/playlist/9uhgasgstp-bfxkgv0t8s.m3u8
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://i.postimg.cc/pXRBjBGR/400x400.png",Ria
-http://iptvhit.live/superboxkodi/MYTV/6rcgr1xceN/104
+http://iptvhit.live/projectadrian/MYTV/MYTV/104
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://i.postimg.cc/pXRBjBGR/400x400.png",Warna
-http://iptvhit.live/superboxkodi/MYTV/6rcgr1xceN/105
+http://iptvhit.live/projectadrian/MYTV/MYTV/105
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://i.postimg.cc/pXRBjBGR/400x400.png",Oasis
+http://iptvhit.live/projectadrian/MYTV/MYTV/106
 
 #EXTINF:-1 group-title="Singapore" tvg-logo="https://freeview.github.io/logos/channel-5.png",Channel 5 
 https://dlau142f16b92.cloudfront.net/hls/clr4ctv_ch5/master.m3u8
@@ -104,28 +106,28 @@ https://fvtv.mywire.org/playlist/uz03ddxrcx-dpwx0wh5ug.m3u8
 http://stream-e30453a4b.nmbs.top/m3u/Usa/b7b36092fb.m3u8|User-Agent=Lavf53.32.100
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://s11.postimg.cc/ybnoc9ir7/400x400_38hbo_hd.jpg",HBO
-http://iptvhit.live/superboxkodi/MYTV/6rcgr1xceN/85
+http://iptvhit.live/projectadrian/MYTV/MYTV/85
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://s11.postimg.cc/g5s9gyesz/hbo_family.jpg",HBO FAMILY
-http://iptvhit.live/superboxkodi/MYTV/6rcgr1xceN/86
+http://iptvhit.live/projectadrian/MYTV/MYTV/86
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://s15.postimg.cc/g7oiuikkr/hbo_hits.jpg",HBO HITS
-http://iptvhit.live/superboxkodi/MYTV/6rcgr1xceN/87
+http://iptvhit.live/projectadrian/MYTV/MYTV/87
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.postimg.cc/Hx2xtJSy/cinemax.png",CINEMAX
-http://iptvhit.live/superboxkodi/MYTV/6rcgr1xceN/88
+http://iptvhit.live/projectadrian/MYTV/MYTV/88
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.postimg.cc/763sLLZd/red-hbo.png",RED BY HBO
-http://iptvhit.live/superboxkodi/MYTV/6rcgr1xceN/89
+http://iptvhit.live/projectadrian/MYTV/MYTV/89
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.postimg.cc/v8fJTSwn/400x400-3hbo-signature.jpg",HBO SIGNATURE
-http://iptvhit.live/superboxkodi/MYTV/6rcgr1xceN/90
+http://iptvhit.live/projectadrian/MYTV/MYTV/90
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://s26.postimg.cc/67sagi4nd/400x400_15fox_movies.jpg",FOX MOVIES
-http://iptvhit.live/superboxkodi/MYTV/6rcgr1xceN/91
+http://iptvhit.live/projectadrian/MYTV/MYTV/91
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://s26.postimg.cc/ripukrmrt/400x400_71fox_action_movies.jpg",FOX ACTION
-http://iptvhit.live/superboxkodi/MYTV/6rcgr1xceN/92
+http://iptvhit.live/projectadrian/MYTV/MYTV/92
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://s26.postimg.cc/ajgw5ibk9/400x400_35fox_family_movies.jpg",FOX FAMILY
-http://iptvhit.live/superboxkodi/MYTV/6rcgr1xceN/93
+http://iptvhit.live/projectadrian/MYTV/MYTV/93
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.postimg.cc/zGRd15rb/fox.jpg",FOX HD
-http://iptvhit.live/superboxkodi/MYTV/6rcgr1xceN/94
+http://iptvhit.live/projectadrian/MYTV/MYTV/94
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.postimg.cc/MZPtMXZf/foxcrime.png",FOX CRIME
-http://iptvhit.live/superboxkodi/MYTV/6rcgr1xceN/95
+http://iptvhit.live/projectadrian/MYTV/MYTV/95
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.postimg.cc/rFMk3vmW/41600t-Ol-400x400.jpg",SkyMovies Disney
 http://stream-e30453a4b.nmbs.top/m3u/Uk/1808dc3046.m3u8|User-Agent=Lavf53.32.100
@@ -145,13 +147,13 @@ http://stream-e30453a4b.nmbs.top/m3u/Uk/dea76fadcb.m3u8|User-Agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Uk/6d4efb4468.m3u8|User-Agent=Lavf53.32.100
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",ASSP 1
-http://iptvhit.live/superboxkodi/MYTV/6rcgr1xceN/54
+http://iptvhit.live/projectadrian/MYTV/MYTV/54
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",ASSP 2
-http://iptvhit.live/superboxkodi/MYTV/6rcgr1xceN/55
+http://iptvhit.live/projectadrian/MYTV/MYTV/55
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",ASSP 3
-http://iptvhit.live/superboxkodi/MYTV/6rcgr1xceN/56
+http://iptvhit.live/projectadrian/MYTV/MYTV/56
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",ASSP 4
-http://iptvhit.live/superboxkodi/MYTV/6rcgr1xceN/57
+http://iptvhit.live/projectadrian/MYTV/MYTV/57
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/0QhBxJPr/Fb-Wy2d-Oc-400x400.jpg",BT SPORT 1
 http://stream-e30453a4b.nmbs.top/m3u/Sports/eb7b301a66.m3u8|User-Agent=Lavf53.32.100
@@ -188,18 +190,18 @@ http://stream-e30453a4b.nmbs.top/m3u/Sports/6eb4a7ff4b.m3u8|User-Agent=Lavf53.32
 http://stream-e30453a4b.nmbs.top/m3u/Sports/a815fa21c5.m3u8|User-Agent=Lavf53.32.100
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s4.postimg.cc/m171drj19/bein-sports-400.png",BEIN SPORTS ID 1
-http://iptvhit.live/superboxkodi/MYTV/6rcgr1xceN/58
+http://iptvhit.live/projectadrian/MYTV/MYTV/58
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s4.postimg.cc/m171drj19/bein-sports-400.png",BEIN SPORTS ID 2
-http://iptvhit.live/superboxkodi/MYTV/6rcgr1xceN/59
+http://iptvhit.live/projectadrian/MYTV/MYTV/59
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s4.postimg.cc/m171drj19/bein-sports-400.png",BEIN SPORTS XTRA
 https://fvtv.mywire.org/playlist/bv6thk0ahh-g3zhk99v9q.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s4.postimg.cc/m171drj19/bein-sports-400.png",BEIN SPORTS USA
 http://stream-e30453a4b.nmbs.top/m3u/Sports/0c7bcb8db3.m3u8|User-Agent=Lavf53.32.100
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Bbf5t0m9/championstv-d1ef29.png",CHAMPIONS TV 1
-http://iptvhit.live/superboxkodi/MYTV/6rcgr1xceN/96
+http://iptvhit.live/projectadrian/MYTV/MYTV/96
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Bbf5t0m9/championstv-d1ef29.png",CHAMPIONS TV 2
-http://iptvhit.live/superboxkodi/MYTV/6rcgr1xceN/97
+http://iptvhit.live/projectadrian/MYTV/MYTV/97
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s32.postimg.cc/5coedna8l/EUROSPOPRT.png",EUROSPORTS 1
 http://stream-e30453a4b.nmbs.top/m3u/Sports/56fee19722.m3u8|User-Agent=Lavf53.32.100
@@ -222,11 +224,11 @@ http://stream-e30453a4b.nmbs.top/m3u/Sports/285b298cde.m3u8
 http://stream-e30453a4b.nmbs.top/m3u/Sports/4f3688c4e4.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/rmYfRpCX/512x512bb.jpg",FOX SPORTS ID 1
-http://iptvhit.live/superboxkodi/MYTV/6rcgr1xceN/60
+http://iptvhit.live/projectadrian/MYTV/MYTV/60
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/rmYfRpCX/512x512bb.jpg",FOX SPORTS ID 2
-http://iptvhit.live/superboxkodi/MYTV/6rcgr1xceN/61
+http://iptvhit.live/projectadrian/MYTV/MYTV/61
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/rmYfRpCX/512x512bb.jpg",FOX SPORTS ID 3
-http://iptvhit.live/superboxkodi/MYTV/6rcgr1xceN/62
+http://iptvhit.live/projectadrian/MYTV/MYTV/62
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s21.postimg.cc/ddkoi2tuv/fox_sportstv.png",FOX SPORTS VN 1
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/playlist.m3u8|User-Agent=Lavf53.32.100
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s21.postimg.cc/ddkoi2tuv/fox_sportstv.png",FOX SPORTS VN 2
@@ -239,9 +241,9 @@ http://stream-e30453a4b.nmbs.top/m3u/Sports/c2d957a01d.m3u8|User-Agent=Lavf53.32
 http://stream-e30453a4b.nmbs.top/m3u/Sports/3efde4ac6a.m3u8|User-Agent=Lavf53.32.100
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/05F8hNby/motogp-wsbk.jpg",MOTOGP (LIVE)
-http://iptvhit.live/superboxkodi/MYTV/6rcgr1xceN/19
+http://iptvhit.live/projectadrian/MYTV/MYTV/19
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/05F8hNby/motogp-wsbk.jpg",WSBK (LIVE)
-http://iptvhit.live/superboxkodi/MYTV/6rcgr1xceN/22
+http://iptvhit.live/projectadrian/MYTV/MYTV/22
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s10.postimg.cc/oj10xz0jt/nbcsn.jpg",NBCSN
 http://stream-e30453a4b.nmbs.top/m3u/Sports/019e96a4c6.m3u8|User-Agent=Lavf53.32.100
 
