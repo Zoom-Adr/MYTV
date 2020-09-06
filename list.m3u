@@ -145,6 +145,9 @@ http://stream-e30453a4b.nmbs.top/m3u/Uk/9ac8dc10dd.m3u8|User-Agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Uk/dea76fadcb.m3u8|User-Agent=Lavf53.32.100
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.postimg.cc/rFMk3vmW/41600t-Ol-400x400.jpg",SkyMovies Greats
 http://stream-e30453a4b.nmbs.top/m3u/Uk/6d4efb4468.m3u8|User-Agent=Lavf53.32.100
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.postimg.cc/rFMk3vmW/41600t-Ol-400x400.jpg",SkyMovies Select
+http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia//101
+
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",ASSP 1
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia//54
@@ -209,19 +212,19 @@ http://stream-e30453a4b.nmbs.top/m3u/Sports/56fee19722.m3u8|User-Agent=Lavf53.32
 http://stream-e30453a4b.nmbs.top/m3u/Sports/52d1bf6f71.m3u8|User-Agent=Lavf53.32.100
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/m2ksT7Y2/y-MMXl-COu-400x400.png",FOX SPORTS AU 501
-http://stream-e30453a4b.nmbs.top/m3u/Sports/28d1e232bb.m3u8
+http://stream-e30453a4b.nmbs.top/m3u/Sports/28d1e232bb.m3u8|User-Agent=Lavf53.32.100
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/m2ksT7Y2/y-MMXl-COu-400x400.png",FOX SPORTS AU 502
-http://stream-e30453a4b.nmbs.top/m3u/Sports/50337a418a.m3u8
+http://stream-e30453a4b.nmbs.top/m3u/Sports/50337a418a.m3u8|User-Agent=Lavf53.32.100
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/m2ksT7Y2/y-MMXl-COu-400x400.png",FOX SPORTS AU 503
-http://stream-e30453a4b.nmbs.top/m3u/Sports/5e068bc78b.m3u8
+http://stream-e30453a4b.nmbs.top/m3u/Sports/5e068bc78b.m3u8|User-Agent=Lavf53.32.100
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/m2ksT7Y2/y-MMXl-COu-400x400.png",FOX SPORTS AU 504
-http://stream-e30453a4b.nmbs.top/m3u/Sports/939761597f.m3u8
+http://stream-e30453a4b.nmbs.top/m3u/Sports/939761597f.m3u8|User-Agent=Lavf53.32.100
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/m2ksT7Y2/y-MMXl-COu-400x400.png",FOX SPORTS AU 505
-http://stream-e30453a4b.nmbs.top/m3u/Sports/406b3e7cd5.m3u8
+http://stream-e30453a4b.nmbs.top/m3u/Sports/406b3e7cd5.m3u8|User-Agent=Lavf53.32.100
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/m2ksT7Y2/y-MMXl-COu-400x400.png",FOX SPORTS AU 506
-http://stream-e30453a4b.nmbs.top/m3u/Sports/285b298cde.m3u8
+http://stream-e30453a4b.nmbs.top/m3u/Sports/285b298cde.m3u8|User-Agent=Lavf53.32.100
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/m2ksT7Y2/y-MMXl-COu-400x400.png",FOX SPORTS AU 507
-http://stream-e30453a4b.nmbs.top/m3u/Sports/4f3688c4e4.m3u8
+http://stream-e30453a4b.nmbs.top/m3u/Sports/4f3688c4e4.m3u8|User-Agent=Lavf53.32.100
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s21.postimg.cc/ddkoi2tuv/fox_sportstv.png",FOX SPORTS ID 1
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia//60
