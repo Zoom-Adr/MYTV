@@ -282,9 +282,9 @@ http://stream-e30453a4b.nmbs.top/m3u/Sports/a8b78b572a.m3u8|User-Agent=Lavf53.32
 http://stream-e30453a4b.nmbs.top/m3u/Sports/5ae22ea6ae.m3u8|User-Agent=Lavf53.32.100
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/1RLRnz0N/true-epl.png",TRUE PREMIER FOOTBALL 1
-http://203.150.107.30:8081/tested2iptv/core101/playlist.m3u8|User-Agent=Lavf53.32.100
+https://doomovielive.b-cdn.net/epl-x2_720/index.m3u8|Referer=https://doomovie.com
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/1RLRnz0N/true-epl.png",TRUE PREMIER FOOTBALL 2
-http://203.150.107.30:8081/tested2iptv/core102/playlist.m3u8|User-Agent=Lavf53.32.100
+http://ip2121.com:8081/at1/ENG2/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/1RLRnz0N/true-epl.png",TRUE PREMIER FOOTBALL 3
 http://203.150.107.30:8081/tested2iptv/core103/playlist.m3u8|User-Agent=Lavf53.32.100
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/1RLRnz0N/true-epl.png",TRUE PREMIER FOOTBALL 4
