@@ -282,15 +282,15 @@ http://stream-e30453a4b.nmbs.top/m3u/Sports/a8b78b572a.m3u8|User-Agent=Lavf53.32
 http://stream-e30453a4b.nmbs.top/m3u/Sports/5ae22ea6ae.m3u8|User-Agent=Lavf53.32.100
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/1RLRnz0N/true-epl.png",TRUE PREMIER FOOTBALL 1
-https://doomovielive.b-cdn.net/epl-x2_720/index.m3u8|Referer=https://doomovie.com
+http://ip2121.com:8081/at1/ENG1/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/1RLRnz0N/true-epl.png",TRUE PREMIER FOOTBALL 2
 http://ip2121.com:8081/at1/ENG2/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/1RLRnz0N/true-epl.png",TRUE PREMIER FOOTBALL 3
-http://203.150.107.30:8081/tested2iptv/core103/playlist.m3u8|User-Agent=Lavf53.32.100
+http://ip2121.com:8081/at1/ENG3/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/1RLRnz0N/true-epl.png",TRUE PREMIER FOOTBALL 4
-http://203.150.107.30:8081/tested2iptv/core104/playlist.m3u8|User-Agent=Lavf53.32.100
+http://ip2121.com:8081/at1/ENG4/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/1RLRnz0N/true-epl.png",TRUE PREMIER FOOTBALL 5
-http://203.150.107.30:8081/tested2iptv/core105/playlist.m3u8|User-Agent=Lavf53.32.100
+http://ip2121.com:8081/at1/ENG5/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
