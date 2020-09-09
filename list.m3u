@@ -158,9 +158,9 @@ http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia//56
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia//57
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/0QhBxJPr/Fb-Wy2d-Oc-400x400.jpg",BT SPORT 1
-http://31.220.1.50:7899/live/nelson_sousa1/6QzXACjNtA/8620.m3u8
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/227.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/0QhBxJPr/Fb-Wy2d-Oc-400x400.jpg",BT SPORT 2
-http://31.220.1.50:7899/live/nelson_sousa1/6QzXACjNtA/8619.m3u8
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/226.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/0QhBxJPr/Fb-Wy2d-Oc-400x400.jpg",BT SPORT 3
 http://31.220.1.50:7899/live/nelson_sousa1/6QzXACjNtA/8618.m3u8
 
@@ -198,7 +198,7 @@ http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia//59
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s4.postimg.cc/m171drj19/bein-sports-400.png",BEIN SPORTS XTRA
 https://fvtv.mywire.org/playlist/bv6thk0ahh-g3zhk99v9q.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s4.postimg.cc/m171drj19/bein-sports-400.png",BEIN SPORTS USA
-http://stream-e30453a4b.nmbs.top/m3u/Sports/0c7bcb8db3.m3u8|User-Agent=Lavf53.32.100
+http://31.220.1.50:7899/live/nelson_sousa1/6QzXACjNtA/8604
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Bbf5t0m9/championstv-d1ef29.png",CHAMPIONS TV 1
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia//96
@@ -247,7 +247,7 @@ http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia//19
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/05F8hNby/motogp-wsbk.jpg",WSBK (LIVE)
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia//22
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s10.postimg.cc/oj10xz0jt/nbcsn.jpg",NBCSN
-http://stream-e30453a4b.nmbs.top/m3u/Sports/019e96a4c6.m3u8|User-Agent=Lavf53.32.100
+http://31.220.1.50:7899/live/nelson_sousa1/6QzXACjNtA/17200.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Kc0CKpnk/sppp.jpg",SKYNET SPORTS HD
 https://www.livedoomovies.com/03_skynetsporthd_720p/chunklist.m3u8
@@ -265,9 +265,9 @@ https://www.livedoomovies.com/03_skynetsport5_480p/chunklist.m3u8
 https://www.livedoomovies.com/03_skynetsport6_480p/chunklist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/g03KvjQt/XqiwbsI5.jpg",SKY SPORTS MAIN EVENT
-http://stream-e30453a4b.nmbs.top/m3u/Sports/6821980ac9.m3u8|User-Agent=Lavf53.32.100
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/229.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/g03KvjQt/XqiwbsI5.jpg",SKY SPORTS PREMIER LEAGUE
-http://stream-e30453a4b.nmbs.top/m3u/Sports/71dbd2fb94.m3u8|User-Agent=Lavf53.32.100
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/228.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/g03KvjQt/XqiwbsI5.jpgg",SKY SPORTS CRICKET
 http://stream-e30453a4b.nmbs.top/m3u/Sports/209b929d09.m3u8|User-Agent=Lavf53.32.100
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/g03KvjQt/XqiwbsI5.jpg",SKY SPORTS GOLF
@@ -279,7 +279,7 @@ http://stream-e30453a4b.nmbs.top/m3u/Sports/01c28c1790.m3u8|User-Agent=Lavf53.32
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/g03KvjQt/XqiwbsI5.jpg",SKY SPORTS ARENA
 http://stream-e30453a4b.nmbs.top/m3u/Sports/a8b78b572a.m3u8|User-Agent=Lavf53.32.100
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/g03KvjQt/XqiwbsI5.jpg",SKY SPORTS FOOTBALL
-http://stream-e30453a4b.nmbs.top/m3u/Sports/5ae22ea6ae.m3u8|User-Agent=Lavf53.32.100
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/230.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/1RLRnz0N/true-epl.png",TRUE PREMIER FOOTBALL 1
 http://ip2121.com:8081/at1/ENG1/playlist.m3u8
