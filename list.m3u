@@ -134,7 +134,7 @@ http://stream-e30453a4b.nmbs.top/m3u/Uk/1808dc3046.m3u8|User-Agent=Lavf53.32.100
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.postimg.cc/rFMk3vmW/41600t-Ol-400x400.jpg",SkyMovies Premiere
 http://stream-e30453a4b.nmbs.top/m3u/Uk/dc95171540.m3u8|User-Agent=Lavf53.32.100
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.postimg.cc/rFMk3vmW/41600t-Ol-400x400.jpg",SkyMoves Action
-http://stream-e30453a4b.nmbs.top/m3u/Uk/1dac613882.m3u8|User-Agent=Lavf53.32.100
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2482/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.postimg.cc/rFMk3vmW/41600t-Ol-400x400.jpg",SkyMovies Comedy
 http://stream-e30453a4b.nmbs.top/m3u/Uk/d7a3434f70.m3u8|User-Agent=Lavf53.32.100
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.postimg.cc/rFMk3vmW/41600t-Ol-400x400.jpg",SkyMovies Family
@@ -158,9 +158,9 @@ http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/56
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/57
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/0QhBxJPr/Fb-Wy2d-Oc-400x400.jpg",BT SPORT 1
-http://31.220.1.50:7899/live/nelson_sousa1/6QzXACjNtA/8620.m3u8
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2505/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/0QhBxJPr/Fb-Wy2d-Oc-400x400.jpg",BT SPORT 2
-http://31.220.1.50:7899/live/nelson_sousa1/6QzXACjNtA/8619.m3u8
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2506/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/0QhBxJPr/Fb-Wy2d-Oc-400x400.jpg",BT SPORT 3
 http://31.220.1.50:7899/live/nelson_sousa1/6QzXACjNtA/8618.m3u8
 
@@ -188,8 +188,6 @@ http://fariszah.myq-see.com:8008/live/demo/demo/2316.m3u8
 http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6132/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s4.postimg.cc/m171drj19/bein-sports-400.png",BEIN SPORTS AR 12
 http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6133/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s4.postimg.cc/m171drj19/bein-sports-400.png",BEIN SPORTS AR 13
-http://31.220.1.50:7899/live/nelson_sousa1/6QzXACjNtA/42.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s4.postimg.cc/m171drj19/bein-sports-400.png",BEIN SPORTS ID 1
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia//58
@@ -262,6 +260,15 @@ http://stream-e30453a4b.nmbs.top/m3u/Sports/01c28c1790.m3u8|User-Agent=Lavf53.32
 http://stream-e30453a4b.nmbs.top/m3u/Sports/a8b78b572a.m3u8|User-Agent=Lavf53.32.100
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/g03KvjQt/XqiwbsI5.jpg",SKY SPORTS FOOTBALL
 http://188.40.76.108:25461/live/mytv01/uSIRzmks51/230.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/yYFK4zX0/vp03Mgqk.jpg",STAR SPORTS SELECT 1
+http://87.117.234.107:1935/live/StarSportsSelect1FHD/playlists.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/yYFK4zX0/vp03Mgqk.jpg",STAR SPORTS SELECT 2
+http://87.117.234.107:1935/live/StarSportsSelect2FHD/playlists.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/yYFK4zX0/vp03Mgqk.jpg",STAR SPORTS 1
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2508/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/yYFK4zX0/vp03Mgqk.jpg",STAR SPORTS 2
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2507/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/1RLRnz0N/true-epl.png",TRUE PREMIER FOOTBALL 1
 http://ip2121.com:8081/at1/ENG1/playlist.m3u8
