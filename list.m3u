@@ -388,7 +388,8 @@ https://tglmp04.akamaized.net/out/v1/1e43950975424e1486a65db984e37910/manifest.m
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm-widevine-licensing.axprod.net/?KID=9ACD396E-0939-493A-AC73-6E0BC8D177D5|X-AxDRM-Message=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ2ZXJzaW9uIjoxLCJjb21fa2V5X2lkIjoiNjI3NzA4QUQtRDEyRi00MUM5LTk0OUYtQTdBRjAwQjIzNUQwIiwibWVzc2FnZSI6eyJ0eXBlIjoiZW50aXRsZW1lbnRfbWVzc2FnZSIsImV4cGlyYXRpb25fZGF0ZSI6IjIwMjAtMDktMTRUMDc6MDk6MzAuNzIxWiIsImtleXMiOlt7ImlkIjoiOUFDRDM5NkUtMDkzOS00OTNBLUFDNzMtNkUwQkM4RDE3N0Q1In1dfSwiZXhwaXJhdGlvbl9kYXRlIjoiMjAyMC0wOS0xNFQwNzowOTozMC43MjFaIn0.9tE3EU2wp-fXXVIp1RfOEdhdLRToSW4keEHJEbie5ok||A{SSM}|
-#EXTINF:-1 group-title="MPD" tvg-logo="https://i.postimg.cc/ZqzvWhx0/unnamed.png",Test2fff
+#KODIPROP:inputstream.adaptive.license_key=https://drm-widevine-licensing.axprod.net/?KID=9ACD396E-0939-493A-AC73-6E0BC8D177D5
+#KODIPROP:inputstream.adaptive.stream_headers=X-AxDRM-Message=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ2ZXJzaW9uIjoxLCJjb21fa2V5X2lkIjoiNjI3NzA4QUQtRDEyRi00MUM5LTk0OUYtQTdBRjAwQjIzNUQwIiwibWVzc2FnZSI6eyJ0eXBlIjoiZW50aXRsZW1lbnRfbWVzc2FnZSIsImV4cGlyYXRpb25fZGF0ZSI6IjIwMjAtMDktMTRUMDc6MDk6MzAuNzIxWiIsImtleXMiOlt7ImlkIjoiOUFDRDM5NkUtMDkzOS00OTNBLUFDNzMtNkUwQkM4RDE3N0Q1In1dfSwiZXhwaXJhdGlvbl9kYXRlIjoiMjAyMC0wOS0xNFQwNzowOTozMC43MjFaIn0.9tE3EU2wp-fXXVIp1RfOEdhdLRToSW4keEHJEbie5ok
+#EXTINF:-1 group-title="MPD" tvg-logo="https://i.postimg.cc/ZqzvWhx0/unnamed.png",Test2fffhhhbgbg
 https://d11pj3vdxehl3n.cloudfront.net/wp/liveorigin.poster.iptv.singnet.public/5102/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
 
