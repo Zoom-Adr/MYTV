@@ -129,25 +129,6 @@ http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia//94
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.postimg.cc/MZPtMXZf/foxcrime.png",FOX CRIME
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia//95
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.postimg.cc/rFMk3vmW/41600t-Ol-400x400.jpg",SkyMovies Disney
-http://stream-e30453a4b.nmbs.top/m3u/Uk/1808dc3046.m3u8|User-Agent=ExoPlayerLib/2.10.1
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.postimg.cc/rFMk3vmW/41600t-Ol-400x400.jpg",SkyMovies Premiere
-http://stream-e30453a4b.nmbs.top/m3u/Uk/dc95171540.m3u8|User-Agent=ExoPlayerLib/2.10.1
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.postimg.cc/rFMk3vmW/41600t-Ol-400x400.jpg",SkyMoves Action
-http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2482/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.postimg.cc/rFMk3vmW/41600t-Ol-400x400.jpg",SkyMovies Comedy
-http://stream-e30453a4b.nmbs.top/m3u/Uk/d7a3434f70.m3u8|User-Agent=ExoPlayerLib/2.10.1
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.postimg.cc/rFMk3vmW/41600t-Ol-400x400.jpg",SkyMovies Family
-http://stream-e30453a4b.nmbs.top/m3u/Uk/2fcb713312.m3u8|User-Agent=ExoPlayerLib/2.10.1
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.postimg.cc/rFMk3vmW/41600t-Ol-400x400.jpg",SkyMovies SciFi-Horror
-http://stream-e30453a4b.nmbs.top/m3u/Uk/9ac8dc10dd.m3u8|User-Agent=ExoPlayerLib/2.10.1
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.postimg.cc/rFMk3vmW/41600t-Ol-400x400.jpg",SkyMovies Crime
-http://stream-e30453a4b.nmbs.top/m3u/Uk/dea76fadcb.m3u8|User-Agent=ExoPlayerLib/2.10.1
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.postimg.cc/rFMk3vmW/41600t-Ol-400x400.jpg",SkyMovies Greats
-http://stream-e30453a4b.nmbs.top/m3u/Uk/6d4efb4468.m3u8|User-Agent=ExoPlayerLib/2.10.1
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.postimg.cc/rFMk3vmW/41600t-Ol-400x400.jpg",SkyMovies Select
-http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia//101
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",ASSP 1
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/54|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",ASSP 2
@@ -227,7 +208,7 @@ http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia//19
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/05F8hNby/motogp-wsbk.jpg",WSBK (LIVE)
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia//22
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s10.postimg.cc/oj10xz0jt/nbcsn.jpg",NBCSN
-http://cdn.web.fadev.club/edge/NBCSN/chunks.m3u8Referer=http://liveonscore.tv/
+http://cdn.web.fadev.club/edge/NBCSN/chunks.m3u8|Referer=http://liveonscore.tv/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Kc0CKpnk/sppp.jpg",SKYNET SPORTS HD
 https://www.livedoomovies.com/03_skynetsporthd_720p/chunklist.m3u8
