@@ -247,9 +247,9 @@ http://87.117.234.107:1935/live/StarSportsSelect1FHD/playlists.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/yYFK4zX0/vp03Mgqk.jpg",STAR SPORTS SELECT 2
 http://87.117.234.107:1935/live/StarSportsSelect2FHD/playlists.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/yYFK4zX0/vp03Mgqk.jpg",STAR SPORTS 1
-http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2508/index.m3u8
+http://87.117.234.107:1935/live/StarSports1FHD/playlists.m3u8 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/yYFK4zX0/vp03Mgqk.jpg",STAR SPORTS 2
-http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2507/index.m3u8
+http://87.117.234.107:1935/live/StarSports2FHD/playlist.m3u8 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/1RLRnz0N/true-epl.png",TRUE PREMIER FOOTBALL 1
 http://ip2121.com:8081/at1/ENG1/playlist.m3u8
