@@ -139,12 +139,15 @@ http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/56
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/57
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/0QhBxJPr/Fb-Wy2d-Oc-400x400.jpg",BT SPORT 1
-http://cdn.web.fadev.club/edge/BTS1/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://liveonscore.tv/
+http://82.165.162.104:25461/live/inside4ndroid/739411/116.m3u8|User-Agent=SWIFTAGENT V1.1
+#http://cdn.web.fadev.club/edge/BTS1/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://liveonscore.tv/
 #http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2505/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/0QhBxJPr/Fb-Wy2d-Oc-400x400.jpg",BT SPORT 2
-http://wp.fadev.club/edge/BTS2/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://liveonscore.tv/
+http://82.165.162.104:25461/live/inside4ndroid/739411/117.m3u8|User-Agent=SWIFTAGENT V1.1
+#http://wp.fadev.club/edge/BTS2/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://liveonscore.tv/
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/0QhBxJPr/Fb-Wy2d-Oc-400x400.jpg",BT SPORT 3
-http://wp.fadev.club/edge/BTS3/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://liveonscore.tv/
+http://34.65.81.96:8567/sports2020/bt3/playlist.m3u8|User-Agent=SWIFTAGENT V1.1
+#http://wp.fadev.club/edge/BTS3/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://liveonscore.tv/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s4.postimg.cc/m171drj19/bein-sports-400.png",BEIN SPORTS AR 1
 http://fariszah.myq-see.com:8008/live/demo/demo/2322.m3u8
@@ -229,21 +232,21 @@ https://www.livedoomovies.com/03_skynetsport5_480p/chunklist.m3u8
 https://www.livedoomovies.com/03_skynetsport6_480p/chunklist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/g03KvjQt/XqiwbsI5.jpg",SKY SPORTS MAIN EVENT
-http://wp.fadev.club/edge/SSME/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://liveonscore.tv/
+http://82.165.162.104:25461/live/inside4ndroid/739411/12.m3u8|User-Agent=SWIFTAGENT V1.1
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/g03KvjQt/XqiwbsI5.jpg",SKY SPORTS PREMIER LEAGUE
-http://31.220.1.50:7899/live/nelson_sousa1/6QzXACjNtA/8616.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/g03KvjQt/XqiwbsI5.jpgg",SKY SPORTS CRICKET
-http://stream-e30453a4b.nmbs.top/m3u/Sports/209b929d09.m3u8|User-Agent=Lavf53.32.100
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/g03KvjQt/XqiwbsI5.jpg",SKY SPORTS GOLF
-http://stream-e30453a4b.nmbs.top/m3u/Sports/ed04f1621a.m3u8|User-Agent=VLC
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/g03KvjQt/XqiwbsI5.jpg",SKY SPORTS F1
-http://stream-e30453a4b.nmbs.top/m3u/Sports/3c40561002.m3u8|User-Agent=VLC
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/g03KvjQt/XqiwbsI5.jpg",SKY SPORTS ACTION
-http://stream-e30453a4b.nmbs.top/m3u/Sports/01c28c1790.m3u8|User-Agent=Lavf53.32.100
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/g03KvjQt/XqiwbsI5.jpg",SKY SPORTS ARENA
-http://stream-e30453a4b.nmbs.top/m3u/Sports/a8b78b572a.m3u8|User-Agent=Lavf53.32.100
+http://82.165.162.104:25461/live/inside4ndroid/739411/13.m3u8|User-Agent=SWIFTAGENT V1.1
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/g03KvjQt/XqiwbsI5.jpg",SKY SPORTS FOOTBALL
-http://188.40.76.108:25461/live/mytv01/uSIRzmks51/230.m3u8
+http://82.165.162.104:25461/live/inside4ndroid/739411/14.m3u8|User-Agent=SWIFTAGENT V1.1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/g03KvjQt/XqiwbsI5.jpgg",SKY SPORTS CRICKET
+http://82.165.162.104:25461/live/inside4ndroid/739411/15.m3u8|User-Agent=SWIFTAGENT V1.1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/g03KvjQt/XqiwbsI5.jpg",SKY SPORTS GOLF
+http://82.165.162.104:25461/live/inside4ndroid/739411/16.m3u8|User-Agent=SWIFTAGENT V1.1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/g03KvjQt/XqiwbsI5.jpg",SKY SPORTS F1
+http://82.165.162.104:25461/live/inside4ndroid/739411/17.m3u8|User-Agent=SWIFTAGENT V1.1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/g03KvjQt/XqiwbsI5.jpg",SKY SPORTS ACTION
+http://stream-e30453a4b.nmbs.top/m3u/Sports/01c28c1790.m3u8|User-Agent=SWIFTAGENT V1.1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/g03KvjQt/XqiwbsI5.jpg",SKY SPORTS ARENA
+http://82.165.162.104:25461/live/inside4ndroid/739411/19.m3u8|User-Agent=SWIFTAGENT V1.1
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/yYFK4zX0/vp03Mgqk.jpg",STAR SPORTS SELECT 1
 http://87.117.234.107:1935/live/StarSportsSelect1FHD/playlists.m3u8
