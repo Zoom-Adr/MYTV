@@ -232,6 +232,13 @@ http://randomserver.site:2086/live/wickeduk/etqyhww45e/149.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s10.postimg.cc/oj10xz0jt/nbcsn.jpg",NBCSN (B)
 http://wp.fadev.club/edge/NBCSN/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://liveonscore.tv/
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/3wr9sML3/inWTsTqL.jpg",RMC 1
+http://flusonic-4.platinum-tv.com:80/sfr_sport_1/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/3wr9sML3/inWTsTqL.jpg",RMC 2
+http://flusonic-4.platinum-tv.com:80/sfr_sport_2/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/3wr9sML3/inWTsTqL.jpg",RMC 3
+http://flusonic-4.platinum-tv.com:80/sfr_sport_3/tracks-v1a1/mono.m3u8?token=test
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Kc0CKpnk/sppp.jpg",SKYNET SPORTS HD
 https://www.livedoomovies.com/03_skynetsporthd_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Kc0CKpnk/sppp.jpg",SKYNET SPORTS 1
