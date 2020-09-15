@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Sports" tvg-logo="https://freeview.github.io/logos/rtmhdsports.png",Test
-https://kplus-livecdn.fptplay.net/drmlive/kplus1_720p.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://freeview.github.io/logos/rtmhdsports.png",RTM Sports HD
 https://fvtv.mywire.org/playlist/txh0002cf2-9xwvtrxhk7.m3u8|Referer=https://myklik.rtm.gov.my
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://freeview.github.io/logos/tv1.png",TV1
@@ -120,9 +118,17 @@ https://fvtv.mywire.org/playlist/hc2ewfesdu-skkzbbp3rh.m3u8
 https://fvtv.mywire.org/playlist/a4z6rfa20y-ef21kjprvd.m3u8
 #EXTINF:-1 group-title="International" tvg-logo="https://freeview.github.io/logos/cgtndoc.png",CGTN Documentary
 https://fvtv.mywire.org/playlist/uz03ddxrcx-dpwx0wh5ug.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="http://static.epg.best/gb/BBCWorldNews.uk.png",BBC World News
+https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/qv7gQpR8/img-CNN-400x400.jpg",CNN
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0
 
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://s14.postimg.cc/obxi97bdt/axn-logo-vector-download-400x400.jpg",AXN
+http://103.47.132.164/PLTV/88888888/224/3221227159/2.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.postimg.cc/8kK4ks02/TLC-logo.png",TLC
+http://103.47.132.164/PLTV/88888888/224/3221227113/2.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.postimg.cc/gkhS286x/709-300.png",ASIAN FOOD NETWORK
+http://103.47.132.164/PLTV/88888888/224/3221227191/2.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://s11.postimg.cc/ybnoc9ir7/400x400_38hbo_hd.jpg",HBO
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/85
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://s11.postimg.cc/g5s9gyesz/hbo_family.jpg",HBO FAMILY
@@ -135,7 +141,6 @@ http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/88
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/89
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.postimg.cc/v8fJTSwn/400x400-3hbo-signature.jpg",HBO SIGNATURE
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/90
-
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://s26.postimg.cc/67sagi4nd/400x400_15fox_movies.jpg",FOX MOVIES
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/91
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://s26.postimg.cc/ripukrmrt/400x400_71fox_action_movies.jpg",FOX ACTION
