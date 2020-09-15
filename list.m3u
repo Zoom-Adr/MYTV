@@ -29,6 +29,20 @@ http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/104
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/105
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://i.postimg.cc/pXRBjBGR/400x400.png",Oasis
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/106
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://i.postimg.cc/pXRBjBGR/400x400.png",Citra
+http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/114
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://i.postimg.cc/pXRBjBGR/400x400.png",AEC
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/272.m3u8
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://i.postimg.cc/pXRBjBGR/400x400.png",双星
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/273.m3u8
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://i.postimg.cc/pXRBjBGR/400x400.png",天映经典
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/274.m3u8
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://i.postimg.cc/pXRBjBGR/400x400.png",欢喜
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/275.m3u8
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://i.postimg.cc/pXRBjBGR/400x400.png",AOD
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/276.m3u8
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://i.postimg.cc/pXRBjBGR/400x400.png",全佳
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/277.m3u8
 
 #EXTINF:-1 group-title="Singapore" tvg-logo="https://freeview.github.io/logos/channel-5.png",Channel 5 
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/102
@@ -44,19 +58,21 @@ http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/111
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://freeview.github.io/logos/sctv.png",SCTV
-https://mkctv.net/video/sctv.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227227/4.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://freeview.github.io/logos/indosiar.png",Indosiar
-https://mkctv.net/video/indosiar.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227345/4.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://freeview.github.io/logos/rcti.png",RCTI
-https://mkctv.net/video/rcti.m3u8
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://freeview.github.io/logos/kompas.png",Kompas TV
 http://103.47.132.164/PLTV/88888888/224/3221227221/4.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://freeview.github.io/logos/beritasatu.png",Berita Satu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://freeview.github.io/logos/metro.png",Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.postimg.cc/8P8JP5D0/VYej-Q0y-400x400.jpg",Net TV
+http://103.47.132.164/PLTV/88888888/224/3221227101/3.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://freeview.github.io/logos/trans7.png",Trans 7
-https://mkctv.net/video/trans7.m3u8
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://freeview.github.io/logos/trans7.png",Trans 7 (Backup)
 http://103.47.132.164/PLTV/88888888/224/3221227195/4.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://freeview.github.io/logos/transtv.png",Trans TV
