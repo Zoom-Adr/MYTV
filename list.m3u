@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Sports" tvg-logo="https://freeview.github.io/logos/rtmhdsports.png",Test
-http://cdn.lemmovie.com/live/cf004eb0-6ba1-469a-b9a1-0957c8994d60.m3u8|User-Agent=lemff71ff25b2b0033b0d9f68830728b4cc
 #EXTINF:-1 group-title="Sports" tvg-logo="https://freeview.github.io/logos/rtmhdsports.png",RTM Sports HD
 https://fvtv.mywire.org/playlist/txh0002cf2-9xwvtrxhk7.m3u8|Referer=https://myklik.rtm.gov.my
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://freeview.github.io/logos/tv1.png",TV1
@@ -162,15 +160,6 @@ http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/55|User-Agent=Mozilla/5.0 (Lin
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/56
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",ASSP 4
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/57
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",ASSP1
-http://46.4.85.163:25461/live/bgxG4dsJRx/CmXaNE3RwE/275.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",ASSP2
-http://46.4.85.163:25461/live/bgxG4dsJRx/CmXaNE3RwE/276.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",ASSP3
-http://46.4.85.163:25461/live/bgxG4dsJRx/CmXaNE3RwE/277.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",ASSP4
-http://46.4.85.163:25461/live/bgxG4dsJRx/CmXaNE3RwE/278.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/0QhBxJPr/Fb-Wy2d-Oc-400x400.jpg",BT SPORT 1
 http://82.165.162.104:25461/live/inside4ndroid/739411/116.m3u8|User-Agent=SWIFTAGENT V1.1
