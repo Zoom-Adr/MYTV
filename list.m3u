@@ -342,6 +342,8 @@ http://1.9.62.158/PLTV/88888888/224/3221227685/3221227685.mpd
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 group-title="MPD" tvg-logo="https://i.postimg.cc/d1LB2Nm4/myunifi.png",SPORTS 5
 http://1.9.62.158/PLTV/88888888/224/3221227705/3221227705.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=14.192.208.255
 #EXTINF:-1 group-title="MPD" tvg-logo="https://freeview.github.io/logos/rtmhdsports.png",RTM SPORTS HD
 https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
