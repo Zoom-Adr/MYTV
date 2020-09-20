@@ -234,11 +234,11 @@ http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Sports/285b298cde5b3d0.m3u|User-Agent
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Sports/4f3688c4e4e8c52.m3u|User-Agent=VLC
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s21.postimg.cc/ddkoi2tuv/fox_sportstv.png",FOX SPORTS ID 1
-http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/60|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
+http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/60
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s21.postimg.cc/ddkoi2tuv/fox_sportstv.png",FOX SPORTS ID 2
-http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/61|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
+http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/61
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s21.postimg.cc/ddkoi2tuv/fox_sportstv.png",FOX SPORTS ID 3
-http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/62|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
+http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/62
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s21.postimg.cc/ddkoi2tuv/fox_sportstv.png",FOX SPORTS VN 1
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s21.postimg.cc/ddkoi2tuv/fox_sportstv.png",FOX SPORTS VN 2
@@ -249,7 +249,6 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/playlist.m3u8
 http://164.68.124.111/fs1.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s21.postimg.cc/ddkoi2tuv/fox_sportstv.png",FOX SPORTS USA 2
 http://164.68.124.111/fs2.m3u8
-
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/05F8hNby/motogp-wsbk.jpg",MOTOGP (LIVE)
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/19
@@ -297,7 +296,7 @@ http://82.165.162.104:25461/live/inside4ndroid/739411/15.m3u8|User-Agent=SWIFTAG
 http://82.165.162.104:25461/live/inside4ndroid/739411/16.m3u8|User-Agent=SWIFTAGENT V1.1
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/g03KvjQt/XqiwbsI5.jpg",SKY SPORTS F1
 http://82.165.162.104:25461/live/inside4ndroid/739411/17.m3u8|User-Agent=SWIFTAGENT V1.1
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/g03KvjQt/XqiwbsI5.jpg",SKY SPORTS ACTION
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/g03KvjQt/XqiwbsI5.jpg",SKY SPORTS NFL
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Sports/01c28c1790eaef7.m3u8|User-Agent=VLC
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/g03KvjQt/XqiwbsI5.jpg",SKY SPORTS ARENA
 http://82.165.162.104:25461/live/inside4ndroid/739411/19.m3u8|User-Agent=SWIFTAGENT V1.1
@@ -320,7 +319,7 @@ http://ip2121.com:8081/at1/ENG4/playlist.m3u8
 http://ip2121.com:8081/at1/ENG5/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/NjBfFGSc/image.jpg",WWE
-http://46.4.85.163:25461/live/bgxG4dsJRx/CmXaNE3RwE/249.m3u8
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Sports/1391c208ba0b503.m3u|User-Agent=VLC
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=14.192.208.255
