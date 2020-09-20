@@ -169,7 +169,7 @@ http://82.165.162.104:25461/live/inside4ndroid/739411/116.m3u8|User-Agent=SWIFTA
 http://82.165.162.104:25461/live/inside4ndroid/739411/117.m3u8|User-Agent=SWIFTAGENT V1.1
 #http://wp.fadev.club/edge/BTS2/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://liveonscore.tv/
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/0QhBxJPr/Fb-Wy2d-Oc-400x400.jpg",BT SPORT 3
-http://34.65.81.96:8567/sports2020/bt3/playlist.m3u8|User-Agent=SWIFTAGENT V1.1
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Sports/00ed0c5709d80df.m3u8|User-Agent=VLC
 #http://wp.fadev.club/edge/BTS3/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://liveonscore.tv/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s4.postimg.cc/m171drj19/bein-sports-400.png",BEIN SPORTS AR 1
@@ -254,19 +254,6 @@ http://flusonic-4.platinum-tv.com:80/sfr_sport_2/tracks-v1a1/mono.m3u8?token=tes
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/3wr9sML3/inWTsTqL.jpg",RMC 3
 http://flusonic-4.platinum-tv.com:80/sfr_sport_3/tracks-v1a1/mono.m3u8?token=test
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/hj8vGJsV/Wn-Jdo1f-A-400x400.jpg",SPORT TV 1 HD PT
-http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2525/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/hj8vGJsV/Wn-Jdo1f-A-400x400.jpg",SPORT TV 2 HD PT
-http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2526/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/hj8vGJsV/Wn-Jdo1f-A-400x400.jpg",SPORT TV 3 HD PT
-http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2527/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/hj8vGJsV/Wn-Jdo1f-A-400x400.jpg",SPORT TV 4 PT
-http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2528/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/hj8vGJsV/Wn-Jdo1f-A-400x400.jpg",SPORT TV 5 PT
-http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2529/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/hj8vGJsV/Wn-Jdo1f-A-400x400.jpg",SPORT TV + PT
-http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2530/index.m3u8
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Kc0CKpnk/sppp.jpg",SKYNET SPORTS HD
 https://www.livedoomovies.com/03_skynetsporthd_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Kc0CKpnk/sppp.jpg",SKYNET SPORTS 1
@@ -318,8 +305,6 @@ http://ip2121.com:8081/at1/ENG5/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/NjBfFGSc/image.jpg",WWE
 http://46.4.85.163:25461/live/bgxG4dsJRx/CmXaNE3RwE/249.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/3xjgPR50/l-Kkv-Mz-Ap-400x400.jpg",ZIGGO SPORT SELECT
-http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2560/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=14.192.208.255
