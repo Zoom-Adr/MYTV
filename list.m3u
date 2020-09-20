@@ -216,9 +216,9 @@ http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Sports/0c7bcb8db31697b.m3u8|User-Agen
 #http://wp.fadev.club/edge/Bein/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://liveonscore.tv/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Bbf5t0m9/championstv-d1ef29.png",CHAMPIONS TV 1
-http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/96|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0
+http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/96|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Bbf5t0m9/championstv-d1ef29.png",CHAMPIONS TV 2
-http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/97|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0
+http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/97|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s21.postimg.cc/ddkoi2tuv/fox_sportstv.png",FOX SPORTS ID 1
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/60
