@@ -72,11 +72,11 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.postimg.cc/8P8JP5D0/VYej-Q0y-400x400.jpg",Net TV
 https://delivery.macan.live/stream/id_nettv/playlist.m3u8?token=macangratisan
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://freeview.github.io/logos/trans7.png",Trans 7
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://freeview.github.io/logos/trans7.png",Trans 7
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Indonesia/0fbfd2a34e8b4e6.m3u8|User-Agent=stream
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://freeview.github.io/logos/trans7.png",Trans 7 (Backup)
 https://delivery.macan.live/stream/id_trans7/playlist.m3u8?token=macangratisan
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://freeview.github.io/logos/trans7.png",Trans 7 (Backup)
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Indonesia/0fbfd2a34e8b4e6.m3u8|User-Agent=stream
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://freeview.github.io/logos/transtv.png",Trans TV
 http://video.detik.com/transtv/smil:transtv.smil/chunklist_w224099150_b744100_sleng.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://freeview.github.io/logos/tvri.png",TVRI
@@ -130,7 +130,7 @@ http://103.47.132.164/PLTV/88888888/224/3221227159/2.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.postimg.cc/8kK4ks02/TLC-logo.png",TLC
 http://103.47.132.164/PLTV/88888888/224/3221227113/2.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.postimg.cc/gkhS286x/709-300.png",ASIAN FOOD NETWORK
-http://103.47.132.164/PLTV/88888888/224/3221227191/2.m3u8
+https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://s11.postimg.cc/ybnoc9ir7/400x400_38hbo_hd.jpg",HBO
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/85
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://s11.postimg.cc/g5s9gyesz/hbo_family.jpg",HBO FAMILY
@@ -206,9 +206,9 @@ http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/112
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s4.postimg.cc/m171drj19/bein-sports-400.png",BEIN SPORTS MAX MY
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/113
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s4.postimg.cc/m171drj19/bein-sports-400.png",BEIN SPORTS ID 1
-https://zalogi.xyz/exo/playlist/bein1-saya-coba-dulu.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
+https://bit.ly/2HhYU21|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s4.postimg.cc/m171drj19/bein-sports-400.png",BEIN SPORTS ID 2
-https://zalogi.xyz/exo/playlist/bein2-saya-coba-dulu.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
+https://bit.ly/2RKRCWm|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s4.postimg.cc/m171drj19/bein-sports-400.png",BEIN SPORTS XTRA
 https://fvtv.mywire.org/playlist/bv6thk0ahh-g3zhk99v9q.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s4.postimg.cc/m171drj19/bein-sports-400.png",BEIN SPORTS USA
