@@ -58,23 +58,25 @@ http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/111
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://freeview.github.io/logos/sctv.png",SCTV
-http://103.47.132.164/PLTV/88888888/224/3221227227/4.m3u8
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Indonesia/6964d8460c8f114.m3u8|User-Agent=stream
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://freeview.github.io/logos/indosiar.png",Indosiar
-http://103.47.132.164/PLTV/88888888/224/3221227345/4.m3u8
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Indonesia/6a4a7977a9a164f.m3u8|User-Agent=stream
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://freeview.github.io/logos/rcti.png",RCTI
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://freeview.github.io/logos/kompas.png",Kompas TV
-http://103.47.132.164/PLTV/88888888/224/3221227221/4.m3u8
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Indonesia/77433d7bcb0c2c9.m3u8|User-Agent=stream
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://freeview.github.io/logos/beritasatu.png",Berita Satu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://freeview.github.io/logos/metro.png",Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.postimg.cc/8P8JP5D0/VYej-Q0y-400x400.jpg",Net TV
-http://103.47.132.164/PLTV/88888888/224/3221227101/3.m3u8
+https://delivery.macan.live/stream/id_nettv/playlist.m3u8?token=macangratisan
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://freeview.github.io/logos/trans7.png",Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://freeview.github.io/logos/trans7.png",Trans 7 (Backup)
-http://103.47.132.164/PLTV/88888888/224/3221227195/4.m3u8
+https://delivery.macan.live/stream/id_trans7/playlist.m3u8?token=macangratisan
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://freeview.github.io/logos/trans7.png",Trans 7 (Backup)
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Indonesia/0fbfd2a34e8b4e6.m3u8|User-Agent=stream
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://freeview.github.io/logos/transtv.png",Trans TV
 http://video.detik.com/transtv/smil:transtv.smil/chunklist_w224099150_b744100_sleng.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://freeview.github.io/logos/tvri.png",TVRI
@@ -82,19 +84,19 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASION
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://freeview.github.io/logos/mnc.png",MNC TV
 https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://freeview.github.io/logos/jaktv.png",Jak TV
-http://103.47.132.164/PLTV/88888888/224/3221227237/4.m3u8
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Indonesia/422b33c14e54444.m3u8|User-Agent=stream
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://freeview.github.io/logos/gtv.png",Global TV
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://freeview.github.io/logos/tvone.png",tVOne
-http://stream-e30453a4b.nmbs.top/m3u/Indonesia/d7f7c80717.m3u8|User-Agent=Lavf53.32.100
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Indonesia/22b6eeeaac3df9a.m3u8|User-Agent=stream
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://freeview.github.io/logos/antv.png",ANTV 
-http://103.47.132.164/PLTV/88888888/224/3221227215/4.m3u8
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Indonesia/8d8efc692604fd5.m3u8|User-Agent=stream
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://freeview.github.io/logos/inews.png",iNews
 https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://freeview.github.io/logos/cnn.png",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://freeview.github.io/logos/ochannel.png",O Channel
-http://stream-e30453a4b.nmbs.top/m3u/Indonesia/9f236177d6.m3u8|User-Agent=Lavf53.32.100
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Indonesia/d68617090059776.m3u8|User-Agent=stream
 
 #EXTINF:-1 group-title="News" tvg-logo="https://freeview.github.io/logos/bloomberg.png",Bloomberg 
 https://fvtv.mywire.org/playlist/2cbapbgejn-vmnhbf07ez.m3u8
