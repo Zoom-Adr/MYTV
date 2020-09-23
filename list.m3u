@@ -238,7 +238,7 @@ http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Sports/5c12d849b126f4e.m3u8|User-Age
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Sports/5161fd2a68938b0.m3u8|User-Agent=stream
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s21.postimg.cc/ddkoi2tuv/fox_sportstv.png",FOX SPORTS ID 1
-https://bit.ly/2G4BBYF|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
+http://fastocloud.com:8000/2/5f6b58f9214f5895413c69a3/0/foxsports1id.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s21.postimg.cc/ddkoi2tuv/fox_sportstv.png",FOX SPORTS ID 2
 https://bit.ly/33P7FIA|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s21.postimg.cc/ddkoi2tuv/fox_sportstv.png",FOX SPORTS ID 3
