@@ -76,7 +76,7 @@ https://delivery.macan.live/stream/id_nettv/playlist.m3u8?token=macangratisan
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://freeview.github.io/logos/trans7.png",Trans 7
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Indonesia/0fbfd2a34e8b4e6.m3u8|User-Agent=stream
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://freeview.github.io/logos/trans7.png",Trans 7 (Backup)
-https://delivery.macan.live/stream/id_trans7/playlist.m3u8?token=macangratisan
+https://bit.ly/3cSQrhe|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://freeview.github.io/logos/transtv.png",Trans TV
 http://video.detik.com/transtv/smil:transtv.smil/chunklist_w224099150_b744100_sleng.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://freeview.github.io/logos/tvri.png",TVRI
