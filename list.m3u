@@ -84,7 +84,7 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASION
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://freeview.github.io/logos/mnc.png",MNC TV
 https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://freeview.github.io/logos/jaktv.png",Jak TV
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Indonesia/422b33c14e54444.m3u8|User-Agent=stream
+http://103.130.186.138:8800/oxygenplay/jaktv/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36 
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://freeview.github.io/logos/gtv.png",Global TV
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://freeview.github.io/logos/tvone.png",tVOne
@@ -96,7 +96,7 @@ https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_2000000=1-m
 #EXTINF:-1 group-title="News" tvg-logo="https://freeview.github.io/logos/cnn.png",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://freeview.github.io/logos/ochannel.png",O Channel
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Indonesia/d68617090059776.m3u8|User-Agent=stream
+https://salonbondang.masuk.web.id/ekonomis/stream/vidio-ochannel-ZalogiAstroXTV.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
 
 #EXTINF:-1 group-title="News" tvg-logo="https://freeview.github.io/logos/bloomberg.png",Bloomberg 
 https://fvtv.mywire.org/playlist/2cbapbgejn-vmnhbf07ez.m3u8
