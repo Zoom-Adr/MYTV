@@ -248,7 +248,7 @@ http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/5888ec20957cf4
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s21.postimg.cc/ddkoi2tuv/fox_sportstv.png",FOX SPORTS USA 2
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/bd90e787ff1385d.m3u8|User-Agent=stream
 
-#EXTINF:-1 tvg-ID="os1" group-title="Sports" tvg-logo="https://i.postimg.cc/fyScBhtG/400x400.png" url-tvg="https://i.mjh.nz/Optus/epg.xml",LIVE 1
+#EXTINF:-1 tvg-ID="os1" group-title="Sports" tvg-logo="https://i.postimg.cc/fyScBhtG/400x400.png",LIVE 1
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/115
 #EXTINF:-1 tvg-ID="os2" group-title="Sports" tvg-logo="https://i.postimg.cc/fyScBhtG/400x400.png" url-tvg="https://i.mjh.nz/Optus/epg.xml",LIVE 2
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/117
