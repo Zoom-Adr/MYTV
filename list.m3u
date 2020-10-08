@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://i.mjh.nz/Optus/epg.xml" m3uautoload=1
+#EXTM3U
 #EXTINF:-1 tvg-ID="TV1.MY" group-title="Sports" tvg-logo="https://freeview.github.io/logos/rtmhdsports.png",RTM Sports HD
 https://fvtv.mywire.org/playlist/txh0002cf2-9xwvtrxhk7.m3u8|Referer=https://myklik.rtm.gov.my
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://freeview.github.io/logos/tv1.png",TV1
@@ -245,9 +245,9 @@ http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/5888ec20957cf4
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s21.postimg.cc/ddkoi2tuv/fox_sportstv.png",FOX SPORTS USA 2
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/bd90e787ff1385d.m3u8|User-Agent=stream
 
-#EXTINF:-1 tvg-ID="os1" group-title="Sports" tvg-logo="https://i.postimg.cc/fyScBhtG/400x400.png",LIVE 1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/fyScBhtG/400x400.png",LIVE 1
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/115
-#EXTINF:-1 tvg-ID="os2" group-title="Sports" tvg-logo="https://i.postimg.cc/fyScBhtG/400x400.png",LIVE 2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/fyScBhtG/400x400.png",LIVE 2
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/117
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/fyScBhtG/400x400.png",LIVE 3
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/118
@@ -282,21 +282,21 @@ http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/a7c8b3630f5fe8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Kc0CKpnk/sppp.jpg",SKYNET SPORTS 6
 #https://www.livedoomovies.com/03_skynetsport6_480p/chunklist.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/g03KvjQt/XqiwbsI5.jpg",SKY SPORTS MAIN EVENT
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/63JRYfYd/NINTCHDBPICT000353771160.jpg",SKY SPORTS MAIN EVENT
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/ea9692163c70fd9.m3u8|User-Agent=stream
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/g03KvjQt/XqiwbsI5.jpg",SKY SPORTS PREMIER LEAGUE
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/63JRYfYd/NINTCHDBPICT000353771160.jpg",SKY SPORTS PREMIER LEAGUE
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/7cd55cbdb8421e2.m3u8|User-Agent=stream
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/g03KvjQt/XqiwbsI5.jpg",SKY SPORTS FOOTBALL
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/63JRYfYd/NINTCHDBPICT000353771160.jpg",SKY SPORTS FOOTBALL
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/0a1feb222a441c7.m3u8|User-Agent=stream
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/g03KvjQt/XqiwbsI5.jpgg",SKY SPORTS CRICKET
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/63JRYfYd/NINTCHDBPICT000353771160.jpg",SKY SPORTS CRICKET
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/cb99eca985292b1.m3u8|User-Agent=stream
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/g03KvjQt/XqiwbsI5.jpg",SKY SPORTS GOLF
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/63JRYfYd/NINTCHDBPICT000353771160.jpg",SKY SPORTS GOLF
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/076dd86185cb0b8.m3u8|User-Agent=stream
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/g03KvjQt/XqiwbsI5.jpg",SKY SPORTS F1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/63JRYfYd/NINTCHDBPICT000353771160.jpg",SKY SPORTS F1
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/cdee67daab67923.m3u8|User-Agent=stream
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/g03KvjQt/XqiwbsI5.jpg",SKY SPORTS NFL
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/63JRYfYd/NINTCHDBPICT000353771160.jpg",SKY SPORTS NFL
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/d0804ae57353104.m3u8|User-Agent=stream
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/g03KvjQt/XqiwbsI5.jpg",SKY SPORTS ARENA
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/63JRYfYd/NINTCHDBPICT000353771160.jpg",SKY SPORTS ARENA
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/776d5184640c53e.m3u8|User-Agent=stream
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/yYFK4zX0/vp03Mgqk.jpg",STAR SPORTS SELECT 1
