@@ -166,14 +166,12 @@ http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/56
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/57
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/0QhBxJPr/Fb-Wy2d-Oc-400x400.jpg",BT SPORT 1
-http://82.165.162.104:25461/live/inside4ndroid/739411/116.m3u8|User-Agent=SWIFTAGENT V1.1
-#http://cdn.web.fadev.club/edge/BTS1/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://liveonscore.tv/
-#http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2505/index.m3u8
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/b7d5ba889aec45d.m3u8|User-Agent=stream
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/0QhBxJPr/Fb-Wy2d-Oc-400x400.jpg",BT SPORT 2
-http://82.165.162.104:25461/live/inside4ndroid/739411/117.m3u8|User-Agent=SWIFTAGENT V1.1
-#http://wp.fadev.club/edge/BTS2/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://liveonscore.tv/
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/c19304e614fea1a.m3u8|User-Agent=stream
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/0QhBxJPr/Fb-Wy2d-Oc-400x400.jpg",BT SPORT 3
-http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/116
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/f0023c1ee8528fa.m3u8|User-Agent=stream
+#http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/116
 #http://wp.fadev.club/edge/BTS3/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://liveonscore.tv/
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/0QhBxJPr/Fb-Wy2d-Oc-400x400.jpg",BT SPORT ESPN
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/8a877dbc4de64e4.m3u8|User-Agent=stream
@@ -285,28 +283,26 @@ http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/a7c8b3630f5fe8
 #https://www.livedoomovies.com/03_skynetsport6_480p/chunklist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/g03KvjQt/XqiwbsI5.jpg",SKY SPORTS MAIN EVENT
-http://82.165.162.104:25461/live/inside4ndroid/739411/12.m3u8|User-Agent=SWIFTAGENT V1.1
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/ea9692163c70fd9.m3u8|User-Agent=stream
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/g03KvjQt/XqiwbsI5.jpg",SKY SPORTS PREMIER LEAGUE
-http://82.165.162.104:25461/live/inside4ndroid/739411/13.m3u8|User-Agent=SWIFTAGENT V1.1
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/7cd55cbdb8421e2.m3u8|User-Agent=stream
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/g03KvjQt/XqiwbsI5.jpg",SKY SPORTS FOOTBALL
-http://82.165.162.104:25461/live/inside4ndroid/739411/14.m3u8|User-Agent=SWIFTAGENT V1.1
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/0a1feb222a441c7.m3u8|User-Agent=stream
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/g03KvjQt/XqiwbsI5.jpgg",SKY SPORTS CRICKET
-http://82.165.162.104:25461/live/inside4ndroid/739411/15.m3u8|User-Agent=SWIFTAGENT V1.1
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/cb99eca985292b1.m3u8|User-Agent=stream
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/g03KvjQt/XqiwbsI5.jpg",SKY SPORTS GOLF
-http://82.165.162.104:25461/live/inside4ndroid/739411/16.m3u8|User-Agent=SWIFTAGENT V1.1
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/076dd86185cb0b8.m3u8|User-Agent=stream
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/g03KvjQt/XqiwbsI5.jpg",SKY SPORTS F1
-http://82.165.162.104:25461/live/inside4ndroid/739411/17.m3u8|User-Agent=SWIFTAGENT V1.1
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/cdee67daab67923.m3u8|User-Agent=stream
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/g03KvjQt/XqiwbsI5.jpg",SKY SPORTS NFL
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/d0804ae57353104.m3u8|User-Agent=stream
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/g03KvjQt/XqiwbsI5.jpg",SKY SPORTS ARENA
-http://82.165.162.104:25461/live/inside4ndroid/739411/19.m3u8|User-Agent=SWIFTAGENT V1.1
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/776d5184640c53e.m3u8|User-Agent=stream
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/yYFK4zX0/vp03Mgqk.jpg",STAR SPORTS SELECT 1
-http://185.59.222.171:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/index.m3u8?token=
-#http://185.246.210.54:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/index.m3u8?token=amarnettv.live
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/f8fdc36bbe7e754.m3u8|User-Agent=stream
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/yYFK4zX0/vp03Mgqk.jpg",STAR SPORTS SELECT 2
-http://185.59.222.171:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/index.m3u8?token=
-#http://185.246.210.54:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/index.m3u8?token=amarnettv.live
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/fbf35c61f17ed9e.m3u8|User-Agent=stream
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/x1wwvM41/Startime.jpg",ST SPORTS PREMIUM
 http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_PREMIUM_TEST_1022_1000_640x480_306418/playlist.m3u8
