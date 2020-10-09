@@ -1,2 +1,4 @@
 :)
-Tivimate Playlist URL: http://m3u4u.com/m3u/j67zn6337vs4wxgyd1wq
+Tivimate Playlist URL: http://m3u4u.com/m3u/m/7w51g8xxxj5c1x38xknr
+
+Enjoy!
