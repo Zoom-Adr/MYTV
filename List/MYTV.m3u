@@ -975,7 +975,7 @@ http://198.98.55.16/crtv.php?id=1070
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",ASSP 2
 http://198.98.55.16/crtv.php?id=1071
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",ASSP 3
-http://198.98.55.16/crtv.php?id=1072
+http://198.98.55.16/crtv.php?id=446
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",ASSP 4
 http://198.98.55.16/crtv.php?id=1074
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/63JRYfYd/NINTCHDBPICT000353771160.jpg",SKY SPORTS MAIN EVENT
@@ -994,3 +994,5 @@ http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/cdee67daab6792
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/d0804ae57353104.m3u8|User-Agent=stream
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/63JRYfYd/NINTCHDBPICT000353771160.jpg",SKY SPORTS ARENA
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/776d5184640c53e.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/NjBfFGSc/image.jpg",WWE
+http://198.98.55.16/crtv.php?id=1167
