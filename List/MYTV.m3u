@@ -958,3 +958,39 @@ https://tglmp04.akamaized.net/out/v1/1e43950975424e1486a65db984e37910/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJhZGhvY19UTGl2ZTAyX2Rhc2hfd2ViIiwiZmlsZXMiOiIyODA4NDQ5IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MH0%3D&signature=RW3PNMNY89cAbise3cO0RNxzC84%3D&
 #EXTINF:-1 group-title="Singapore" tvg-logo="https://i.postimg.cc/ZqzvWhx0/unnamed.png",Mewatch Live 2
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/0QhBxJPr/Fb-Wy2d-Oc-400x400.jpg",BT SPORT 1
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/b7d5ba889aec45d.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/0QhBxJPr/Fb-Wy2d-Oc-400x400.jpg",BT SPORT 2
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/c19304e614fea1a.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/0QhBxJPr/Fb-Wy2d-Oc-400x400.jpg",BT SPORT 3
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/f0023c1ee8528fa.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/0QhBxJPr/Fb-Wy2d-Oc-400x400.jpg",BT SPORT ESPN
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/8a877dbc4de64e4.m3u8|User-Agent=stream
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",ASSP ARENA
+http://198.98.55.16/crtv.php?id=1172
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",ASSP 1
+http://198.98.55.16/crtv.php?id=1070
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",ASSP 2
+http://198.98.55.16/crtv.php?id=1071
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",ASSP 3
+http://198.98.55.16/crtv.php?id=1072
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",ASSP 4
+http://198.98.55.16/crtv.php?id=1074
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/63JRYfYd/NINTCHDBPICT000353771160.jpg",SKY SPORTS MAIN EVENT
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/ea9692163c70fd9.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/63JRYfYd/NINTCHDBPICT000353771160.jpg",SKY SPORTS PREMIER LEAGUE
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/7cd55cbdb8421e2.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/63JRYfYd/NINTCHDBPICT000353771160.jpg",SKY SPORTS FOOTBALL
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/0a1feb222a441c7.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/63JRYfYd/NINTCHDBPICT000353771160.jpg",SKY SPORTS CRICKET
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/cb99eca985292b1.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/63JRYfYd/NINTCHDBPICT000353771160.jpg",SKY SPORTS GOLF
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/076dd86185cb0b8.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/63JRYfYd/NINTCHDBPICT000353771160.jpg",SKY SPORTS F1
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/cdee67daab67923.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/63JRYfYd/NINTCHDBPICT000353771160.jpg",SKY SPORTS NFL
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/d0804ae57353104.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/63JRYfYd/NINTCHDBPICT000353771160.jpg",SKY SPORTS ARENA
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/776d5184640c53e.m3u8|User-Agent=stream
