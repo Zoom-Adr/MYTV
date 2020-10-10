@@ -1,0 +1,387 @@
+  
+#EXTM3U
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/tv1.png,TV1
+http://1.9.62.158/PLTV/88888888/224/3221227709/3221227709.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/tv2.png",TV2
+http://1.9.62.158/PLTV/88888888/224/3221227712/3221227712.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/tv3.png",TV3
+http://1.9.62.158/PLTV/88888888/224/3221227779/3221227779.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/ntv7.png",NTV7
+http://1.9.62.158/PLTV/88888888/224/3221227515/3221227515.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/8tv.png",8TV
+http://1.9.62.158/PLTV/88888888/224/3221227480/3221227480.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/tv9.png",TV9
+http://1.9.62.158/PLTV/88888888/224/3221227483/3221227483.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/salam.png",SALAM HD
+http://1.9.62.158/PLTV/88888888/224/3221227558/3221227558.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/al-hijrah.png",TV ALHIJRAH
+http://1.9.62.158/PLTV/88888888/224/3221227507/3221227507.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/Hypp-Sensasi.png",HYPP SENSASI HD
+http://1.9.62.158/PLTV/88888888/224/3221227598/3221227598.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/hypp-inspirasi.png",HYYP INSPIRASI HD
+http://1.9.62.158/PLTV/88888888/224/3221227601/3221227601.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/dunia-sinema.png",DUNIA SINEMA HD
+http://1.9.62.158/PLTV/88888888/224/3221227631/3221227631.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/Pesona.png",PESONA HD
+http://1.9.62.158/PLTV/88888888/224/3221227615/3221227615.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/laku-mall.png",LAKU MALL HD
+http://1.9.62.158/PLTV/88888888/224/3221227560/3221227560.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/tvN-Movies.png",TVN MOVIES HD
+http://1.9.62.158/PLTV/88888888/224/3221227553/3221227553.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/seti.png",SETI
+http://1.9.62.158/PLTV/88888888/224/3221227529/3221227529.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/tvn.png",TVN HD
+http://1.9.62.158/PLTV/88888888/224/3221227556/3221227556.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/SCM.png",STAR CHINESE MOVIES HD
+http://1.9.62.158/PLTV/88888888/224/3221227606/3221227606.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/SCM-Legend.png",STAR CHINESE LEGEND HD
+http://1.9.62.158/PLTV/88888888/224/3221227566/3221227566.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/STAR-Chinese-Channel.png",STAR CHINESE CHANNEL HD
+http://1.9.62.158/PLTV/88888888/224/3221227516/3221227516.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/now-jelli.png",NOW JELLI HD
+http://1.9.62.158/PLTV/88888888/224/3221227559/3221227559.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/yupp-thirai.png",YUPP THIRAI HD
+http://1.9.62.158/PLTV/88888888/224/3221227762/3221227762.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/Zee-tamil.png",COLORS TAMIL HD
+http://1.9.62.158/PLTV/88888888/224/3221227562/3221227562.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/Polimer.png",POLIMER
+http://1.9.62.158/PLTV/88888888/224/3221227532/3221227532.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/jaya-max.png",JAYA MAX
+http://1.9.62.158/PLTV/88888888/224/3221227551/3221227551.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/Sony-Max.png",SONY MAX
+http://1.9.62.158/PLTV/88888888/224/3221227498/3221227498.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/Utv-Movies.png",UTV MOVIES HD
+http://1.9.62.158/PLTV/88888888/224/3221227594/3221227594.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/Zee-Cinema.png",COLORS CINEPLEX
+http://1.9.62.158/PLTV/88888888/224/3221227501/3221227501.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://static.epg.best/in/Colors.in.png",COLORS
+http://1.9.62.158/PLTV/88888888/224/3221227504/3221227504.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/sony-sab.png",SONY SAB
+http://1.9.62.158/PLTV/88888888/224/3221227538/3221227538.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/SONY-SET.png",SONY SET
+http://1.9.62.158/PLTV/88888888/224/3221227541/3221227541.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/Fox-Movies.png",FOX MOVIES
+http://1.9.62.158/PLTV/88888888/224/3221227572/3221227572.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/Fox-Action.png",FOX ACTION MOVIES
+http://1.9.62.158/PLTV/88888888/224/3221227638/3221227638.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/Fox-Family.png",FOX FAMILY MOVIES
+http://1.9.62.158/PLTV/88888888/224/3221227644/3221227644.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/paramount-channel.png",PARAMOUNT CHANNEL HD
+http://1.9.62.158/PLTV/88888888/224/3221227565/3221227565.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/cinema-world.png",CINEMA WORLD HD
+http://1.9.62.158/PLTV/88888888/224/3221227568/3221227568.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/warner-tv.png",WARNER TV HD
+http://1.9.62.158/PLTV/88888888/224/3221227620/3221227620.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/Fox.png",FOX
+http://1.9.62.158/PLTV/88888888/224/3221227578/3221227578.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/Fx.png",FX
+http://1.9.62.158/PLTV/88888888/224/3221227571/3221227571.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/Fox-Life.png",FOX LIFE
+http://1.9.62.158/PLTV/88888888/224/3221227525/3221227525.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/comedy-central.png",COMEDY CENTRAL HD
+http://1.9.62.158/PLTV/88888888/224/3221227581/3221227581.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/rtl-cbs-entertainment.png",BLUE ANT ENTERTAINMENT HD
+http://1.9.62.158/PLTV/88888888/224/3221227637/3221227637.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/rtl-cbs-extreme.png",BLUE ANT EXTREME
+http://1.9.62.158/PLTV/88888888/224/3221227656/3221227656.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/bbc-earth.png",BBC EARTH HD
+http://1.9.62.158/PLTV/88888888/224/3221227577/3221227577.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/love-nature.png",LOVE NATURE
+http://1.9.62.158/PLTV/88888888/224/3221227672/3221227672.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/natgeo.png",NATTIONAL GEOGRAPHIC
+http://1.9.62.158/PLTV/88888888/224/3221227567/3221227567.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/natgeo-wild.png",NAT GEO WILD
+http://1.9.62.158/PLTV/88888888/224/3221227628/3221227628.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/nat-geo-people.png",NAT GEO PEOPLE HD
+http://1.9.62.158/PLTV/88888888/224/3221227590/3221227590.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/bbc-lifestyle.png",BBC LIFESTYLE HD
+http://1.9.62.158/PLTV/88888888/224/3221227531/3221227531.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet
+https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/travel-channel.png",TRAVEL CHANNEL HD
+http://1.9.62.158/PLTV/88888888/224/3221227593/3221227593.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png",History
+https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/luxe-tv.png",LUXE.TV HD
+http://1.9.62.158/PLTV/88888888/224/3221227600/3221227600.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/mtv-asia.png",MTV ASIA HD
+http://1.9.62.158/PLTV/88888888/224/3221227613/3221227613.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/dreamworks.png",DREAMWORK HD
+http://1.9.62.158/PLTV/88888888/224/3221227596/3221227596.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/nick-jr.png",NICK JR.
+http://1.9.62.158/PLTV/88888888/224/3221227697/3221227697.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/cbeebies.png",CBEEBIES HD
+http://1.9.62.158/PLTV/88888888/224/3221227650/3221227650.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/nickelodeon.png",NICKELODEON
+http://1.9.62.158/PLTV/88888888/224/3221227539/3221227539.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/boomerang.png",BOOMERANG HD
+http://1.9.62.158/PLTV/88888888/224/3221227534/3221227534.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/baby-tv.png",BABYTV
+http://1.9.62.158/PLTV/88888888/224/3221227602/3221227602.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/bbc-world-news.png",BBC WORLD NEWS HD
+http://1.9.62.158/PLTV/88888888/224/3221227586/3221227586.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/al-jazeera.png",ALJAZEERA HD
+http://1.9.62.158/PLTV/88888888/224/3221227623/3221227623.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/skynews.png",SKY NEWS
+http://1.9.62.158/PLTV/88888888/224/3221227718/3221227718.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/channel-news-asia.png",CHANNEL NEWS ASIA
+http://1.9.62.158/PLTV/88888888/224/3221227543/3221227543.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/euronews.png",EURONEWS
+http://1.9.62.158/PLTV/88888888/224/3221227486/3221227486.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/bernama-news-channel.png",BERNAMA
+http://1.9.62.158/PLTV/88888888/224/3221227511/3221227511.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/parlimen-malaysia.png",PARLIMEN
+http://1.9.62.158/PLTV/88888888/224/3221227546/3221227546.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ABC_Australia_logo.svg/400px-ABC_Australia_logo.svg.png",ABC AUSTRALIA
+http://1.9.62.158/PLTV/88888888/224/3221227619/3221227619.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/DW.png",DW
+http://1.9.62.158/PLTV/88888888/224/3221227595/3221227595.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/nhk-world-tv.png",NHK WORLD
+http://1.9.62.158/PLTV/88888888/224/3221227626/3221227626.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-1.png",UNIFI SPORTS1
+http://1.9.62.158/PLTV/88888888/224/3221227675/3221227675.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-2.png",UNIFI SPORTS2
+http://1.9.62.158/PLTV/88888888/224/3221227722/3221227722.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-3.png",UNIFI SPORTS3
+http://1.9.62.158/PLTV/88888888/224/3221227682/3221227682.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-4.png",UNIFI SPORTS4
+http://1.9.62.158/PLTV/88888888/224/3221227685/3221227685.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-5.png",UNIFI SPORTS5
+http://1.9.62.158/PLTV/88888888/224/3221227705/3221227705.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/fox-sports.png",FOX SPORTS HD
+http://1.9.62.158/PLTV/88888888/224/3221227608/3221227608.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/fox-Sports-2.png",FOX SPORTS 2 HD
+http://1.9.62.158/PLTV/88888888/224/3221227726/3221227726.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
+#EXTINF:-1 group-title="Unifi" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/fox-Sports-3.png",FOX SPORTS 3 HD
+http://1.9.62.158/PLTV/88888888/224/3221227634/3221227634.mpd
