@@ -30,7 +30,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227480/3221227480.mpd
 #EXTINF:-1 group-title="Unifi TV" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/tv9.png",TV9
 http://1.9.62.158/PLTV/88888888/224/3221227483/3221227483.mpd
 
-#EXTINF:-1 group-title="Malaysia" tvg-logo="https://freeview.github.io/logos/dramasangat.png",DRAMA SANGAT
+#EXTINF:-1 group-title="Unifi TV" tvg-logo="https://freeview.github.io/logos/dramasangat.png",DRAMA SANGAT
 https://fvtv.mywire.org/playlist/2ua1sbzyxg-zxscuf2xek.m3u8|Referer=https://www.dailymotion.com
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
