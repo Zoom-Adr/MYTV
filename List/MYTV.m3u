@@ -858,6 +858,11 @@ https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
 #EXTINF:-1 group-title="Vision+" tvg-logo="https://i.postimg.cc/h462pHwk/image.jpg",beIN Sports 2
 https://liveanevia.mncnow.id/live/eds/BeIN2/sa_dash_vmx/BeIN2.mpd
 
+#EXTINF:-1 group-title="Vision+" tvg-logo="https://i.postimg.cc/h462pHwk/image.jpg",Champions TV 1
+https://bit.ly/2GljZIK
+#EXTINF:-1 group-title="Vision+" tvg-logo="https://i.postimg.cc/h462pHwk/image.jpg",Champions TV 2
+https://bit.ly/3jms12e
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Vision+" tvg-logo="https://i.postimg.cc/h462pHwk/image.jpg",AndTV
