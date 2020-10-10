@@ -959,15 +959,6 @@ https://tglmp04.akamaized.net/out/v1/1e43950975424e1486a65db984e37910/manifest.m
 #EXTINF:-1 group-title="Singapore" tvg-logo="https://i.postimg.cc/ZqzvWhx0/unnamed.png",Mewatch Live 2
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/0QhBxJPr/Fb-Wy2d-Oc-400x400.jpg",BT SPORT 1
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/b7d5ba889aec45d.m3u8|User-Agent=stream
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/0QhBxJPr/Fb-Wy2d-Oc-400x400.jpg",BT SPORT 2
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/c19304e614fea1a.m3u8|User-Agent=stream
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/0QhBxJPr/Fb-Wy2d-Oc-400x400.jpg",BT SPORT 3
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/f0023c1ee8528fa.m3u8|User-Agent=stream
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/0QhBxJPr/Fb-Wy2d-Oc-400x400.jpg",BT SPORT ESPN
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/8a877dbc4de64e4.m3u8|User-Agent=stream
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",ASSP ARENA
 http://198.98.55.16/crtv.php?id=1172
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",ASSP 1
@@ -978,6 +969,16 @@ http://198.98.55.16/crtv.php?id=1071
 http://198.98.55.16/crtv.php?id=446
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",ASSP 4
 http://198.98.55.16/crtv.php?id=1074
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/0QhBxJPr/Fb-Wy2d-Oc-400x400.jpg",BT SPORT 1
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/b7d5ba889aec45d.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/0QhBxJPr/Fb-Wy2d-Oc-400x400.jpg",BT SPORT 2
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/c19304e614fea1a.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/0QhBxJPr/Fb-Wy2d-Oc-400x400.jpg",BT SPORT 3
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/f0023c1ee8528fa.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/0QhBxJPr/Fb-Wy2d-Oc-400x400.jpg",BT SPORT ESPN
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/8a877dbc4de64e4.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s10.postimg.cc/oj10xz0jt/nbcsn.jpg",NBCSN
+http://198.98.55.16/crtv.php?id=1184
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/63JRYfYd/NINTCHDBPICT000353771160.jpg",SKY SPORTS MAIN EVENT
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/ea9692163c70fd9.m3u8|User-Agent=stream
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/63JRYfYd/NINTCHDBPICT000353771160.jpg",SKY SPORTS PREMIER LEAGUE
