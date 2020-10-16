@@ -33,6 +33,21 @@ http://1.9.62.158/PLTV/88888888/224/3221227483/3221227483.mpd
 #EXTINF:-1 group-title="Unifi TV" tvg-logo="https://freeview.github.io/logos/dramasangat.png",DRAMA SANGAT
 https://fvtv.mywire.org/playlist/2ua1sbzyxg-zxscuf2xek.m3u8|Referer=https://www.dailymotion.com
 
+#EXTINF:-1 group-title="Unifi TV" tvg-logo="https://freeview.github.io/logos/rtmhdsports.png",RTM Sports HD
+https://fvtv.mywire.org/playlist/txh0002cf2-9xwvtrxhk7.m3u8|Referer=https://myklik.rtm.gov.my
+#EXTINF:-1 group-title="Unifi TV" tvg-logo="https://freeview.github.io/logos/tv1.png",TV1
+https://fvtv.mywire.org/playlist/fnmmhbmtkf-b4k57nztfs.m3u8|Referer=https://myklik.rtm.gov.my
+#EXTINF:-1 group-title="Unifi TV" tvg-logo="https://freeview.github.io/logos/tv2.png",TV2
+https://fvtv.mywire.org/playlist/kehbcw6skm-08vne0nvng.m3u8|Referer=https://myklik.rtm.gov.my
+#EXTINF:-1 group-title="Unifi TV" tvg-logo="https://freeview.github.io/logos/tv3.png",TV3
+https://fvtv.mywire.org/playlist/c6pxxm7rgq-maywremf1e.m3u8|Referer=https://www.dailymotion.com
+#EXTINF:-1 group-title="Unifi TV" tvg-logo="https://freeview.github.io/logos/ntv7.png",NTV7
+https://fvtv.mywire.org/playlist/v6wy5rq4af-qs2njy69km.m3u8|Referer=https://www.dailymotion.com
+#EXTINF:-1 group-title="Unifi TV" tvg-logo="https://freeview.github.io/logos/8tv.png",8TV
+https://fvtv.mywire.org/playlist/8dscyy8nb0-hatkqxr4hm.m3u8|Referer=https://www.dailymotion.com
+#EXTINF:-1 group-title="Unifi TV" tvg-logo="https://freeview.github.io/logos/tv9.png",TV9
+https://fvtv.mywire.org/playlist/cyxua17hra-kspk2qfm7h.m3u8|Referer=https://www.dailymotion.com
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
 #EXTINF:-1 group-title="Unifi TV" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/salam.png",SALAM HD
@@ -963,15 +978,15 @@ https://tglmp04.akamaized.net/out/v1/1e43950975424e1486a65db984e37910/manifest.m
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",ASTRO ARENA
-http://198.98.55.16/crtv.php?id=1172
+#http://198.98.55.16/crtv.php?id=1172
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",ASTRO SUPERSPORT 1
-http://198.98.55.16/crtv.php?id=1070
+#http://198.98.55.16/crtv.php?id=1070
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",ASTRO SUPERSPORT 2
-http://198.98.55.16/crtv.php?id=1071
+#http://198.98.55.16/crtv.php?id=1071
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",ASTRO SUPERSPORT 3
-http://198.98.55.16/crtv.php?id=446
+#http://198.98.55.16/crtv.php?id=446
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",ASTRO SUPERSPORT 4
-http://198.98.55.16/crtv.php?id=1074
+#http://198.98.55.16/crtv.php?id=1074
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/0QhBxJPr/Fb-Wy2d-Oc-400x400.jpg",BT SPORT 1
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/b7d5ba889aec45d.m3u8|User-Agent=stream
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/0QhBxJPr/Fb-Wy2d-Oc-400x400.jpg",BT SPORT 2
