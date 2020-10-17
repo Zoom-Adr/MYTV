@@ -1,5 +1,12 @@
 #EXTM3U
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-widevine-licensing.axprod.net/AcquireLicense|X-AxDRM-Message=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2ZXJzaW9uIjoxLCJjb21fa2V5X2lkIjoiM0NEMkY3QjEtQzNBOC00MjJBLTk0OTctQTdCNzAwN0Q3RkI1IiwibWVzc2FnZSI6eyJ0eXBlIjoiZW50aXRsZW1lbnRfbWVzc2FnZSIsImtleXMiOlt7ImlkIjoiMDNCNDdDOEUtNUJERi00MUNCLUJCRUYtMjlCRTZBMThERTlFIn1dfSwiZXhwaXJhdGlvbl9kYXRlIjoiMjAyMC0xMC0xN1QwMjoyNjoyNC41OTVaIiwidXNlcklkIjoiNDkyMGM2NzMtZWMwYS00NWM3LWFjOTgtNmMwZjk4MjE0ZDFlIn0.Cl-sQeU_2Vh8e36Of9WOiyP3GZDY6YHOD9PwjqtXlS4","key":"03B47C8E-5BDF-41CB-BBEF-29BE6A18DE9E|A{SSM}|
+#EXTINF:-1 group-title="Unifi TV" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/tv1.png",Test
+http://linear.aws.optusvideo.tv/v3/OptusSport1/pri/drm/avc/dash/plain/manifest.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj
 #EXTINF:-1 group-title="Unifi TV" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/tv1.png",TV1
