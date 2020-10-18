@@ -25,36 +25,26 @@ https://fvtv.mywire.org/playlist/uwn5qna2wm-qywbpjhcrm.m3u8
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://freeview.github.io/logos/hello.png",Hello
 https://fvtv.mywire.org/playlist/9uhgasgstp-bfxkgv0t8s.m3u8
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://i.postimg.cc/pXRBjBGR/400x400.png",Ria
-http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/104
+#http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/104
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://i.postimg.cc/pXRBjBGR/400x400.png",Warna
-http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/105
+#http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/105
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://i.postimg.cc/pXRBjBGR/400x400.png",Oasis
-http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/106
+#http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/106
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://i.postimg.cc/pXRBjBGR/400x400.png",Ceria
-http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/108
+#http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/108
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://i.postimg.cc/pXRBjBGR/400x400.png",AEC
-http://188.40.76.108:25461/live/mytv01/uSIRzmks51/272.m3u8
+#http://188.40.76.108:25461/live/mytv01/uSIRzmks51/272.m3u8
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://i.postimg.cc/pXRBjBGR/400x400.png",双星
-http://188.40.76.108:25461/live/mytv01/uSIRzmks51/273.m3u8
+#http://188.40.76.108:25461/live/mytv01/uSIRzmks51/273.m3u8
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://i.postimg.cc/pXRBjBGR/400x400.png",天映经典
-http://188.40.76.108:25461/live/mytv01/uSIRzmks51/274.m3u8
+#http://188.40.76.108:25461/live/mytv01/uSIRzmks51/274.m3u8
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://i.postimg.cc/pXRBjBGR/400x400.png",欢喜
-http://188.40.76.108:25461/live/mytv01/uSIRzmks51/275.m3u8
+#http://188.40.76.108:25461/live/mytv01/uSIRzmks51/275.m3u8
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://i.postimg.cc/pXRBjBGR/400x400.png",AOD
-http://188.40.76.108:25461/live/mytv01/uSIRzmks51/276.m3u8
+#http://188.40.76.108:25461/live/mytv01/uSIRzmks51/276.m3u8
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://i.postimg.cc/pXRBjBGR/400x400.png",全佳
-http://188.40.76.108:25461/live/mytv01/uSIRzmks51/277.m3u8
+#http://188.40.76.108:25461/live/mytv01/uSIRzmks51/277.m3u8
 
-#EXTINF:-1 group-title="Singapore" tvg-logo="https://freeview.github.io/logos/channel-5.png",Channel 5 
-http://198.98.55.16/crtv.php?id=449
-#EXTINF:-1 group-title="Singapore" tvg-logo="https://freeview.github.io/logos/channel-8.png",Channel 8 
-http://198.98.55.16/crtv.php?id=1160
-#EXTINF:-1 group-title="Singapore" tvg-logo="https://freeview.github.io/logos/channel-u.png",Channel U 
-http://198.98.55.16/crtv.php?id=1077
-#EXTINF:-1 group-title="Singapore" tvg-logo="https://freeview.github.io/logos/vasantham.png",Vasantham 
-http://198.98.55.16/crtv.php?id=1078
-#EXTINF:-1 group-title="Singapore" tvg-logo="https://freeview.github.io/logos/suria.png",Suria 
-http://198.98.55.16/crtv.php?id=434
 #EXTINF:-1 group-title="News" tvg-logo="https://freeview.github.io/logos/channel-newsasia.png",Channel NewsAsia 
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
@@ -164,24 +154,6 @@ http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/56
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",ASSP 4
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/57
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/0QhBxJPr/Fb-Wy2d-Oc-400x400.jpg",BT SPORT 1
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/b7d5ba889aec45d.m3u8|User-Agent=stream
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/0QhBxJPr/Fb-Wy2d-Oc-400x400.jpg",BT SPORT 2
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/c19304e614fea1a.m3u8|User-Agent=stream
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/0QhBxJPr/Fb-Wy2d-Oc-400x400.jpg",BT SPORT 3
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/f0023c1ee8528fa.m3u8|User-Agent=stream
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/0QhBxJPr/Fb-Wy2d-Oc-400x400.jpg",BT SPORT ESPN
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/8a877dbc4de64e4.m3u8|User-Agent=stream
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/0QhBxJPr/Fb-Wy2d-Oc-400x400.jpg",BT SPORT 1 (B)
-http://159.69.66.114:8080/btsport1hd/mpegts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/0QhBxJPr/Fb-Wy2d-Oc-400x400.jpg",BT SPORT 2 (B)
-http://159.69.66.114:8080/btsport2hd/mpegts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/0QhBxJPr/Fb-Wy2d-Oc-400x400.jpg",BT SPORT 3 (B)
-http://159.69.66.114:8080/btsport3hd/mpegts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/0QhBxJPr/Fb-Wy2d-Oc-400x400.jpg",BT SPORT ESPN (B)
-http://159.69.66.114:8080/espn/mpegts
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s4.postimg.cc/m171drj19/bein-sports-400.png",BEIN SPORTS AR 1
 http://185.59.222.171:2200/EX/bein1hd-ar/mono.m3u8?token=
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s4.postimg.cc/m171drj19/bein-sports-400.png",BEIN SPORTS AR 2
@@ -242,8 +214,25 @@ https://bit.ly/33v7h33|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Appl
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s4.postimg.cc/m171drj19/bein-sports-400.png",BEIN SPORTS XTRA
 https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s4.postimg.cc/m171drj19/bein-sports-400.png",BEIN SPORTS USA
-http://198.98.55.16/crtv.php?id=1195
-#http://wp.fadev.club/edge/Bein/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://liveonscore.tv/
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/db52fbd1958702e.m3u8|User-Agent=stream
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/0QhBxJPr/Fb-Wy2d-Oc-400x400.jpg",BT SPORT 1
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/b7d5ba889aec45d.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/0QhBxJPr/Fb-Wy2d-Oc-400x400.jpg",BT SPORT 2
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/c19304e614fea1a.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/0QhBxJPr/Fb-Wy2d-Oc-400x400.jpg",BT SPORT 3
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/f0023c1ee8528fa.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/0QhBxJPr/Fb-Wy2d-Oc-400x400.jpg",BT SPORT ESPN
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/8a877dbc4de64e4.m3u8|User-Agent=stream
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/0QhBxJPr/Fb-Wy2d-Oc-400x400.jpg",BT SPORT 1 (B)
+http://159.69.66.114:8080/btsport1hd/mpegts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/0QhBxJPr/Fb-Wy2d-Oc-400x400.jpg",BT SPORT 2 (B)
+http://159.69.66.114:8080/btsport2hd/mpegts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/0QhBxJPr/Fb-Wy2d-Oc-400x400.jpg",BT SPORT 3 (B)
+http://159.69.66.114:8080/btsport3hd/mpegts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/0QhBxJPr/Fb-Wy2d-Oc-400x400.jpg",BT SPORT ESPN (B)
+http://159.69.66.114:8080/espn/mpegts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Bbf5t0m9/championstv-d1ef29.png",CHAMPIONS TV 1
 https://oxoo.lk21tvonlineid.com/m3u/champion1.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
@@ -287,9 +276,9 @@ http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/19
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/05F8hNby/motogp-wsbk.jpg",WSBK (LIVE)
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/22
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s10.postimg.cc/oj10xz0jt/nbcsn.jpg",NBCSN
-http://198.98.55.16/crtv.php?id=1184|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://liveonscore.tv/
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s10.postimg.cc/oj10xz0jt/nbcsn.jpg",NBCSN (B)
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/a7c8b3630f5fe86.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s10.postimg.cc/oj10xz0jt/nbcsn.jpg",NBCSN (B)
+http://muttsnutts.from-mi.com:8090/live/muttsnuts/PzreCs7oYP/106937.m3u8|User-Agent=stream
 #http://wp.fadev.club/edge/NBCSN/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://liveonscore.tv/
 
 
@@ -357,8 +346,7 @@ http://ip2121.com:8081/at1/ENG4/playlist.m3u8
 http://ip2121.com:8081/at1/ENG5/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/NjBfFGSc/image.jpg",WWE
-http://198.98.55.16/crtv.php?id=1167
-#http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Sports/6b06a152482a20e.m3u8|User-Agent=stream
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Sports/6b06a152482a20e.m3u8|User-Agent=stream
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
