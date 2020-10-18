@@ -353,7 +353,7 @@ http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Sports/6b06a152482a20e.m3u8|User-Age
 #KODIPROP:inputstream.adaptive.segment_curl_option_headers=X-Forwarded-For=14.192.208.255&User-Agent=Mozilla/5.0%20%28X11%3B%20Ubuntu%3B%20Linux%20x86_64%3B%20rv%3A53.0%29%20Gecko/20100101%20Firefox/53.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4|Content-Type=application%2Fx-www-form-urlencoded&X-Forwarded-For=14.192.208.255|A{SSM}|
-#EXTINF:-1 group-title="MPD" tvg-logo="https://i.postimg.cc/d1LB2Nm4/myunifi.png",SPORTS 1 TES
+#EXTINF:-1 group-title="MPD" tvg-logo="https://i.postimg.cc/d1LB2Nm4/myunifi.png",SPORTS 1
 http://1.9.62.158/PLTV/88888888/224/3221227675/3221227675.mpd|X-Forwarded-For=14.192.208.255
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
