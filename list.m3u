@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Malaysia" tvg-logo="https://freeview.github.io/logos/rtmhdsports.png",Welcome
-https://fvtv.mywire.org/playlist/txh0002cf2-9xwvtrxhk7.m3u8|Referer=https://myklik.rtm.gov.my
+
 #EXTINF:-1 tvg-ID="TV1.MY" group-title="Sports" tvg-logo="https://freeview.github.io/logos/rtmhdsports.png",RTM Sports HD
 https://fvtv.mywire.org/playlist/txh0002cf2-9xwvtrxhk7.m3u8|Referer=https://myklik.rtm.gov.my
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://freeview.github.io/logos/tv1.png",TV1
@@ -156,8 +155,6 @@ http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/94
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.postimg.cc/MZPtMXZf/foxcrime.png",FOX CRIME
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/95
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",ASSP ARENA
-http://198.98.55.16/crtv.php?id=1172
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",ASSP 1
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/54
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",ASSP 2
@@ -242,7 +239,7 @@ http://198.98.55.16/crtv.php?id=1195
 #http://wp.fadev.club/edge/Bein/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://liveonscore.tv/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Bbf5t0m9/championstv-d1ef29.png",CHAMPIONS TV 1
-https://bit.ly/2GljZIK|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
+https://oxoo.lk21tvonlineid.com/m3u/champion1.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
 #https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=champion1
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Bbf5t0m9/championstv-d1ef29.png",CHAMPIONS TV 2
 https://bit.ly/3jms12e|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
@@ -251,11 +248,11 @@ https://bit.ly/3jms12e|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Appl
 https://salonbondang.masuk.web.id/ekonomis/stream/foxsport1-ZalogiAstroXTV.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
 #https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=foxsport1
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/52nqfrbp/fox-sports-400x400.png",FOX SPORTS ID 1
-https://bit.ly/2GwSFa6|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
+https://bonetv.xyz/m3u/usee-foxsport1-okebos.m3u8|User-Agent=com.wajabae.bone
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/52nqfrbp/fox-sports-400x400.png",FOX SPORTS ID 2
-https://bit.ly/3ndQhWD|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
+https://bonetv.xyz/m3u/usee-foxsport2-okebos.m3u8|User-Agent=com.wajabae.bone
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/52nqfrbp/fox-sports-400x400.png",FOX SPORTS ID 3
-https://bit.ly/2GuSZ9l|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
+https://bonetv.xyz/m3u/usee-foxsport3-okebos.m3u8|User-Agent=com.wajabae.bone
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/52nqfrbp/fox-sports-400x400.png",FOX SPORTS VN 1
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/52nqfrbp/fox-sports-400x400.png",FOX SPORTS VN 2
