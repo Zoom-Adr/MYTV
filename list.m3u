@@ -49,9 +49,9 @@ https://fvtv.mywire.org/playlist/9uhgasgstp-bfxkgv0t8s.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://freeview.github.io/logos/sctv.png",SCTV
-http://103.130.186.138:8800/oxygenplay/sctv/index.m3u8 |User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
+http://103.130.186.138:8800/oxygenplay/sctv/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://freeview.github.io/logos/indosiar.png",Indosiar
-https://mkctv.net/vidbos/indosiar.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
+http://103.130.186.138:8800/oxygenplay/indosiar/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://freeview.github.io/logos/rcti.png",RCTI
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://freeview.github.io/logos/kompas.png",Kompas TV
@@ -65,7 +65,7 @@ https://delivery.macan.live/stream/id_nettv/playlist.m3u8?token=macangratisan
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://freeview.github.io/logos/trans7.png",Trans 7
 #https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://freeview.github.io/logos/trans7.png",Trans 7
-https://mkctv.net/vidbos/trans7.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
+https://bonetv.xyz/m3u/usee-trans7-okebos.m3u8|User-Agent=com.wajabae.bone
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://freeview.github.io/logos/trans7.png",Trans 7 (Backup)
 http://103.130.186.138:8800/oxygenplay/trans7/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://freeview.github.io/logos/transtv.png",Trans TV
