@@ -260,6 +260,13 @@ http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/5888ec20957cf4
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/52nqfrbp/fox-sports-400x400.png",FOX SPORTS USA 2
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/bd90e787ff1385d.m3u8|User-Agent=stream
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/1XJ4KYFP/400x400.png",F1 TV FHD
+http://mullafabz.xyz/HOST/LiveTV/F1/1080p.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/1XJ4KYFP/400x400.png",F1 TV HD
+http://mullafabz.xyz/HOST/LiveTV/F1/1080p1.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/1XJ4KYFP/400x400.png",F1 TV SD
+http://mullafabz.xyz/HOST/LiveTV/F1/1080p2.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/fyScBhtG/400x400.png",LIVE 1
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/115
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/fyScBhtG/400x400.png",LIVE 2
