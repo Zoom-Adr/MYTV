@@ -88,6 +88,8 @@ https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_2000000=1-m
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://freeview.github.io/logos/ochannel.png",O Channel
 https://salonbondang.masuk.web.id/ekonomis/stream/vidio-ochannel-ZalogiAstroXTV.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://tv.wajabae.com/upload/logo/00101056202047.jpg",Antara
+https://newbonetv.xyz/m3u/usee-antara-okebos.m3u8|User-Agent=com.wajabae.bone
 
 #EXTINF:-1 group-title="News" tvg-logo="https://freeview.github.io/logos/bloomberg.png",Bloomberg 
 https://fvtv.mywire.org/playlist/2cbapbgejn-vmnhbf07ez.m3u8
