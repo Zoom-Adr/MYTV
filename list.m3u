@@ -269,17 +269,6 @@ http://mullafabz.xyz/HOST/LiveTV/F1/1080p1.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/1XJ4KYFP/400x400.png",F1 TV SD
 http://mullafabz.xyz/HOST/LiveTV/F1/1080p2.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/fyScBhtG/400x400.png",LIVE 1
-http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/115
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/fyScBhtG/400x400.png",LIVE 2
-http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/117
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/fyScBhtG/400x400.png",LIVE 3
-http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/118
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/fyScBhtG/400x400.png",LIVE 4
-http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/119
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/fyScBhtG/400x400.png",LIVE 5
-http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/120
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/05F8hNby/motogp-wsbk.jpg",MOTOGP (LIVE)
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/19
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/05F8hNby/motogp-wsbk.jpg",WSBK (LIVE)
