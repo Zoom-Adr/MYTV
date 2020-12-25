@@ -144,6 +144,14 @@ https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 #EXTINF:-1 tvg-id=" " group-title="Indonesia" tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-inews.png",iNews
 https://fvtv.mywire.org/playlist/id/016.m3u8|Referer=https://www.vidio.com 
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Vk4qd8ZJ/400x400.png",Bein 1
+https://mkctv.net/siap/bein1.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Vk4qd8ZJ/400x400.png",Bein 2
+https://mkctv.net/siap/bein2.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/pddCPTZG/championstv.png",Champion TV1
+https://streaming.yn.lt/live/tv_id/cham1.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/pddCPTZG/championstv.png",Champion TV2
+https://streaming.yn.lt/live/tv_id/cham2.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://truebusiness.truecorp.co.th/images/bundle/tvs_true%20premier%20football%20HD+.png",True Premier 1
 https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://truebusiness.truecorp.co.th/images/bundle/tvs_true%20premier%20football%20HD+.png",True Premier 2
