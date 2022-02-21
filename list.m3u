@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://pbs.twimg.com/profile_images/935069556929941504/K-1hWYqV_400x400.jpg",Feed 1
+http://laohac.duckdns.org:9981/stream/channelid/1921890876?ticket=0F6F4C13745B87300B08AF11BCA9BC5FA54E786F&profile=pass
+#EXTINF:-1 group-title="Sports" tvg-logo="https://pbs.twimg.com/profile_images/935069556929941504/K-1hWYqV_400x400.jpg",Feed 2
+http://laohac.duckdns.org:9981/stream/channelid/841204597?ticket=78BA21A2841818280BC622A4D42C9C1A812ED43F&profile=pass
+#EXTINF:-1 group-title="Sports" tvg-logo="https://pbs.twimg.com/profile_images/935069556929941504/K-1hWYqV_400x400.jpg",Feed 3
+http://laohac.duckdns.org:9981/stream/channelid/2146095201?ticket=82B897D1270F28A5FF98F130B16AC79BBD2003F3&profile=pass
+#EXTINF:-1 group-title="Sports" tvg-logo="https://pbs.twimg.com/profile_images/935069556929941504/K-1hWYqV_400x400.jpg",Feed 4
+http://laohac.duckdns.org:9981/stream/channelid/1666271590?ticket=E5B80D5EE8BFDC856BEEB30C0074D310F46E46EE&profile=pass
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_new_100X56.png",Bein Sports 1 ID
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
