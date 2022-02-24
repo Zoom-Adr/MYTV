@@ -10,6 +10,12 @@ http://laohac.duckdns.org:9981/stream/channelid/2146095201?ticket=82B897D1270F28
 http://laohac.duckdns.org:9981/stream/channelid/1666271590?ticket=E5B80D5EE8BFDC856BEEB30C0074D310F46E46EE&profile=pass
 #EXTINF:-1 group-title="Sports" tvg-logo="https://pbs.twimg.com/profile_images/935069556929941504/K-1hWYqV_400x400.jpg",Feed 5
 http://laohac.duckdns.org:9981/stream/channelid/672826442?ticket=619199939CCDD7F792E76E1238479E1B12FE3F5D&profile=pass
+#EXTINF:-1 group-title="Sports" tvg-logo="https://pbs.twimg.com/profile_images/935069556929941504/K-1hWYqV_400x400.jpg",Feed Man Utd
+https://ddc8aa1e2jz1g.cloudfront.net/hls/manutd/chunks.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://pbs.twimg.com/profile_images/935069556929941504/K-1hWYqV_400x400.jpg",Feed Tottenham
+https://ddc8aa1e2jz1g.cloudfront.net/hls/tottenham/chunks.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://pbs.twimg.com/profile_images/935069556929941504/K-1hWYqV_400x400.jpg",Feed Liverpool
+https://ddc8aa1e2jz1g.cloudfront.net/hls/liverpool/chunks.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_new_100X56.png",Bein Sports 1 ID
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
