@@ -10,12 +10,6 @@ http://laohac.duckdns.org:9981/stream/channelid/2146095201?ticket=82B897D1270F28
 http://laohac.duckdns.org:9981/stream/channelid/1666271590?ticket=E5B80D5EE8BFDC856BEEB30C0074D310F46E46EE&profile=pass
 #EXTINF:-1 group-title="Sports" tvg-logo="https://pbs.twimg.com/profile_images/935069556929941504/K-1hWYqV_400x400.jpg",Feed 5
 http://laohac.duckdns.org:9981/stream/channelid/672826442?ticket=619199939CCDD7F792E76E1238479E1B12FE3F5D&profile=pass
-#EXTINF:-1 group-title="Sports" tvg-logo="https://pbs.twimg.com/profile_images/935069556929941504/K-1hWYqV_400x400.jpg",Feed Man Utd
-https://ddc8aa1e2jz1g.cloudfront.net/hls/manutd/chunks.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://pbs.twimg.com/profile_images/935069556929941504/K-1hWYqV_400x400.jpg",Feed Tottenham
-https://ddc8aa1e2jz1g.cloudfront.net/hls/tottenham/chunks.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://pbs.twimg.com/profile_images/935069556929941504/K-1hWYqV_400x400.jpg",Feed Liverpool
-https://ddc8aa1e2jz1g.cloudfront.net/hls/liverpool/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://194.233.70.176:25461/images/2f9c4f62b7b8a1523255e5dbab8253aa.png" group-title="Sports",Astro Supersport 1
 http://194.233.70.176:25461/lifetime/user/101
@@ -46,7 +40,7 @@ http://s129135.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv264&offset=1&nodelay=1
 #EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/phpLhy8IQ_613966bf6fda5.png" group-title="Sports",ONSports+
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=b67d78d357514595627ed63390031fde&key=ff9e2bda69744012bd5b7d7ebaec30e2
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ff9e2bda69744012bd5b7d7ebaec30e2&key=b67d78d357514595627ed63390031fde
 http://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv311&offset=1&nodelay=1
 #EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/phpLhy8IQ_613966bf6fda5.png" group-title="Sports",OnFootball
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -61,7 +55,7 @@ https://s8213.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
 #EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/phpAXdpHm_615335bd4e5b4.png" group-title="Sports",K+SPORT2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=299ed9f9dadf4ce3a870434e5ac55078&key=f3ff28538d62fd6dc6a1e9d83f0f6153
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=df5011eaea8f41e4a25aea31f164b73a&key=ac2769d42ee1f54ecc649e9e1bc08f12
 http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
 #EXTINF:-1 group-title="Sports" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG",Star Sports Select 1
