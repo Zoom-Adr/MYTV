@@ -9,8 +9,7 @@ http://203.154.243.89:21203/nakhon
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sports",Astro Supersport 4
 http://203.154.243.89:21204/nakhon
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="Sports",Astro Supersport 5
-http://194.233.70.176:25461/lifetime/user/105
-
+#http://194.233.70.176:25461/lifetime/user/105
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_new_100X56.png",Bein Sports 1 ID
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -20,6 +19,18 @@ https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
+
+#EXTINF:-1 tvg-logo="https://vtlogo.com/wp-content/uploads/2020/08/bt-sport-vector-logo.png" group-title="Sports",BT Sport 1
+https://16live00.akamaized.net/BTSPORTS1/index.m3u8
+#EXTINF:-1 tvg-logo="https://vtlogo.com/wp-content/uploads/2020/08/bt-sport-vector-logo.png" group-title="Sports",BT Sport 2
+https://16live00.akamaized.net/BTSPORTS2/index.m3u8
+#EXTINF:-1 tvg-logo="https://vtlogo.com/wp-content/uploads/2020/08/bt-sport-vector-logo.png" group-title="Sports",BT Sport 3
+https://16live00.akamaized.net/BTSPORTS3/index.m3u8
+#EXTINF:-1 tvg-logo="https://vtlogo.com/wp-content/uploads/2020/08/bt-sport-vector-logo.png" group-title="Sports",BT Sport ESPN
+https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://discoverflow.co/sites/discoverflow.co.trinidad/files/Flow_Sports_Logo_Primary_RGB_0.png" group-title="Sports",Flow Sports 1
+http://38.127.211.18/live/c2eds/FlowSports1/HLS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/phpLhy8IQ_613966bf6fda5.png" group-title="Sports",OnSports
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -47,28 +58,46 @@ https://s8213.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=df5011eaea8f41e4a25aea31f164b73a&key=ac2769d42ee1f54ecc649e9e1bc08f12
 http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/606/logo/115x115/mobile_logo_532142001572844781.png" group-title="Sports",,Sony Six
+#EXTINF:-1 tvg-logo="https://discoverflow.ky/sites/discoverflow.co.anguilla/files/Rush_0.png" group-title="Sports",Rush
+http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rFzvwMGg/Bradford-4-1-Stevenage-Andy-Cook-fires-in-first-half-hat-trick-in-big-Bantams-win.png" group-title="Sports",Sky Sports Main Event
+https://16live00.akamaized.net/SKY_SPORTSMAIN/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rFzvwMGg/Bradford-4-1-Stevenage-Andy-Cook-fires-in-first-half-hat-trick-in-big-Bantams-win.png" group-title="Sports",Sky Sports Football
+https://16live00.akamaized.net/SKY_FOOTBALL/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rFzvwMGg/Bradford-4-1-Stevenage-Andy-Cook-fires-in-first-half-hat-trick-in-big-Bantams-win.png" group-title="Sports",Sky Sports F1
+https://16live00.akamaized.net/SKYSPORTSF1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/606/logo/115x115/mobile_logo_532142001572844781.png" group-title="Sports",Sony Six
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
 https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_six_hd.smil/manifest.mpd
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/115x115/mobile_logo_524057001567842834.png" group-title="Sports",,Sony Ten 1
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/115x115/mobile_logo_524057001567842834.png" group-title="Sports",Sony Ten 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
 https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten1_hd.smil/manifest.mpd
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/115x115/mobile_logo_995268001567842888.png" group-title="Sports",,Sony Ten 2
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/115x115/mobile_logo_995268001567842888.png" group-title="Sports",Sony Ten 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
 https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten2_hd.smil/manifest.mpd
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2418/logo/240x240/mobile_logo_060335001610628658.png" group-title="Sports",,Sony Ten 3
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2418/logo/240x240/mobile_logo_060335001610628658.png" group-title="Sports",Sony Ten 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
 https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten3_hd.smil/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cwNQ4S5/image.jpg" group-title="Sports",Sportsmax 1
+http://38.127.211.18/live/c2eds/Sportsmax1/HLS/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cwNQ4S5/image.jpg" group-title="Sports",Sportsmax 2
+http://38.127.211.18/live/c2eds/Sportsmax2/HLS/index.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG",Star Sports Select 1
 http://live.flixhub.net/hls/Star_Sport_Select1HD.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png",Star Sports Select 2
 http://live.flixhub.net/hls/select2.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.staticflickr.com/3626/3570521535_5ce72660d2_b.jpg" group-title="Sports",USA Network
+http://38.127.211.18/live/c2eds/USA/HLS/index.m3u8
