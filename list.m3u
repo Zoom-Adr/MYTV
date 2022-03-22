@@ -28,13 +28,13 @@ https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
 #EXTINF:-1 tvg-logo="https://vtlogo.com/wp-content/uploads/2020/08/bt-sport-vector-logo.png" group-title="Sports",BT Sport 1
 #EXTVLCOPT:network-caching=3000
-https://16live00.akamaized.net/BTSPORTS1/index.m3u8|X-Forwarded-For=111.75.27.191
+https://16live00.akamaized.net/BTSPORTS1/index.m3u8|X-Forwarded-For=116.87.80.184
 #EXTINF:-1 tvg-logo="https://vtlogo.com/wp-content/uploads/2020/08/bt-sport-vector-logo.png" group-title="Sports",BT Sport 2
-https://16live00.akamaized.net/BTSPORTS2/index.m3u8|X-Forwarded-For=111.75.27.191
+https://16live00.akamaized.net/BTSPORTS2/index.m3u8|X-Forwarded-For=116.87.80.184
 #EXTINF:-1 tvg-logo="https://vtlogo.com/wp-content/uploads/2020/08/bt-sport-vector-logo.png" group-title="Sports",BT Sport 3
-https://16live00.akamaized.net/BTSPORTS3/index.m3u8|X-Forwarded-For=111.75.27.191
+https://16live00.akamaized.net/BTSPORTS3/index.m3u8|X-Forwarded-For=116.87.80.184
 #EXTINF:-1 tvg-logo="https://vtlogo.com/wp-content/uploads/2020/08/bt-sport-vector-logo.png" group-title="Sports",BT Sport ESPN
-https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8|X-Forwarded-For=111.75.27.191
+https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8|X-Forwarded-For=116.87.80.184
 
 #EXTINF:-1 tvg-logo="https://discoverflow.co/sites/discoverflow.co.trinidad/files/Flow_Sports_Logo_Primary_RGB_0.png" group-title="Sports",Flow Sports 1
 http://38.127.211.18/live/c2eds/FlowSports1/HLS/index.m3u8
