@@ -28,13 +28,13 @@ https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
 #EXTINF:-1 tvg-logo="https://vtlogo.com/wp-content/uploads/2020/08/bt-sport-vector-logo.png" group-title="Sports",BT Sport 1
 #EXTVLCOPT:network-caching=3000
-https://16live00.akamaized.net/BTSPORTS1/index.m3u8|X-Forwarded-For=116.87.80.184
+https://16live00.akamaized.net/BTSPORTS1/index.m3u8|X-Forwarded-For=203.116.16.128
 #EXTINF:-1 tvg-logo="https://vtlogo.com/wp-content/uploads/2020/08/bt-sport-vector-logo.png" group-title="Sports",BT Sport 2
-https://16live00.akamaized.net/BTSPORTS2/index.m3u8|X-Forwarded-For=116.87.80.184
+https://16live00.akamaized.net/BTSPORTS2/index.m3u8|X-Forwarded-For=203.116.16.128
 #EXTINF:-1 tvg-logo="https://vtlogo.com/wp-content/uploads/2020/08/bt-sport-vector-logo.png" group-title="Sports",BT Sport 3
-https://16live00.akamaized.net/BTSPORTS3/index.m3u8|X-Forwarded-For=116.87.80.184
+https://16live00.akamaized.net/BTSPORTS3/index.m3u8|X-Forwarded-For=203.116.16.128
 #EXTINF:-1 tvg-logo="https://vtlogo.com/wp-content/uploads/2020/08/bt-sport-vector-logo.png" group-title="Sports",BT Sport ESPN
-https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8|X-Forwarded-For=116.87.80.184
+https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8|X-Forwarded-For=203.116.16.128
 
 #EXTINF:-1 tvg-logo="https://discoverflow.co/sites/discoverflow.co.trinidad/files/Flow_Sports_Logo_Primary_RGB_0.png" group-title="Sports",Flow Sports 1
 http://38.127.211.18/live/c2eds/FlowSports1/HLS/index.m3u8
@@ -69,11 +69,11 @@ http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rFzvwMGg/Bradford-4-1-Stevenage-Andy-Cook-fires-in-first-half-hat-trick-in-big-Bantams-win.png" group-title="Sports",Sky Sports Main Event
-https://16live00.akamaized.net/SKY_SPORTSMAIN/index.m3u8|X-Forwarded-For=116.87.80.184
+https://16live00.akamaized.net/SKY_SPORTSMAIN/index.m3u8|X-Forwarded-For=203.116.16.128
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rFzvwMGg/Bradford-4-1-Stevenage-Andy-Cook-fires-in-first-half-hat-trick-in-big-Bantams-win.png" group-title="Sports",Sky Sports Football
-https://16live00.akamaized.net/SKY_FOOTBALL/index.m3u8|X-Forwarded-For=116.87.80.184
+https://16live00.akamaized.net/SKY_FOOTBALL/index.m3u8|X-Forwarded-For=203.116.16.128
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rFzvwMGg/Bradford-4-1-Stevenage-Andy-Cook-fires-in-first-half-hat-trick-in-big-Bantams-win.png" group-title="Sports",Sky Sports F1
-https://16live00.akamaized.net/SKYSPORTSF1/index.m3u8|X-Forwarded-For=116.87.80.184
+https://16live00.akamaized.net/SKYSPORTSF1/index.m3u8|X-Forwarded-For=203.116.16.128
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/606/logo/115x115/mobile_logo_532142001572844781.png" group-title="Sports",Sony Six
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
