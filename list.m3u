@@ -51,24 +51,44 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_ott.mpd
 #http://194.233.70.176:25461/lifetime/user/105
 
 #EXTINF:0 group-title="Sports" tvg-logo="https://i.imgur.com/oL7I359.png",Bein Sports 1 Mena
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 http://www.mireasa-live.com/cdn/premium91/chunks.m3u8
 #EXTINF:0 group-title="Sports" tvg-logo="https://i.imgur.com/A5eirxZ.png",Bein Sports 2 Mena 
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 http://www.mireasa-live.com/cdn/premium92/chunks.m3u8
 #EXTINF:0 group-title="Sports" tvg-logo="https://i.imgur.com/lHnf0n2.png",Bein Sports 3 Mena
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 http://www.mireasa-live.com/cdn/premium93/chunks.m3u8
 #EXTINF:0 group-title="Sports" tvg-logo="https://i.imgur.com/KTbEr56.png",Bein Sports 4 Mena
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 http://www.mireasa-live.com/cdn/premium94/chunks.m3u8
 #EXTINF:0 group-title="Sports" tvg-logo="https://i.imgur.com/kc9oUTu.png",Bein Sports 5 Mena
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 http://www.mireasa-live.com/cdn/premium95/chunks.m3u8
 #EXTINF:0 group-title="Sports" tvg-logo="https://i.imgur.com/JRHpVlc.png",Bein Sports 6 Mena
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 http://www.mireasa-live.com/cdn/premium96/chunks.m3u8
 #EXTINF:0 group-title="Sports" tvg-logo="https://i.imgur.com/FMW3iai.png",Bein Sports 7 Mena
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 http://www.mireasa-live.com/cdn/premium97/chunks.m3u8
 #EXTINF:0 group-title="Sports" tvg-logo="https://i.imgur.com/Fc6vwN1.png",Bein Sports 1 Mena English
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 http://www.mireasa-live.com/cdn/premium61/chunks.m3u8
 #EXTINF:0 group-title="Sports" tvg-logo="https://i.imgur.com/aPv27NP.png",Bein Sports 2 Mena English
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 http://www.mireasa-live.com/cdn/premium90/chunks.m3u8
 #EXTINF:0 group-title="Sports" tvg-logo="https://i.imgur.com/oBUgTsF.png",Bein Sports 3 Mena English
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 http://www.mireasa-live.com/cdn/premium46/chunks.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_new_100X56.png",Bein Sports 1 ID
@@ -89,8 +109,10 @@ https://16live00.akamaized.net/BTSPORTS2/index.m3u8|X-Forwarded-For=111.65.47.18
 https://16live00.akamaized.net/BTSPORTS3/index.m3u8|X-Forwarded-For=111.65.47.180
 #EXTINF:-1 tvg-logo="https://vtlogo.com/wp-content/uploads/2020/08/bt-sport-vector-logo.png" group-title="Sports",BT Sport ESPN
 https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8|X-Forwarded-For=111.65.47.180
-#EXTINF:-1 tvg-logo="https://vtlogo.com/wp-content/uploads/2020/08/bt-sport-vector-logo.png" group-title="Sports",BT Sport ESPN
-https://s1.123zcast.com:8070/hls/bbtespn.m3u8|Referer=https://123zcast.com
+#EXTINF:-1 tvg-logo="https://vtlogo.com/wp-content/uploads/2020/08/bt-sport-vector-logo.png" group-title="Sports",BT Sport ESPN ⁽ᴮᵃᶜᵏᵘᵖ⁾
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+http://www.mireasa-live.com/cdn/premium34/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://discoverflow.co/sites/discoverflow.co.trinidad/files/Flow_Sports_Logo_Primary_RGB_0.png" group-title="Sports",Flow Sports 1
 http://38.127.211.18/live/c2eds/FlowSports1/HLS/index.m3u8
