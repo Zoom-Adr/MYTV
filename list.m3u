@@ -1,6 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="Sports",Astro Supersport 1 Test
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
 #EXTVLCOPT:http-referer=https://player.licenses4.me
 https://www.mireasa-live.com/cdn/premium123/chunks.m3u8|Referer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="Sports",Astro Supersport 1
