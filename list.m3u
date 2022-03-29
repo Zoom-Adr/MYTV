@@ -128,6 +128,15 @@ https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8|X-Forwarded-For=111.65.4
 #EXTVLCOPT:http-referrer=https://player.licenses4.me
 http://www.mireasa-live.com/cdn/premium34/chunks.m3u8
 
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-logo="https://vtlogo.com/wp-content/uploads/2020/08/bt-sport-vector-logo.png" group-title="Sports",BT Sport 1 ⁽ᴷᶦⁿᵍ⁾
+https://king.nowtv.vip/live/bt1/chunks.m3u8
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-logo="https://vtlogo.com/wp-content/uploads/2020/08/bt-sport-vector-logo.png" group-title="Sports",BT Sport 2 ⁽ᴷᶦⁿᵍ⁾
+https://king.nowtv.vip/live/bt2/chunks.m3u8
+#EXTINF:-1 tvg-id="BTSport3.uk" tvg-logo="https://vtlogo.com/wp-content/uploads/2020/08/bt-sport-vector-logo.png" group-title="Sports",BT Sport 3 ⁽ᴷᶦⁿᵍ⁾
+https://king.nowtv.vip/live/bt3/chunks.m3u8
+#EXTINF:-1 tvg-id="BTSportESPN.uk" tvg-logo="https://vtlogo.com/wp-content/uploads/2020/08/bt-sport-vector-logo.png" group-title="Sports",BT Sport ESPN ⁽ᴷᶦⁿᵍ⁾
+https://king.nowtv.vip/live/btespn/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://discoverflow.co/sites/discoverflow.co.trinidad/files/Flow_Sports_Logo_Primary_RGB_0.png" group-title="Sports",Flow Sports 1
 http://38.127.211.18/live/c2eds/FlowSports1/HLS/index.m3u8
 
