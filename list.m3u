@@ -217,6 +217,8 @@ http://live.flixhub.net/hls/select2.m3u8
 
 #EXTINF:-1 tvg-id="CHN" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/TS2.png?width=50" group-title="Sports",Supersport EPL ⁽ᴷᶦⁿᵍ⁾
 https://king.nowtv.vip/live/a1/chunks.m3u8
+#EXTINF:-1 tvg-id="CHN" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MSH.png?width=50" group-title="Sports",Supersport Football ⁽ᴷᶦⁿᵍ⁾
+https://king.nowtv.vip/live/ssfootball/chunks.m3u8
 #EXTINF:-1 tvg-id="CHN" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SSH.png?width=50" group-title="Sports",Supersport LaLiga ⁽ᴷᶦⁿᵍ⁾
 https://king.nowtv.vip/live/a2/chunks.m3u8
 
