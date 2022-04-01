@@ -118,6 +118,19 @@ https://16live00.akamaized.net/BTSPORTS2/index.m3u8|X-Forwarded-For=111.65.47.18
 https://16live00.akamaized.net/BTSPORTS3/index.m3u8|X-Forwarded-For=111.65.47.180
 #EXTINF:-1 tvg-id="BTSportESPN.uk" tvg-logo="https://vtlogo.com/wp-content/uploads/2020/08/bt-sport-vector-logo.png" group-title="Sports",BT Sport ESPN
 https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8|X-Forwarded-For=111.65.47.180
+
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-logo="https://vtlogo.com/wp-content/uploads/2020/08/bt-sport-vector-logo.png" group-title="Sports",BT Sport 1 ⁽ᴮᵃᶜᵏᵘᵖ⁾
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+http://www.mireasa-live.com/cdn/premium31/chunks.m3u8
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-logo="https://vtlogo.com/wp-content/uploads/2020/08/bt-sport-vector-logo.png" group-title="Sports",BT Sport 2 ⁽ᴮᵃᶜᵏᵘᵖ⁾
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+http://www.mireasa-live.com/cdn/premium32/chunks.m3u8
+#EXTINF:-1 tvg-id="BTSport3.uk" tvg-logo="https://vtlogo.com/wp-content/uploads/2020/08/bt-sport-vector-logo.png" group-title="Sports",BT Sport 3 ⁽ᴮᵃᶜᵏᵘᵖ⁾
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+http://www.mireasa-live.com/cdn/premium33/chunks.m3u8
 #EXTINF:-1 tvg-id="BTSportESPN.uk" tvg-logo="https://vtlogo.com/wp-content/uploads/2020/08/bt-sport-vector-logo.png" group-title="Sports",BT Sport ESPN ⁽ᴮᵃᶜᵏᵘᵖ⁾
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me
