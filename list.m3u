@@ -4,7 +4,7 @@
 #EXTINF:-1 tvg-ID="104" tvg-id="Astro.Ria.HD.my" group-title="Testing" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",Ria
 #EXTVLCOPT:http-user-agent=ipad
 #EXTVLCOPT:http-referrer=https://www.tvmalaysia.online/
-https://tvmalaysia.cyou/hls/ria.m3u8
+https://tvmalaysia.cyou/hls/warna.m3u8
 
 #EXTINF:-1 tvg-id="AstroArena" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",Astro Arena 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
