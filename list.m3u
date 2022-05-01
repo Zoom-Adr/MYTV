@@ -1,14 +1,5 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml,https://raw.githubusercontent.com/AqFad2811/myiptv/main/astro.xml"
 
-#EXTINF:-1 tvg-ID="104" tvg-id="Astro.Ria.HD.my" group-title="Testing" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",Ria
-#EXTVLCOPT:http-user-agent=ipad
-#EXTVLCOPT:http-referrer=https://www.tvmalaysia.online/
-https://tvmalaysia.cyou/hls/warna.m3u8
-#EXTINF:-1 tvg-ID="104" tvg-id="Astro.Ria.HD.my" group-title="Testing" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",tv3
-#EXTVLCOPT:http-user-agent=ipad
-#EXTVLCOPT:http-referrer=https://www.tvmalaysia.online/
-https://tvmalaysia.cyou/hls/tv3.m3u8
-
 #EXTINF:-1 tvg-id="AstroArena" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",Astro Arena 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40c958ab268862f44ca7169a0a634710&key=d83ccdb2a5a66a9653009dab9490e617
