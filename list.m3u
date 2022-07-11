@@ -10,23 +10,23 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroSupersport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="Sports",Astro Supersport 1
-#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+#EXTVLCOPT:http-user-agent=Mozilla
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://netwrk.ru.com/cdn/premium123/chunks.m3u8
 #EXTINF:-1 tvg-id="AstroSupersport2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="Sports",Astro Supersport 2
-#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+#EXTVLCOPT:http-user-agent=Mozilla
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://netwrk.ru.com/cdn/premium124/chunks.m3u8
 #EXTINF:-1 tvg-id="AstroSupersport3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="Sports",Astro SuperSport 3
-#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+#EXTVLCOPT:http-user-agent=Mozilla
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://netwrk.ru.com/cdn/premium125/chunks.m3u8
 #EXTINF:-1 tvg-id="AstroSupersport4" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sports",Astro Supersport 4
-#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+#EXTVLCOPT:http-user-agent=Mozilla
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://netwrk.ru.com/cdn/premium126/chunks.m3u8
 #EXTINF:-1 tvg-id="AstroSupersport5" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="Sports",Astro Supersport 5
-#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+#EXTVLCOPT:http-user-agent=Mozilla
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://netwrk.ru.com/cdn/premium43/chunks.m3u8
 #EXTINF:-1 tvg-id="AstroSupersport5" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="Sports",Astro Supersport 5 ⁽ᴮᵃᶜᵏᵘᵖ⁾
@@ -35,43 +35,43 @@ https://netwrk.ru.com/cdn/premium43/chunks.m3u8
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_primary.mpd
 
 #EXTINF:0 group-title="Sports" tvg-logo="https://i.imgur.com/oL7I359.png",Bein Sports 1 Mena
-#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+#EXTVLCOPT:http-user-agent=Mozilla
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://netwrk.ru.com/cdn/premium91/chunks.m3u8
 #EXTINF:0 group-title="Sports" tvg-logo="https://i.imgur.com/A5eirxZ.png",Bein Sports 2 Mena 
-#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+#EXTVLCOPT:http-user-agent=Mozilla
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://netwrk.ru.com/cdn/premium92/chunks.m3u8
 #EXTINF:0 group-title="Sports" tvg-logo="https://i.imgur.com/lHnf0n2.png",Bein Sports 3 Mena
-#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+#EXTVLCOPT:http-user-agent=Mozilla
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://netwrk.ru.com/cdn/premium93/chunks.m3u8
 #EXTINF:0 group-title="Sports" tvg-logo="https://i.imgur.com/KTbEr56.png",Bein Sports 4 Mena
-#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+#EXTVLCOPT:http-user-agent=Mozilla
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://netwrk.ru.com/cdn/premium94/chunks.m3u8
 #EXTINF:0 group-title="Sports" tvg-logo="https://i.imgur.com/kc9oUTu.png",Bein Sports 5 Mena
-#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+#EXTVLCOPT:http-user-agent=Mozilla
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://netwrk.ru.com/cdn/premium95/chunks.m3u8
 #EXTINF:0 group-title="Sports" tvg-logo="https://i.imgur.com/JRHpVlc.png",Bein Sports 6 Mena
-#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+#EXTVLCOPT:http-user-agent=Mozilla
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://netwrk.ru.com/cdn/premium96/chunks.m3u8
 #EXTINF:0 group-title="Sports" tvg-logo="https://i.imgur.com/FMW3iai.png",Bein Sports 7 Mena
-#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+#EXTVLCOPT:http-user-agent=Mozilla
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://netwrk.ru.com/cdn/premium97/chunks.m3u8
 #EXTINF:0 group-title="Sports" tvg-logo="https://i.imgur.com/Fc6vwN1.png",Bein Sports 1 Mena English
-#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+#EXTVLCOPT:http-user-agent=Mozilla
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://netwrk.ru.com/cdn/premium61/chunks.m3u8
 #EXTINF:0 group-title="Sports" tvg-logo="https://i.imgur.com/aPv27NP.png",Bein Sports 2 Mena English
-#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+#EXTVLCOPT:http-user-agent=Mozilla
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://netwrk.ru.com/cdn/premium90/chunks.m3u8
 #EXTINF:0 group-title="Sports" tvg-logo="https://i.imgur.com/oBUgTsF.png",Bein Sports 3 Mena English
-#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+#EXTVLCOPT:http-user-agent=Mozilla
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://netwrk.ru.com/cdn/premium46/chunks.m3u8
 
@@ -85,19 +85,19 @@ https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
 #EXTINF:-1 tvg-id="BTSport1.uk" tvg-logo="https://vtlogo.com/wp-content/uploads/2020/08/bt-sport-vector-logo.png" group-title="Sports",BT Sport 1
-#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+#EXTVLCOPT:http-user-agent=Mozilla
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://netwrk.ru.com/cdn/premium31/chunks.m3u8
 #EXTINF:-1 tvg-id="BTSport2.uk" tvg-logo="https://vtlogo.com/wp-content/uploads/2020/08/bt-sport-vector-logo.png" group-title="Sports",BT Sport 2
-#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+#EXTVLCOPT:http-user-agent=Mozilla
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://netwrk.ru.com/cdn/premium32/chunks.m3u8
 #EXTINF:-1 tvg-id="BTSport3.uk" tvg-logo="https://vtlogo.com/wp-content/uploads/2020/08/bt-sport-vector-logo.png" group-title="Sports",BT Sport 3
-#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+#EXTVLCOPT:http-user-agent=Mozilla
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://netwrk.ru.com/cdn/premium33/chunks.m3u8
 #EXTINF:-1 tvg-id="BTSportESPN.uk" tvg-logo="https://vtlogo.com/wp-content/uploads/2020/08/bt-sport-vector-logo.png" group-title="Sports",BT Sport ESPN
-#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+#EXTVLCOPT:http-user-agent=Mozilla
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://netwrk.ru.com/cdn/premium34/chunks.m3u8
 
@@ -134,13 +134,13 @@ http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://i.postimg.cc/rFzvwMGg/Bradford-4-1-Stevenage-Andy-Cook-fires-in-first-half-hat-trick-in-big-Bantams-win.png" group-title="Sports",Sky Sports Main Event
-#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+#EXTVLCOPT:http-user-agent=Mozilla
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://netwrk.ru.com/cdn/premium38/chunks.m3u8
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://i.postimg.cc/rFzvwMGg/Bradford-4-1-Stevenage-Andy-Cook-fires-in-first-half-hat-trick-in-big-Bantams-win.png" group-title="Sports",Sky Sports Main Event
 https://16live00.akamaized.net/SKY_SPORTSMAIN/index.m3u8|X-Forwarded-For=111.65.47.180
 #EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://i.postimg.cc/rFzvwMGg/Bradford-4-1-Stevenage-Andy-Cook-fires-in-first-half-hat-trick-in-big-Bantams-win.png" group-title="Sports",Sky Sports Premier League
-#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+#EXTVLCOPT:http-user-agent=Mozilla
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://netwrk.ru.com/cdn/premium130/chunks.m3u8
 #EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-logo="https://i.postimg.cc/rFzvwMGg/Bradford-4-1-Stevenage-Andy-Cook-fires-in-first-half-hat-trick-in-big-Bantams-win.png" group-title="Sports",Sky Sports Football
@@ -184,15 +184,15 @@ https://stream-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 https://stream-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #EXTINF:-1 tvg-id="CHN" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/TS2.png?width=50" group-title="Sports",Supersport EPL
-#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+#EXTVLCOPT:http-user-agent=Mozilla
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://netwrk.ru.com/cdn/premium414/chunks.m3u8
 #EXTINF:-1 tvg-id="CHN" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MSH.png?width=50" group-title="Sports",Supersport Football
-#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+#EXTVLCOPT:http-user-agent=Mozilla
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://netwrk.ru.com/cdn/premium56/chunks.m3u8
 #EXTINF:-1 tvg-id="CHN" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SSH.png?width=50" group-title="Sports",Supersport LaLiga
-#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+#EXTVLCOPT:http-user-agent=Mozilla
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://netwrk.ru.com/cdn/premium415/chunks.m3u8
 
