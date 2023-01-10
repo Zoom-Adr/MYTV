@@ -2,7 +2,7 @@
 
 #EXTINF:-1 group-title="Sports" ch-number="CHN" tvg-id="CHN" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%275535866%27&EntityType=%27Item%27&EntityId=%27258703%27&Width=237&Height=237&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",AFF Ch01 Mewatch Singapore HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=f5158194cc4044e699d0df01772f2212&key=072e611a383a2d1e3d4d8ea19e016a71
+#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/86ba7ded-7074-41b9-97bd-e294cd1d16c3
 https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd
 
 #EXTINF:-1 tvg-id="AstroSupersport" ch-number="811" group-title=" Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png",Astro SuperSport HD
