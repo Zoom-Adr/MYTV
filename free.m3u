@@ -1,0 +1,10 @@
+#EXTM3U url-tvg="https://aqfadtv.xyz/epg" refresh="1440" max-conn="2" refresh="24"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=f5158194cc4044e699d0df01772f2212&key=072e611a383a2d1e3d4d8ea19e016a71
+#EXTINF:-1 group-title="Sports" ch-number="CHN" tvg-id="CHN" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%275535866%27&EntityType=%27Item%27&EntityId=%27258703%27&Width=237&Height=237&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",AFF Ch01 Mewatch Singapore HD
+https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=deb6c84db4dc4578bdaa61e965b3424c&key=b2e6fff24da67654af548fe61aa6bd5a
+#EXTINF:-1 group-title="Sports" ch-number="CHN" tvg-id="CHN" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%275535874%27&EntityType=%27Item%27&EntityId=%27258704%27&Width=237&Height=237&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",AFF Ch02 Mewatch Singapore HD
+https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd
