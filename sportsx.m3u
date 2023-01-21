@@ -92,6 +92,27 @@ http://vas-mobiletv3.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"VOO7hRkYHjke00zEoKVlVw", "kid":"/1G2wwGYROGJv+Wmo8pT1w" } ], "type":"temporary" }
 http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Mpdz6QyF/premier-league16x9-png-adapt-crop16x9-575p.png",Premier 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://webudi.webtv1.lol/lb/star31/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Mpdz6QyF/premier-league16x9-png-adapt-crop16x9-575p.png",Premier 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://webudi.webtv1.lol/lb/star32/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Mpdz6QyF/premier-league16x9-png-adapt-crop16x9-575p.png",Premier 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://webudi.webtv1.lol/lb/star33/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Mpdz6QyF/premier-league16x9-png-adapt-crop16x9-575p.png",Premier 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://webudi.webtv1.lol/lb/star34/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Mpdz6QyF/premier-league16x9-png-adapt-crop16x9-575p.png",Premier 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://webudi.webtv1.lol/lb/star35/index.m3u8
+
 #EXTINF:-1 tvg-id="TruePremierFootball1.th" tvg-logo="https://i.postimg.cc/c4xCRM6V/24712c40-7374-11ec-91d2-797a50c5a656-webp-320.png" group-title="Sports",Premier Football 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
