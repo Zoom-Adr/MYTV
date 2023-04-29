@@ -75,6 +75,70 @@ https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.m
 #EXTINF:-1 group-title="Singapore" tvg-id="97078" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%275714423%27&EntityType=%27Item%27&EntityId=%2797078%27&Width=300&Height=78&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",meWATCH LIVE 2
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
 
+#EXTINF:-1 tvg-id="NBT2.th" tvg-name="NBT HD" tvg-logo="https://i.imgur.com/50EIb6z.png" group-title="Thailand",NBT HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/chnbt/playlist.m3u8
+#EXTINF:-1 tvg-id="ThaiPBS3.th" tvg-name="THAI PBS HD" tvg-logo="https://i.imgur.com/OFsQwvv.png" group-title="Thailand",THAI PBS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1 tvg-id="ALTV.th" tvg-name="ALTV" tvg-logo="https://i.imgur.com/Y6k45Su.png" group-title="Thailand",ALTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1 tvg-id="ThaiTV5HD1.th" tvg-name="TV5 HD" tvg-logo="https://i.imgur.com/4MIQNPQ.png" group-title="Thailand",TV5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/ch5hd/playlist.m3u8
+#EXTINF:-1 tvg-id="TSports7.th" tvg-name="T Sports 7" tvg-logo="https://i.imgur.com/hnfiUbK.png" group-title="Thailand",T Sports 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/chtsport/index.m3u8
+#EXTINF:-1 tvg-id="TPTV.th" tvg-name="TPTV" tvg-logo="https://i.imgur.com/Jfdy937.png" group-title="Thailand",TPTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/TPTV/playlist.m3u8
+#EXTINF:-1 tvg-id="TNN16.th" tvg-name="TNN 16" tvg-logo="https://i.imgur.com/mfVhuRC.png" group-title="Thailand",TNN 16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/chtnn/playlist.m3u8
+#EXTINF:-1 tvg-id="JKN18.th" tvg-name="JKN 18" tvg-logo="https://i.imgur.com/zxgCdl0.png" group-title="Thailand",JKN 18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/newtv/playlist.m3u8
+#EXTINF:-1 tvg-id="NationTV.th" tvg-name="Nation TV" tvg-logo="https://i.imgur.com/RULAfjb.png" group-title="Thailand",Nation TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/chnation/playlist.m3u8
+#EXTINF:-1 tvg-id="Workpoint23.th" tvg-name="Workpoint TV" tvg-logo="https://i.imgur.com/oxf6BRn.png" group-title="Thailand",Workpoint TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/chworkpoint/playlist.m3u8
+#EXTINF:-1 tvg-id="True4U.th" tvg-name="True 4U" tvg-logo="https://i.imgur.com/tXb8NiE.png" group-title="Thailand",True 4U
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/chtrue4u/playlist.m3u8
+#EXTINF:-1 tvg-id="GMM25.th" tvg-name="GMM 25" tvg-logo="https://i.imgur.com/sWGT1SD.png" group-title="Thailand",GMM 25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/chgmm/playlist.m3u8
+#EXTINF:-1 tvg-id="ThaiChannel8.th" tvg-name="CH 8" tvg-logo="https://i.imgur.com/RSQLFiU.png" group-title="Thailand",CH 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/ch8/playlist.m3u8
+#EXTINF:-1 tvg-id="Mono29.th" tvg-name="MONO 29" tvg-logo="https://i.imgur.com/V4VWHiB.png" group-title="Thailand",MONO 29
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/chmono29/playlist.m3u8
+#EXTINF:-1 tvg-id="MCOTHD.th" tvg-name="MCOT HD" tvg-logo="https://i.imgur.com/S4dSUQ7.png" group-title="Thailand",MCOT HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/chmcothd/playlist.m3u8
+#EXTINF:-1 tvg-id="One31.th" tvg-name="ONE HD" tvg-logo="https://i.imgur.com/9apyiI0.png" group-title="Thailand",ONE HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/chonehd/playlist.m3u8
+#EXTINF:-1 tvg-id="ThairathTV.th" tvg-name="Thairath TV" tvg-logo="https://i.imgur.com/ArasZJO.png" group-title="Thailand",Thairath TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/chthairath/playlist.m3u8
+#EXTINF:-1 tvg-id="Channel3.th" tvg-name="CH3 HD" tvg-logo="https://i.imgur.com/lHbIKfF.png" group-title="Thailand",CH3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/ch3hd/playlist.m3u8
+#EXTINF:-1 tvg-id="Amarin34HD.th" tvg-name="Amarin TV" tvg-logo="https://i.imgur.com/S6gvvf9.png" group-title="Thailand",Amarin TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/chamarin/playlist.m3u8
+#EXTINF:-1 tvg-id="BBTVChannel7.th" tvg-name="CH7 HD" tvg-logo="https://i.imgur.com/vxnLkTz.png" group-title="Thailand",CH7 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/ch7hd/playlist.m3u8
+#EXTINF:-1 tvg-id="PPTVHD36.th" tvg-name="PPTV HD" tvg-logo="https://i.imgur.com/i4t7Q0C.png" group-title="Thailand",PPTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/chpptvhd/playlist.m3u8
+
 #EXTINF:-1 tvg-id="AstroSupersport" tvg-name="Astro SuperSport" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="Sports",Astro SuperSport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
