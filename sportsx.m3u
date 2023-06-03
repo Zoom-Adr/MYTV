@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://aqfadtv.xyz/epg" refresh="1440" max-conn="2" refresh="24"
 
 
-#EXTINF:-1 tvg-id="AstroSupersport" ch-number="811" group-title=" Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.pngg",Astro SuperSport 1
+#EXTINF:-1 tvg-id="AstroSupersport" ch-number="811" group-title=" Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",Astro SuperSport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://webudit.cdnhks.lol/lb/premium123/index.m3u8
@@ -26,19 +26,19 @@ https://webudit.cdnhks.lol/lb/premium126/index.m3u8
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://webudit.cdnhks.lol/lb/premium43/index.m3u8
 
-#EXTINF:-1 tvg-id="BTSport1.uk" tvg-logo=https://upload.wikimedia.org/wikipedia/commons/e/ea/BT_Sport_logo_2019.svg" group-title="Sports",BT Sport 1
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/46/441DE573-13B2-4244-B425-DE3526523595.png/revision/latest?cb=20201226053710" group-title="Sports",BT Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://webudit.cdnhks.lol/lb/premium31/index.m3u8
-#EXTINF:-1 tvg-id="BTSport2.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BT_Sport_logo_2019.svgg" group-title="Sports",BT Sport 2
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/46/441DE573-13B2-4244-B425-DE3526523595.png/revision/latest?cb=20201226053710" group-title="Sports",BT Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://webudit.cdnhks.lol/lb/premium32/index.m3u8
-#EXTINF:-1 tvg-id="BTSport3.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BT_Sport_logo_2019.svg" group-title="Sports",BT Sport 3
+#EXTINF:-1 tvg-id="BTSport3.uk" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/46/441DE573-13B2-4244-B425-DE3526523595.png/revision/latest?cb=20201226053710" group-title="Sports",BT Sport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://webudit.cdnhks.lol/lb/premium33/index.m3u8
-#EXTINF:-1 tvg-id="BT.Sport.4.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BT_Sport_logo_2019.svg" group-title="Sports",BT Sport 4
+#EXTINF:-1 tvg-id="BT.Sport.4.uk" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/46/441DE573-13B2-4244-B425-DE3526523595.png/revision/latest?cb=20201226053710" group-title="Sports",BT Sport 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://webudit.cdnhks.lol/lb/premium34/index.m3u8
