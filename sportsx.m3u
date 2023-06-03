@@ -43,7 +43,7 @@ https://webudit.cdnhks.lol/lb/premium33/index.m3u8
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://webudit.cdnhks.lol/lb/premium34/index.m3u8
 
-#EXTINF:-1 tvg-id="AstroSupersport5" group-title="Sports" ch-number="815" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Cricket_v1.png",Cricket
+#EXTINF:-1 tvg-id="AstroCricket" group-title="Sports" ch-number="815" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Cricket_v1.png",Cricket
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://webudit.cdnhks.lol/lb/premium370/index.m3u8
