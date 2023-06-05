@@ -291,6 +291,16 @@ https://webudit.cdnhks.lol/lb/premium449/index.m3u8
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://webudit.cdnhks.lol/lb/premium554/index.m3u8
 
+#EXTINF:-1 tvg-id="SPOTV.id" group-title="Sports" tvg-logo="https://i.imgur.com/4VennQx.png",SPOTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+https://av-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+#EXTINF:0 tvg-id="SPOTV2.id" tvg-name="SPOTV 2" tvg-logo="https://i.imgur.com/RN0ENg5.png" group-title="Olahraga",SPOTV 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+
 #EXTINF:-1 tvg-id="TruePremierFootball1.th" tvg-logo="https://i.imgur.com/9FJknMK.png" group-title="Sports",True Premier Football 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
