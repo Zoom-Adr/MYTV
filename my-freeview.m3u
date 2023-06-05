@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://weareblahs.github.io/epg/astro.xml,https://github.com/AqFad2811/epg/raw/main/epg.xml" m3uautoload=1 cache=500 deinterlace=1
+#EXTM3U url-tvg="https://github.com/AqFad2811/epg/raw/main/epg.xml,https://www.bevy.be/bevyfiles/unitedkingdom.xml,https://www.bevy.be/bevyfiles/unitedstates.xml,https://www.bevy.be/bevyfiles/thailand.xml" m3uautoload=1 cache=500 deinterlace=1
 
 #EXTINF:-1 tvg-id="TVSUKAN" group-title="Malaysia" tvg-logo="https://i.postimg.cc/TwsKGmmN/800px-Sukan-RTM-1-April.png",TV Sukan
 #EXTVLCOPT:http-referer=https://rtmklik.rtm.gov.my
@@ -160,21 +160,21 @@ https://webudit.cdnhks.lol/lb/premium126/index.m3u8
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 https://webudit.cdnhks.lol/lb/premium43/index.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/jTgfFa9.png",Bein Sports 1
+#EXTINF:-1 tvg-id="beINSports" group-title="Sports" tvg-logo="https://i.imgur.com/jTgfFa9.png",Bein Sports 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/408
 https://astro.kutubusuk.workers.dev/dash-wv/linear/408/default_ott.mpd
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/uCEg3uf.png",Bein Sports 2
+#EXTINF:-1 tvg-id="beINSports2" group-title="Sports" tvg-logo="https://i.imgur.com/uCEg3uf.png",Bein Sports 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-040/stream.mpd
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/xhkX8uy.png",Bein Sports 3
+#EXTINF:-1 tvg-id="beINSports3" group-title="Sports" tvg-logo="https://i.imgur.com/xhkX8uy.png",Bein Sports 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
