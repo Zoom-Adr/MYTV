@@ -181,23 +181,6 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-040/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-041/stream.mpd
 
-#EXTINF:-1 tvg-id="BTSport1.uk" tvg-logo="https://i.imgur.com/MrhxPdb.png" group-title="Sports",BT Sport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://webudit.cdnhks.lol/lb/premium31/index.m3u8
-#EXTINF:-1 tvg-id="BTSport2.uk" tvg-logo="https://i.imgur.com/dmVSHmd.png" group-title="Sports",BT Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://webudit.cdnhks.lol/lb/premium32/index.m3u8
-#EXTINF:-1 tvg-id="BTSport3.uk" tvg-logo="https://i.imgur.com/xbd7ICX.png" group-title="Sports",BT Sport 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://webudit.cdnhks.lol/lb/premium33/index.m3u8
-#EXTINF:-1 tvg-id="BT.Sport.4.uk" tvg-logo="https://i.imgur.com/ybW83o3.png" group-title="Sports",BT Sport 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://webudit.cdnhks.lol/lb/premium34/index.m3u8
-
 #EXTINF:-1 tvg-id="AstroCricket" group-title="Sports" ch-number="815" tvg-logo="https://i.imgur.com/ksIvZI4.png",Cricket
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
@@ -548,6 +531,23 @@ https://webudit.cdnhks.lol/lb/premium418/index.m3u8
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://webudit.cdnhks.lol/lb/premium419/index.m3u8
+
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-logo="https://s3-eu-west-1.amazonaws.com/cwsassets/dis-6130a93f81342/2023/07/06/64a6a70653c7b_thumbnail.jpg" group-title="Sports",TNT Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://webudit.cdnhks.lol/lb/premium31/index.m3u8
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-logo="https://s3-eu-west-1.amazonaws.com/cwsassets/dis-6130a93f81342/2023/07/06/64a6a70653c7b_thumbnail.jpg" group-title="Sports",TNT Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://webudit.cdnhks.lol/lb/premium32/index.m3u8
+#EXTINF:-1 tvg-id="BTSport3.uk" tvg-logo="https://s3-eu-west-1.amazonaws.com/cwsassets/dis-6130a93f81342/2023/07/06/64a6a70653c7b_thumbnail.jpg" group-title="Sports",TNT Sports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://webudit.cdnhks.lol/lb/premium33/index.m3u8
+#EXTINF:-1 tvg-id="BT.Sport.4.uk" tvg-logo="https://s3-eu-west-1.amazonaws.com/cwsassets/dis-6130a93f81342/2023/07/06/64a6a70653c7b_thumbnail.jpg" group-title="Sports",TNT Sports 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://webudit.cdnhks.lol/lb/premium34/index.m3u8
 
 #EXTINF:-1 tvg-id="TruePremierFootball1.th" tvg-logo="https://i.imgur.com/9FJknMK.png" group-title="Sports",True Premier Football 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
