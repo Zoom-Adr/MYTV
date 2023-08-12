@@ -284,12 +284,6 @@ https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-048/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-049/stream.mpd
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://iptvboss.xyz/logos/Belgium/ElevenProLeague1FR.be.png",Eleven Pro League 1 BE
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://iptvboss.xyz/logos/Belgium/ElevenProLeague1FR.be.png",Eleven Pro League 1 BE (French language)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
