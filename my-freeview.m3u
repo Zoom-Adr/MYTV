@@ -446,6 +446,47 @@ https://webudit.cdndac.lol/lb/premium449/index.m3u8
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://webudit.cdndac.lol/lb/premium554/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://iptvboss.xyz/logos/New_Zealand/SKYSportSelect.nz.png" group-title="Sports",Sky Sport NZ Select
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://webudit.cdndac.lol/lb/premium587/index.m3u8|Origin=https://streamservicehd.click
+#EXTINF:-1 tvg-logo="https://iptvboss.xyz/logos/New_Zealand/SKYSport1.nz.png" group-title="Sports",Sky Sport NZ 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://webudit.cdndac.lol/lb/premium588/index.m3u8|Origin=https://streamservicehd.click
+#EXTINF:-1 tvg-logo="https://iptvboss.xyz/logos/New_Zealand/SKYSport2.nz.png" group-title="Sports",Sky Sport NZ 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://webudit.cdndac.lol/lb/premium589/index.m3u8|Origin=https://streamservicehd.click
+#EXTINF:-1 tvg-logo="https://iptvboss.xyz/logos/New_Zealand/SKYSport3.nz.png" group-title="Sports",Sky Sport NZ 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://webudit.cdndac.lol/lb/premium590/index.m3u8|Origin=https://streamservicehd.click
+#EXTINF:-1 tvg-logo="https://iptvboss.xyz/logos/New_Zealand/SKYSport4.nz.png" group-title="Sports",Sky Sport NZ 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://webudit.cdndac.lol/lb/premium591/index.m3u8|Origin=https://streamservicehd.click
+#EXTINF:-1 tvg-logo="https://iptvboss.xyz/logos/New_Zealand/SKYSport5.nz.png" group-title="Sports",Sky Sport NZ 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://webudit.cdndac.lol/lb/premium592/index.m3u8|Origin=https://streamservicehd.click
+#EXTINF:-1 tvg-logo="https://iptvboss.xyz/logos/New_Zealand/SKYSport6.nz.png" group-title="Sports",Sky Sport NZ 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://webudit.cdndac.lol/lb/premium593/index.m3u8|Origin=https://streamservicehd.click
+#EXTINF:-1 tvg-logo="https://iptvboss.xyz/logos/New_Zealand/SKYSport7.nz.png" group-title="Sports",Sky Sport NZ 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://webudit.cdndac.lol/lb/premium594/index.m3u8|Origin=https://streamservicehd.click
+#EXTINF:-1 tvg-logo="https://iptvboss.xyz/logos/New_Zealand/SKYSport8.nz.png" group-title="Sports",Sky Sport NZ 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://webudit.cdndac.lol/lb/premium595/index.m3u8|Origin=https://streamservicehd.click
+#EXTINF:-1 tvg-logo="https://iptvboss.xyz/logos/New_Zealand/SKYSport9.nz.png" group-title="Sports",Sky Sport NZ 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://webudit.cdndac.lol/lb/premium596/index.m3u8|Origin=https://streamservicehd.click
+
 #EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://i.postimg.cc/3w9j213r/Media-Handler-1-removebg-preview.png",Siminn Sport HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
