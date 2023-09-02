@@ -365,6 +365,16 @@ https://cdn3.skygo.mn/live/disk1/SPSFight/HLS-FTA/SPSFight.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.goplus.mn/images/repository/850/850-LOGO-m.png" group-title="Sports",Premier Sports 5 
 https://cdn3.skygo.mn/live/disk1/SPSPlus/HLS-FTA/SPSPlus.m3u8
 
+#EXTINF:-1 tvg-id="HubPremier1.sg" tvg-logo="https://iptvboss.xyz/logos/Singapore/HubPremier1.sg.png" group-title="Sports",Premier 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://webudit.cdnbos.lol/lb/premium214/index.m3u8
+
+#EXTINF:-1 tvg-id="HubPremier1.sg" tvg-logo="https://iptvboss.xyz/logos/Singapore/HubPremier2.sg.png" group-title="Sports",Premier 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://webudit.cdnbos.lol/lb/premium217/index.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://iptvboss.xyz/logos/Romania/PrimaSport1.ro.png",Prima Sports 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
