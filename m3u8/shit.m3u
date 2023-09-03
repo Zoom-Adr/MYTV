@@ -48,27 +48,27 @@ https://d3j4fjrwclc3o8.cloudfront.net/CH2/masterCH2.mpd|authorization=Bearer fuc
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cb18945925e65d411fbb986d72531010:15ff74ae1064c5f2fb00d2995fa88955
-#EXTINF:-1 tvg-id="CHN" group-title="Sports" group-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/category/sports1.png" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/6b618e10915049029cfb316e9b5b3815/version/0/width/1280/height/720",Astro GO Live Event 1
+#EXTINF:-1 tvg-id="CHN" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Astro_Go_Logo.png/revision/latest?cb=20190131053248",Astro GO Live Event 1
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9986/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8d580c263ffde691b4249dfcac43fd10:f3148d1e737dece3554b889868831659
-#EXTINF:-1 tvg-id="CHN" group-title="Sports" group-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/category/sports1.png" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/6b618e10915049029cfb316e9b5b3815/version/0/width/1280/height/720",Astro GO Live Event 2
+#EXTINF:-1 tvg-id="CHN" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Astro_Go_Logo.png/revision/latest?cb=20190131053248",Astro GO Live Event 2
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9987/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab014de03c31a84a835583c348a5e10:5ed727c3f28bac59aa3e5914f5ad455c
-#EXTINF:-1 tvg-id="CHN" group-title="Sports" group-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/category/sports1.png" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/6b618e10915049029cfb316e9b5b3815/version/0/width/1280/height/720",Astro GO Live Event 3
+#EXTINF:-1 tvg-id="CHN" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Astro_Go_Logo.png/revision/latest?cb=20190131053248",Astro GO Live Event 3
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9988/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=de761cd285aa2b1c1620d16ddbade010:f12de5f0de92c52f841705d9d6449d3a
-#EXTINF:-1 tvg-id="CHN" group-title="Sports" group-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/category/sports1.png" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/6b618e10915049029cfb316e9b5b3815/version/0/width/1280/height/720",Astro GO Live Event 4
+#EXTINF:-1 tvg-id="CHN" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Astro_Go_Logo.png/revision/latest?cb=20190131053248",Astro GO Live Event 4
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=89c10c7ef0af145be7d6e88dec090b10:80558606a13a99d2c543872d8899ced0
-#EXTINF:-1 tvg-id="CHN" group-title="Sports" group-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/category/sports1.png" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/6b618e10915049029cfb316e9b5b3815/version/0/width/1280/height/720",Astro GO Live Event 5
+#EXTINF:-1 tvg-id="CHN" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Astro_Go_Logo.png/revision/latest?cb=20190131053248",Astro GO Live Event 5
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5076/default.mpd
 
 #EXTINF:-1 tvg-id="beINSports" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beIN_Sports_v1.png",Bein Sports
