@@ -4,49 +4,49 @@
 #EXTINF:-1 tvg-id="AstroSupersport" ch-number="811" group-title=" Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",Astro SuperSport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://webudit.cdnbos.lol/lb/premium123/index.m3u8
+https://webudit.webdicdn.lol/lb/premium123/index.m3u8
 
 #EXTINF:-1 tvg-id="AstroSupersport2" ch-number="812" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png",Astro SuperSport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://webudit.cdnbos.lol/lb/premium124/index.m3u8
+https://webudit.webdicdn.lol/lb/premium124/index.m3u8
 
 #EXTINF:-1 tvg-id="AstroSupersport3" ch-number="813" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png",Astro SuperSport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://webudit.cdnbos.lol/lb/premium125/index.m3u8
+https://webudit.webdicdn.lol/lb/premium125/index.m3u8
 
 #EXTINF:-1 tvg-id="AstroSupersport4" ch-number="814" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png",Astro SuperSport 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://webudit.cdnbos.lol/lb/premium126/index.m3u8
+https://webudit.webdicdn.lol/lb/premium126/index.m3u8
 
 #EXTINF:-1 tvg-id="AstroSupersport5" group-title="Sports" ch-number="815" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png",Astro Supersport 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://webudit.cdnbos.lol/lb/premium43/index.m3u8
+https://webudit.webdicdn.lol/lb/premium43/index.m3u8
 
 #EXTINF:-1 tvg-id="BTSport1.uk" tvg-logo="https://i.imgur.com/fcWD5zb.png" group-title="Sports",BT Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://webudit.cdnbos.lol/lb/premium31/index.m3u8
+https://webudit.webdicdn.lol/lb/premium31/index.m3u8
 #EXTINF:-1 tvg-id="BTSport2.uk" tvg-logo="https://i.imgur.com/dmVSHmd.png" group-title="Sports",BT Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://webudit.cdnbos.lol/lb/premium32/index.m3u8
+https://webudit.webdicdn.lol/lb/premium32/index.m3u8
 #EXTINF:-1 tvg-id="BTSport3.uk" tvg-logo="https://i.imgur.com/xbd7ICX.png" group-title="Sports",BT Sport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://webudit.cdnbos.lol/lb/premium33/index.m3u8
+https://webudit.webdicdn.lol/lb/premium33/index.m3u8
 #EXTINF:-1 tvg-id="BT.Sport.4.uk" tvg-logo="https://i.imgur.com/ybW83o3.png" group-title="Sports",BT Sport 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://webudit.cdnbos.lol/lb/premium34/index.m3u8
+https://webudit.webdicdn.lol/lb/premium34/index.m3u8
 
 #EXTINF:-1 tvg-id="AstroCricket" group-title="Sports" ch-number="815" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Cricket_v1.png",Cricket
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://webudit.cdnbos.lol/lb/premium370/index.m3u8
+https://webudit.webdicdn.lol/lb/premium370/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/SRm67bb8/2036px-DAZN-logo-svg.png",Dazn 1 DE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -147,41 +147,41 @@ https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8|Referer=h
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://i.imgur.com/i8xdURd.png" group-title="Sports",Sky Sports Main Event
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://webudit.cdnbos.lol/lb/premium38/index.m3u8
+https://webudit.webdicdn.lol/lb/premium38/index.m3u8
 #EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://i.imgur.com/uZeyNBC.png" group-title="Sports",Sky Sports Premier League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://webudit.cdnbos.lol/lb/premium130/index.m3u8
+https://webudit.webdicdn.lol/lb/premium130/index.m3u8
 #EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://i.imgur.com/0Ze3U4H.png" group-title="Sports",Sky Sports Football
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://webudit.cdnbos.lol/lb/premium35/index.m3u8
+https://webudit.webdicdn.lol/lb/premium35/index.m3u8
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.imgur.com/3pySViT.png" group-title="Sports",Sky Sports F1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://webudit.cdnbos.lol/lb/premium60/index.m3u8
+https://webudit.webdicdn.lol/lb/premium60/index.m3u8
 #EXTINF:-1 tvg-id="SkySp.ArenaHD.uk" tvg-logo="https://i.imgur.com/YcPGCZ5.png" group-title="Sports",Sky Sports Arena
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://webudit.cdnbos.lol/lb/premium36/index.m3u8
+https://webudit.webdicdn.lol/lb/premium36/index.m3u8
 #EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-logo="https://i.imgur.com/dKfTBbL.png" group-title="Sports",Sky Sports Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://webudit.cdnbos.lol/lb/premium37/index.m3u8
+https://webudit.webdicdn.lol/lb/premium37/index.m3u8
 #EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://i.imgur.com/BoB4qIE.png" group-title="Sports",Sky Sports Golf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://webudit.cdnbos.lol/lb/premium70/index.m3u8
+https://webudit.webdicdn.lol/lb/premium70/index.m3u8
 #EXTINF:-1 tvg-id="SkySpCricket.HD.uk" tvg-logo="https://i.imgur.com/pyCr9fB.png" group-title="Sports",Sky Sports Cricket
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://webudit.cdnbos.lol/lb/premium65/index.m3u8
+https://webudit.webdicdn.lol/lb/premium65/index.m3u8
 #EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://i.imgur.com/L9nSw5W.png" group-title="Sports",Sky Sports Mix
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://webudit.cdnbos.lol/lb/premium449/index.m3u8
+https://webudit.webdicdn.lol/lb/premium449/index.m3u8
 #EXTINF:-1 tvg-id="SkySp.Racing.HD.uk" tvg-logo="https://i.imgur.com/d6Kzla9.pngg" group-title="Sports",Sky Sports Racing
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://webudit.cdnbos.lol/lb/premium554/index.m3u8
+https://webudit.webdicdn.lol/lb/premium554/index.m3u8
 
