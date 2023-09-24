@@ -365,26 +365,6 @@ https://cdn3.skygo.mn/live/disk1/SPSFight/HLS-FTA/SPSFight.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.goplus.mn/images/repository/850/850-LOGO-m.png" group-title="Sports",Premier Sports 5 
 https://cdn3.skygo.mn/live/disk1/SPSPlus/HLS-FTA/SPSPlus.m3u8
 
-#EXTINF:-1 tvg-id="HubPremier1.sg" tvg-logo="https://iptvboss.xyz/logos/Singapore/HubPremier1.sg.png" group-title="Sports",Premier 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.webdicdn.lol/lb/premium218/index.m3u8
-
-#EXTINF:-1 tvg-id="HubPremier2.sg" tvg-logo="https://iptvboss.xyz/logos/Singapore/HubPremier2.sg.png" group-title="Sports",Premier 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.webdicdn.lol/lb/premium217/index.m3u8
-
-#EXTINF:-1 tvg-id="HubPremier3.sg" tvg-logo="https://iptvboss.xyz/logos/Singapore/HubPremier3.sg.png" group-title="Sports",Premier 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.webdicdn.lol/lb/premium216/index.m3u8
-
-#EXTINF:-1 tvg-id="HubPremier4.sg" tvg-logo="https://iptvboss.xyz/logos/Singapore/HubPremier4.sg.png" group-title="Sports",Premier 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.webdicdn.lol/lb/premium215/index.m3u8
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://iptvboss.xyz/logos/Romania/PrimaSport1.ro.png",Prima Sports 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -561,11 +541,12 @@ https://director.tv.c.is/__cl/cg:default/__c/Stod2Sport5_HD_HTTP/__op/dash-defau
 #EXTINF:-1 tvg-id="SPOTV.id" group-title="Sports" tvg-logo="https://i.imgur.com/4VennQx.png",SPOTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-https://av-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd|Referer=https://www.visionplus.id/
+
 #EXTINF:0 tvg-id="SPOTV2.id" tvg-name="SPOTV 2" tvg-logo="https://i.imgur.com/RN0ENg5.png" group-title="Sports",SPOTV 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd|Referer=https://www.visionplus.id/
 
 #EXTINF:-1 tvg-id="SuperSportAction.za" tvg-name="SuperSport Action" tvg-logo="https://supersport-cms-prod.azureedge.net/media/vmvnci34/action_100x100.png?width=100" group-title="Sports",SuperSport Action
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
