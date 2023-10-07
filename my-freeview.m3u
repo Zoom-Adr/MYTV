@@ -191,23 +191,23 @@ https://webtvstream.bhtelecom.ba/hls7/arena6.mpd
 #EXTINF:-1 tvg-id="AstroSupersport" tvg-name="Astro SuperSport" tvg-logo="https://i.imgur.com/YqQIrY0.png" group-title="Sports",Astro SuperSport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.webdicdn.lol/lb/premium123/index.m3u8
+https://webudit.vipboxtv.stream/lb/premium123/index.m3u8
 #EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="Astro SuperSport 2" tvg-logo="https://i.imgur.com/4wXmnDY.png" group-title="Sports",Astro SuperSport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.webdicdn.lol/lb/premium124/index.m3u8
+https://webudit.vipboxtv.stream/lb/premium124/index.m3u8
 #EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="Astro SuperSport 3" tvg-logo="https://i.imgur.com/3SFILZl.png" group-title="Sports",Astro SuperSport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.webdicdn.lol/lb/premium125/index.m3u8
+https://webudit.vipboxtv.stream/lb/premium125/index.m3u8
 #EXTINF:-1 tvg-id="AstroSupersport4" tvg-name="Astro SuperSport 4" tvg-logo="https://i.imgur.com/v6cGRFh.png" group-title="Sports",Astro SuperSport 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.webdicdn.lol/lb/premium126/index.m3u8
+https://webudit.vipboxtv.stream/lb/premium126/index.m3u8
 #EXTINF:-1 tvg-id="AstroSupersport5" tvg-name="Astro SuperSport 5" tvg-logo="https://i.imgur.com/jb1igcv.png" group-title="Sports",Astro SuperSport 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.webdicdn.lol/lb/premium43/index.m3u8
+https://webudit.vipboxtv.stream/lb/premium43/index.m3u8
 
 #EXTINF:-1 tvg-id="beINSports" group-title="Sports" tvg-logo="https://i.imgur.com/jTgfFa9.png",Bein Sports 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -233,7 +233,7 @@ https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-041/stream.mpd
 #EXTINF:-1 tvg-id="AstroCricket" group-title="Sports" ch-number="815" tvg-logo="https://i.imgur.com/ksIvZI4.png",Cricket
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://webudit.webdicdn.lol/lb/premium370/index.m3u8
+https://webudit.vipboxtv.stream/lb/premium370/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/Vu9LhmS.png",Dazn 1 DE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -396,84 +396,84 @@ https://ott.cyberhost.ro/sdash/LIVE$LookSport2HD/index.mpd/Manifest?start=LIVE&e
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://i.imgur.com/i8xdURd.png" group-title="Sports",Sky Sports Main Event
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://webudit.webdicdn.lol/lb/premium38/index.m3u8
+https://webudit.vipboxtv.stream/lb/premium38/index.m3u8
 #EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://i.imgur.com/uZeyNBC.png" group-title="Sports",Sky Sports Premier League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://webudit.webdicdn.lol/lb/premium130/index.m3u8
+https://webudit.vipboxtv.stream/lb/premium130/index.m3u8
 #EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://i.imgur.com/0Ze3U4H.png" group-title="Sports",Sky Sports Football
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://webudit.webdicdn.lol/lb/premium35/index.m3u8
+https://webudit.vipboxtv.stream/lb/premium35/index.m3u8
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.imgur.com/3pySViT.png" group-title="Sports",Sky Sports F1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://webudit.webdicdn.lol/lb/premium60/index.m3u8
+https://webudit.vipboxtv.stream/lb/premium60/index.m3u8
 #EXTINF:-1 tvg-id="SkySp.ArenaHD.uk" tvg-logo="https://i.imgur.com/YcPGCZ5.png" group-title="Sports",Sky Sports Arena
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://webudit.webdicdn.lol/lb/premium36/index.m3u8
+https://webudit.vipboxtv.stream/lb/premium36/index.m3u8
 #EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-logo="https://i.imgur.com/dKfTBbL.png" group-title="Sports",Sky Sports Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://webudit.webdicdn.lol/lb/premium37/index.m3u8
+https://webudit.vipboxtv.stream/lb/premium37/index.m3u8
 #EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://i.imgur.com/BoB4qIE.png" group-title="Sports",Sky Sports Golf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://webudit.webdicdn.lol/lb/premium70/index.m3u8
+https://webudit.vipboxtv.stream/lb/premium70/index.m3u8
 #EXTINF:-1 tvg-id="SkySpCricket.HD.uk" tvg-logo="https://i.imgur.com/pyCr9fB.png" group-title="Sports",Sky Sports Cricket
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://webudit.webdicdn.lol/lb/premium65/index.m3u8
+https://webudit.vipboxtv.stream/lb/premium65/index.m3u8
 #EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://i.imgur.com/L9nSw5W.png" group-title="Sports",Sky Sports Mix
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://webudit.webdicdn.lol/lb/premium449/index.m3u8
+https://webudit.vipboxtv.stream/lb/premium449/index.m3u8
 #EXTINF:-1 tvg-id="SkySp.Racing.HD.uk" tvg-logo="https://i.imgur.com/d6Kzla9.png" group-title="Sports",Sky Sports Racing
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://webudit.webdicdn.lol/lb/premium554/index.m3u8
+https://webudit.vipboxtv.stream/lb/premium554/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://iptvboss.xyz/logos/New_Zealand/SKYSportSelect.nz.png" group-title="Sports",Sky Sport NZ Select
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://webudit.webdicdn.lol/lb/premium587/index.m3u8|Origin=https://streamservicehd.click
+https://webudit.vipboxtv.stream/lb/premium587/index.m3u8|Origin=https://streamservicehd.click
 #EXTINF:-1 tvg-logo="https://iptvboss.xyz/logos/New_Zealand/SKYSport1.nz.png" group-title="Sports",Sky Sport NZ 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://webudit.webdicdn.lol/lb/premium588/index.m3u8|Origin=https://streamservicehd.click
+https://webudit.vipboxtv.stream/lb/premium588/index.m3u8|Origin=https://streamservicehd.click
 #EXTINF:-1 tvg-logo="https://iptvboss.xyz/logos/New_Zealand/SKYSport2.nz.png" group-title="Sports",Sky Sport NZ 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://webudit.webdicdn.lol/lb/premium589/index.m3u8|Origin=https://streamservicehd.click
+https://webudit.vipboxtv.stream/lb/premium589/index.m3u8|Origin=https://streamservicehd.click
 #EXTINF:-1 tvg-logo="https://iptvboss.xyz/logos/New_Zealand/SKYSport3.nz.png" group-title="Sports",Sky Sport NZ 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://webudit.webdicdn.lol/lb/premium590/index.m3u8|Origin=https://streamservicehd.click
+https://webudit.vipboxtv.stream/lb/premium590/index.m3u8|Origin=https://streamservicehd.click
 #EXTINF:-1 tvg-logo="https://iptvboss.xyz/logos/New_Zealand/SKYSport4.nz.png" group-title="Sports",Sky Sport NZ 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://webudit.webdicdn.lol/lb/premium591/index.m3u8|Origin=https://streamservicehd.click
+https://webudit.vipboxtv.stream/lb/premium591/index.m3u8|Origin=https://streamservicehd.click
 #EXTINF:-1 tvg-logo="https://iptvboss.xyz/logos/New_Zealand/SKYSport5.nz.png" group-title="Sports",Sky Sport NZ 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://webudit.webdicdn.lol/lb/premium592/index.m3u8|Origin=https://streamservicehd.click
+https://webudit.vipboxtv.stream/lb/premium592/index.m3u8|Origin=https://streamservicehd.click
 #EXTINF:-1 tvg-logo="https://iptvboss.xyz/logos/New_Zealand/SKYSport6.nz.png" group-title="Sports",Sky Sport NZ 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://webudit.webdicdn.lol/lb/premium593/index.m3u8|Origin=https://streamservicehd.click
+https://webudit.vipboxtv.stream/lb/premium593/index.m3u8|Origin=https://streamservicehd.click
 #EXTINF:-1 tvg-logo="https://iptvboss.xyz/logos/New_Zealand/SKYSport7.nz.png" group-title="Sports",Sky Sport NZ 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://webudit.webdicdn.lol/lb/premium594/index.m3u8|Origin=https://streamservicehd.click
+https://webudit.vipboxtv.stream/lb/premium594/index.m3u8|Origin=https://streamservicehd.click
 #EXTINF:-1 tvg-logo="https://iptvboss.xyz/logos/New_Zealand/SKYSport8.nz.png" group-title="Sports",Sky Sport NZ 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://webudit.webdicdn.lol/lb/premium595/index.m3u8|Origin=https://streamservicehd.click
+https://webudit.vipboxtv.stream/lb/premium595/index.m3u8|Origin=https://streamservicehd.click
 #EXTINF:-1 tvg-logo="https://iptvboss.xyz/logos/New_Zealand/SKYSport9.nz.png" group-title="Sports",Sky Sport NZ 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://webudit.webdicdn.lol/lb/premium596/index.m3u8|Origin=https://streamservicehd.click
+https://webudit.vipboxtv.stream/lb/premium596/index.m3u8|Origin=https://streamservicehd.click
 
 #EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://i.postimg.cc/3w9j213r/Media-Handler-1-removebg-preview.png",Siminn Sport HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -551,76 +551,76 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd|Re
 #EXTINF:-1 tvg-id="SuperSportAction.za" tvg-name="SuperSport Action" tvg-logo="https://supersport-cms-prod.azureedge.net/media/vmvnci34/action_100x100.png?width=100" group-title="Sports",SuperSport Action
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webudit.webdicdn.lol/lb/premium420/index.m3u8
+https://webudit.vipboxtv.stream/lb/premium420/index.m3u8
 #EXTINF:-1 tvg-id="SuperSportGolf.za" tvg-name="SuperSport Golf" tvg-logo="https://supersport-cms-prod.azureedge.net/media/1fzlomzq/golf_100x100.png?width=100" group-title="Sports",SuperSport Golf
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webudit.webdicdn.lol/lb/premium422/index.m3u8
+https://webudit.vipboxtv.stream/lb/premium422/index.m3u8
 #EXTINF:-1 tvg-id="SuperSportGrandstand.za" tvg-name="SuperSport Grandstand"  tvg-logo="https://supersport-cms-prod.azureedge.net/media/aq5docjr/grandstand_100x100.png?width=100" group-title="Sports",SuperSport Grandstand
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webudit.webdicdn.lol/lb/premium412/index.m3u8
+https://webudit.vipboxtv.stream/lb/premium412/index.m3u8
 #EXTINF:-1 tvg-id="SuperSportPSL.za" tvg-name="SuperSport PSL" tvg-logo="https://supersport-cms-prod.azureedge.net/media/xm4pazop/psl_100x100.png?width=100" group-title="Sports",SuperSport PSL
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webudit.webdicdn.lol/lb/premium413/index.m3u8
+https://webudit.vipboxtv.stream/lb/premium413/index.m3u8
 #EXTINF:-1 tvg-id="SuperSportPremierLeague.za" tvg-name="SuperSport Premier League" tvg-logo="https://supersport-cms-prod.azureedge.net/media/c5fhptso/premier_league_100x100.png?width=100" group-title="Sports",SuperSport Premier League
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webudit.webdicdn.lol/lb/premium414/index.m3u8
+https://webudit.vipboxtv.stream/lb/premium414/index.m3u8
 #EXTINF:-1 tvg-id="SuperSportFootball.za" tvg-name="SuperSport Football" tvg-logo="https://supersport-cms-prod.azureedge.net/media/ojff2zjp/football_100x100.png?width=100" group-title="Sports",SuperSport Football
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webudit.webdicdn.lol/lb/premium56/index.m3u8
+https://webudit.vipboxtv.stream/lb/premium56/index.m3u8
 #EXTINF:-1 tvg-id="SuperSportLaLiga.za" tvg-name="SuperSport LaLiga" tvg-logo="https://supersport-cms-prod.azureedge.net/media/3ibh4gw2/laliga_100x100.png?width=100" group-title="Sports",SuperSport LaLiga
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webudit.webdicdn.lol/lb/premium415/index.m3u8
+https://webudit.vipboxtv.stream/lb/premium415/index.m3u8
 #EXTINF:-1 tvg-id="SuperSportMotorsport.za" tvg-name="SuperSport Motorsport" tvg-logo="https://supersport-cms-prod.azureedge.net/media/l5vekroz/motorsport_100x100.png?width=100" group-title="Sports",SuperSport Motorsports
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webudit.webdicdn.lol/lb/premium424/index.m3u8
+https://webudit.vipboxtv.stream/lb/premium424/index.m3u8
 #EXTINF:-1 tvg-id="SuperSportRugby.za" tvg-name="SuperSport Rugby" tvg-logo="https://supersport-cms-prod.azureedge.net/media/wlaj051b/rugby_100x100.png?width=100" group-title="Sports",SuperSport Rugby
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webudit.webdicdn.lol/lb/premium421/index.m3u8
+https://webudit.vipboxtv.stream/lb/premium421/index.m3u8
 #EXTINF:-1 tvg-id="SuperSportTennis.za" tvg-name="SuperSport Tennis" tvg-logo="https://supersport-cms-prod.azureedge.net/media/yiiefgd2/tennis_100x100.png?width=100" group-title="Sports",SuperSport Tennis
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webudit.webdicdn.lol/lb/premium423/index.m3u8
+https://webudit.vipboxtv.stream/lb/premium423/index.m3u8
 #EXTINF:-1 tvg-id="SuperSportVariety1.za" tvg-name="SuperSport Variety 1" tvg-logo="https://supersport-cms-prod.azureedge.net/media/rzfgq33s/variety1_100x100.png?width=100" group-title="Sports",SuperSport Variety 1
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webudit.webdicdn.lol/lb/premium416/index.m3u8
+https://webudit.vipboxtv.stream/lb/premium416/index.m3u8
 #EXTINF:-1 tvg-id="SuperSportVariety2.za" tvg-name="SuperSport Variety 2" tvg-logo="https://supersport-cms-prod.azureedge.net/media/bizfe1jw/variety2_100x100.png?width=100" group-title="Sports",SuperSport Variety 2
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webudit.webdicdn.lol/lb/premium417/index.m3u8
+https://webudit.vipboxtv.stream/lb/premium417/index.m3u8
 #EXTINF:-1 tvg-id="SuperSportVariety3.za" tvg-name="SuperSport Variety 3" tvg-logo="https://supersport-cms-prod.azureedge.net/media/zeeddnlh/variety3_100x100.png?width=100" group-title="Sports",SuperSport Variety 3
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webudit.webdicdn.lol/lb/premium418/index.m3u8
+https://webudit.vipboxtv.stream/lb/premium418/index.m3u8
 #EXTINF:-1 tvg-id="SuperSportVariety4.za" tvg-name="SuperSport Variety 4" tvg-logo="https://supersport-cms-prod.azureedge.net/media/v1rgxmj4/variety4_100x100.png?width=100" group-title="Sports",SuperSport Variety 4
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webudit.webdicdn.lol/lb/premium419/index.m3u8
+https://webudit.vipboxtv.stream/lb/premium419/index.m3u8
 
 #EXTINF:-1 tvg-id="BTSport1.uk" tvg-logo="https://iptvboss.xyz/logos/UK/TNTSports1.uk.png" group-title="Sports",TNT Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://webudit.webdicdn.lol/lb/premium31/index.m3u8
+https://webudit.vipboxtv.stream/lb/premium31/index.m3u8
 #EXTINF:-1 tvg-id="BTSport2.uk" tvg-logo="https://iptvboss.xyz/logos/UK/TNTSports2.uk.png" group-title="Sports",TNT Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://webudit.webdicdn.lol/lb/premium32/index.m3u8
+https://webudit.vipboxtv.stream/lb/premium32/index.m3u8
 #EXTINF:-1 tvg-id="BTSport3.uk" tvg-logo="https://iptvboss.xyz/logos/UK/TNTSports3.uk.png" group-title="Sports",TNT Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://webudit.webdicdn.lol/lb/premium33/index.m3u8
+https://webudit.vipboxtv.stream/lb/premium33/index.m3u8
 #EXTINF:-1 tvg-id="BT.Sport.4.uk" tvg-logo="https://iptvboss.xyz/logos/UK/TNTSports4.uk.png" group-title="Sports",TNT Sports 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://webudit.webdicdn.lol/lb/premium34/index.m3u8
+https://webudit.vipboxtv.stream/lb/premium34/index.m3u8
 
 #EXTINF:-1 tvg-id="TruePremierFootball1.th" tvg-logo="https://i.imgur.com/9FJknMK.png" group-title="Sports",True Premier Football 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
@@ -641,21 +641,21 @@ https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8|Referer=h
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/q1yhhRj.png",TSN 1
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webudit.webdicdn.lol/lb/premium111/index.m3u8
+https://webudit.vipboxtv.stream/lb/premium111/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/680hiFp.png",TSN 2
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webudit.webdicdn.lol/lb/premium112/index.m3u8
+https://webudit.vipboxtv.stream/lb/premium112/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/QyYi6Lx.png",TSN 3
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webudit.webdicdn.lol/lb/premium113/index.m3u8
+https://webudit.vipboxtv.stream/lb/premium113/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/N4PzLSz.png",TSN 4
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webudit.webdicdn.lol/lb/premium114/index.m3u8
+https://webudit.vipboxtv.stream/lb/premium114/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/t7x15qR.png",TSN 5
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webudit.webdicdn.lol/lb/premium115/index.m3u8
+https://webudit.vipboxtv.stream/lb/premium115/index.m3u8
 
