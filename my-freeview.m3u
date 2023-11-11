@@ -365,32 +365,32 @@ https://cdn3.skygo.mn/live/disk1/SPSFight/HLS-FTA/SPSFight.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.goplus.mn/images/repository/850/850-LOGO-m.png" group-title="Sports",Premier Sports 5 
 https://cdn3.skygo.mn/live/disk1/SPSPlus/HLS-FTA/SPSPlus.m3u8
 
-#EXTINF:-1 tvg-id=“telekomsport1.ro” group-title=“Sports” tvg-logo=“https://iptvboss.xyz/logos/Romania/OrangeSport1.ro.png",Orange Sport 1
+#EXTINF:-1 tvg-id=“telekomsport1.ro" group-title=“Sports" tvg-logo=“https://iptvboss.xyz/logos/Romania/OrangeSport1.ro.png",Orange Sport 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={“keys”:[{“kty”:“oct”, “k”:“gGVzp0eJppZRwWLaTbtVJg”, “kid”:“sRUX3jEvyrXLoGvjXkghOA”}], “type”:“temporary”}
+#KODIPROP:inputstream.adaptive.license_key={“keys":[{“kty":“oct", “k":“gGVzp0eJppZRwWLaTbtVJg", “kid":“sRUX3jEvyrXLoGvjXkghOA"}], “type":“temporary"}
 https://ott1.cyberhost.ro/sdash/LIVE$DolceSportHD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
 
-#EXTINF:-1 tvg-id=“telekomsport2.ro” group-title=“Sports” tvg-logo=“https://iptvboss.xyz/logos/Romania/OrangeSport2.ro.png",Orange Sport 2
+#EXTINF:-1 tvg-id=“telekomsport2.ro" group-title=“Sports" tvg-logo=“https://iptvboss.xyz/logos/Romania/OrangeSport2.ro.png",Orange Sport 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={“keys”:[{“kty”:“oct”, “k”:“MHv4idkpaf/TAU3dtnmZ9g”, “kid”:“91MCzbBKCeQ/FTCVvKzRIw”}], “type”:“temporary”}
+#KODIPROP:inputstream.adaptive.license_key={“keys":[{“kty":“oct", “k":“MHv4idkpaf/TAU3dtnmZ9g", “kid":“91MCzbBKCeQ/FTCVvKzRIw"}], “type":“temporary"}
 https://ott1.cyberhost.ro/sdash/LIVE$DolceSport2HD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
 
-#EXTINF:-1 tvg-id=“telekomsport3.ro” group-title=“Sports” tvg-logo=“https://iptvboss.xyz/logos/Romania/OrangeSport3.ro.png",Orange Sport 3
+#EXTINF:-1 tvg-id=“telekomsport3.ro" group-title=“Sports" tvg-logo=“https://iptvboss.xyz/logos/Romania/OrangeSport3.ro.png",Orange Sport 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={“keys”:[{“kty”:“oct”, “k”:“HNKJrHHOX7MGpedlMZLOOg”, “kid”:“uHhXunTOA/n6KGbx4IbQXQ”}], “type”:“temporary”}
+#KODIPROP:inputstream.adaptive.license_key={“keys":[{“kty":“oct", “k":“HNKJrHHOX7MGpedlMZLOOg", “kid":“uHhXunTOA/n6KGbx4IbQXQ"}], “type":“temporary"}
 https://ott1.cyberhost.ro/sdash/LIVE$DolceSport3/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
 
-#EXTINF:-1 tvg-id=“telekomsport4.ro” group-title=“Sports” tvg-logo=“https://iptvboss.xyz/logos/Romania/OrangeSport4.ro.png",Orange Sport 4
+#EXTINF:-1 tvg-id=“telekomsport4.ro" group-title=“Sports" tvg-logo=“https://iptvboss.xyz/logos/Romania/OrangeSport4.ro.png",Orange Sport 4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={“keys”:[{“kty”:“oct”, “k”:“zdOZhpBXvDTIJ/JX9WJkOg”, “kid”:“ICqSfNkTEB3nZbDluz9QDw”}], “type”:“temporary”}
+#KODIPROP:inputstream.adaptive.license_key={“keys":[{“kty":“oct", “k":“zdOZhpBXvDTIJ/JX9WJkOg", “kid":“ICqSfNkTEB3nZbDluz9QDw"}], “type":“temporary"}
 https://ott1.cyberhost.ro/sdash/LIVE$DolceSport4/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://iptvboss.xyz/logos/Romania/PrimaSport1.ro.png",Prima Sports 1
