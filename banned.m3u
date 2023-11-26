@@ -1,0 +1,4 @@
+#EXTM3U url-tvg="https://github.com/AqFad2811/epg/raw/main/epg.xml,https://www.bevy.be/bevyfiles/unitedkingdom.xml,https://www.bevy.be/bevyfiles/unitedstates.xml,https://www.bevy.be/bevyfiles/thailand.xml" m3uautoload=1 cache=500 deinterlace=1
+
+#EXTINF:-1 tvg-id="" group-title="Banned" tvg-logo="https://cdn5.vectorstock.com/i/1000x1000/20/29/banned-round-red-grunge-stamp-vector-16682029.jpg",Banned
+http://yougotbannedbro.net
