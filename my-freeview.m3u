@@ -13,27 +13,16 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 #EXTVLCOPT:http-referer=https://rtmklik.rtm.gov.my
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 #EXTINF:-1 tvg-id="TV3" group-title="Malaysia" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/unifitv/tv3/
-https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
+https://live-streams-ssai-01.tonton.com.my/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/live.isml/.m3u8
 #EXTINF:-1 tvg-id="TV6" group-title="Malaysia" tvg-logo="https://rtm-images.glueapi.io/480x0/live_channel/tv6_Trans.png",TV6
 #EXTVLCOPT:http-referer=https://rtmklik.rtm.gov.my
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
 #EXTINF:-1 tvg-id="DidikTVKPM" group-title="Malaysia" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202102/20210223/20210223181442797931.png",Didik TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/unifitv/didiktvkpm/
-https://unifi-live06.secureswiftcontent.com/UnifiHD/live06.mpd
+https://live-streams-ssai-01.tonton.com.my/live/0e27ef78-4cc9-4c62-bec9-5c946c9e7354/live.isml/.m3u8
 #EXTINF:-1 tvg-id="8TV" group-title="Malaysia" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708074041526yld.png",8TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/unifitv/8tv/
-https://unifi-live08.secureswiftcontent.com/UnifiHD/live08.mpd
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/live.isml/.m3u8
 #EXTINF:-1 tvg-id="TV9" group-title="Malaysia" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202202/20220217/20220217003547137q8t.png",TV9
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/unifitv/tv9/
-https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
+https://live-streams-ssai-01.tonton.com.my/live/2020783a-0303-401a-9c92-b7c3c9108c0b/live.isml/.m3u8
 #EXTINF:-1 tvg-id="OKEY" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/97_144.png",Okey
 #EXTVLCOPT:http-referer=https://rtmklik.rtm.gov.my
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
@@ -131,120 +120,120 @@ https://webhdrus.onlinehdhls.ru/lb/premium370/index.m3u8|Origin=https://claplive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-017/stream.mpd
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-017/stream.mpd|User-Agent=OTT Navigator/1.7.0.2 (Linux;Android 10; nbwey2) ExoPlayerLib/2.15.1
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/Vu9LhmS.png",Dazn 2 DE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-018/stream.mpd
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-018/stream.mpd|User-Agent=OTT Navigator/1.7.0.2 (Linux;Android 10; nbwey2) ExoPlayerLib/2.15.1
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/Vu9LhmS.png",Dazn 1 ES
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-037/stream.mpd
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-037/stream.mpd|User-Agent=OTT Navigator/1.7.0.2 (Linux;Android 10; nbwey2) ExoPlayerLib/2.15.1
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/Vu9LhmS.png",Dazn 2 ES
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-038/stream.mpd
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-038/stream.mpd|User-Agent=OTT Navigator/1.7.0.2 (Linux;Android 10; nbwey2) ExoPlayerLib/2.15.1
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/Vu9LhmS.png",Dazn F1 ES
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-016/stream.mpd
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-016/stream.mpd|User-Agent=OTT Navigator/1.7.0.2 (Linux;Android 10; nbwey2) ExoPlayerLib/2.15.1
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://iptvboss.xyz/logos/Belgium/ElevenSports1.be.png",Eleven Sports 1 BE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-048/stream.mpd
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-048/stream.mpd|User-Agent=OTT Navigator/1.7.0.2 (Linux;Android 10; nbwey2) ExoPlayerLib/2.15.1
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://iptvboss.xyz/logos/Belgium/ElevenProLeague1FR.be.png",Eleven Pro League 1 BE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-049/stream.mpd
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-049/stream.mpd|User-Agent=OTT Navigator/1.7.0.2 (Linux;Android 10; nbwey2) ExoPlayerLib/2.15.1
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://iptvboss.xyz/logos/Belgium/ElevenProLeague1FR.be.png",Eleven Pro League 1 BE (French language)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-050/stream.mpd
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-050/stream.mpd|User-Agent=OTT Navigator/1.7.0.2 (Linux;Android 10; nbwey2) ExoPlayerLib/2.15.1
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://iptvboss.xyz/logos/Belgium/PlaySports1.be.png",Play Sports 1 BE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-051/stream.mpd
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-051/stream.mpd|User-Agent=OTT Navigator/1.7.0.2 (Linux;Android 10; nbwey2) ExoPlayerLib/2.15.1
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://iptvboss.xyz/logos/Belgium/PlaySports2.be.png",Play Sports 2 BE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-052/stream.mpd
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-052/stream.mpd|User-Agent=OTT Navigator/1.7.0.2 (Linux;Android 10; nbwey2) ExoPlayerLib/2.15.1
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://iptvboss.xyz/logos/Belgium/PlaySports3.be.png",Play Sports 3 BE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-053/stream.mpd
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-053/stream.mpd|User-Agent=OTT Navigator/1.7.0.2 (Linux;Android 10; nbwey2) ExoPlayerLib/2.15.1
 
 #EXTINF:-1 tvg-id="ELEVEN.1.pt" group-title="Sports" tvg-logo="https://iptvboss.xyz/logos/Portugal/ELEVENSPORTS1.pt.png",Eleven Sports 1 PT
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-054/stream.mpd
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-054/stream.mpd|User-Agent=OTT Navigator/1.7.0.2 (Linux;Android 10; nbwey2) ExoPlayerLib/2.15.1
 
 #EXTINF:-1 tvg-id="ELEVEN.2..pt" group-title="Sports" tvg-logo="https://iptvboss.xyz/logos/Portugal/ELEVENSPORTS2.pt.png",Eleven Sports 2 PT
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-055/stream.mpd
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-055/stream.mpd|User-Agent=OTT Navigator/1.7.0.2 (Linux;Android 10; nbwey2) ExoPlayerLib/2.15.1
 
 #EXTINF:-1 tvg-id="ELEVEN.3..pt" group-title="Sports" tvg-logo="https://iptvboss.xyz/logos/Portugal/ELEVENSPORTS3.pt.png",Eleven Sports 3 PT
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-056/stream.mpd
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-056/stream.mpd|User-Agent=OTT Navigator/1.7.0.2 (Linux;Android 10; nbwey2) ExoPlayerLib/2.15.1
 
 #EXTINF:-1 tvg-id="ELEVEN.4..pt" group-title="Sports" tvg-logo="https://iptvboss.xyz/logos/Portugal/ELEVENSPORTS4.pt.png",Eleven Sports 4 PT
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-057/stream.mpd
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-057/stream.mpd|User-Agent=OTT Navigator/1.7.0.2 (Linux;Android 10; nbwey2) ExoPlayerLib/2.15.1
 
 #EXTINF:-1 tvg-id="ELEVEN.5..pt" group-title="Sports" tvg-logo="https://iptvboss.xyz/logos/Portugal/ELEVENSPORTS5.pt.png",Eleven Sports 5 PT
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-058/stream.mpd
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-058/stream.mpd|User-Agent=OTT Navigator/1.7.0.2 (Linux;Android 10; nbwey2) ExoPlayerLib/2.15.1
 
 #EXTINF:-1 tvg-id="ELEVEN.6..pt" group-title="Sports" tvg-logo="https://iptvboss.xyz/logos/Portugal/ELEVENSPORTS6.pt.png",Eleven Sports 6 PT
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-059/stream.mpd
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-059/stream.mpd|User-Agent=OTT Navigator/1.7.0.2 (Linux;Android 10; nbwey2) ExoPlayerLib/2.15.1
 
 #EXTINF:-1 tvg-id="telekomsport1.ro" group-title="Sports" tvg-logo="https://iptvboss.xyz/logos/Romania/OrangeSport1.ro.png",Orange Sport 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -278,28 +267,28 @@ https://ott1.cyberhost.ro/sdash/LIVE$DolceSport4/index.mpd/Manifest?start=LIVE&e
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=49e2aa7ed50fc98b895023c87a32a183&key=57062665c1ef8481911e68e17655c8ec
+#KODIPROP:inputstream.adaptive.license_key=49e2aa7ed50fc98b895023c87a32a183:57062665c1ef8481911e68e17655c8ec
 https://ott.cyberhost.ro/sdash/LIVE$LookPlus/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://iptvboss.xyz/logos/Romania/PrimaSport2.ro.png",Prima Sports 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=96c311676c08545ea6aae37668e4a0df&key=64fca4a48c14d2b32afcd53971cfa62c
+#KODIPROP:inputstream.adaptive.license_key=96c311676c08545ea6aae37668e4a0df:64fca4a48c14d2b32afcd53971cfa62c
 https://ott.cyberhost.ro/sdash/LIVE$LookTVHD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://iptvboss.xyz/logos/Romania/PrimaSport3.ro.png",Prima Sports 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=9404e7ae27dce22d69d41ffc29197cef&key=a6177128238fe775d5c74803e15ac175
+#KODIPROP:inputstream.adaptive.license_key=9404e7ae27dce22d69d41ffc29197cef:a6177128238fe775d5c74803e15ac175
 https://ott1.cyberhost.ro/sdash/LIVE$LookSport3HD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://iptvboss.xyz/logos/Romania/PrimaSport4.ro.png",Prima Sports 4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=c68ec2e525d8406b6c3cedbac72debae&key=a0f28f93fb9834d331df3ddedeb8a565
+#KODIPROP:inputstream.adaptive.license_key=c68ec2e525d8406b6c3cedbac72debae:a0f28f93fb9834d331df3ddedeb8a565
 https://ott.cyberhost.ro/sdash/LIVE$LookSport2HD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
 
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://i.imgur.com/i8xdURd.png" group-title="Sports",Sky Sports Main Event
