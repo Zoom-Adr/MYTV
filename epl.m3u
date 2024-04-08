@@ -1,30 +1,5 @@
 #EXTM3U url-tvg="https://github.com/AqFad2811/epg/raw/main/epg.xml,https://www.bevy.be/bevyfiles/unitedkingdom.xml,https://www.bevy.be/bevyfiles/unitedstates.xml,https://www.bevy.be/bevyfiles/thailand.xml" m3uautoload=1 cache=500 deinterlace=1
 
-#EXTINF:-1 tvg-logo="https://www.irishiptv.com/wp-content/uploads/2023/12/Hub-Premier.png" group-title="Sports",Starhub Premier 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium153/index.m3u8|Origin=https://claplivehdplay.ru/
-#EXTINF:-1 tvg-logo="https://www.irishiptv.com/wp-content/uploads/2023/12/Hub-Premier.png" group-title="Sports",Starhub Premier 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium158/index.m3u8|Origin=https://claplivehdplay.ru/
-#EXTINF:-1 tvg-logo="https://www.irishiptv.com/wp-content/uploads/2023/12/Hub-Premier.png" group-title="Sports",Starhub Premier 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium156/index.m3u8|Origin=https://claplivehdplay.ru/
-#EXTINF:-1 tvg-logo="https://www.irishiptv.com/wp-content/uploads/2023/12/Hub-Premier.png" group-title="Sports",Starhub Premier 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium157/index.m3u8|Origin=https://claplivehdplay.ru/
-#EXTINF:-1 tvg-logo="https://www.irishiptv.com/wp-content/uploads/2023/12/Hub-Premier.png" group-title="Sports",Starhub Premier 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium153/index.m3u8|Origin=https://claplivehdplay.ru/
-#EXTINF:-1 tvg-logo="https://www.irishiptv.com/wp-content/uploads/2023/12/Hub-Premier.png" group-title="Sports",Starhub Premier 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium154/index.m3u8|Origin=https://claplivehdplay.ru/
-
 #EXTINF:-1 tvg-logo="https://iptvboss.xyz/logos/New_Zealand/SKYSportSelect.nz.png" group-title="Sports",Sky Sport NZ Select
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
