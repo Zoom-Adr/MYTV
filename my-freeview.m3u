@@ -607,6 +607,13 @@ https://webhdrunns.onlinehdhls.ru/lb/premium114/index.m3u8|Origin=https://lewbli
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://webhdrunns.onlinehdhls.ru/lb/premium115/index.m3u8|Origin=https://lewblivehdplay.ru/
 
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyoqiCc0M-DaPWS6LNQBjPF_8Yic65IhRPAfKnJ0yu8C9aUiwTSlnQFrzGpRM&s" tvg-id="viaplaysports1.uk" tvg-name="Viaplay Sports 1 UK" group-title="Sports",Viaplay Sports 1 UK (DAD)
+#EXTHTTP:{"Origin": "https://lewblivehdplay.ru", "Referer": "https://claplivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrunns.onlinehdhls.ru/lb/premium451/index.m3u8
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyoqiCc0M-DaPWS6LNQBjPF_8Yic65IhRPAfKnJ0yu8C9aUiwTSlnQFrzGpRM&s" tvg-id="viaplaysports2.uk" tvg-name="Viaplay Sports 2 UK" group-title="Sports",Viaplay Sports 2 UK (DAD)
+#EXTHTTP:{"Origin": "https://lewblivehdplay.ru", "Referer": "https://claplivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrunns.onlinehdhls.ru/lb/premium550/index.m3u8
+
 #EXTINF:-1 tvg-ID="Viaplay.Sports.1.HD.uk" group-title="Sports" tvg-logo="https://images.premierplayer.tv/uk-channel-logos/select-prem1-v3.png",Viaplay Sports 1 UK
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
