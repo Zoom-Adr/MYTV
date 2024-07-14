@@ -63,24 +63,24 @@ https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.m
 
 #EXTINF:-1 tvg-id="AstroSupersport" tvg-name="Astro SuperSport" tvg-logo="https://i.imgur.com/YqQIrY0.png" group-title="Sports",Astro SuperSport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
-https://webhdrunns.mizhls.ru/lb/premium123/index.m3u8|Origin=https://qqwebplay.xyz
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium123/index.m3u8|Origin=https://qqwebplay.xyz
 #EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="Astro SuperSport 2" tvg-logo="https://i.imgur.com/4wXmnDY.png" group-title="Sports",Astro SuperSport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
-https://webhdrunns.mizhls.ru/lb/premium124/index.m3u8|Origin=https://qqwebplay.xyz
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium124/index.m3u8|Origin=https://qqwebplay.xyz
 #EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="Astro SuperSport 3" tvg-logo="https://i.imgur.com/3SFILZl.png" group-title="Sports",Astro SuperSport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
-https://webhdrunns.mizhls.ru/lb/premium125/index.m3u8|Origin=https://qqwebplay.xyz
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium125/index.m3u8|Origin=https://qqwebplay.xyz
 #EXTINF:-1 tvg-id="AstroSupersport4" tvg-name="Astro SuperSport 4" tvg-logo="https://i.imgur.com/v6cGRFh.png" group-title="Sports",Astro SuperSport 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
-https://webhdrunns.mizhls.ru/lb/premium126/index.m3u8|Origin=https://qqwebplay.xyz
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium126/index.m3u8|Origin=https://qqwebplay.xyz
 #EXTINF:-1 tvg-id="AstroSupersport5" tvg-name="Astro SuperSport 5" tvg-logo="https://i.imgur.com/jb1igcv.png" group-title="Sports",Astro SuperSport 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
-https://webhdrunns.mizhls.ru/lb/premium43/index.m3u8|Origin=https://qqwebplay.xyz
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium43/index.m3u8|Origin=https://qqwebplay.xyz
 
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png" group-title="Sports",BeIN Sports 1 AIS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -113,8 +113,8 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd
 
 #EXTINF:-1 tvg-id="AstroCricket" group-title="Sports" ch-number="815" tvg-logo="https://i.imgur.com/ksIvZI4.png",Cricket
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
-https://webhdrunns.mizhls.ru/lb/premium370/index.m3u8|Origin=https://qqwebplay.xyz
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium370/index.m3u8|Origin=https://qqwebplay.xyz
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/Vu9LhmS.png",Dazn 1 DE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -406,85 +406,85 @@ https://ott.cyberhost.ro/sdash/LIVE$LookSport2HD/index.mpd/Manifest?start=LIVE&e
 
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://i.imgur.com/i8xdURd.png" group-title="Sports",Sky Sports Main Event
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
-https://webhdrunns.mizhls.ru/lb/premium38/index.m3u8|Origin=https://qqwebplay.xyz
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium38/index.m3u8|Origin=https://qqwebplay.xyz
 #EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://i.imgur.com/uZeyNBC.png" group-title="Sports",Sky Sports Premier League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
-https://webhdrunns.mizhls.ru/lb/premium130/index.m3u8|Origin=https://qqwebplay.xyz
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium130/index.m3u8|Origin=https://qqwebplay.xyz
 #EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://i.imgur.com/0Ze3U4H.png" group-title="Sports",Sky Sports Football
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
-https://webhdrunns.mizhls.ru/lb/premium35/index.m3u8|Origin=https://qqwebplay.xyz
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium35/index.m3u8|Origin=https://qqwebplay.xyz
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.imgur.com/3pySViT.png" group-title="Sports",Sky Sports F1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
-https://webhdrunns.mizhls.ru/lb/premium60/index.m3u8|Origin=https://qqwebplay.xyz
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium60/index.m3u8|Origin=https://qqwebplay.xyz
 #EXTINF:-1 tvg-id="SkySp.ArenaHD.uk" tvg-logo="https://i.imgur.com/YcPGCZ5.png" group-title="Sports",Sky Sports Arena
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
-https://webhdrunns.mizhls.ru/lb/premium36/index.m3u8|Origin=https://qqwebplay.xyz
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium36/index.m3u8|Origin=https://qqwebplay.xyz
 #EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-logo="https://i.imgur.com/dKfTBbL.png" group-title="Sports",Sky Sports Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
-https://webhdrunns.mizhls.ru/lb/premium37/index.m3u8|Origin=https://qqwebplay.xyz
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium37/index.m3u8|Origin=https://qqwebplay.xyz
 #EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://i.imgur.com/BoB4qIE.png" group-title="Sports",Sky Sports Golf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
-https://webhdrunns.mizhls.ru/lb/premium70/index.m3u8|Origin=https://qqwebplay.xyz
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium70/index.m3u8|Origin=https://qqwebplay.xyz
 #EXTINF:-1 tvg-id="SkySpCricket.HD.uk" tvg-logo="https://i.imgur.com/pyCr9fB.png" group-title="Sports",Sky Sports Cricket
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
-https://webhdrunns.mizhls.ru/lb/premium65/index.m3u8|Origin=https://qqwebplay.xyz
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium65/index.m3u8|Origin=https://qqwebplay.xyz
 #EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://i.imgur.com/L9nSw5W.png" group-title="Sports",Sky Sports Mix
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
-https://webhdrunns.mizhls.ru/lb/premium449/index.m3u8|Origin=https://qqwebplay.xyz
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium449/index.m3u8|Origin=https://qqwebplay.xyz
 #EXTINF:-1 tvg-id="SkySp.Racing.HD.uk" tvg-logo="https://i.imgur.com/d6Kzla9.png" group-title="Sports",Sky Sports Racing
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
-https://webhdrunns.mizhls.ru/lb/premium554/index.m3u8|Origin=https://qqwebplay.xyz
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium554/index.m3u8|Origin=https://qqwebplay.xyz
 
 #EXTINF:-1 tvg-logo="https://iptvboss.xyz/logos/New_Zealand/SKYSportSelect.nz.png" group-title="Sports",Sky Sport NZ Select
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
-https://webhdrunns.mizhls.ru/lb/premium587/index.m3u8|Origin=https://qqwebplay.xyz
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium587/index.m3u8|Origin=https://qqwebplay.xyz
 #EXTINF:-1 tvg-logo="https://iptvboss.xyz/logos/New_Zealand/SKYSport1.nz.png" group-title="Sports",Sky Sport NZ 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
-https://webhdrunns.mizhls.ru/lb/premium588/index.m3u8|Origin=https://qqwebplay.xyz
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium588/index.m3u8|Origin=https://qqwebplay.xyz
 #EXTINF:-1 tvg-logo="https://iptvboss.xyz/logos/New_Zealand/SKYSport2.nz.png" group-title="Sports",Sky Sport NZ 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
-https://webhdrunns.mizhls.ru/lb/premium589/index.m3u8|Origin=https://qqwebplay.xyz
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium589/index.m3u8|Origin=https://qqwebplay.xyz
 #EXTINF:-1 tvg-logo="https://iptvboss.xyz/logos/New_Zealand/SKYSport3.nz.png" group-title="Sports",Sky Sport NZ 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
-https://webhdrunns.mizhls.ru/lb/premium590/index.m3u8|Origin=https://qqwebplay.xyz
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium590/index.m3u8|Origin=https://qqwebplay.xyz
 #EXTINF:-1 tvg-logo="https://iptvboss.xyz/logos/New_Zealand/SKYSport4.nz.png" group-title="Sports",Sky Sport NZ 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
-https://webhdrunns.mizhls.ru/lb/premium591/index.m3u8|Origin=https://qqwebplay.xyz
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium591/index.m3u8|Origin=https://qqwebplay.xyz
 #EXTINF:-1 tvg-logo="https://iptvboss.xyz/logos/New_Zealand/SKYSport5.nz.png" group-title="Sports",Sky Sport NZ 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
-https://webhdrunns.mizhls.ru/lb/premium592/index.m3u8|Origin=https://qqwebplay.xyz
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium592/index.m3u8|Origin=https://qqwebplay.xyz
 #EXTINF:-1 tvg-logo="https://iptvboss.xyz/logos/New_Zealand/SKYSport6.nz.png" group-title="Sports",Sky Sport NZ 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
-https://webhdrunns.mizhls.ru/lb/premium593/index.m3u8|Origin=https://qqwebplay.xyz
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium593/index.m3u8|Origin=https://qqwebplay.xyz
 #EXTINF:-1 tvg-logo="https://iptvboss.xyz/logos/New_Zealand/SKYSport7.nz.png" group-title="Sports",Sky Sport NZ 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
-https://webhdrunns.mizhls.ru/lb/premium594/index.m3u8|Origin=https://qqwebplay.xyz
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium594/index.m3u8|Origin=https://qqwebplay.xyz
 #EXTINF:-1 tvg-logo="https://iptvboss.xyz/logos/New_Zealand/SKYSport8.nz.png" group-title="Sports",Sky Sport NZ 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
-https://webhdrunns.mizhls.ru/lb/premium595/index.m3u8|Origin=https://qqwebplay.xyz
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium595/index.m3u8|Origin=https://qqwebplay.xyz
 #EXTINF:-1 tvg-logo="https://iptvboss.xyz/logos/New_Zealand/SKYSport9.nz.png" group-title="Sports",Sky Sport NZ 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
-https://webhdrunns.mizhls.ru/lb/premium596/index.m3u8|Origin=https://qqwebplay.xyz
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium596/index.m3u8|Origin=https://qqwebplay.xyz
 
 #EXTINF:-1 tvg-id="SPOTV.id" group-title="Sports" tvg-logo="https://i.imgur.com/4VennQx.png",SPOTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -497,78 +497,78 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd|Refe
 https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd|Referer=https://www.visionplus.id/
 
 #EXTINF:-1 tvg-id="SuperSportAction.za" tvg-name="SuperSport Action" tvg-logo="https://supersport-cms-prod.azureedge.net/media/vmvnci34/action_100x100.png?width=100" group-title="Sports",SuperSport Action
-#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-https://webhdrunns.mizhls.ru/lb/premium420/index.m3u8|Origin=https://qqwebplay.xyz
+https://webhdrus.onlinehdhls.ru/lb/premium420/index.m3u8|Origin=https://qqwebplay.xyz
 #EXTINF:-1 tvg-id="SuperSportGolf.za" tvg-name="SuperSport Golf" tvg-logo="https://supersport-cms-prod.azureedge.net/media/1fzlomzq/golf_100x100.png?width=100" group-title="Sports",SuperSport Golf
-#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-https://webhdrunns.mizhls.ru/lb/premium422/index.m3u8|Origin=https://qqwebplay.xyz
+https://webhdrus.onlinehdhls.ru/lb/premium422/index.m3u8|Origin=https://qqwebplay.xyz
 #EXTINF:-1 tvg-id="SuperSportGrandstand.za" tvg-name="SuperSport Grandstand"  tvg-logo="https://supersport-cms-prod.azureedge.net/media/aq5docjr/grandstand_100x100.png?width=100" group-title="Sports",SuperSport Grandstand
-#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-https://webhdrunns.mizhls.ru/lb/premium412/index.m3u8|Origin=https://qqwebplay.xyz
+https://webhdrus.onlinehdhls.ru/lb/premium412/index.m3u8|Origin=https://qqwebplay.xyz
 #EXTINF:-1 tvg-id="SuperSportPSL.za" tvg-name="SuperSport PSL" tvg-logo="https://supersport-cms-prod.azureedge.net/media/xm4pazop/psl_100x100.png?width=100" group-title="Sports",SuperSport PSL
-#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-https://webhdrunns.mizhls.ru/lb/premium413/index.m3u8|Origin=https://qqwebplay.xyz
+https://webhdrus.onlinehdhls.ru/lb/premium413/index.m3u8|Origin=https://qqwebplay.xyz
 #EXTINF:-1 tvg-id="SuperSportPremierLeague.za" tvg-name="SuperSport Premier League" tvg-logo="https://supersport-cms-prod.azureedge.net/media/c5fhptso/premier_league_100x100.png?width=100" group-title="Sports",SuperSport Premier League
-#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-https://webhdrunns.mizhls.ru/lb/premium414/index.m3u8|Origin=https://qqwebplay.xyz
+https://webhdrus.onlinehdhls.ru/lb/premium414/index.m3u8|Origin=https://qqwebplay.xyz
 #EXTINF:-1 tvg-id="SuperSportFootball.za" tvg-name="SuperSport Football" tvg-logo="https://supersport-cms-prod.azureedge.net/media/ojff2zjp/football_100x100.png?width=100" group-title="Sports",SuperSport Football
-#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-https://webhdrunns.mizhls.ru/lb/premium56/index.m3u8|Origin=https://qqwebplay.xyz
+https://webhdrus.onlinehdhls.ru/lb/premium56/index.m3u8|Origin=https://qqwebplay.xyz
 #EXTINF:-1 tvg-id="SuperSportLaLiga.za" tvg-name="SuperSport LaLiga" tvg-logo="https://supersport-cms-prod.azureedge.net/media/3ibh4gw2/laliga_100x100.png?width=100" group-title="Sports",SuperSport LaLiga
-#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-https://webhdrunns.mizhls.ru/lb/premium415/index.m3u8|Origin=https://qqwebplay.xyz
+https://webhdrus.onlinehdhls.ru/lb/premium415/index.m3u8|Origin=https://qqwebplay.xyz
 #EXTINF:-1 tvg-id="SuperSportMotorsport.za" tvg-name="SuperSport Motorsport" tvg-logo="https://supersport-cms-prod.azureedge.net/media/l5vekroz/motorsport_100x100.png?width=100" group-title="Sports",SuperSport Motorsports
-#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-https://webhdrunns.mizhls.ru/lb/premium424/index.m3u8|Origin=https://qqwebplay.xyz
+https://webhdrus.onlinehdhls.ru/lb/premium424/index.m3u8|Origin=https://qqwebplay.xyz
 #EXTINF:-1 tvg-id="SuperSportRugby.za" tvg-name="SuperSport Rugby" tvg-logo="https://supersport-cms-prod.azureedge.net/media/wlaj051b/rugby_100x100.png?width=100" group-title="Sports",SuperSport Rugby
-#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-https://webhdrunns.mizhls.ru/lb/premium421/index.m3u8|Origin=https://qqwebplay.xyz
+https://webhdrus.onlinehdhls.ru/lb/premium421/index.m3u8|Origin=https://qqwebplay.xyz
 #EXTINF:-1 tvg-id="SuperSportTennis.za" tvg-name="SuperSport Tennis" tvg-logo="https://supersport-cms-prod.azureedge.net/media/yiiefgd2/tennis_100x100.png?width=100" group-title="Sports",SuperSport Tennis
-#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-https://webhdrunns.mizhls.ru/lb/premium423/index.m3u8|Origin=https://qqwebplay.xyz
+https://webhdrus.onlinehdhls.ru/lb/premium423/index.m3u8|Origin=https://qqwebplay.xyz
 #EXTINF:-1 tvg-id="SuperSportVariety1.za" tvg-name="SuperSport Variety 1" tvg-logo="https://supersport-cms-prod.azureedge.net/media/rzfgq33s/variety1_100x100.png?width=100" group-title="Sports",SuperSport Variety 1
-#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-https://webhdrunns.mizhls.ru/lb/premium416/index.m3u8|Origin=https://qqwebplay.xyz
+https://webhdrus.onlinehdhls.ru/lb/premium416/index.m3u8|Origin=https://qqwebplay.xyz
 #EXTINF:-1 tvg-id="SuperSportVariety2.za" tvg-name="SuperSport Variety 2" tvg-logo="https://supersport-cms-prod.azureedge.net/media/bizfe1jw/variety2_100x100.png?width=100" group-title="Sports",SuperSport Variety 2
-#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-https://webhdrunns.mizhls.ru/lb/premium417/index.m3u8|Origin=https://qqwebplay.xyz
+https://webhdrus.onlinehdhls.ru/lb/premium417/index.m3u8|Origin=https://qqwebplay.xyz
 #EXTINF:-1 tvg-id="SuperSportVariety3.za" tvg-name="SuperSport Variety 3" tvg-logo="https://supersport-cms-prod.azureedge.net/media/zeeddnlh/variety3_100x100.png?width=100" group-title="Sports",SuperSport Variety 3
-#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-https://webhdrunns.mizhls.ru/lb/premium418/index.m3u8|Origin=https://qqwebplay.xyz
+https://webhdrus.onlinehdhls.ru/lb/premium418/index.m3u8|Origin=https://qqwebplay.xyz
 #EXTINF:-1 tvg-id="SuperSportVariety4.za" tvg-name="SuperSport Variety 4" tvg-logo="https://supersport-cms-prod.azureedge.net/media/v1rgxmj4/variety4_100x100.png?width=100" group-title="Sports",SuperSport Variety 4
-#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-https://webhdrunns.mizhls.ru/lb/premium419/index.m3u8|Origin=https://qqwebplay.xyz
+https://webhdrus.onlinehdhls.ru/lb/premium419/index.m3u8|Origin=https://qqwebplay.xyz
 
 #EXTINF:-1 tvg-id="BTSport1.uk" tvg-logo="https://iptvboss.xyz/logos/UK/TNTSports1.uk.png" group-title="Sports",TNT Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
-https://webhdrunns.mizhls.ru/lb/premium31/index.m3u8|Origin=https://qqwebplay.xyz
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium31/index.m3u8|Origin=https://qqwebplay.xyz
 #EXTINF:-1 tvg-id="BTSport2.uk" tvg-logo="https://iptvboss.xyz/logos/UK/TNTSports2.uk.png" group-title="Sports",TNT Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
-https://webhdrunns.mizhls.ru/lb/premium32/index.m3u8|Origin=https://qqwebplay.xyz
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium32/index.m3u8|Origin=https://qqwebplay.xyz
 #EXTINF:-1 tvg-id="BTSport3.uk" tvg-logo="https://iptvboss.xyz/logos/UK/TNTSports3.uk.png" group-title="Sports",TNT Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
-https://webhdrunns.mizhls.ru/lb/premium33/index.m3u8|Origin=https://qqwebplay.xyz
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium33/index.m3u8|Origin=https://qqwebplay.xyz
 #EXTINF:-1 tvg-id="BT.Sport.4.uk" tvg-logo="https://iptvboss.xyz/logos/UK/TNTSports4.uk.png" group-title="Sports",TNT Sports 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
-https://webhdrunns.mizhls.ru/lb/premium34/index.m3u8|Origin=https://qqwebplay.xyz
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium34/index.m3u8|Origin=https://qqwebplay.xyz
 
 #EXTINF:-1 tvg-id="TruePremierFootball1.th" tvg-logo="https://i.imgur.com/9FJknMK.png" group-title="Sports",True Premier Football 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
@@ -587,32 +587,32 @@ https://sport.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8|Referer=h
 https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/q1yhhRj.png",TSN 1
-#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-https://webhdrunns.mizhls.ru/lb/premium111/index.m3u8|Origin=https://qqwebplay.xyz
+https://webhdrus.onlinehdhls.ru/lb/premium111/index.m3u8|Origin=https://qqwebplay.xyz
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/680hiFp.png",TSN 2
-#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-https://webhdrunns.mizhls.ru/lb/premium112/index.m3u8|Origin=https://qqwebplay.xyz
+https://webhdrus.onlinehdhls.ru/lb/premium112/index.m3u8|Origin=https://qqwebplay.xyz
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/QyYi6Lx.png",TSN 3
-#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-https://webhdrunns.mizhls.ru/lb/premium113/index.m3u8|Origin=https://qqwebplay.xyz
+https://webhdrus.onlinehdhls.ru/lb/premium113/index.m3u8|Origin=https://qqwebplay.xyz
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/N4PzLSz.png",TSN 4
-#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-https://webhdrunns.mizhls.ru/lb/premium114/index.m3u8|Origin=https://qqwebplay.xyz
+https://webhdrus.onlinehdhls.ru/lb/premium114/index.m3u8|Origin=https://qqwebplay.xyz
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/t7x15qR.png",TSN 5
-#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-https://webhdrunns.mizhls.ru/lb/premium115/index.m3u8|Origin=https://qqwebplay.xyz
+https://webhdrus.onlinehdhls.ru/lb/premium115/index.m3u8|Origin=https://qqwebplay.xyz
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyoqiCc0M-DaPWS6LNQBjPF_8Yic65IhRPAfKnJ0yu8C9aUiwTSlnQFrzGpRM&s" tvg-id="viaplaysports1.uk" tvg-name="Viaplay Sports 1 UK" group-title="Sports",Viaplay Sports 1 UK (DAD)
-#EXTHTTP:{"Origin": "https://qqwebplay.xyz", "Referer": "https://qqwebplay.xyz/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"}
-https://webhdrunns.mizhls.ru/lb/premium451/index.m3u8
+#EXTHTTP:{"Origin": "https://qqwebplay.xyz", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"}
+https://webhdrus.onlinehdhls.ru/lb/premium451/index.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyoqiCc0M-DaPWS6LNQBjPF_8Yic65IhRPAfKnJ0yu8C9aUiwTSlnQFrzGpRM&s" tvg-id="viaplaysports2.uk" tvg-name="Viaplay Sports 2 UK" group-title="Sports",Viaplay Sports 2 UK (DAD)
-#EXTHTTP:{"Origin": "https://qqwebplay.xyz", "Referer": "https://qqwebplay.xyz/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"}
-https://webhdrunns.mizhls.ru/lb/premium550/index.m3u8
+#EXTHTTP:{"Origin": "https://qqwebplay.xyz", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"}
+https://webhdrus.onlinehdhls.ru/lb/premium550/index.m3u8
 
 #EXTINF:-1 tvg-ID="Viaplay.Sports.1.HD.uk" group-title="Sports" tvg-logo="https://images.premierplayer.tv/uk-channel-logos/select-prem1-v3.png",Viaplay Sports 1 UK
 #KODIPROP:inputstreamaddon=inputstream.adaptive
