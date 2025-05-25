@@ -1,5 +1,10 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" refresh="1440" max-conn="1" refresh="24" 
 
+#EXTINF:-1 group-title="Test" tvg-logo="",SKY NZ
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://ddv1.mizhls.ru/lb/premium587/index.m3u8|Origin=https://cookiewebplay.xyz
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2db8ec9fcc1bf1cebb260800bbff5d1d:31d4a7d5a32bb635b11bbc929f75bcba
 #EXTINF:-1 tvg-id="Optus.Sport.1.au" group-title="Sports" tvg-logo="https://play-lh.googleusercontent.com/sMTdmB-Hiy6Wb7vmeMraJcYhUHrZf4G706TIYI51vOfYmm_n-WkkRHGAap5oVtJw0hsm",Optus Sport 1
