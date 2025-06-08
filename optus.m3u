@@ -2,7 +2,7 @@
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f959dcdd1ca8c89658cd651ed36e2851:aa4cf56ce7c522a9e6582c42537be381
-#EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ",Bein Sports 1
+#EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://prod-media.beinsports.com/image/a5dc8600e76af1e1d3b58c569580713e.128.png",Bein Sports 1
 https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/pwdvd9fm5u/out/v1/5e22845dab3648b8a7033fd5923d62d1/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
