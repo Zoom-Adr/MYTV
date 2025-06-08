@@ -1,5 +1,17 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" refresh="1440" max-conn="1" refresh="24" 
 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=725d9e0d8544596a92de41d42f2dc2f9:de4e7e6d9bac3c2d72c58a3dbf732068
+#EXTINF:-1 tvg-id="" group-title="Test" tvg-logo="",Sky AT1
+https://at-live-6.tentcdn.eu/bpk-tv/Sky_Sport_Austria_HD/default/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=725d9e0d8544596a92de41d42f2dc2f9:de4e7e6d9bac3c2d72c58a3dbf732068
+#EXTINF:-1 tvg-id="" group-title="Test" tvg-logo="",Sky AT7
+#KODIPROP:inputstream.adaptive.license_key={"85ba9a557d9c5b85b29dcfd31cef5ae7":"9e5b35adb65bfdc237005bc072f5d7f8","0a23f88f9fa95e278550a65c6e5b9e4b":"2619d1b73bb3eae4e185ad3967373b81","4319b9979fdf5b7aa039ae48badb826b":"be9631e65c3070471f788ae6455bdb9d","80480098517356ae9a2290e6f0685ccf":"43e740c5c7e1962c7d64d20bad6335c2"}
+https://at-live-6.tentcdn.eu/bpk-tv/Sky_Sport_Austria_7_HD/default/index.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f959dcdd1ca8c89658cd651ed36e2851:aa4cf56ce7c522a9e6582c42537be381
 #EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://prod-media.beinsports.com/image/a5dc8600e76af1e1d3b58c569580713e.128.png",Bein Sports 1 AU
