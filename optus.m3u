@@ -2,17 +2,17 @@
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f959dcdd1ca8c89658cd651ed36e2851:aa4cf56ce7c522a9e6582c42537be381
-#EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://prod-media.beinsports.com/image/a5dc8600e76af1e1d3b58c569580713e.128.png",Bein Sports 1
+#EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://prod-media.beinsports.com/image/a5dc8600e76af1e1d3b58c569580713e.128.png",Bein Sports 1 AU
 https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/pwdvd9fm5u/out/v1/5e22845dab3648b8a7033fd5923d62d1/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9afd72f20573001c23672d2158892a5f:9bc32df48a2efac30072b7e5c683bcd1
-#EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://prod-media.beinsports.com/image/b5de4caa4232fc8afacdba10daf5ba7b.128.png",Bein Sports 2
+#EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://prod-media.beinsports.com/image/b5de4caa4232fc8afacdba10daf5ba7b.128.png",Bein Sports 2 AU
 https://a36aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/6fbnr3ei4b/out/v1/57d2ae96a4cc4230881cd801b389edf6/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4b203316c47c370a1eb9097c070d7226:676e6783f23789cdf4ff0486386145ed
-#EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://prod-media.beinsports.com/image/5c72fa3d1788a0afa9a79ab3ec1f4ef6.128.png",Bein Sports 3
+#EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://prod-media.beinsports.com/image/5c72fa3d1788a0afa9a79ab3ec1f4ef6.128.png",Bein Sports 3 AU
 https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/gigxsk0lya/out/v1/df75d887bce4437b8fdf345ae455113b/cenc.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
