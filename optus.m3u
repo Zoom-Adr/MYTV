@@ -7,12 +7,12 @@ https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/pwd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9afd72f20573001c23672d2158892a5f:9bc32df48a2efac30072b7e5c683bcd1
-#EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ",Bein Sports 2
+#EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://prod-media.beinsports.com/image/b5de4caa4232fc8afacdba10daf5ba7b.128.png",Bein Sports 2
 https://a36aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/6fbnr3ei4b/out/v1/57d2ae96a4cc4230881cd801b389edf6/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4b203316c47c370a1eb9097c070d7226:676e6783f23789cdf4ff0486386145ed
-#EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ",Bein Sports 3
+#EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://prod-media.beinsports.com/image/5c72fa3d1788a0afa9a79ab3ec1f4ef6.128.png",Bein Sports 3
 https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/gigxsk0lya/out/v1/df75d887bce4437b8fdf345ae455113b/cenc.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -53,72 +53,72 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2db8ec9fcc1bf1cebb260800bbff5d1d:31d4a7d5a32bb635b11bbc929f75bcba
-#EXTINF:-1 tvg-id="Optus.Sport.1.au" group-title="Sports" tvg-logo="https://play-lh.googleusercontent.com/sMTdmB-Hiy6Wb7vmeMraJcYhUHrZf4G706TIYI51vOfYmm_n-WkkRHGAap5oVtJw0hsm",Optus Sport 1
+#EXTINF:-1 tvg-id="Optus.Sport.1.au" group-title="Sports" tvg-logo="https://i.postimg.cc/h4wL2y81/optus-sport-logo-horizontal-main-2025-1-removebg-preview.png",Optus Sport 1
 https://optus.apigateway.web.id/optus/v7/OptusSport1/xbtss/drm/avc/dash/plain/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=33b53c1b0da6767644880f1fb643816e:4f6f753134fa24314e611973432e124d
-#EXTINF:-1 tvg-id="Optus.Sport.2.au" group-title="Sports" tvg-logo="https://play-lh.googleusercontent.com/sMTdmB-Hiy6Wb7vmeMraJcYhUHrZf4G706TIYI51vOfYmm_n-WkkRHGAap5oVtJw0hsm",Optus Sport 2
+#EXTINF:-1 tvg-id="Optus.Sport.2.au" group-title="Sports" tvg-logo="https://i.postimg.cc/h4wL2y81/optus-sport-logo-horizontal-main-2025-1-removebg-preview.png",Optus Sport 2
 https://optus.apigateway.web.id/optus/v7/OptusSport2/xbtss/drm/avc/dash/plain/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f6b2c1aa0db912dbbcd5d0dc12821e10:ed03a87a8910e7737db55b164e7f0351
-#EXTINF:-1 tvg-id="Optus.Sport.3.au" group-title="Sports" tvg-logo="https://play-lh.googleusercontent.com/sMTdmB-Hiy6Wb7vmeMraJcYhUHrZf4G706TIYI51vOfYmm_n-WkkRHGAap5oVtJw0hsm",Optus Sport 3
+#EXTINF:-1 tvg-id="Optus.Sport.3.au" group-title="Sports" tvg-logo="https://i.postimg.cc/h4wL2y81/optus-sport-logo-horizontal-main-2025-1-removebg-preview.png",Optus Sport 3
 https://optus.apigateway.web.id/optus/v7/OptusSport3/xbtss/drm/avc/dash/plain/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d3774467bf77893b5a4895b363fd64c3:79f8e69317e4c13bd9667e2f43a6c60d
-#EXTINF:-1 tvg-id="Optus.Sport.4.au" group-title="Sports" tvg-logo="https://play-lh.googleusercontent.com/sMTdmB-Hiy6Wb7vmeMraJcYhUHrZf4G706TIYI51vOfYmm_n-WkkRHGAap5oVtJw0hsm",Optus Sport 4
+#EXTINF:-1 tvg-id="Optus.Sport.4.au" group-title="Sports" tvg-logo="https://i.postimg.cc/h4wL2y81/optus-sport-logo-horizontal-main-2025-1-removebg-preview.png",Optus Sport 4
 https://optus.apigateway.web.id/optus/v7/OptusSport4/xbtss/drm/avc/dash/plain/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=446084cc113687c9e4bec85890096589:e8c57936c8137bf7c0060f21c1dbe999
-#EXTINF:-1 tvg-id="Optus.Sport.5.au" group-title="Sports" tvg-logo="https://play-lh.googleusercontent.com/sMTdmB-Hiy6Wb7vmeMraJcYhUHrZf4G706TIYI51vOfYmm_n-WkkRHGAap5oVtJw0hsm",Optus Sport 5
+#EXTINF:-1 tvg-id="Optus.Sport.5.au" group-title="Sports" tvg-logo="https://i.postimg.cc/h4wL2y81/optus-sport-logo-horizontal-main-2025-1-removebg-preview.png",Optus Sport 5
 https://optus.apigateway.web.id/optus/v7/OptusSport5/xbtss/drm/avc/dash/plain/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40bc0ea19e2427776032e782e62d7dfc:816033a4ba5e1484866768c4c1edb9e7
-#EXTINF:-1 tvg-id="Optus.Sport.6.au" group-title="Sports" tvg-logo="https://play-lh.googleusercontent.com/sMTdmB-Hiy6Wb7vmeMraJcYhUHrZf4G706TIYI51vOfYmm_n-WkkRHGAap5oVtJw0hsm",Optus Sport 6
+#EXTINF:-1 tvg-id="Optus.Sport.6.au" group-title="Sports" tvg-logo="https://i.postimg.cc/h4wL2y81/optus-sport-logo-horizontal-main-2025-1-removebg-preview.png",Optus Sport 6
 https://optus.apigateway.web.id/optus/v7/OptusSport6/xbtss/drm/avc/dash/plain/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3b70ffd90c21839cff64da347ff65a42:944a0a3f8a7475ec9ed79caa57a241a2
-#EXTINF:-1 tvg-id="Optus.Sport.7.au" group-title="Sports" tvg-logo="https://play-lh.googleusercontent.com/sMTdmB-Hiy6Wb7vmeMraJcYhUHrZf4G706TIYI51vOfYmm_n-WkkRHGAap5oVtJw0hsm",Optus Sport 7
+#EXTINF:-1 tvg-id="Optus.Sport.7.au" group-title="Sports" tvg-logo="https://i.postimg.cc/h4wL2y81/optus-sport-logo-horizontal-main-2025-1-removebg-preview.png",Optus Sport 7
 https://optus.apigateway.web.id/optus/v7/OptusSport7/xbtss/drm/avc/dash/plain/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4fc592480df393a038be32d137d991ef:47809adce3b46ae03f652bf18ed81b40
-#EXTINF:-1 tvg-id="Optus.Sport.8.au" group-title="Sports" tvg-logo="https://play-lh.googleusercontent.com/sMTdmB-Hiy6Wb7vmeMraJcYhUHrZf4G706TIYI51vOfYmm_n-WkkRHGAap5oVtJw0hsm",Optus Sport 8
+#EXTINF:-1 tvg-id="Optus.Sport.8.au" group-title="Sports" tvg-logo="https://i.postimg.cc/h4wL2y81/optus-sport-logo-horizontal-main-2025-1-removebg-preview.png",Optus Sport 8
 https://optus.apigateway.web.id/optus/v7/OptusSport8/xbtss/drm/avc/dash/plain/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d5bff31e797c41fc8254ec6697cbf866:bc4b3c6dd1dd5b9b5f2e23230e334609
-#EXTINF:-1 tvg-id="OptusSport402.id" group-title="Sports" tvg-logo="https://play-lh.googleusercontent.com/sMTdmB-Hiy6Wb7vmeMraJcYhUHrZf4G706TIYI51vOfYmm_n-WkkRHGAap5oVtJw0hsm",Optus Sport 402
+#EXTINF:-1 tvg-id="OptusSport402.id" group-title="Sports" tvg-logo="https://i.postimg.cc/h4wL2y81/optus-sport-logo-horizontal-main-2025-1-removebg-preview.png",Optus Sport 402
 https://optus.apigateway.web.id/optus/v7/OptusSport402/ip/drm/avc/dash/plain/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4519aa4416f3488aa6a1d427c2948cad:d252a4a506ae464e990ad43e9ebf5408
-#EXTINF:-1 tvg-id="OptusSport403.id" group-title="Sports" tvg-logo="https://play-lh.googleusercontent.com/sMTdmB-Hiy6Wb7vmeMraJcYhUHrZf4G706TIYI51vOfYmm_n-WkkRHGAap5oVtJw0hsm",Optus Sport 403
+#EXTINF:-1 tvg-id="OptusSport403.id" group-title="Sports" tvg-logo="https://i.postimg.cc/h4wL2y81/optus-sport-logo-horizontal-main-2025-1-removebg-preview.png",Optus Sport 403
 https://optus.apigateway.web.id/optus/v7/OptusSport403/ip/drm/avc/dash/plain/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ebfeae2f8bd542e2a3d3a1048f7aab4e:c923bad117b1a4fb622bf9e03d56c6ec
-#EXTINF:-1 tvg-id="OptusSport404.id" group-title="Sports" tvg-logo="https://play-lh.googleusercontent.com/sMTdmB-Hiy6Wb7vmeMraJcYhUHrZf4G706TIYI51vOfYmm_n-WkkRHGAap5oVtJw0hsm",Optus Sport 404
+#EXTINF:-1 tvg-id="OptusSport404.id" group-title="Sports" tvg-logo="https://i.postimg.cc/h4wL2y81/optus-sport-logo-horizontal-main-2025-1-removebg-preview.png",Optus Sport 404
 https://optus.apigateway.web.id/optus/v7/OptusSport404/ip/drm/avc/dash/plain/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=86e024c16b0c4dedb67b5065e4d03d60:6f8d60b5e39c5ee282bb040572f66e86
-#EXTINF:-1 tvg-id="OptusSport405.id" group-title="Sports" tvg-logo="https://play-lh.googleusercontent.com/sMTdmB-Hiy6Wb7vmeMraJcYhUHrZf4G706TIYI51vOfYmm_n-WkkRHGAap5oVtJw0hsm",Optus Sport 405
+#EXTINF:-1 tvg-id="OptusSport405.id" group-title="Sports" tvg-logo="https://i.postimg.cc/h4wL2y81/optus-sport-logo-horizontal-main-2025-1-removebg-preview.png",Optus Sport 405
 https://optus.apigateway.web.id/optus/v7/OptusSport405/ip/drm/avc/dash/plain/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09e3d85758d34aaab97390163c95d03b:22d8a986071d2950a2750a039e1761f8
-#EXTINF:-1 tvg-id="OptusSport406.id" group-title="Sports" tvg-logo="https://play-lh.googleusercontent.com/sMTdmB-Hiy6Wb7vmeMraJcYhUHrZf4G706TIYI51vOfYmm_n-WkkRHGAap5oVtJw0hsm",Optus Sport 406
+#EXTINF:-1 tvg-id="OptusSport406.id" group-title="Sports" tvg-logo="https://i.postimg.cc/h4wL2y81/optus-sport-logo-horizontal-main-2025-1-removebg-preview.png",Optus Sport 406
 https://optus.apigateway.web.id/optus/v7/OptusSport406/ip/drm/avc/dash/plain/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a8516c6bde7e420da157e4b1894d91b8:0f23c688889f3b43f52f27595f2338b3
-#EXTINF:-1 tvg-id="OptusSport407.id" group-title="Sports" tvg-logo="https://play-lh.googleusercontent.com/sMTdmB-Hiy6Wb7vmeMraJcYhUHrZf4G706TIYI51vOfYmm_n-WkkRHGAap5oVtJw0hsm",Optus Sport 407
+#EXTINF:-1 tvg-id="OptusSport407.id" group-title="Sports" tvg-logo="https://i.postimg.cc/h4wL2y81/optus-sport-logo-horizontal-main-2025-1-removebg-preview.png",Optus Sport 407
 https://optus.apigateway.web.id/optus/v7/OptusSport407/ip/drm/avc/dash/plain/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
