@@ -19,14 +19,14 @@ https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/gigx
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=17938&type=drm
-#EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://iili.io/2lP4Kq7.png" group-title="Sports",Champions TV 1
+#EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Champions_TV_1_%282021%29.png/revision/latest/scale-to-width-down/350?cb=20210621091805" group-title="Sports",Champions TV 1
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17938&type=dash
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6686&type=drm
-#EXTINF:-1 tvg-id="Champions TV 2.id" tvg-logo="https://iili.io/2lP43sS.png" group-title="Sports",Champions TV 2
+#EXTINF:-1 tvg-id="Champions TV 2.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Champions_TV_2_%282021%29.png/revision/latest/scale-to-width-down/300?cb=20210621091959" group-title="Sports",Champions TV 2
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6686&type=dash 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -34,21 +34,21 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6686&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6786&type=drm
-#EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://iili.io/2lP42X2.png" group-title="Sports",Champions TV 3
+#EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Champions_TV_3.png" group-title="Sports",Champions TV 3
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6786&type=dash
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=9182&type=drm
-#EXTINF:-1 tvg-id="Champions TV 5.id" tvg-logo="https://iili.io/2lP4dzl.png" group-title="Sports",Champions TV 5
+#EXTINF:-1 tvg-id="Champions TV 5.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Champions_TV_5.png/revision/latest?cb=20220810080805" group-title="Sports",Champions TV 5
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9182&type=dash
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=9183&type=drm
-#EXTINF:-1 tvg-id="Champions TV 6.id" tvg-logo="https://iili.io/2lP4f19.png" group-title="Sports",Champions TV 6
+#EXTINF:-1 tvg-id="Champions TV 6.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/Champions_TV_6.png/revision/latest?cb=20220810081421" group-title="Sports",Champions TV 6
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -123,12 +123,12 @@ https://optus.apigateway.web.id/optus/v7/OptusSport407/ip/drm/avc/dash/plain/man
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
-#EXTINF:-1 tvg-id="philippines" tvg-name="816.astro" group-title="Sports" ch-number="816" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/sporttvph.png",SPOTV PH
+#EXTINF:-1 tvg-id="philippines" tvg-name="816.astro" group-title="Sports" ch-number="816" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png",SPOTV PH
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
-#EXTINF:-1 tvg-id="philippines" tvg-name="810.astro" ch-number="810" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/sporttvph.png",SPOTV 2 PH
+#EXTINF:-1 tvg-id="philippines" tvg-name="810.astro" ch-number="810" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV2.png",SPOTV 2 PH
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
