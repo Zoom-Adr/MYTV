@@ -1,5 +1,8 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" refresh="1440" max-conn="1" refresh="24" 
 
+#EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="",Test
+https://dcc-ac-live.cdn.indazn.com/1lvorroh9srz81m42pbiqxsdxm/tv25f/stream.mpd?channel=2650&outlet=dazn-row&plang=en&dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvMWx2b3Jyb2g5c3J6ODFtNDJwYmlxeHNkeG0iXSwiZXhjIjpbXSwiaGVhZGVycyI6W10sImNvIjpmYWxzZSwiaXAiOmZhbHNlLCJhc24iOmZhbHNlLCJpbnRzaWciOiJ2d2N0U2tZZzk2RXY1enoyZEJwVVBOUk5HdHVpa2V4VWRVcWRzOFBSeDU4IiwiaWF0IjoxNzQ5OTQ5ODgwLCJleHAiOjE3NTAwMzYyODB9.JiYeQveanSNKtkFO_STqkZty5I6E6tuD3xKfro5OtfE
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f959dcdd1ca8c89658cd651ed36e2851:aa4cf56ce7c522a9e6582c42537be381
 #EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://prod-media.beinsports.com/image/a5dc8600e76af1e1d3b58c569580713e.128.png",Bein Sports 1 AU
